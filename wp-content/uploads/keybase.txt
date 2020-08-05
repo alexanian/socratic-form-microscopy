@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/zjacobi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zachjacobi.com
+  * I am zjacobi (https://keybase.io/zjacobi) on keybase.
+  * I have a public key with fingerprint 1BD6 5133 F6EC 6106 E7DB  8187 CCEF 8D8B 87D9 600D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015b5016aa74e270dc864fd2a48198eccfbac0614ac1ad5f909e189f8b30b92d5c0a",
+            "fingerprint": "1bd65133f6ec6106e7db8187ccef8d8b87d9600d",
+            "host": "keybase.io",
+            "key_id": "ccef8d8b87d9600d",
+            "kid": "01015b5016aa74e270dc864fd2a48198eccfbac0614ac1ad5f909e189f8b30b92d5c0a",
+            "uid": "088f2b3059df2dff8e87e40742af2d19",
+            "username": "zjacobi"
+        },
+        "service": {
+            "hostname": "zachjacobi.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1482538212,
+    "expire_in": 157680000,
+    "prev": "c921051fa9e577e2bf06e40633947805dfe9e488c91f8472d97d07f859d18ff3",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSBRRGF6ztVpKC6SyIGzoppmdMzsz58z6FF1IKLMsWsLYzpyLTurO
+NjuulxClogcfogfL7g+VtF1IpKAXEwsLSojAHsrqIYosCLqIQWTYGcu3Hjsvh///
+v+873/+ff2BOZiCU4QWzL7hjSx5mDN7rrA9E9/a+O6hYDmtSIgeVGj558VrGk16s
+xmZKRAEQQN3SATQIQRpXEWAUG5pgKtEwNDGnVFiEAgNqhELCdGECk0NsCmyFgWWq
+TKeAKEWKsONV3E24dtyTstBihg7DYWFwakBgcMQsDDGilAvMsIURMw0AmCRWO0mf
+Ic1ZJMmLbUfmZBCbtPcP/H/2Xf9HDmOhyoJuMqEyITDHiGsAaSqRMTR9YJK7cVLH
+Jbp5P6GOZSstRYpMpmzK/bn6jUwBCK3+gymmTp0kJ1zHc6hTK2vVnpeI+FSvKeFj
+G7gV+6sSs+w4k3OUhBR3k7YTVyJQIqln+7JQw6oexipUixTemLBdHrN9hI4MDOTx
+n+Epf2qmCoEOBTG5jhBXLSF/QANGOGxqCAOdCW5yDWNqQoE1pDITMYAElt1DLERY
+8fs6EHeUiCZtkiopmbSr4sSrd7nScr+/cnogIxTICk7z9ysQmjV3auseR2ZMsMKO
+wx9Xbe+42v+p5NsvcWziVN/8preVFSR614Xpb8F9V4Kj57ovtw81VlzMKC/NL5nW
+M7JidUjLHSjNv3Q6+j3/xPqdhaG3y1+2l+d+PlWCh0ZSrQPoTiwx3LLs6cmbsauP
+Cxat7+yjR7eVBMabNx2atburN588P4tzapeM3jzXOr5jrdXdK85nzhSjWbzhwYfh
+MiMYWdBwcXzzQuXrmusoIcZ+dmX/yO0re3Jga7g7uuzow64Lg9e2NA6/e9VYUf0m
+/aitdBfZcaZgcd/S9MhxdKM+vVJ/kY5f65xt5mzcc6u589jrpb15be6GWPRMNrOf
+DaTW9Rxp//L+dlnXvLye3+niPp4=
+=IpJM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zjacobi
+
+==================================================================
