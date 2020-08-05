@@ -1,0 +1,40 @@
+.category-links {
+  margin-top: 2em;
+  font-size: 28px;
+  color: $red;
+  font-weight: 900;
+  text-transform: uppercase;
+  a {
+    text-decoration: none;
+  }
+}
+
+.tag-links {
+  a {
+    border: 2px solid #c8cbcc;
+    border-radius: 35px;
+    color: #c8cbcc;
+    display: inline-block;
+    font-weight: bold;
+    letter-spacing: 0;
+    margin-right: .375em;
+    margin-bottom: .5em;
+    padding: 4px 10px 2px;
+    text-transform: uppercase;
+  }
+}
+
+.post-title {
+  margin-top: 0px;
+  padding-top: 32px;
+}
+
+a.category-head {
+  text-decoration: none;
+  color: $red;
+  margin-top: 2em;
+}
+
+.category-articles {
+  margin-left: 2em;
+}
