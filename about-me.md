@@ -15,10 +15,9 @@ Posts that make falsifiable statements about how the world <em>is</em> are tagg
 This blog is mostly written from an empirically minded centre-left position, with special emphasis on the role that genuine trade-offs play in political theory. If you're interested in the top level political views that shape how I write, you can look at my yearly political views posts, collected under the "<a href="/tag/my-biases/">My Biases</a>" tag.
 
 You can find me on:
-<ul>
- 	<li><a href="https://www.linkedin.com/in/zachary-jacobi-68552a114">LinkedIn</a></li>
- 	<li><a href="http://stackoverflow.com/users/3221203/zachary-jacobi">Stack Overflow</a></li>
- 	<li><a href="https://github.com/zejacobi">GitHub</a></li>
-</ul>
+
+* <a href="https://www.linkedin.com/in/zachary-jacobi-68552a114">LinkedIn</a>
+* <a href="http://stackoverflow.com/users/3221203/zachary-jacobi">Stack Overflow</a>
+* <a href="https://github.com/zejacobi">GitHub</a>
+
 All opinions are my own (unless otherwise noted). All original content licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA v4 International</a>.
-<pre></pre>
