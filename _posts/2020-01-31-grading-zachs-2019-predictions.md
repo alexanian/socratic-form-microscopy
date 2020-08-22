@@ -1,6 +1,6 @@
 ---
 id: 1018
-title: 'Grading Zach&#8217;s 2019 Predictions'
+title: 'Grading Zach''s 2019 Predictions'
 date: 2020-01-31T10:00:11-05:00
 author: Tessa Alexanian
 layout: post
