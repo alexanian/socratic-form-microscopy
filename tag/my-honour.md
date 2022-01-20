@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: MY HONOUR"
-tag: MY HONOUR
+title: "Tag: my honour"
+tag: my honour
 ---

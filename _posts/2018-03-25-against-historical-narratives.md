@@ -12,15 +12,17 @@ categories:
   - History
   - Quick Fix
 tags:
-  - MY HONOUR
+  - my honour
   - reading
   - someone else probably came up with this first
 ---
+
 There is perhaps no temptation greater to the amateur (or professional) historian than to take a set of historical facts and draw from them a grand narrative. This tradition has existed at least since Gibbon wrote <em>The History of the Decline and Fall of the Roman Empire</em>, with its focus on declining civic virtue and the rise of Christianity.
 
 Obviously, it is true that things in history happen for a reason. But I think the case is much less clear that these reasons can be marshalled like soldiers and made to march in neat lines across the centuries. What is true in one time and place may not necessarily be true in another. When you fall under the sway of a grand narrative, when you believe that everything happens for a reason, you may become tempted to ignore all of the evidence to the contrary.
 
 Instead praying at the altar of grand narratives, I'd like to suggest that you embrace the ambiguity of history, an ambiguity that exists because…
+
 <h2>Context Is Tricky</h2>
 Here are six sentences someone could tell you about their interaction with the sharing economy:
 <ul>
@@ -48,6 +50,7 @@ All of this is to say that context can make or break narratives. Look at the pla
 Trying to tie Hamilton into a grander narrative of (eventual) progressive triumph erases the fact that most of the modern audience would strenuously disagree with his economic views (aside from urban neo-liberals, who are very much in Hamilton's mold). Audiences end up leaving the paly with a story about their own intellectual lineage that is far from correct, a story that may cause them to feel smugly superior to people of other political stripes.
 
 History optimized for this sort of team or political effect turns many modern historians or history writers into…
+
 <h2>Unreliable Narrators</h2>
 Gaps in context, or modern readers missing the true significance of gestures, words, and acts steeped in a particular extinct culture, combined with the fact that it is often impossible to really know why someone in the past did something mean that some of history is always going to be filled in with our best guesses.
 

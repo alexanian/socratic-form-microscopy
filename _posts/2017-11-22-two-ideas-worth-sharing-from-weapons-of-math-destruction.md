@@ -1,6 +1,6 @@
 ---
 id: 605
-title: 'Two Ideas Worth Sharing From &#8216;Weapons of Math Destruction&#8217;'
+title: "Two Ideas Worth Sharing From &#8216;Weapons of Math Destruction&#8217;"
 date: 2017-11-22T20:29:34-05:00
 author: Zach
 layout: post
@@ -14,9 +14,11 @@ categories:
   - Model
 tags:
   - book review
-  - MY HONOUR
+  - my honour
 ---
+
 <a href="https://socratic-form-microscopy.com/2017/11/19/two-fallacies-from-weapons-of-math-destruction/">Recently</a>, I talked about what I didn't like in Dr. Cathy O'Neil's book, <em>Weapons of Math Destruction</em>. This time around, I'd like to mention two parts of it I really liked. I wish Dr. O'Neil put more effort into naming the concepts she covered; I don't have names for them from <em>WMD</em>, but in my head, I've been calling them <em>Hidden Value Encodings</em> and <em>Axiomatic Judgements</em>.
+
 <h1>Hidden Value Encodings</h1>
 Dr. O'Neil opens the book with a description of the model she uses to cook for her family. After going into a lot of detail about it, she makes this excellent observation:
 <blockquote>Here we see that models, despite their reputation for impartiality, reflect goals and ideology. When I removed the possibility of eating Pop-Tarts at every meal, I was imposing my ideology on the meals model. It’s something we do without a second thought. Our own values and desires influence our choices, from the data we choose to collect to the questions we ask. Models are opinions embedded in mathematics.</blockquote>
@@ -33,10 +35,12 @@ This seems innocuous and logical. It is also encoding <em>at least two</em> sets
 By applying a cost to false positives (and likely it would be a cost that rises with each previous false positive), you are tacitly acknowledging that customers could take their business elsewhere. If customers instead had no freedom to choose who they did business with, you could merely encode as your loss from false positives the fixed cost of fielding support calls. Since outsourced phone support is very cheap, your algorithm would care much less about false positives if there was no consumer choice.
 
 As far as I can tell, there is no "value-free" place to stand. An algorithm in the service of a hospital that helps diagnose patients or focus resources on the most ill encodes the value that "it is better to be healthy than sick; better to be alive than dead". These values might be (<a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#The_benevolent_world-exploder">almost-</a>)universal, but they still exist, they are still encoded, and they still deserve to be interrogated when we put functions of our society in the hands of software governed by them.
+
 <h1>Axiomatic Judgements</h1>
 One of the most annoying parts of being a child is the occasional requirement to accept an imposition on your time or preferences with the explanation "because I say so". "Because I say so" isn't an argument, it's a request that you acknowledge adults' overwhelming physical, earning, and social power as giving them a right to set arbitrary rules for you. Some algorithms, forced onto unwelcoming and less powerful populations (teachers, job-seekers, etc.) have adopted this MO as well. Instead of having to prove that they have beneficial effects or that their outputs are legitimate, they define things such that their outputs are always correct and brook no criticism.
 
 Here's Dr. O'Neil talking about a value-added teaching model in Washington State:
+
 <blockquote>When Mathematica’s scoring system tags Sarah Wysocki and 205 other teachers as failures, the district fires them. But how does it ever learn if it was right? It doesn’t. The system itself has determined that they were failures, and that is how they are viewed. Two hundred and six “bad” teachers are gone. That fact alone appears to demonstrate how effective the value-added model is. It is cleansing the district of underperforming teachers. Instead of searching for the truth, the score comes to embody it.</blockquote>
 She contrasts this with how Amazon operates: "if Amazon.​com, through a faulty correlation, started recommending lawn care books to teenage girls, the clicks would plummet, and the algorithm would be tweaked until it got it right." On the other hand, the teacher rating algorithm doesn't update, doesn't look check if it is firing good teachers, and doesn't take an accounting of its own costs. It holds it as axiomatic ­–a basic fact beyond questioning– that its results are the right results.
 
@@ -49,10 +53,12 @@ A friend of mine who worked in FinTech once told me that they approved 1.5% of e
 Value added teaching models, or psychological pre-screens for hiring do nothing of the sort (even though it would be trivial for them to!). They give results and those results are <em>defined</em> as the ground truth. There's no room for messy reality to work its way back into the cycle. There's no room for the creators to learn. The algorithm will be flawed and imperfect, like all products of human hands. That is inevitable. But it will be far less perfect than it could be. Absent feedback, it is doomed to always be flawed, in ways both subtle and gross, and in ways unknown to its creators and victims.
 
 Like most Canadian engineering students, I made a solemn vow:
+
 <blockquote>…in the presence of these my betters and my equals in my calling, [I] bind myself upon my honour and cold iron, that, to the best of my knowledge and power, I will not henceforward suffer or pass, or be privy to the passing of, bad workmanship or faulty material in aught that concerns my works before mankind as an engineer…</blockquote>
 Sloppy work, like that value-added teacher model is the very definition of bad workmanship. Would that I never suffer something like that to leave my hands and take life in the world! It is no <a href="https://en.wikipedia.org/wiki/Quebec_Bridge">Quebec Bridge</a>, but the value-added teaching model and other doomed to fail algorithms like it represent a slow-motion accident, steadily stealing jobs and happiness from people with no appeal or remorse.
 
 I can accept stains on the honour of my chosen profession. Those are inevitable. But in a way, stains on our <em>competence</em> are so much worse. Models that take in no feedback are both, but the second <em>really</em> stings me.
+
 <h1>Footnotes</h1>
 <strong id="til-bot-1">[1]</strong> This first approximation isn't correct in practice, because certain patterns of small transactions are consistent with fraud. I found this out the hard way, when a certain Bitcoin exchange's credit card verification procedure (withdrawing less than a dollar, then refunding it a few days later, after you tell them how much they withdrew) triggered the fraud detection software at my bank. Apparently credit card thieves will often do a similar thing (minus the whole "ask the cardholder how much was withdrawn" step), as a means of checking if the card is good without cluing in the cardholder. <a href="#til-top-1">^</a>
 

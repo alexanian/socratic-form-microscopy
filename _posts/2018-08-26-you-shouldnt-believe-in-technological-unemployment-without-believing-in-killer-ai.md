@@ -1,6 +1,6 @@
 ---
 id: 842
-title: 'You Shouldn&#8217;t Believe In Technological Unemployment Without Believing In Killer AI'
+title: "You Shouldn&#8217;t Believe In Technological Unemployment Without Believing In Killer AI"
 date: 2018-08-26T08:45:50-04:00
 author: Zach
 layout: post
@@ -16,9 +16,10 @@ tags:
   - inequality
   - monetary policy
   - tech
-  - ugh do I seriously have an AI tag now how rationalist of me
+  - ugh do i seriously have an ai tag now how rationalist of me
   - x-risk
 ---
+
 <em>[Epistemic Status: Open to being convinced otherwise, but fairly confident. 11 minute read.]</em>
 
 As interest in how artificial intelligence will change society <a href="https://trends.google.com/trends/explore?date=all_2008&amp;geo=US&amp;gprop=news&amp;q=%2Fm%2F0mkz">increases</a>, I've found it revealing to note what narratives people have about the future.
@@ -26,6 +27,7 @@ As interest in how artificial intelligence will change society <a href="https://
 Some, like the folks at <a href="https://intelligence.org/">MIRI</a> and <a href="https://openai.com/about/">OpenAI</a>, are deeply worried that unsafe artificial general intelligences – an artificial intelligence that can accomplish anything a person can – represent an existential threat to humankind. Others scoff at this, <a href="https://www.wired.com/story/elon-forget-killer-robots-focus-on-the-real-ai-problems/">insisting that these are just the fever dreams of tech bros</a>. The same news organizations that bash any talk of unsafe AI tend to believe that the real danger lies in <a href="https://www.wired.com/story/the-other-tech-bubble/">robots taking our jobs</a>.
 
 Let's express these two beliefs as separate propositions:
+
 <ol>
  	<li>It is very unlikely that AI and AGI will pose an existential risk to human society.</li>
  	<li>It is very likely that AI and AGI will result in widespread unemployment.</li>
@@ -45,6 +47,7 @@ I hope this presents a compelling empirical case that the current level (and tre
 Ricardo did a lot of work in the early economics of trade, where he came up with the theory of comparative advantage. I'm going to use his original framing which applies to trade, but I should note that it actually applies to any exchange where people specialize. You could just as easily replace the examples with "shoveled driveways" and "raked lawns" and treat it as an exchange between neighbours, or "derivatives" and "software" and treat it as an exchange between firms.
 
 The original example is rather older though, so it uses England and its close ally Portugal as the cast and wine and cloth as the goods. It goes like this: imagine that world economy is reduced to two countries (England and Portugal) and each produce two goods (wine and cloth). Portugal is uniformly more productive.
+
 <table>
 <tbody>
 <tr>
@@ -97,6 +100,7 @@ Automation making some jobs vastly more efficient functions similarly. Jobs are 
 This points to what might be a trend: as automation makes many things cheaper and (for some people) easier, there will be many who long for a human touch (would you want the local funeral director's job to be automated, even if it was far cheaper?). Just because computers do many tasks cheaper or with fewer errors doesn't necessarily mean that all (or even most) people will <a href="https://putanumonit.com/2018/08/09/jobs-inside-the-api/">rather have those tasks performed by computers</a>.
 
 No matter how you manipulate the numbers I gave for England and Portugal, you'll still find a net decrease in total hours worked if both countries trade based on their comparative advantage. Let's demonstrate by comparing England to a hypothetical hyper-efficient country called "Automatia"
+
 <table>
 <tbody>
 <tr>
@@ -147,6 +151,7 @@ It is of course perfectly acceptable to believe that AI will never advance to th
 But if AI will never be smart enough to threaten us, then I believe the math should work out such that it is impossible for AI to do everything we currently do or can ever do better than us. Absent such overpoweringly advanced AI, the Ricardo comparative advantage principles should continue to hold true and we should continue to see technological unemployment remain a monster under the bed: frequently fretted about, but never actually seen.
 
 This is why I believe those two propositions I introduced way back at the start can't both be true and why I feel like the burden of proof is on anyone believing in both to explain why they believe that economics have suddenly stopped working.
+
 <h2>Coda: Inequality</h2>
 A related criticism of improving AI is that it could lead to ever increasing inequality. If AI drives ever increasing profits, we should expect an increasing share of these to go to the people who control AI, which presumably will be people already rich, given that the development and deployment of AI is capital intensive.
 

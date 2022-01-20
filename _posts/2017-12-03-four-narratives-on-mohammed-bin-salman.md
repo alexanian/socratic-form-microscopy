@@ -12,13 +12,15 @@ categories:
   - Model
   - Politics
 tags:
-  - Saudi Arabia
+  - saudi arabia
 ---
+
 [10 minute read]
 
 Since June 21<sup>st</sup> of this year, Mohammed bin Salman (often known by his initials, MBS) has been the crown prince of Saudi Arabia. This required what was <a href="http://www.cbc.ca/news/world/saudi-king-upends-royal-succession-names-son-as-1st-heir-1.4170601">assuredly not a palace coup</a>, because changes of government or succession are never coups, merely "similar to coups", "coup-like", "coup-esque", or "coupLite™" <a href="#mbs-bot-1" id="mbs-top-1">[1]</a>. As crown prince, MBS has championed a loosening of religious restrictions on women and entertainment, a decrease in reliance on oil for state revenues, and a harder line with Qatar and Iran.
 
 Media coverage has been, uh, <em>split</em>. Here's <a href="https://www.washingtonpost.com/news/global-opinions/wp/2017/11/05/saudi-arabias-crown-prince-is-acting-like-putin/?utm_term=.30a5e1a0d82c">an editorial in The Washington Post comparing MBS to Putin</a>, while an editorial in The New York Times fawningly declares <a href="https://www.nytimes.com/2017/11/23/opinion/saudi-prince-mbs-arab-spring.html">"Saudi Arabia's Arab Spring, at Last"</a> <a href="#mbs-bot-2" id="mbs-top-2">[2]</a>. Given that there's so much difference in opinion on MBS, I thought it might be useful to collect and summarize some of the common narratives, before giving my own perspective on the man.
+
 <h2>MBS as the Enlightened Despot</h2>
 <strong>Historical Archetype: </strong>Frederick the Great.
 <strong>Proponents:</strong> Al Arabiya <a href="#mbs-bot-3" id="mbs-top-3">[3]</a>, optimistic western journalists.
@@ -29,6 +31,7 @@ Exemplified by the fawning column above, this school of thought holds that MBS i
 They point to several initiatives that back this up. There's the <a href="http://english.alarabiya.net/en/features/2017/11/12/ANALYSIS-Crown-Prince-marks-new-era-of-social-justice-in-Saudi-Arabia.html">Vision 2030 plan</a> that aims to spur entrepreneurship and reduce corruption. There's much needed <a href="http://www.arabnews.com/node/1134706">educational reforms</a>. There's <a href="https://www.nytimes.com/2017/09/26/world/middleeast/saudi-arabia-women-drive.html">the decision to allow women to drive</a> and <a href="https://www.theguardian.com/world/2017/oct/30/saudi-arabia-to-allow-women-into-sports-stadiums-as-reform-push-intensifies">view sports games</a>. There's the <a href="http://www.straitstimes.com/lifestyle/entertainment/saudi-arabia-expected-to-lift-ban-on-cinemas">lifting of bans on entertainment</a>. For some of them, the <a href="https://www.theguardian.com/world/2017/nov/10/how-the-saudi-arabia-anti-corruption-crackdown-will-play-out">ambiguous clamp-down on "corruption"</a> is even further evidence that MBS is very serious about his reforms.
 
 To supporters, MBS has achieved much in very little time, which they take to be clear evidence of a strong work ethic and a keen intelligence. His current crop of reforms gives them clear hope that clerical power can be shattered and Saudi Arabia can one day become a functioning, modern, democracy.
+
 <h2>MBS as a character in Game of Thrones</h2>
 <strong>Historical Archetype:</strong> Richard Nixon
 <strong>Proponents:</strong> Cynical western journalists, <a href="http://www.aljazeera.com/indepth/opinion/2017/06/gulf-crisis-royal-ambitions-shaky-alliances-170615112812051.html">Al Jazeera</a>
@@ -39,6 +42,7 @@ Cersei Lannister's quotable warning, that "when you play a game of thrones you w
 By isolating Qatar and launching a war in Yemen, he has checked Iranian influence on the Arabian Peninsula. Whether or not it's valid, his corruption crackdown has sidelined many potential sources of competition (<a href="http://www.businessinsider.com/saudi-arabia-corruption-crackdown-billions-of-dollars-2017-11">and will probably net much needed liquid cash for the state coffers</a>; it is ironic that Saudi state now turns to sources of liquidity other than the literal liquid that made it so rich). His conflict with Qatar might yet result in the shutdown of Al Jazeera, the most popular TV channel in the Arabic speaking world and long a thorn in the side of Saudi Arabian autocracy.
 
 People who view the conflict through this lens either aren't particularly concerned with right or wrong (e.g. westerners who just want to get their <em>realpolitik </em>fix) or think that the very fact that MBS might be engaging in HBO worthy <em>realpolitik</em> proves he is guilty of a grave crime (e.g. Al Jazeera, westerners worrying that the region might become even <em>more</em> unstable).
+
 <h2>MBS as an overreaching tyrant</h2>
 <strong>Historical Archetype: </strong>Joseph II (epitaph: "Here lies Joseph II, who failed in all he undertook.")
 <strong>Proponents:</strong> <a href="https://soundcloud.com/arabtyrantmanual/episode-001">Arab spring activists and their allies</a>
@@ -53,6 +57,7 @@ They note that the reversal of the ban on women driving has been paired with int
 Proponents of this theory believe that MBS is trying to modernize Saudi Arabia, but that he is doomed to fail in his attempts without building a (possibly democratic) consensus around the direction of the kingdom. They believe that Saudi Arabia cannot have the civil society necessary for reform until the government stops viewing rights as something it gives the citizens (and that they must be grateful for), but as an inherent human birthright.
 
 If you believe this, you'll most likely see MBS as moving the kingdom further from this ideal. And you might see the invasion and ongoing war in Yemen as the sort of cluster-fuck we can expect from MBS's too-rapid attempts to accumulate and use power.
+
 <h2>My View</h2>
 I would first like to note that one advantage of caricaturing other views then providing a synthesis is that you get to appear reasonable and nuanced by comparison. I'm going to claim that as my reward for going through the work to post this, but please do remember that other people have nuanced views too. I got where I am by reading or listening to them!
 
@@ -79,6 +84,7 @@ The average Saudi who does not rock the boat may see her life improve. But the a
 What this means is that MBS is better than almost all plausible replacements (in the short-term), but he is by no means a <em>good</em> leader, or a morally upstanding individual. In the long term, he might stunt the very civil society that Saudi Arabia needs to become a society that accepts and promotes human flourishing <a href="#mbs-bot-9" id="mbs-top-9">[9]</a>. And if he fails in his quest to modernize Saudi society, we're much more likely to see unrest, repression, and a far worse regime than we are to see democratic change.
 
 In the long run, we're all dead. But before that, Saudi Arabia may be in for some very uncomfortable changes.
+
 <h2>Footnotes</h2>
 <strong id="mbs-bot-1">[1]</strong> As near as I can tell, the change was retroactively made all proper with the Allegiance Council, as soon as the <em>fait</em> was truly <em>accompli</em>. Reports that they approved it beforehand seem to come only from sources with a <em>very </em>vested interest in that being true. <a href="#mbs-top-1">^</a>
 

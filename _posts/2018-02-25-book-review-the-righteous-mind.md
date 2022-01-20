@@ -1,6 +1,6 @@
 ---
 id: 709
-title: 'Book Review: The Righteous Mind'
+title: "Book Review: The Righteous Mind"
 date: 2018-02-25T22:18:25-05:00
 author: Zach
 layout: post
@@ -16,11 +16,12 @@ categories:
 tags:
   - book review
   - ethics
-  - MY HONOUR
+  - my honour
   - reading
   - skepticism
   - social conservatism
 ---
+
 <h2>I - Summary</h2>
 The Righteous Mind follows an argument structure I learned in high school debate club. It tells you what it's going to tell you, it tells you it, then it reminds you what it told you. This made it a really easy read and a welcome break from <a href="https://socratic-form-microscopy.com/2018/01/14/book-review-origins-of-totalitarianism-part-1/">The Origins of Totalitarianism</a>, the other book I've been reading. Practically the very first part of The Righteous Mind proper (after the foreword) is an introduction to its first metaphor.
 
@@ -69,10 +70,12 @@ Haidt likens these modules to our taste-buds. The six moral tastes are the centr
 Not everyone has these taste-buds/modules in equal proportion. Looking at commonalities among respondents, Haidt found that the WEIRDer someone was, the less likely they were to have certain modules. Conservatives tended to have all modules in a fairly equal proportion, liberals tended to be lacking three. Libertarians were lacking a whopping <em>four</em>, which might explain <a href="https://pics.me.me/authoritarian-this-meme-is-funny-but-political-charts-are-overly-25756085.png">why everyone tends to believe they're the worst</a>.
 
 The six moral foundations are:
+
 <h3>Care/Harm</h3>
 This is the moral foundation that makes us care about suffering and pain in others. Haidt speculates that it originally evolved in order to ensure that children (which are an enormous investment of resources for mammals and doubly so for us) got properly cared for. It was originally triggered only by the suffering or distress of our own children, but can now be triggered by anyone being hurt, as well as cute cat videos or baby seals.
 
 An expanding set of triggers seems to be a common theme for these. I've personally speculated that this would perhaps be observed if the brain was wired for minimizing negative predictive error (i.e. not mistaking a scene in which there is a lion for a scene without a lion), rather than positive predictive error (i.e. not mistaking a scene without a lion for a scene with a lion). If you minimize positive predictive error, you'll never be frightened by a shadow, but you might get eaten by a lion.
+
 <h3>Fairness/Cheating</h3>
 This is the moral foundation that makes us want everyone to do their fair share and makes us want to punish tax evaders or welfare cheats (depending on our political orientation). The evolutionary story given for this one is that it evolved to allow us to reap the benefits of two-way partnerships; it was an incentive against defecting.
 <h3>Loyalty/Betrayal</h3>
@@ -83,6 +86,7 @@ This is the moral foundation that makes people obey their boss without talking b
 This is the moral foundation that makes people on the right leery of pre-marital sex and people on the left leery of "chemicals". It shows up whenever we view our bodies as more than just <em>our</em> bodies and the world as more than just a collection of things, as well as whenever we feel that something makes us "spiritually" dirty.
 
 The very plausible explanation for this one is that it evolved in response to the omnivore's dilemma: how do we balance the desire for novel food sources with the risk they might poison us? We do it by avoiding anything that looks diseased or rotted. This became a moral foundation as we slowly began applying it to stuff beyond food – like other people. Historically, the sanctity moral framework was probably responsible for the despised status of lepers.
+
 <h3>Liberty/Oppression</h3>
 This moral foundation is always in tension with Authority/Subversion. It's the foundation that makes us want to band together against and cast down anyone who is aggrandizing themselves or using their power to mistreat another.
 
@@ -99,6 +103,7 @@ Haidt uses these moral foundations to give an account of the "improbable" coalit
 Conservatives do not support this project of remaking society from the top down via the government. They believe that liberals want to change too many things, too quickly. Conservatives aren't opposed to the government qua government. In fact, they'd be very congenial to a government that shared their values. But they are very hostile to a liberal, activist government (which is rightly or wrongly how conservatives view the governments of most western nations) and so team up with libertarians in the hopes of dismantling it.
 
 This section, which characterized certain political views as stemming from "deficiencies" in certain "moral modules –, in a way that is probably hereditary – made me pause and wonder if this is a dangerous book. I'm reminded of <a href="https://socratic-form-microscopy.com/2018/01/14/book-review-origins-of-totalitarianism-part-1/">Hannah Arendt talking about "tolerance" for Jews committing treason in <em>The Origins of Totalitarianism</em></a><em>. </em>
+
 <blockquote>It is an attraction to murder and treason which hides behind such perverted tolerance, for in a moment it can switch to a decision to liquidate not only all actual criminals but all who are “racially” predestined to commit certain crimes. Such changes take place whenever the legal and political machine is not separated from society so that social standards can penetrate into it and become political and legal rules. The seeming broad-mindedness that equates crime and vice, if allowed to establish its own code of law, will invariably prove more cruel and inhuman than laws, no matter how severe, which respect and recognize man’s independent responsibility for his behavior.</blockquote>
 That said, it is possible for inconvenient or dangerous things to be <em>true</em> and their inconvenience or danger has no bearing on their <em>truth</em>. If Haidt saw his writings being used to justify or promote violence, he'd have a moral responsibility to decry the perpetrators. Accepting that sort of moral responsibility is, I believe, part of the responsibility that scientists who deal with sensitive topics must accept. I do not believe that this responsibility precludes publishing. I firmly believe that only right information can lead to right action, so I am on the whole grateful for Haidt's taxonomy.
 
@@ -125,6 +130,7 @@ Therefore, it isn't unreasonable to expect that the more successful and interdep
 The switch from selfishness to selflessly helping out our teams is called "the hive switch" by Haidt. He devotes a lot of time to exploring how we can flip it and the benefits of flipping it. I agree with him that many of the happiest and most profound moments of anyone's life come when the switch has been activated and they're working as part of a team.
 
 The last few chapters are an exploration of how individualism can undermine the hive switch and several mistakes liberals make in their zeal to overturn all hierarchies. Haidt believes that societies have both social capital (the bounds of trust between people) and moral capital (the society's ability to bind people to collective values) and worries that liberal individualism can undermine these to the point where people will be overall worse off. I'll talk more about moral capital later in the review.
+
 <h2>II – On Shaky Foundations</h2>
 Anyone who reads <em>The Righteous Mind</em> might quickly realize that I left a lot of the book out of my review. There was a whole bunch of supporting evidence about how liberals and conservatives "really are" or how they differ that I have deliberately omitted.
 
@@ -137,6 +143,7 @@ Here's what the summary of Chapter 3 looks like with the offending evidence remo
 &nbsp;
 
 Here's an incomplete list of claims that didn't replicate:
+
 <ul>
  	<li>IAT tests show that we can have unconscious prejudices that affect how we make social and political judgements (<a href="http://www.law.virginia.edu/pdf/faculty/reassessingpredictivevalidityoftheiat.pdf">1</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/sjop.12288/abstract">2</a>, <a href="https://www.researchgate.net/publication/239732934_Predicting_Ethnic_and_Racial_Discrimination_A_Meta-Analysis_of_IAT_Criterion_Studies">3</a> critiques/failed replications). Used to buttress the elephant/rider theory of moral decisions.</li>
  	<li>Disgusting smells can make us more judgemental (<a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1129&amp;context=neuroethics_pubs">failed replication source</a>). Used as evidence that moral reasoning can be explained sometimes by external factors, is much less rational than we'd like to believe.</li>
@@ -151,6 +158,7 @@ Moral foundations theory appears to have <a href="https://www.psychologytoday.co
 I will say that stripped of much of its ancillary evidence, Haidt's attack on rationalism lost a lot of its lustre. It's one thing to believe morality is mostly unconscious when you think that washing your hands or smelling trash can change how moral you act. It's quite another when you know those studies were fatally flawed. The replication crisis fueled my inability to truly believe Haidt's critique of rationality. This disbelief in turn became one of the two driving forces in my reaction to this book.
 
 Haidt's moral relativism around patriarchal cultures was the other.
+
 <h2>III – Less and Less WEIRD</h2>
 It's good that Haidt looked at a variety of cultures. This is a thing few psychologists do. There's historically been an alarming tendency to run studies on western undergraduate students, then declare "this is how people are". This would be fine if western undergraduates were representative of people more generally, but I think that assumption was on shaky foundations even before moral foundation theory showed that morally, at least, it was entirely false.
 
@@ -161,6 +169,7 @@ His willingness to get outside of his bubble and to learn from others is laudabl
 But.
 
 There is one key way in which Haidt never left his bubble, a way which makes me inherently suspicious of all of his defences of the sanctity, authority, and loyalty moral foundations. Here's him recounting his trip to India. Can you spot the fatal omission?
+
 <blockquote>I was told to be stricter with my servants, and to stop thanking them for serving me. I watched people bathe in and cook with visibly polluted water that was held to be sacred. In short, I was immersed in a sex-segregated, hierarchically stratified, devoutly religious society, and I was committed to understanding it on its own terms, not on mine.
 
 It only took a few weeks for my dissonance to disappear, not because I was a natural anthropologist but because the normal human capacity for empathy kicked in. I <em>liked</em> these people who were hosting me, helping me, and teaching me. Wherever I went, people were kind to me. And when you’re grateful to people, it’s easier to adopt their perspective. My elephant leaned toward them, which made my rider search for moral arguments in their defense. Rather than automatically rejecting the men as sexist oppressors and pitying the women, children, and servants as helpless victims, I began to see a moral world in which families, not individuals, are the basic unit of society, and the members of each extended family (including its servants) are intensely interdependent. In this world, equality and personal autonomy were not sacred values. Honoring elders, gods, and guests, protecting subordinates, and fulfilling one’s role-based duties were more important.</blockquote>
@@ -177,6 +186,7 @@ Not only that, but perhaps a female author would have given more pages to the ob
 Ultimately, Haidt's defences of Authority/Subversion, Loyalty/Betrayal, and Sanctity/Degradation fell flat in the face of my Care/Harm and Liberty/Oppression focused moral compass. Scott Alexander once <a href="http://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/">wrote about the need for</a> "a solution to the time-limitedness of enlightenment that works from within the temporal perspective". By the same token, I think Haidt fails to deliver a defence of conservatism or anything it stands for that works from within the liberal Care/Harm perspective. Insofar as his book was meant to bridge inferential gaps and political divides, this makes it a failure.
 
 That's a shame, because arguments that bridge this divide <em>do</em> exist. I've read some of them.
+
 <h2>IV – What if Liberals are Wrong?</h2>
 There is a principle called "Chesterton's Fence", which comes from the famed Catholic conservative and author G.K. Chesterton. It goes like this: if you see a fence blocking the road and cannot see the reason for it to be there, should you remove it? Chesterton said "no!", resoundingly. He suggested you should first understand the purpose of the fence. Only then may you safely remove it.
 
@@ -201,6 +211,7 @@ But even here, social conservatism has the seeds of its own undoing. I can agree
 This is a running pattern with social conservatism. It conserves blindly, without giving thought to what is even worth preserving. If liberals have some things wrong, that doesn't automatically mean that the opposite is correct. It's disturbingly easy for people on both sides of an issue to be wrong.
 
 I'm sure Haidt would point out that this is why we have the other frameworks. But because of who I am, I'm personally much more inclined to do things in the other direction – throw out most of the past, then re-implement whatever we find to be useful but now lacking.
+
 <h2>V – What if Liberals Listened?</h2>
 In Berkeley, California, its environs, and assorted corners of the Internet, there exists a community that calls themselves "Rationalists". This moniker is despite the fact that they agree with Haidt as to the futility of rationalism. Epistemically, they tend to be <a href="https://en.wikipedia.org/wiki/Empiricism">empiricists</a>. Ethically, <a href="https://en.wikipedia.org/wiki/Non-cognitivism">non-cognitivist</a> utilitarians. Because they are largely Americans, they tend to be politically disengaged, but if you held them at gunpoint and demanded they give you a political affiliation, they would probably either say "liberal" or "libertarian".
 
@@ -217,6 +228,7 @@ No community is perfect. This is a community made up of people. It has its fair 
 Furthermore, its altruism isn't limited in scope, the way Haidt believes all communal altruism must necessarily be. Rationalists encourage each other to give to causes like malaria eradication (which mainly helps people in Africa), or AI risk (which mainly helps future people). Because there are few cost effective local opportunities to do good (for North Americans), this global focus allows for more lives to be saved or improved per dollar spent.
 
 This is all of it, I think, the natural result of thoughtful people throwing away most cultural traditions and vestiges of traditionalist morality, then seeing what breaks and fixing those things in particular. It's an example of what I wished for at the end of the last section applied to the real world.
+
 <h2>VI – Is or Ought?</h2>
 I hate to bring up the Hegelian dialectic, but I feel like this book fits neatly into it. We had the thesis: "morality stems from rationality" that was so popular in western political thought. Now we have the antithesis: "morality and rationality are separate horses, with rationality subordinate – and this is right and proper".
 
