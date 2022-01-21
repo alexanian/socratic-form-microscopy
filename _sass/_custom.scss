@@ -48,7 +48,7 @@ a.category-head {
 }
 
 .search-box {
-  border: 1px solid #666;
+  border: 1px solid $black;
   position: relative;
   border-radius: 2px;
   line-height: 100%;
@@ -65,7 +65,7 @@ a.category-head {
     padding-right: 30px;
     width: 100%;
     height: 32px;
-    background-color: #444;
+    background-color: $grey;
   }
 
   button {
