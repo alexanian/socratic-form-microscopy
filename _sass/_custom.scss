@@ -14,6 +14,10 @@ a.site-logo-link, a.site-logo-link:hover, a.site-logo-link:active {
   text-transform: uppercase;
   a {
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 

@@ -2,31 +2,31 @@
 
 // Code formatting
 pre {
-    border-left: $spacer-1 solid $color-border;
-    margin: $spacer-3 0;
-    padding-left: 16px;
-    width: (9 / 12 * 100%); // matches col-9
-    overflow-x: auto;
+  border-left: $spacer-1 solid $color-border;
+  margin: $spacer-3 0;
+  padding-left: 16px;
+  width: (9 / 12 * 100%); // matches col-9
+  overflow-x: auto;
 }
 
 code {
-    color: $color-code;
-    font-size: $body-font-size;
-    padding: 1px 0px;
+  color: $color-code;
+  font-size: $body-font-size;
+  padding: 1px 0px;
 }
 
-
 .prose {
-
   a {
-    text-decoration: underline dotted;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
     }
   }
 
-  p, ol, ul {
+  p,
+  ol,
+  ul {
     font-size: $prose-font-size;
     margin-bottom: 1em;
     width: 100%;
@@ -135,5 +135,4 @@ code {
       border-bottom: 2px solid $color-body-text;
     }
   }
-
 }
