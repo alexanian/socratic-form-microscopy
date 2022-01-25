@@ -5,20 +5,11 @@
 
   <body>
 
-    <div>
+    {% include sidebar.html %}
+
+    <div class="wrap">
 
       <header class="header-background">
-
-        <div class="clearfix border-bottom-thick header-border">
-          <ul class="list-reset py-1 header-text font-smoothing">
-            <li class="inline-block">
-              <a class="align-middle link-primary header-link ml-2" href="categories">Categories</a>
-            </li>
-            <li class="inline-block">
-              <a class="align-middle link-primary header-link ml-2" href="tags">Tags</a>
-            </li>
-          </ul>
-        </div>
 
         <div class="container mx-auto px-2 mb-2 clearfix header-text">
           <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
@@ -62,7 +53,6 @@
     </div>
 
     {% include footer.html %}
-
+    {% include sidebar_toggle.html %}
   </body>
-
 </html>

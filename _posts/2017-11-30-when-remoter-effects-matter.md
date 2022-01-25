@@ -13,9 +13,10 @@ categories:
   - Philosophy
 tags:
   - ethics
-  - MY HONOUR
+  - my honour
   - utilitarianism
 ---
+
 In utilitarianism, "remoter effects" are the result of our actions influencing other people (and are hotly debated). I think that remoter effects are often overstated, especially (<a href="https://socratic-form-microscopy.com/2017/07/16/book-review-utilitarianism-for-and-against-part-2/">as Sir Williams said in Utilitarianism for and against</a>) when they give the conventionally ethical answer. For example, a utilitarian might claim that the correct answer to the hostage dilemma <a href="#rem-bot-1" id="rem-top-1">[1]</a> is to kill no one, because killing weakens the sanctity of human life and may lead to more deaths in the future.
 
 When debating remoter effects, I think it's worthwhile to split them into two categories: positive and negative. Positive remoter effects are when your actions cause others to refrain from some negative action they might otherwise take. Negative remoter effects are when your actions make it more likely that others will engage in a negative action <a href="#rem-bot-2" id="rem-top-2">[2]</a>.
@@ -25,6 +26,7 @@ Of late, I've been especially interested in ways that positive and negative remo
 Some of my favourite bloggers are doubtful of the first proposition:
 
 In <a href="https://thingofthings.wordpress.com/2017/09/23/deontologist-envy/">"Deontologist Envy"</a>, Ozy writes that we shouldn't necessarily be nice to our enemies in the hopes that they'll be nice to us:
+
 <p style="padding-left: 30px;">In general people rarely have their behavior influenced by their political enemies. Trans people take pains to use the correct pronouns; people who are overly concerned about trans women in bathrooms still misgender them. Anti-racists avoid the use of slurs; a distressing number of people who believe in human biodiversity appear to be incapable of constructing a sentence without one. Social justice people are conscientious about trigger warnings; we are subjected to many tedious articles about how mentally ill people should be in therapy instead of burdening the rest of the world with our existence.</p>
 In <a href="http://dsadevil.blogspot.ca/2017/05/the-blues-of-self-regulation.html">"The Blues of Self-Regulation"</a>, David Schraub talks about how this specifically applies to Republicans and Democrats:
 <blockquote>The problem being that, even when Democrats didn't change a rule protecting the minority party, Republicans haven't even blinked before casting them aside the minute they interfered with their partisan agenda.</blockquote>

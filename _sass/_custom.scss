@@ -1,3 +1,11 @@
+a {
+  color: $color-primary-link;
+}
+
+a.site-logo-link, a.site-logo-link:hover, a.site-logo-link:active {
+  text-decoration: none;
+}
+
 .category-links {
   margin-top: 2em;
   font-size: 28px;
@@ -37,4 +45,325 @@ a.category-head {
 
 .category-articles {
   margin-left: 2em;
+}
+
+.search-box {
+  border: 1px solid #666;
+  position: relative;
+  border-radius: 2px;
+  line-height: 100%;
+  overflow: hidden;
+  margin-right: 24px;
+  margin-top: 12px;
+  width: 17rem;
+
+  input {
+    line-height: 100%;
+    border: none;
+    vertical-align: middle;
+    padding: 0px 10px;
+    padding-right: 30px;
+    width: 100%;
+    height: 32px;
+    background-color: #444;
+  }
+
+  button {
+    background-color: transparent;
+    border-color: transparent;
+    border: 0;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+    line-height: 100%;
+    vertical-align: middle;
+    height: 34px;
+    padding: 0 4px 0 10px;
+    color: #aaa;
+
+    svg {
+      width: 16px;
+    }
+  }
+}
+
+.searchresults {
+  margin-top: -50px;
+  table {
+    margin-bottom: 0;
+    tr {
+      border-top: none;
+    }
+    td {
+      border: none;
+    }
+  }
+  .gsc-above-wrapper-area table.gsc-above-wrapper-area-container {
+    overflow: visible;
+  }
+  .gsc-control-cse {
+    padding: 0;
+  }
+  .gs-web-image-box {
+    display: none;
+  }
+  .gsc-webResult .gsc-url-top {
+    display: none;
+  }
+  .gs-result .gs-title, .gs-result .gs-title * {
+    color: $red;
+    text-decoration: underline dotted;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  .gcsc-find-more-on-google span {
+    color: $red;
+  }
+  a {
+    color: $red;
+    text-decoration: underline dotted;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  .gcsc-find-more-on-google-magnifier {
+    fill: $red;
+  }
+  .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    color: $red;
+  }
+}
+
+@media (max-width: 1200px) {
+  header h1.h0 {
+    font-size: 96px;
+  }
+}
+
+@media (max-width: 768px) {
+  header h1.h0 {
+    font-size: 52px;
+  }
+}
+
+/* Sidebar from Zach's original CSS (the Satellite WordPress theme) */
+
+.sidebar-nav {
+  background-color: #202626;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 56px;
+  height: 100%;
+  z-index: 20;
+  -webkit-transition: .3s all ease-in-out, .3s -webkit-transform ease-in-out;
+  transition: .3s all ease-in-out;
+}
+
+.screen-reader-text{
+  border: 0;
+  clip: rect(1px,1px,1px,1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal!important
+}
+
+/*
+ * Wrapper
+ *
+ * The wrapper is used to position site content when the sidebar is toggled. We
+ * use an outer wrap to position the sidebar without interferring with the
+ * regular page content.
+ */
+
+.wrap {
+  min-height: 100vh;
+  padding-bottom: 86px;
+}
+
+footer {
+  height: 86px;
+  margin-top: -86px;
+}
+
+.wrap, footer {
+  position: relative;
+  width: calc(100% - 56px);
+  left: 56px;
+}
+
+/*
+ * SlideMenu (the sidebar from Lanyon Theme)
+ *
+ * The slide-menu is the drawer, the item we are toggling with our handy hamburger
+ * button in the corner of the page.
+ *
+ * This particular slide-menu implementation was inspired by Chris Coyier's
+ * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
+ * comments by a reader. It modifies both implementations to continue using the
+ * checkbox (no change in URL means no polluted browser history), but this uses
+ * `position` for the menu to avoid some potential content reflow issues.
+ *
+ * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
+ */
+
+/* Style and "hide" the slide-menu */
+.slide-menu {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: -20rem;
+  width: 20rem;
+  visibility: hidden;
+  overflow-y: auto;
+  color: rgba(255,255,255,.6);
+  background-color: #2b3233;
+  -webkit-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+
+/* Slide-menu content */
+
+.site-title {
+  color: #c8cbcc;
+  margin-top: .75em;
+  margin-bottom: 1.5em;
+  opacity: 0.5;
+  font-size: 1.9rem;
+  line-height: 1.1;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.slide-menu a {
+  font-weight: normal;
+  color: #fff;
+}
+.slide-menu-item {
+  padding: 1rem;
+}
+.slide-menu-item p:last-child {
+  margin-bottom: 0;
+}
+
+/* Slide-menu nav */
+.slide-menu-nav {
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+.slide-menu-nav-item {
+  display: block;
+  padding: .5rem 1rem;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.slide-menu-nav-item.active,
+a.slide-menu-nav-item:hover,
+a.slide-menu-nav-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
+@media (min-width: 48em) {
+  .slide-menu-item {
+    padding: 1.5rem;
+  }
+  .slide-menu-nav-item {
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+/* Hide the slide-menu checkbox that we toggle with `.slide-menu-toggle` */
+.slide-menu-checkbox {
+  // position: absolute;
+  // opacity: 0;
+  // -webkit-user-select: none;
+  //    -moz-user-select: none;
+  //         user-select: none;
+
+  // MKeenan changed how sidebar hiding works because toggling the sidebar scrolled to top, see https://github.com/poole/lanyon/issues/137
+
+  display: none;
+}
+
+/* Style the `label` that we use to target the `.slide-menu-checkbox` */
+.slide-menu-toggle {
+  position: absolute;
+  top:  .8rem;
+  display: flex;
+  align-items: center;
+  padding: .25rem .75rem;
+  color: #505050;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.slide-menu-toggle::before {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  content: "";
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23fff' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
+}
+
+#slide-menu-checkbox:checked ~ .sidebar-nav .slide-menu-toggle::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' stroke-width='2.5' stroke='%23CACBD2' fill='none' class='duration-300 transform transition-all' style='width: 48px; height: 48px;'%3E%3Cpath d='M8.06 8.06l47.35 47.88M55.94 8.06L8.59 55.94'%3E%3C/path%3E%3C/svg%3E");
+}
+
+@media (min-width: 30.1em) {
+  .slide-menu-toggle {
+    position: fixed;
+  }
+}
+
+@media print {
+  .slide-menu-toggle {
+    display: none;
+  }
+}
+
+/* Slide effect
+ *
+ * Handle the sliding effects of the sidebar and content in one spot, seperate
+ * from the default styles.
+ *
+ * As an a heads up, we don't use `transform: translate3d()` here because when
+ * mixed with `position: fixed;` for the sidebar toggle, it creates a new
+ * containing block. Put simply, the fixed sidebar toggle behaves like
+ * `position: absolute;` when transformed.
+ *
+ * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
+ */
+
+.wrap,
+.slide-menu,
+.slide-menu-toggle {
+  -webkit-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.wrap,
+.slide-menu-toggle {
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+          transition: transform .3s ease-in-out;
+}
+
+#slide-menu-checkbox:checked + .slide-menu {
+  z-index: 10;
+  visibility: visible;
+}
+#slide-menu-checkbox:checked ~ .sidebar-nav,
+#slide-menu-checkbox:checked ~ .slide-menu,
+#slide-menu-checkbox:checked ~ .wrap,
+#slide-menu-checkbox:checked ~ .slide-menu-toggle {
+  -webkit-transform: translateX(20rem);
+      -ms-transform: translateX(20rem);
+          transform: translateX(20rem);
 }
