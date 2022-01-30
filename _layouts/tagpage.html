@@ -2,15 +2,15 @@
 layout: default
 ---
 
-
 <header class="header-background">
   <div class="container mx-auto px-2 mb-2 clearfix header-text">
-    <h1 class="inline-block col-9 sm-width-full py-2 mt-2 header-title">Tag: {{ page.tag }}</h1>
+    <h1 class="inline-block col-9 sm-width-full py-2 mt-2 header-title">
+      Brose posts by tag: {{ page.tag }}
+    </h1>
   </div>
 </header>
 
 <div class="container mx-auto px-2 py-4">
-  {% for post in site.tags[page.tag] %}
-    {% include post_block.html %}
-  {% endfor %}
+  {% for post in site.tags[page.tag] %} {% include post_block.html %} {% endfor
+  %}
 </div>

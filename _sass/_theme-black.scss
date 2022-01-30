@@ -2,31 +2,33 @@
 
 // Color variables
 $black: #181818;
-$red: #E74727;
-$red-small: #DC3918;
+$grey: #2b3233;
+$orange: #ec7028;
+$red-small: #dc3918;
 $white: #fff;
 
 // Config
 $color-background: $black !default;
-$color-dot-accent: $red !default;
+$color-dot-accent: $orange !default;
 $color-foreground: $white !default;
 $color-title: $white !default;
 $color-body-text: $black !default;
-$color-text-accent: $red !default;
+$color-text-accent: $orange !default;
 $color-code: $red-small !default;
-$color-nav-link: $red !default;
-$color-primary-link: $red !default;
+$color-nav-link: $orange !default;
+$color-primary-link: $orange !default;
+$color-secondary: $grey !default;
 
 .font-smoothing {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+// hardcoded to match $orange above
+.orange-filter {
+  filter: invert(72%) sepia(58%) saturate(5908%) hue-rotate(345deg)
+    brightness(96%) contrast(92%);
+}
+
 // Import sass partials (used in all themes)
-@import
-        "variables",
-        "base",
-        "components",
-        "utilities",
-        "custom"
-;
+@import "variables", "base", "components", "utilities", "custom";

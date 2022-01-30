@@ -1,22 +1,55 @@
-<input type="checkbox" class="slide-menu-checkbox" id="slide-menu-checkbox">
+<input type="checkbox" class="slide-menu-checkbox" id="slide-menu-checkbox" />
 
 <div class="slide-menu" id="slide-menu">
   <a href="/" class="site-logo-link" rel="home" itemprop="url">
-    <img width="300" height="300" src="/wp-content/uploads/sfm-owl-black-1024-1.png" class="site-logo attachment-scrawl-site-logo" alt="Owl logo" itemprop="logo" srcset="/wp-content/uploads/sfm-owl-black-1024-1.png 1024w, /wp-content/uploads/sfm-owl-black-1024-1-768x768.png 768w, /wp-content/uploads/sfm-owl-black-1024-1-300x300.png 300w, /wp-content/uploads/sfm-owl-black-1024-1-200x200.png 200w, /wp-content/uploads/sfm-owl-black-1024-1-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" >
+    <img
+      width="300"
+      height="300"
+      src="/wp-content/uploads/sfm-owl-black-1024-1.png"
+      class="site-logo attachment-scrawl-site-logo orange-filter"
+      alt="Owl logo"
+      itemprop="logo"
+      srcset="
+        /wp-content/uploads/sfm-owl-black-1024-1.png         1024w,
+        /wp-content/uploads/sfm-owl-black-1024-1-768x768.png  768w,
+        /wp-content/uploads/sfm-owl-black-1024-1-300x300.png  300w,
+        /wp-content/uploads/sfm-owl-black-1024-1-200x200.png  200w,
+        /wp-content/uploads/sfm-owl-black-1024-1-150x150.png  150w
+      "
+      sizes="(max-width: 300px) 100vw, 300px"
+    />
     <h1 class="site-title">Socratic Form Microscopy</h1>
   </a>
 
   <nav class="slide-menu-nav">
-    <a class="slide-menu-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
-    <a class="slide-menu-nav-item{% if page.url == '/about-me.html' %} active{% endif %}" href="/about-me">About Me</a>
-    <a class="slide-menu-nav-item{% if page.url == '/categories/' %} active{% endif %}" href="/categories">Categories</a>
-    <a class="slide-menu-nav-item{% if page.url == '/tags/' %} active{% endif %}" href="/tags">Tags</a>
+    <a
+      class="slide-menu-nav-item{% if page.url == '/' %} active{% endif %}"
+      href="/"
+      >Home</a
+    >
+    <a
+      class="slide-menu-nav-item{% if page.url == '/about-me.html' %} active{% endif %}"
+      href="/about-me"
+      >About Zach</a
+    >
+    <a
+      class="slide-menu-nav-item{% if page.url == '/categories/' %} active{% endif %}"
+      href="/categories"
+      >Categories</a
+    >
+    <a
+      class="slide-menu-nav-item{% if page.url == '/all/' %} active{% endif %}"
+      href="/tags"
+      >All Posts</a
+    >
     <li class="inline-block right search-box">
       <form action="/search" accept-charset="UTF-8" method="get">
-        <input type="text" name="q">
+        <input type="text" name="q" />
         <button type="submit" class="btn btn-blank">
           <svg class="svg-icon" viewBox="0 0 20 20">
-            <path d="M18.125,15.804l-4.038-4.037c0.675-1.079,1.012-2.308,1.01-3.534C15.089,4.62,12.199,1.75,8.584,1.75C4.815,1.75,1.982,4.726,2,8.286c0.021,3.577,2.908,6.549,6.578,6.549c1.241,0,2.417-0.347,3.44-0.985l4.032,4.026c0.167,0.166,0.43,0.166,0.596,0l1.479-1.478C18.292,16.234,18.292,15.968,18.125,15.804 M8.578,13.99c-3.198,0-5.716-2.593-5.733-5.71c-0.017-3.084,2.438-5.686,5.74-5.686c3.197,0,5.625,2.493,5.64,5.624C14.242,11.548,11.621,13.99,8.578,13.99 M16.349,16.981l-3.637-3.635c0.131-0.11,0.721-0.695,0.876-0.884l3.642,3.639L16.349,16.981z"></path>
+            <path
+              d="M18.125,15.804l-4.038-4.037c0.675-1.079,1.012-2.308,1.01-3.534C15.089,4.62,12.199,1.75,8.584,1.75C4.815,1.75,1.982,4.726,2,8.286c0.021,3.577,2.908,6.549,6.578,6.549c1.241,0,2.417-0.347,3.44-0.985l4.032,4.026c0.167,0.166,0.43,0.166,0.596,0l1.479-1.478C18.292,16.234,18.292,15.968,18.125,15.804 M8.578,13.99c-3.198,0-5.716-2.593-5.733-5.71c-0.017-3.084,2.438-5.686,5.74-5.686c3.197,0,5.625,2.493,5.64,5.624C14.242,11.548,11.621,13.99,8.578,13.99 M16.349,16.981l-3.637-3.635c0.131-0.11,0.721-0.695,0.876-0.884l3.642,3.639L16.349,16.981z"
+            ></path>
           </svg>
         </button>
       </form>
