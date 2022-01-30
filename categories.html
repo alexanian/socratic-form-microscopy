@@ -1,26 +1,37 @@
 ---
-layout: page
+layout: default
 permalink: /categories/
 title: Categories
 ---
 
-<div id="archives">
-  {% assign sorted_categories = site.categories | sort %}
-  {% for category in sorted_categories %}
-    <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-
-    <a href="/category/{{ category_name | slugify }}" class="category-head"><h3>{{ category_name }}</h3></a>
-    <div class="category-articles">
-      <a name="{{ category_name | slugize }}"></a>
-      {% for post in site.categories[category_name] %}
-      <article class="archive-item">
-        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-      </article>
-      {% endfor %}
-    </div>
+<header class="header-background">
+  <div class="container mx-auto px-2 mb-2 clearfix header-text">
+    <h1 class="inline-block col-9 sm-width-full py-2 mt-2 header-title">
+      {{ page.title }}
+    </h1>
   </div>
-{% endfor %}
+</header>
+<div class="container mx-auto px-2 py-4">
+  <div id="archives">
+    {% assign sorted_categories = site.categories | sort %} {% for category in
+    sorted_categories %}
+    <div class="archive-group">
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <div id="#{{ category_name | slugize }}"></div>
+      <p></p>
+
+      <a href="/category/{{ category_name | slugify }}" class="category-head"
+        ><h3>{{ category_name }}</h3></a
+      >
+      <div class="category-articles">
+        <a name="{{ category_name | slugize }}"></a>
+        {% for post in site.categories[category_name] %}
+        <article class="archive-item">
+          <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 </div>
