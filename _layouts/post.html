@@ -7,37 +7,32 @@ layout: default
   itemscope
   itemtype="http://schema.org/BlogPosting"
 >
-  {% if page.categories.size > 0 %}
-  <div class="category-links mb-2">
-    {% for category in page.categories %}
-    <a href="/category/{{ category | slugify }}">{{ category }}</a>{% if
-    forloop.last %}{% else %},{% endif %} {% endfor %}
-  </div>
-  {% endif %}
   <h1
-    class="h0 col-12 sm-width-full py-1 mt-1 inline-block post-title"
+    class="h0 col-9 sm-width-full py-1 mt-3 inline-block post-title"
     itemprop="name headline"
   >
     {{ page.title }}
   </h1>
-  <div class="col-4 sm-width-full mt-1 border-top-thin">
+  <div class="col-9 sm-width-full mt-1 border-top-thin">
     <p class="mb-3 py-2 bold h4">
       <time
         datetime="{{ page.date | date_to_xmlschema }}"
         itemprop="datePublished"
         >{{ page.date | date: "%b %-d, %Y" }}</time
       >
+      in {% if page.categories.size > 0 %} {% for category in page.categories %}
+      <a href="/category/{{ category | slugify }}">{{ category }}</a>{% if
+      forloop.last %}{% else %},{% endif %} {% endfor %} {% endif %}
     </p>
   </div>
 
   <div class="prose" itemprop="articleBody">{{ content }}</div>
 
-  {% if page.tags.size > 0 %}
-  <div class="tag-links">
-    {% for tag in page.tags %}
-    <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>&nbsp; {% endfor %}
-  </div>
-  {% endif %}
+  <p class="mt-3 bold h4">
+    {% if page.tags.size > 0 %} Tags:{% for tag in page.tags %}
+    <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last %}{% else
+    %},{% endif %} {% endfor %} {% endif %}
+  </p>
 </article>
 
 <div class="container mx-auto px-2 py-2 clearfix">
