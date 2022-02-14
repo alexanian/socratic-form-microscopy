@@ -1,6 +1,6 @@
 ---
 id: 484
-title: 'Why Don&#8217;t we Subsidize Higher Wages? Or: Public Policy is Expensive'
+title: "Why Don&#8217;t we Subsidize Higher Wages? Or: Public Policy is Expensive"
 date: 2017-08-27T13:53:56-04:00
 author: Zach
 layout: post
@@ -17,6 +17,7 @@ tags:
   - ontario
   - tradeoffs are hard
 ---
+
 <em>[7 Minute Read]</em>
 
 Epistemic Status: Started as a reduction ad absurdum.
@@ -59,7 +60,7 @@ When we focus only on what we feel is fair or justified and not on what is achie
 
 Disturb it at your own peril.
 
-<strong>Footnotes:</strong>
+<h3>Footnotes:</h3>
 
 <strong id="wage-bot-1">[1]</strong> Failure (to me) means increased unemployment. A decrease in labour force participation would probably represent a return to single income families, unless preceded by high unemployment of the sort that drives people to give up looking for work. There's also the failure mode of "causes spiralling inflation", but that seems more likely to end the whole experiment prematurely. <a href="#wage-top-1">^</a>
 

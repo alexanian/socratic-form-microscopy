@@ -85,7 +85,8 @@ What this means is that MBS is better than almost all plausible replacements (in
 
 In the long run, we're all dead. But before that, Saudi Arabia may be in for some very uncomfortable changes.
 
-<h2>Footnotes</h2>
+<h3>Footnotes:</h3>
+
 <strong id="mbs-bot-1">[1]</strong> As near as I can tell, the change was retroactively made all proper with the Allegiance Council, as soon as the <em>fait</em> was truly <em>accompli</em>. Reports that they approved it beforehand seem to come only from sources with a <em>very </em>vested interest in that being true. <a href="#mbs-top-1">^</a>
 
 <strong id="mbs-bot-2">[2]</strong> There's something deeply disturbing about a major news organization comparing a change in which unelected despot will lead a brutal dictatorship with a movement that earnestly strove for democratic change. <a href="#mbs-top-2">^</a>

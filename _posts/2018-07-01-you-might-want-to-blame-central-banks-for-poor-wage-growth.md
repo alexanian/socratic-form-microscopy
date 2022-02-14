@@ -18,6 +18,7 @@ tags:
   - overview
   - someone else definitely came up with this first
 ---
+
 <a href="https://www.economist.com/finance-and-economics/2018/06/30/the-rich-world-needs-higher-real-wage-growth">The Economist</a> wonders why wage growth isn't increasing, even as unemployment falls. A naïve reading of supply and demand suggests that it should, so this has become a relatively common talking point in the news, with people of all persuasions scratching their heads. The Economist does it better than most. They at least talk about slowing productivity growth and rising oil prices, instead of blaming everything on workers (<a href="https://www.ft.com/content/e1e6cc22-6ab2-11e8-8cf3-0c230fa67aec">for failing to negotiate</a>) or employers (for not suddenly raising wages).
 
 But after reading <a href="http://www.themoneyillusion.com/">monetary policy</a> <a href="http://jpkoning.blogspot.com/">blogs</a>, the current lack of wage growth feels much less confusing to me. Based on this, I'd like to offer one explanation for why wages haven't been growing. While I may not be an economist, I'll be doing my best to pass along verbatim the views of serious economic thinkers.
@@ -73,7 +74,9 @@ More inflation may feel like the exact opposite of what's needed to increase wag
 One of the purposes of institutions is <a href="https://socratic-form-microscopy.com/2018/05/29/book-review-enlightenment-2-0/">to build a framework within which we can make good decisions</a>. From this point of view, the Federal Reserve (and other central banks; the Bank of Japan is <a href="https://equilibriabook.com/inadequacy-and-modesty/">arguably far worse</a>) have failed. Institutions failing when confronted with new circumstances isn't as pithy as "it's all the fault of those greedy capitalists" or "people need to grow backbones and negotiate for higher wages", but I think it's ultimately a more correct explanation for our current period of slow wage growth. This suggests that we'll only see wage growth recover when the Fed commits to better monetary policy <a href="#bsb-bot-3" id="bsb-top-3">[3]</a>, or enough time passes that everyone forgets the great recession.
 
 In either case, I'm not holding my breath.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="bsb-bot-1">[1]</strong> I'm ignoring the drop in Q2 2014, where wages fell to $330/week, because this was <a href="http://www.themoneyillusion.com/no-strong-labor-markets-dont-cause-higher-wages-never-reason-from-a-quantity-change/">caused by the end of extended unemployment insurance</a> in America. The end of that program made finding work somewhat more important for a variety of people, which led to an uptick in the supply of labour and a corresponding decrease in the market clearing wage. <a href="#bsb-top-1">^</a>
 
 <strong id="bsb-bot-2">[2]</strong> Under a fractional reserve banking system, banks can lend out most of their deposits, with only a fraction kept in reserve to cover any withdrawals customers may want to make. This effectively increases the money supply, because you can have dollars (or yen, or pesos) that are both left in a bank account and invested in the economy. When banks hold onto more of their reserves because of uncertainty, they are essentially shrinking the total money supply. <a href="#bsb-top-2">^</a>

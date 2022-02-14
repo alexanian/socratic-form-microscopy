@@ -16,6 +16,7 @@ tags:
   - medicine
   - skepticism
 ---
+
 If you don't live in Southern Ontario or don't hang out in the skeptic blogosphere, you will probably have never heard the stories I'm going to tell today. There are two of, both about young Ontarian girls. One story has a happier ending than the other.
 
 First is Makayla Sault. <a href="http://www.cbc.ca/news/indigenous/makayla-sault-girl-who-refused-chemo-for-leukemia-dies-1.2829885">She died two years ago</a>, from complications of acute lymphoblastic leukemia. She was 11. Had she completed a full course of chemotherapy, there is a 75% chance that she would be alive today.
@@ -49,6 +50,7 @@ From an outside view, the doctors were treading on thin ice. If you look at past
 This puts us in a bind. Chemotherapy doesn't cease to work because people in the past did terrible things. Just because we have an outside view that suggest dire consequences doesn't mean science stops working. But our outside view <em>really strongly</em> suggests dire consequences. How could the standard medical treatment lead to worse outcomes?
 
 Let's brainstorm for a second:
+
 <ul>
  	<li>J. could have died regardless of chemotherapy. Had there been a court order, this would have further shaken indigenous Canadian faith in the medical establishment.</li>
  	<li>A court order could have undermined the right of minors in Ontario to consent to their own medical care, with far reaching effects on trans youth or teenagers seeking abortions.</li>
@@ -71,7 +73,7 @@ In the story of Pandora's Box, all of the pestilence and disease of the world sp
 
 It was an abrogation of duty to go to the courts instead of respectfully dealing with J.J.'s family. It was reckless and it could have put years of careful outreach by other doctors at risk. Sometimes there are things more important than one life. That's why I'm glad the judge didn't order J.J. back into chemo.
 
-<strong>Footnotes: </strong>
+<h3>Footnotes:</h3>
 
 <strong id="mk1" >[1]</strong> I have a lot of fondness for McMaster, having had at least one surgery and many doctors' appointments there. <a href="#mk-top-1">^</a>
 

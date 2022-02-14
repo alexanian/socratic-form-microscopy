@@ -1,6 +1,6 @@
 ---
 id: 866
-title: 'Scrip Stamp Currencies Aren&#8217;t A Miracle'
+title: "Scrip Stamp Currencies Aren&#8217;t A Miracle"
 date: 2018-10-30T08:30:29-04:00
 author: Zach
 layout: post
@@ -16,6 +16,7 @@ tags:
   - monetary policy
   - money throughout history
 ---
+
 A friend of mine recently linked to <a href="http://www.lietaer.com/2010/03/the-worgl-experiment/?fbclid=IwAR3GHNpaerTEd2z5lOqPdRnpzdrxMbACwBNImg-1G9LWcvspC03sqkKNTsI">a story about stamp scrip currencies</a> in a discussion about <a href="https://initiativeq.com/">Initiative Q</a> <a href="#scr-bot-1" id="scr-top-1">[1]</a>. Stamp scrip currencies are an interesting monetary technology. They're bank notes that require weekly or monthly stamps in order to be valid. These stamps cost money (normally a few percent of the face value of the note), which imposes a cost on holding the currency. This is supposed to encourage spending and spur economic activity.
 
 This isn't just theory. It actually happened. In the Austrian town of Wörgl, a scrip currency was used to great effect for several months during the Great Depression, leading to a sudden increase in employment, money for necessary public works, and a general reversal of fortunes that had, until that point, been quite dismal. Several other towns copied the experiment and saw similar gains, until the central bank stepped in and put a stop to the whole thing.
@@ -51,7 +52,9 @@ Central bank backed currencies are ultimately preferable when the central bank i
 Still, in situations where the central bank fails, stamp scrip currencies can be a useful temporary stopgap.
 
 That said, I think a general caution is needed when thinking about situations like this. There are few times in economic history as different from the present day as the Great Depression. The very fact that there was unemployment north of 20% and many empty factories makes it miles away from the economic situation right now. I would suspect that radical interventions that were useful during the Great Depression might be useless or actively harmful right now, simply due to this difference in circumstances.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="scr-bot-1">[1]</strong> My opinion is that their marketing structure is kind of cringey (my Facebook feed currently reminds me of all of the "Paul Allen is giving away his money" chain emails from the 90s and <a href="https://www.facebook.com/zjacobi/posts/10155432099651467?notif_id=1540691579640771&amp;notif_t=feedback_reaction_generic">I have only myself to blame</a>) and their monetary policy has two aims that could end up in conflict. On the other hand, it's fun to watch the numbers go up and idly speculate about what you could do if it was worth anything. I would cautiously recommend Q ahead of lottery tickets but not ahead of saving for retirement. <a href="#scr-top-1">^</a>
 
 <strong id="scr-bot-2">[2]</strong> See "<a href="http://www.independent.org/store/book.asp?id=118">The Midas Paradox</a>" by Scott Sumner for a more in-depth breakdown. You can also get an introduction to monetary theories of the business cycle <a href="http://www.themoneyillusion.com/short-intro-course-on-money/">on his blog</a>, or listen to him talk about the Great Depression on <a href="https://vimeo.com/11700175">Vimeo</a>. <a href="#scr-top-2">^</a>

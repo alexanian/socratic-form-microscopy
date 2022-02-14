@@ -1,6 +1,6 @@
 ---
 id: 785
-title: 'Book Review: The Captured Economy'
+title: "Book Review: The Captured Economy"
 date: 2018-06-25T08:34:16-04:00
 author: Zach
 layout: post
@@ -18,6 +18,7 @@ tags:
   - reading
   - zoning delenda est
 ---
+
 There are many problems that face modern, developed economies. Unfortunately, no one agrees with what to do in response to them. Even economists are split, with libertarians championing deregulation, while liberals call for increased government spending to reduce inequality.
 
 Or at least, that's the conventional wisdom. <a href="https://global.oup.com/academic/product/the-captured-economy-9780190627768?cc=us&amp;lang=en&amp;">The Captured Economy</a>, by Dr. Brink Lindsey (libertarian) and Dr. Steven M. Teles (liberal) doesn't have much time for conventional wisdom.
@@ -71,6 +72,7 @@ Therefore, rent-seeking, as a force holding down productivity growth, would be a
 But that's where the other half of this book comes in; the authors suggest that our current spate of rent-seeking policies are fueling income inequality as well as economic malaise <a id="tce-top-1" href="#tce-bot-1">[1]</a>. Rent-seeking inflates stock prices (which only helps people who are well-off enough that they own stocks) or wages at the top of corporations. Rents from rent-seeking also tend to accrue to skilled workers, to people who own homes, and people in regulated professions. All of these people are wealthier than average and increasing their wealth increases inequality.
 
 That's the theory. To show it in practice, Lindsey and Teles introduce four case studies: finance, intellectual property, zoning, and occupational licensing.
+
 <h3>Finance</h3>
 Whenever I think about finance, I am presented with a curious double image. There are the old-timey banks of yore, that I see in movies, the ones <a href="https://en.wikipedia.org/wiki/3-6-3_Rule">that provided smiling service to their local customers</a>. And then there are the large financial entities that exist today, with their <a href="http://www.cbc.ca/news/business/banks-upselling-go-public-1.4023575">predatory sales tactics</a> and "too big to fail" designations. Long gone are the days when banks mostly made money by collecting interest on loans, loans made possible by paying interest on deposits.
 
@@ -95,6 +97,7 @@ Being able to extract all these rents has probably increased the size of the US 
 Beyond a certain point, the financial sector is just moving money around to no productive aim (this is different than e.g. loans to businesses; I'm talking about highly speculative bets on foreign currencies or credit default swaps here). The financial sector also aggressively recruits very bright people using very high salaries. If the financial sector were smaller and couldn't compensate as highly, then these people would be out doing something productive, like building self-driving cars or curing malaria. Lindsey and Teles suggest that we should happily make a trade-off whereby these people can't get quite as high salaries but <em>do</em> actually produce things of value.
 
 (Remember: one of the pair here is a libertarian! Like "worked for Cato Institute for years" libertarian. If your caricature of libertarians is that "they hate poor people", I suggest you consider the alternative: "they think the free market is the best way to help disadvantaged people find better circumstances". Here, Lindsey is trying to correct market failures and misallocations caused by big banks getting too cozy with the government.)
+
 <h3>Intellectual Property Law</h3>
 If you don't follow the Open Source or Creative Commons movements, you probably had mostly positive things to say about copyright until a few years ago when the protests against SOPA and PIPA – two bills designed to strengthen copyright enforcement – painted the internet black in opposition.
 
@@ -121,6 +124,7 @@ All of this adds up to a serious drag on the economy, not to mention our culture
 They have less sympathy for patents, which grant a somewhat ridiculous monopoly. If you patent something three days before I independently invent it, then any use or sale by me is still considered infringement even though I am assuredly not ripping you off.
 
 Lindsey and Teles suggest that IP laws need to be rolled back to a more reasonable state, when copyright was for 14 years and abstract ideas, software implementation, and <em>business methods</em> couldn't be patented. About the only patents they really approve of are pharmaceutical patents, which they view as necessary to protect the large upfront costs of drug development (see also Scott Alexander's <a href="http://slatestarcodex.com/2016/09/07/reverse-voxsplaining-brand-name-drugs/">argument for why this is the case</a> <a id="tce-top-5" href="#tce-bot-5">[5]</a>); I'd like to add that these upfront costs would be lower if the rent-seeking by pharmaceutical companies hadn't supported rent-seeking regulation that has made the FDA an almost impenetrable tar-pit.
+
 <h3>Occupational Licensing</h3>
 Occupational licensing has definitely become more common. It's gone from affecting 10% of the workforce (1970) to 30% of the workforce today. It no longer just affects doctors, teachers, lawyers, and engineers. Now it covers make-up artists, auctioneers, athletic trainers, and barbers.
 
@@ -149,6 +153,7 @@ I do wish this chapter better separated what I think is dual messages on occupat
 I'd like them separated because they seem to call for separate solutions. We might decide that if we could fix the equality issues (for example, by scrapping criminal records checks and college degree requirements where they aren't needed), it might make sense to keep occupational licensing to prevent a race for the bottom among occupations that have never represented a significant fraction of individual spending. One thing I noticed is that the decline among union membership is <em>exactly mirrored</em> by the increase in occupational licensing. In a very real way, occupational licensing, with some tweaks, could be the new unions.
 
 On the other hand, we have doctors and lawyers (and maybe even engineers, although my understanding is that they do far less to restrict supply, especially foreign supply) who are making huge salaries that (in the case of lawyers) might be up to 50% rents from artificially low supply. If we undid some of the artificial barriers to entry they've thrown up, we could lower their wages and improve income equality while at the same time improving competition and opening up these fields (which should still pay reasonably well) to more people. Many of us probably know people who'd make perfectly fine doctors that have been kept out of medical school by the overly restrictive quotas. Where's the harm in having two doctors making $90,000/year instead of one doctor making $180,000/year? It's not like we couldn't find a use for twice as many doctors!
+
 <h3>Zoning</h3>
 The weirdest thing about the recent rise in housing prices is that <em>building</em> houses hasn't really gotten any more expensive. Between 1950 and 1970, housing prices increased 35% above inflation (when normalized to size) and construction costs increased 28% above inflation. Between 1970 and 2000, construction prices rose 6% slower than inflation – becoming cheaper in real terms – and overall housing costs increased 72% above inflation.
 
@@ -179,6 +184,7 @@ Out of all of these examples of rent-seeking, the one I feel least optimistic ab
 Until we figure out how to do that, I'm going to continue to fight back tears every time I see a sign like this one:
 
 [caption id="attachment_786" align="alignnone" width="421"]<img class="wp-image-786" src="https://socratic-form-microscopy.com/wp-content/uploads/20180621_191020_HDR-768x1094.jpg" alt="" width="421" height="600" /> Why should I get a say in whether a local commercial landlord provides the businesses in their building slightly smaller parking spots? Shouldn't we be aiming for a walkable, decarbonized downtown where parking is irrelevant? That's what all the plans call for. Of course, the whole thing makes sense if it isn't about what size parking spots should be and is about making it impossible for anyone to build anything in my downtown neighbourhood.[/caption]
+
 <h3>How do we fight rent-seeking?</h3>
 Surprisingly, most of the suggestions Lindsey and Teles put forth are minor, pro-democratic, and pro-government. There isn't a single call in here to restrict democracy, shrink the size of the government, or completely overhaul anything major. They're incrementalist, pragmatic, and give me a tiny bit of hope we might one day even be able to conquer zoning.
 
@@ -213,7 +219,9 @@ For my part, I had opposed rent-seeking because I knew it hurt economic growth. 
 Lindsey and Teles convinced me that fighting rent-seeking is entirely consistent with my <a href="https://socratic-form-microscopy.com/2018/06/02/political-views-for-may-2018/">political commitments</a>. Municipal elections are coming up and I'm committed to finding and volunteering for any candidate who is consistently anti-zoning. If none exists, then I'll register myself. Winning almost isn't the point. I want to be one of those people getting the word out, showing that alternatives to the current broken system is possible.
 
 And when the time is right, I want to be there when those alternatives supplant the rent-seekers.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="tce-bot-1">[1]</strong> Rent-seeking doesn't necessarily have to lead to increased inequality. Strict immigration controls, monopolies, strong unions, and strict tariffs all extract rents. These rents, however, tend to distribute down or sideways, so don't really increase inequality. <a href="#tce-top-1">^</a>
 
 <strong id="tce-bot-2">[2]</strong> Banks don't keep enough money on hand to cover deposits entirely, because they need to lend out money to make money. If banks didn't lend money, you'd have to pay them for the privilege of parking your money there. This means that banks run into a problem when everyone tries to withdraw their money at once. Eventually, there will be no more money and the bank will fail. This used to happen <em>all the time</em>.

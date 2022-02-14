@@ -1,6 +1,6 @@
 ---
 id: 973
-title: 'Book Review: The Horse The Wheel And Language'
+title: "Book Review: The Horse The Wheel And Language"
 date: 2019-04-13T08:30:29-04:00
 author: Zach
 layout: post
@@ -13,7 +13,7 @@ enclosure:
     https://socratic-form-microscopy.com/wp-content/uploads/athe%CC%80te-vs-athlete.mp3
     97836
     audio/mpeg
-    
+
 categories:
   - History
   - Literature
@@ -21,6 +21,7 @@ tags:
   - book review
   - reading
 ---
+
 The modern field of linguistics dates from 1786, when Sir Willian Jones, a British judge sent to India to learn Sanskrit and serve on the colonial Supreme Court, realized just how similar Sanskrit was to Persian, Latin, Greek, Celtic, Gothic, and English (yes, he really spoke all of those). He concluded that the similarities in grammar were too close to be the result of chance. The only reasonable explanation, he claimed, was the descent of these languages from some ancient progenitor.
 
 This ancestor language is now awkwardly known as Proto-Indo-European (PIE). It and the people who spoke it are the subject of David Anthony's book <em>The Horse The Wheel And Language </em><a id="hwl-top-1" href="#hwl-bot-1">[1]</a>. I picked up the book hoping to learn a bit about really ancient history. I ended up learning some of that, but this is more a book about linguistics and archeology than about history.
@@ -91,7 +92,7 @@ With a rough time-range, we can begin looking for our Proto-Indo-Europeans in sp
 
 Uralic (appropriately) probably first emerged somewhere near the Ural Mountains. This corresponds well with our other evidence because the area around the Urals (where borrowing could have taken place) is temperate and home to the flora and fauna words we know exist in PIE.
 
-The PIE word for honey, *médhu (note its similarity with the English word for a fermented honey drink, "mead" <a id="hwl-top-5" href="#hwl-bot-5">[5]</a>), is particularly useful here. We know that bees weren't common in Siberia during the time when we suspect PIE was being spoken (and where they were common, the people weren't herders), but that bees were common on the other side of the Urals.
+The PIE word for honey, \*médhu (note its similarity with the English word for a fermented honey drink, "mead" <a id="hwl-top-5" href="#hwl-bot-5">[5]</a>), is particularly useful here. We know that bees weren't common in Siberia during the time when we suspect PIE was being spoken (and where they were common, the people weren't herders), but that bees were common on the other side of the Urals.
 
 Laying it all out, we see that PIE speakers were herders (there's an expansive set of words relating to the tasks herders must accomplish), who lived near the Urals but not in Siberia. The best archeological match for these criteria is a set of herder people who lived in what is now modern-day Ukraine and it is these people that Anthony identifies as the Proto-Indo-Europeans.
 
@@ -122,6 +123,7 @@ The farmers were no pushovers; some of their towns held up to 10,000 people by t
 And it was at about this point in the narrative where the number of cultures proliferated beyond my ability to follow and I began writing down interesting facts rather than keeping track of the grand narrative.
 
 Here are a few that I liked the most:
+
 <ul>
  	<li>About 20% of corpses in warrior graves (those with weapons and other symbols of membership in warrior society) whose gender is known are female. This matches the percentage in much later steppe graves. As Kameron Hurley said, <a href="http://aidanmoher.com/blog/featured-article/2013/05/we-have-always-fought-challenging-the-women-cattle-and-slaves-narrative-by-kameron-hurley/">women have always fought</a>.</li>
  	<li>Contrary to popular stereotypes, the cultures of the Eurasia steppes weren't reliant on cities for manufactured goods. They had their own potters and metalsmiths and they made many mining camps. In fact, by the 2000s BCE, it seems that Mesopotamian cities were dependent metal mined on the steppes,</li>
@@ -134,7 +136,9 @@ I've struggled through a lot of books that are clearly meant for people more kno
 The rest of it makes up for that. But I think there would be market for Anthony to write another leaner volume, meant for a more general audience.
 
 If he ever does, I'll probably give it a read.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="hwl-bot-1">[1]</strong> David Anthony is very sensitive to the political ends that some scholars of Proto-Indo-European have turned to. He acknowledges that white supremacists appropriated the self-designation of "Aryan" used by some later speakers of PIE-derived languages and used it to refer to some sort of ancient master race. Professor Anthony does not buy into this one bit. He points out that Aryan was always a cultural term, not a racial one (showing the historical ignorance of the racists) and he is careful to avoid assigning any special moral or mythical virtue to the Proto-Indo-Europeans whose culture he studies.
 
 White supremacists will find nothing to like about this book, unless they engage in a deliberate misreading. <a href="#hwl-top-1">^</a>
@@ -145,4 +149,4 @@ White supremacists will find nothing to like about this book, unless they engage
 
 <strong id="hwl-bot-4">[4]</strong> Uralic is the language family that in modern times includes Finnish and some languages spoken in Russia. <a href="#hwl-top-4">^</a>
 
-<strong id="hwl-bot-5">[5]</strong> While looking up the word *médhu, I found out that it is also likely the root of the Old Chinese word for honey, via an extinct Proto-Indo-European language, Tocharian. The speakers of Tocharian migrated from the Proto-Indo-European homeland to Xinjiang, in what is now China, which is likely where the borrowing took place. <a href="#hwl-top-5">^</a>
+<strong id="hwl-bot-5">[5]</strong> While looking up the word \*médhu, I found out that it is also likely the root of the Old Chinese word for honey, via an extinct Proto-Indo-European language, Tocharian. The speakers of Tocharian migrated from the Proto-Indo-European homeland to Xinjiang, in what is now China, which is likely where the borrowing took place. <a href="#hwl-top-5">^</a>

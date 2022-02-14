@@ -1,6 +1,6 @@
 ---
 id: 596
-title: 'Two Fallacies From &#8216;Weapons of Math Destruction&#8217;'
+title: "Two Fallacies From &#8216;Weapons of Math Destruction&#8217;"
 date: 2017-11-19T11:26:09-05:00
 author: Zach
 layout: post
@@ -15,11 +15,13 @@ categories:
 tags:
   - book review
 ---
+
 <em>Much thanks to <a href="http://decodyng.com/">Cody Wild</a> for providing editing and feedback. That said, I would like to remind my readers that I deserve full credit for all errors and that all opinions expressed here are only guaranteed to be mine.</em>
 
 <em>[12 minute read]</em>
 
 I recently read <a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction">Weapons of Math Destruction by Dr. Cathy O'Neil</a> and found it an enormously frustrating book. It's not that whole book was rubbish ­– that would have made things easy. No, the real problem with this book is that the crap and the pearls were so closely mixed that I had to stare at every sentence very, <em>very</em> carefully in hopes of figuring out which one each was. There's some good stuff in here. But much of Dr. O'Neil's argumentation relies on two new (to me) fallacies. It's these fallacies (which I've dubbed the Ought-Is Fallacy and the Availability Bait-and-Switch) that I want to explore today.
+
 <h1 id="ought-is">Ought-Is Fallacy</h1>
 It's a commonly repeated truism that "correlation doesn't imply causation". People who've been around the statistics block a bit longer might <a href="https://xkcd.com/552/">echo Randall Monroe</a> and retort that "correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'". Understanding why a graph like this:
 
@@ -40,6 +42,7 @@ If you were to claim that because there may be nothing inherent in maleness that
 This doesn't prevent you from making a moral argument that we should ignore certain correlates in certain cases in the interest of fairness, merely that you should not be making an empirical argument about what is ultimately values.
 
 The ought-is fallacy came up literally whenever Weapons of Math Destruction talked about insurance, as well as when it talked about sentencing disparities. Here's one example:
+
 <blockquote>But as the questions continue, delving deeper into the person’s life, it’s easy to imagine how inmates from a privileged background would answer one way and those from tough inner-city streets another. Ask a criminal who grew up in comfortable suburbs about “the first time you were ever involved with the police,” and he might not have a single incident to report other than the one that brought him to prison. Young black males, by contrast, are likely to have been stopped by police dozens of times, even when they’ve done nothing wrong. A 2013 study by the New York Civil Liberties Union found that while black and Latino males between the ages of fourteen and twenty-four made up only 4.7 percent of the city’s population, they accounted for 40.6 percent of the stop-and-frisk checks by police. More than 90 percent of those stopped were innocent. Some of the others might have been drinking underage or carrying a joint. And unlike most rich kids, they got in trouble for it. So if early “involvement” with the police signals recidivism, poor people and racial minorities look far riskier.</blockquote>
 Now I happen to agree with Dr. O'Neil that we should not allow race to end up playing a role in prison sentence length. There are plenty of good things to include in a sentence length: seriousness of crime, remorse, etc. I don't think race should be one of these criteria and since the sequence of events that Dr. O'Neil mentions make this far from the default in the criminal justice system, I think doing more to ensure race stays out of sentencing is an important <em>moral</em> responsibility we have as a society.
 
@@ -56,6 +59,7 @@ Despite this disadvantage, I think keeping our moral and empirical claims separa
 Second, I would argue that it is ridiculous to claim that universal human rights must rest on claims of genetic identicalness between all groups of people (and trying to make the empirical claim above, rather than a moral claim implicitly embraces this premise). Ashkenazi Jews are (on average) <a href="http://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf">about 15 IQ points ahead of other groups</a>. Should we give them any different moral worth because of this? I would argue no <a id="wtf-top-5" href="#wtf-bot-5">[5]</a>. The only criteria for full moral worth as a human and all universal rights that all humans are entitled to is <em>being human</em>.
 
 As genetic engineering becomes possible, it will be especially problematic to have a norm that moral worth of humans can be modified by their genetic predisposition to pro-social behaviour. Everyone, but most especially the left, which views diversity and flourishing as some of its most important projects should push back against both the is-ought and ought-is fallacies and fight for an expansive definition of universal human rights.
+
 <h1>Availability Bait-and-Switch</h1>
 Imagine someone told you the following story:
 <blockquote>The <a href="https://en.wikipedia.org/wiki/Fair_Housing_Act">Fair Housing Act</a> has been an absolute disaster for my family! My brother was trying to sublet his apartment to a friend for the summer. Unfortunately, one of the fair housing inspectors caught wind of this and forced him to put up notices that it was for rent. He had to spend a week showing random people around it and some snot-nosed five-year-old broke one of his vases while he was showing that kid's mother around. I know there were problems before, but is the Fair Housing Act really worth it if it can cause this?</blockquote>
@@ -72,7 +76,9 @@ If I were to give you a bunch of very vivid examples of how algorithms can ruin 
 Because for a book about how algorithms are destroying everything, there was a remarkable paucity of <em>data</em> on this destruction. I cannot recall seeing any comparative analysis (backed up by statistics, not <em>anecdotes</em>) of the costs and benefits of human decision making and algorithmic decision making, as it applied to Dr. O'Neil's areas of focus. The book was all the costs of one and a vague allusion to the potential costs of the other.
 
 If you want to give your readers an accurate snapshot of the ground truth, your examples must be representative of the ground truth. If algorithms cause twice as much damage as human decision making in certain circumstances (and again, I've seen <em>zero</em> proof that this is the case) then you should interleave every two examples of algorithmic destruction with one of human pettiness. As long as you aren't doing this, you are lying to your readers. If you're committed to lying, perhaps for reasons of pithiness or flow, then drop the vague allusions to the costs of the other way of doing things. Make it clear you're writing a hatchet job, instead of trying to claim epistemic virtue points for "telling both sides of the story". At least doing things that way is honest <a id="wtf-top-7" href="#wtf-bot-7">[7]</a>.
-<h1>Footnotes</h1>
+
+<h3>Footnotes:</h3>
+
 <strong id="wtf-bot-1">[1]</strong> This is a classic example of "anchoring", a phenomenon where you appear to have a strong correlation in a certain direction because of a single extreme point. When you have anchoring, it's unclear how generalizable your conclusion is – as the whole direction of the fit could be the result of the single extreme point.
 
 Here's a toy example:

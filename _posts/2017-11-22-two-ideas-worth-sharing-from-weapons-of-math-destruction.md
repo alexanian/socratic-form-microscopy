@@ -59,7 +59,8 @@ Sloppy work, like that value-added teacher model is the very definition of bad w
 
 I can accept stains on the honour of my chosen profession. Those are inevitable. But in a way, stains on our <em>competence</em> are so much worse. Models that take in no feedback are both, but the second <em>really</em> stings me.
 
-<h1>Footnotes</h1>
+<h3>Footnotes:</h3>
+
 <strong id="til-bot-1">[1]</strong> This first approximation isn't correct in practice, because certain patterns of small transactions are consistent with fraud. I found this out the hard way, when a certain Bitcoin exchange's credit card verification procedure (withdrawing less than a dollar, then refunding it a few days later, after you tell them how much they withdrew) triggered the fraud detection software at my bank. Apparently credit card thieves will often do a similar thing (minus the whole "ask the cardholder how much was withdrawn" step), as a means of checking if the card is good without cluing in the cardholder. <a href="#til-top-1">^</a>
 
 <strong id="til-bot-2">[2]</strong> I don't mean this as a criticism of capitalism. I seek merely to point out (that like all other economic systems) capitalism is neither value neutral, nor inevitable. "Capitalism" encodes values like "people are largely rational", "people often act to maximize their gains" and "choice is fundamentally good and useful". <a href="#til-top-2">^</a>

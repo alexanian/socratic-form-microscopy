@@ -1,6 +1,6 @@
 ---
 id: 659
-title: 'Franchise Economics: Why Tim Hortons Has Become A Flashpoint In The Minimum Wage Fight'
+title: "Franchise Economics: Why Tim Hortons Has Become A Flashpoint In The Minimum Wage Fight"
 date: 2018-01-06T15:06:51-05:00
 author: Zach
 layout: post
@@ -18,6 +18,7 @@ tags:
   - ontario
   - regulation
 ---
+
 Since the minimum wage increase took effect on January 1<sup>st</sup>, Tim Hortons has been in the news. Many local franchisees <a href="http://www.cbc.ca/news/business/tims-timhortons-minimumwage-wynne-liberals-ontario-1.4474836">have been clawing back benefits</a>, removing paid breaks, or otherwise taking measures to reduce the costs associated with an increased minimum wage.
 
 TVO just put out a piece about this ongoing saga by the Christian socialist Michael Coren. It loudly declares that "<a href="https://tvo.org/article/current-affairs/shared-values/why-tim-hortons-doesnt-deserve-your-sympathy">Tim Hortons doesn't deserve your sympathy</a>". Unfortunately, Mr. Coren is incorrect. Everyone involved here (Tim Hortons the corporation, Tim Hortons franchisees, and Tim Hortons workers) is caught between a rock and a hard place. They <em>all</em> deserve your sympathy.
@@ -65,7 +66,9 @@ This might make it seem like corporate Tim Hortons is the bad guy here. They are
 Minimum wage jobs suck. For all that economists claim there is no moral judgement implied in a wage, that it merely shows the intersection of the amount of supply of a certain type of labour and the demand for that labour, it can be hard to believe that there is no moral dimension to this when people making one wage struggle to make ends meet, while those earning another can buy fancy cars they don't even need.
 
 It is popular to blame business owners and capitalists for the wages their workers make and to say that it shows how little they value their workers. I don't think that's merited here. Corporate Tim Hortons has crunched the numbers and decided that if they raise prices, fewer people will buy coffee, their profits will decrease, and they might be personally liable for breach of fiduciary duty. In the face of rising prices, franchisees try and do whatever they can to stay afloat. We can say that caring about profits more than the wages their workers make shows immense selfishness on the part of these franchisees, but it's little different than the banal selfishness anyone shows when they care more about making money for themselves than making money and giving it away – or the selfishness we show when we want our coffee to be cheaper than it can be when made by someone earning a wage that can comfortably support a family.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="tim-bot-1">[1]</strong> As long as there are other available investments approximately as risky as opening a fast-food restaurant that return at least 6%, profits shouldn't drop any lower than that. In this way, inefficiencies in other sectors could stop fast food restaurants from behaving like they were in a perfectly free market even if they were. <a href="#tim-top-1">^</a>
 
 <strong id="tim-bot-2">[2]</strong> This calculation is flawed, in that there are probably other costs making up total labour costs (like benefits) beyond simple wage income. On the other hand, it isn't just wages that are going up. Other increased costs probably balance out any inaccuracies, making the conclusions essentially correct. This is to say nothing for corporate taxes, which further reduce profits. <a href="#tim-top-2">^</a>

@@ -1,6 +1,6 @@
 ---
 id: 456
-title: 'Book Review: Shattered'
+title: "Book Review: Shattered"
 date: 2017-07-23T13:11:32-04:00
 author: Zach
 layout: post
@@ -19,6 +19,7 @@ tags:
   - reading
   - the media
 ---
+
 <em>[10 minute read]</em>
 
 <em>Foreword: November 8<sup>th</sup> was one of the worst nights of my life, in a way that might have bled through – just a bit, mind you – into this review. My position will probably mellow as the memories of my fear and disappointment fade. </em>
@@ -97,7 +98,7 @@ November 8<sup>th</sup> may have been one of the worst nights of my life. But I'
 
 I really recommend Shattered for anyone who wants to see just how off the rails a political campaign can go when it's buffeted by a combination of candidate ineptitude, unclear chains of command, and persistent attacks from a foreign adversary. It's a bit repetitious at times, which was sometimes annoying and sometimes helpful (especially when I'd forgotten who was who), but otherwise grippingly and accessibly written. The fascinating subject matter more than makes up for any small burrs in the delivery.
 
-<strong>Footnotes:</strong>
+<h3>Footnotes:</h3>
 
 <strong id="shtrd-btm-1">[1]</strong> In a district that has an odd number of delegates, winning by a single vote meant an extra delegate. In a district with 6 delegates, you'd get 3 delegates if you won between 50% and 67% of the votes. In a district with 7, you'd get 4 if you won by even a single vote, and five once you surpassed 71%. If a state has ten counties, four with seven delegates and six with six delegates, you can win the state by four delegates if you squeak to a win in the four districts with seven delegates and win at least 34% of the vote in each of the others. In practice, statewide delegates prevent such wonky scenarios except when the vote is really close, but this sort of math remains vital to winning a close race.  <a href="#shtrd-top-1">^</a>
 

@@ -17,12 +17,14 @@ tags:
   - ontario
   - zach does analysis
 ---
+
 <em>[Epistemic Status: I am not an economist, but…]</em>
 
 <em><strong>ETA (October 2018): <a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Preliminary studies from Seattle</a> make me much more pessimistic about the effects of the Ontario minimum wage hike. I'd also like to highlight the <a href="https://socratic-form-microscopy.com/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">potential for problems</a> when linking a minimum wage to inflation.
 </strong></em>
 
 There's something missing from the discussion about the $15/hour minimum wage in Ontario, something basically every news organization has failed to pick up on. I'd have missed it too, except that a chance connection to a recent blog post I'd read sent me down the right rabbit hole. I've climbed out on the back of a mound of government statistics and I <em>really</em> want to share what I've found.
+
 <p style="text-align: center;"><strong>I</strong></p>
 Reading through the coverage of the proposed $15/hour minimum wage, I was reminded that the Ontario minimum wage is currently <a href="https://www.thestar.com/news/queenspark/2014/01/30/ontario_minimum_wage_goes_up_june_1_to_11.html">indexed to inflation</a>. Before #FightFor15 really took off, indexing the minimum wage to inflation was the standard progressive minimum wage platform (<a href="http://www.nytimes.com/2013/02/13/us/politics/obama-pushes-for-increase-in-federal-minimum-wage.html">as evidenced by Obama calling for it in 2013</a>). Ontario is actually aiming for the best of both worlds; the new $15/hour minimum wage will be indexed to inflation. The hope is that it will continue to have the same purchasing power long into the future.
 
@@ -45,6 +47,7 @@ Looking at this chart, you can see that electronics ("Home Entertainment") have 
 On the other hand, you have education, which has become 60.8% more expensive in nominal terms and 25% more expensive in real terms. It costing more and more to get an education, in a way that can't just be explained by "inflation".
 
 Three of the four categories with the biggest increases in prices rely on the labour of responsible people. The fourth is tobacco; prices increases there are probably driven by increased taxation and its position is a bit of a red herring. It's potentially worrying that the categories where things are getting cheaper (e.g. electronics, clothes) are in the industries that are most amenable to automation. This <em>might</em> imply that tasks that cannot be automated are doomed to become increasingly expensive <a id="min-top-1" href="#min-1">[1]</a>.
+
 <p style="text-align: center;"><strong>II</strong></p>
 I'm certainly not the first person to make the observation that "inflation" isn't a single number. Economists have presumably known this forever, related as it is to the important economics concept of "<a href="https://en.wikipedia.org/wiki/Baumol%27s_cost_disease">cost disease</a>". More recently, you can see this point made from two different directions in Scott Alexander's "<a href="http://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/">Considerations on Cost Disease</a>" (which tries to get to the bottom of the price increases in healthcare and education) and Andrew Potter's "<a href="http://induecourse.ca/the-age-of-anti-consumerism-has-passed/">The age of anti-consumerism has passed</a>" (which looks at the societal changes wrought by many consumer goods becoming much cheaper). As far as I know, no one has yet tied this observation to the discussion surrounding the new Ontario minimum wage.
 
@@ -53,6 +56,7 @@ Like I said above, the new minimum wage will still be indexed to inflation; the 
 Extrapolating backwards, the current Ontario minimum wage ($11.40/hour) was equivalent to $8.88/hour in 2002 (when the CPI was last reset). If instead of tracking inflation generally, the minimum wage had tracked electronics, it would be $4.84 today. If it tracked education, it would be $14.28. Next year, the minimum wage will be $14/hour (it will take until 2019 for the $15/hour wage to be fully phased in), which will make 2018 the first time that students working minimum wage are getting paychecks that will have increased as much as the cost of education.
 
 This won't last of course. The divergence in prices shows no signs of decreasing. The CPI will continue to climb upwards at a steady rate (the target is 2%, last year it only rose 1.4%), buoyed up by large increases in education costs (2.8% last year) and held down by steady decreases in the price of electronics (-1.6% last year). Imagine that the $15/hour minimum wage allows a student to pay a year's tuition with a summer's worth of work. If current trends continue, in 15 years, it would only cover 75% of tuition. Fifteen years after that it would cover about 60%.
+
 <p style="text-align: center;"><strong>III</strong></p>
 There's a funny thing about these numbers. The stuff that's getting more expensive more quickly is largely stuff that younger people have to pay for. If you're 50, have more or less raised your kids, and own a house, then you're golden even if you're working a minimum wage job (although by this point, you probably aren't). Assuming your wage has increased with inflation over your working lifetime, a lot of the things you're looking to buy (travel, electronics, medical devices) will be getting cheaper relative to what you make. Healthcare service costs (e.g. the cost of seeing a doctor) might be increasing for you in theory, but in practice OHIP has you covered for all your doctor's visits <a id="min-top-2" href="#min-2">[2]</a>.
 
@@ -64,7 +68,7 @@ But a minimum wage increase leaves the larger problem of differing rates of infl
 
 I'm game to kick the can down the road for a bit if it means we can make the lives of minimum wage workers better right now. But until we've solved this problem for good, it <em>will</em> keep coming back <a id="min-top-4" href="#min-4">[4]</a>.
 
-<strong>Footnotes:</strong>
+<h3>Footnotes:</h3>
 
 <strong id="min-1">[1]</strong> I'm not sure this is exactly a bad thing, per se. Money is a means of signalling that you'd like your preferences satisfied. It becoming more expensive to pay actual humans to do things could mean that actual humans have so many good options that they're only going to waste their time satisfying your preferences if you <em>really</em> make it worth their while. Looked at this way, this means we're steadily freeing ourselves from work.
 

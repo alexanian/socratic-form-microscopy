@@ -22,6 +22,7 @@ tags:
   - tradeoffs are hard
   - zoning delenda est
 ---
+
 <em>[6-minute read]</em>
 
 I don't understand why people choose to go bankrupt living the most expensive cities, but I'm increasingly viewing this as a market failure and collective action problem to be fixed with intervention, not a failure of individual judgement.
@@ -61,7 +62,9 @@ I do believe in a right to shelter. Like anyone who shares this belief, I unders
 A couple of things changed my mind. First, I paid more attention to the experiences of my friends who might be priced out of the cities they grew up in and have grown to love. Second, I read the <a href="http://www.ecomodernism.org/manifesto-english/">Ecomodernist Manifesto</a>, with its calls for densification as the solution to environmental degradation and climate change. Densification cannot happen if many people are priced out of cities, which means figuring this out is actually existentially important.
 
 The final piece of the puzzle was the mental shift whereby I started to view wages in cities – especially for low-wage earners – as a collective action problem and a market failure. As anyone on the <a href="http://induecourse.ca/on-the-disappearance-of-the-centre-right-in-canada/">centre-left</a> can tell you, it's the government's job to fix those – ideally in a redistributive way.
-<h1>Footnotes</h1>
+
+<h3>Footnotes:</h3>
+
 <strong id="caw-bot-1">[1]</strong> This is inductive up to the point where you have a critical mass; there's no benefit until you're the nth + 1 person, where n is the number of people necessary to create a scarcity of workers sufficient to begin bidding up wages. And all of the people who moved will see little benefit for their hassle, unless they're willing to move back. <a href="#caw-top-1">^</a>
 
 <strong id="caw-bot-2">[2]</strong> For us nomadic North Americans, this can be <a href="http://nationalpost.com/opinion/tristin-hopper-why-canadian-white-people-have-so-much-trouble-understanding-why-somebody-wouldnt-want-to-leave-attawapiskat">confusing</a>: "The gospel of 'just pick up and leave' is extremely foreign to your typical European — be they Serbian, French or Irish. Ditto with a Sudanese, Afghan or Japanese national. In Israel, it’s the kind of suggestion that ruins dinner parties… We non-indigenous love to move. We don’t just see it as just good economic policy, but as a virtue. We glorify the immigrant, we hug them at the airport when they arrive and we inherently mistrust anyone who dares to pine for what they left behind". <a href="#caw-top-2">^</a>

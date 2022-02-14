@@ -17,6 +17,7 @@ tags:
   - ethics
   - utilitarianism
 ---
+
 <!-- wp:paragraph -->
 <p>When it comes to day to day living, many people are in agreement on what is right and what is wrong. Giving change to people who ask for it, shoveling your elderly neighbour's driveway, and turning off the lights when you're not in the room: good. Killing, robbing, and drug trafficking: bad. Helping the police to convict mobsters who kill, steal, and traffic drugs: good.</p>
 <!-- /wp:paragraph -->
@@ -87,7 +88,8 @@ tags:
 <!-- wp:paragraph --> Having alternative moralities around makes public morality more complicated. It becomes harder to agree on what is right or wrong; it might be right for a lawyer to help a criminal in a way that it would be wrong for anyone else, or wrong for an engineer to make a mistake in a way that would carry no moral blame for anyone outside of the profession. These alternative moralities require us to do a deeper analysis before judging and reward us with a stronger, more resilient society when we do. <!-- /wp:paragraph -->
 
 <!-- wp:heading --></p>
-<h2>Footnotes</h2>
+<h3>Footnotes:</h3>
+
 <p><!-- /wp:heading -->
 
 <!-- wp:paragraph --> <strong id="am-bot-1">[1]</strong> Even though I disagree strenuously with this poster, I have a bit of fondness for their comment. <a href="https://socratic-form-microscopy.com/justice/">My very first serious essay</a> – and my interest in moral philosophy – was inspired by a similar comment. <a href="#am-top-1">^</a><br /><br /><!-- /wp:paragraph -->

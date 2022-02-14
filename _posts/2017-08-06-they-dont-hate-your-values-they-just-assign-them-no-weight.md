@@ -1,6 +1,6 @@
 ---
 id: 473
-title: 'They don&#8217;t hate your values; they just assign them no weight'
+title: "They don&#8217;t hate your values; they just assign them no weight"
 date: 2017-08-06T10:30:54-04:00
 author: Zach
 layout: post
@@ -17,6 +17,7 @@ tags:
   - social conservatism
   - tradeoffs are hard
 ---
+
 <em>[3-minute read]</em>
 
 <em>Content Warning: Extensive discussion of the morality of abortion</em>
@@ -43,7 +44,7 @@ Abortion gave me the clearest example of orthogonal values, but it might actuall
 
 <em>Epistemic Status: <a href="/about-me">Model</a></em>
 
-<strong>Footnotes:</strong>
+<h3>Footnotes:</h3>
 
 <strong id="val-bot-1">[1]</strong> Socially liberal legislation is just <em>objectively</em> right and is based on the values everyone <em>would</em> have if they could choose freely. Only my political enemies try and <em>force</em> anything on anyone. /sarcasm <a href="#val-top-1">^</a>
 

@@ -17,6 +17,7 @@ tags:
   - regulation
   - safety
 ---
+
 Did you know that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361686/">half of all surgical complications are preventable</a>? In the US alone, this means that surgeons cause <a href="https://www.propublica.org/article/how-many-die-from-medical-mistakes-in-us-hospitals">between 50,00 and 200,000</a> preventable deaths each year.
 
 Surgeons are, almost literally, getting away with murder.
@@ -44,6 +45,7 @@ Second, they highlight a specific flaw in the participants, procedures, or syste
 Not every form of engineering or transportation fulfills both of these criteria. Regulation and training have made flying on a commercial flight many, many times safer than riding in a car, while <a href="https://www.livescience.com/49701-private-planes-safety.html">private flights lag behind and show little safety advantage over </a>other forms of transport. When a private plane crashes, few people die. If they're important (and many people who fly privately are), you might hear about it, but it will quickly fade from the news. These stories don't have staying power and rarely generate outrage, so there's never much pressure for improvement.
 
 The best alternative to this model that I can think of is one that focuses on the "danger differential" in a field and predicts that fields with high danger differentials see more and more regulation until the danger differential is largely gone. The danger differential is the difference between how risky a field currently is vs. how risky it could be with near-optimal safety culture. A high danger differential isn't necessarily correlated with inherent risk in a field, although riskier fields will by their nature have the possibility of larger ones. Here's three examples:
+
 <ol>
  	<li>Commercial air travel in developed countries currently has a very low danger differential. Before a woman was killed by engine debris earlier this year, commercial aviation in the US had gone 9 years without a single fatality.</li>
  	<li>BASE jumping is almost suicidally dangerous and probably could be made <em>only</em> incredibly dangerous if it had a better safety culture. Unfortunately, the illegal nature of the sport and the fact that <a href="https://medium.com/@RichardQuarisa/why-is-base-jumping-so-dangerous-because-we-want-it-to-be-86e974aada59">experienced jumpers die so often</a> make this hard to achieve and lead to a fairly large danger differential. That said, even with an optimal safety culture, BASE jumping would still see many fatalities and still probably be illegal.</li>
@@ -58,7 +60,9 @@ While this only deals with external regulation, I strongly suspect that fear for
 I wonder if it's possible to get a profession running scared about their reputation to the point that they improve their safety, even if there aren't any of the events that seem to drive regulation. Maybe someone like Atul Gawande, who seems determined to make a very big and very public stink about safety in surgery is the answer here. Perhaps having surgery's terrible safety record plastered throughout the New Yorker will convince surgeons that they need to start doing better <a id="srg-top-7" href="#srg-bot-7">[7]</a>.
 
 If not, they'll continue to get away with murder.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="srg-bot-1">[1]</strong> From the CDC's truly excellent <a href="https://wonder.cdc.gov/ucd-icd10.html">Cause of Death search function</a>, using codes V81.7 &amp; V82.7 (derailment with no collision), W13 (falling out of building), W23 (caught or crushed between objects), and W35 (explosion of boiler) at home, other, or unknown. I read through several hundred causes of deaths, some alarmingly unlikely, and these were the only ones that seemed relevant. This estimate seems higher than the one surgeon Atul Gawande gave in The Checklist Manifesto, so I'm confident it isn't too low. <a href="#srg-top-1">^</a>
 
 <strong id="srg-bot-2">[2]</strong> Furthermore, from 1989 to 2000, none of the observed <strong>collapses</strong> were due to flaws in the engineers' designs. Instead, they were largely caused by weather, collisions, poor maintenance, and errors during construction. <a href="#srg-top-2">^</a>

@@ -15,6 +15,7 @@ tags:
   - i apparently give writing advice now
   - someone else probably came up with this first
 ---
+
 [Warning: Spoilers for Too Like the Lightning]
 
 What marks writing as amateurish (and whether "amateurish" or "low-brow" works are worthy of awards) has been a topic of contention in the science fiction and fantasy community for the past few years, with the rise of Hugo slates and the various forms of "<a href="https://en.wikipedia.org/wiki/Sad_Puppies">puppies</a>".
@@ -38,7 +39,9 @@ I wonder if a similar process is what caused the changes that the Sad Puppies ar
 For the people who previously had their choices picked year after year, this (as well as all the thinkpieces explaining why their favourite books are garbage) feels like an attack. Add to this the fact that some of the books that started winning had a more literary bent and you have some fans of the genre believing that the Hugos are going to amateurs who are just cruising to victory by alluding to famous literary works. These readers look suspiciously on crowds who tell them they're terrible if they don't like books that are less focused on the action and excitement they normally read for. I can see why that's a hard sell, even though I've thoroughly enjoyed the last few Hugo winners <a id="ama-top-3" href="#ama-bot-3">[3]</a>.
 
 There's obviously an inferential gap here, if everyone can feel angry about the crappy writing everyone else likes. For my part, I'll probably be using "amateurish" only to describe books that are technically deficient. For books that are genuinely well written but seem to focus more on what the author wants than (on what I think) their likely audience wants, well, I won't have a snappy term, I'll just have to explain it like that.
-<h1>Footnotes</h1>
+
+<h3>Footnotes:</h3>
+
 <strong id="ama-bot-1">[1]</strong> A disclaimer: the work of a critic is always easier than that of a creator. I'm going to be criticizing writing that's better than my own here, which is always a risk. Think of me not as someone criticizing from on high, but frantically taking notes right before a test I hope to barely pass. <a href="#ama-top-1">^</a>
 
 <strong id="ama-bot-2">[2]</strong> I want to separate the Sad Puppies, who I view as people sad that action-packed books were being passed over in favour of more literary ones from the Rabid Puppies, who just wanted to burn everything to the ground. I'm not going to make any excuses for the Rabid Puppies. <a href="#ama-top-2">^</a>

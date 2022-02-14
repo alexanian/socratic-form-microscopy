@@ -1,6 +1,6 @@
 ---
 id: 850
-title: 'Good Intentions Meet A Messy Reality In Elizabeth Warren&#8217;s Corporate Citizenship Push'
+title: "Good Intentions Meet A Messy Reality In Elizabeth Warren&#8217;s Corporate Citizenship Push"
 date: 2018-09-29T08:30:10-04:00
 author: Zach
 layout: post
@@ -16,6 +16,7 @@ tags:
   - regulation
   - tradeoffs are hard
 ---
+
 <em>[Epistemic Status: I am not an economist. I am fairly confident in my qualitative assessment, but there could be things I've overlooked.]</em>
 
 Vox has <a href="https://www.vox.com/2018/8/15/17683022/elizabeth-warren-accountable-capitalism-corporations">an interesting article</a> on Elizabeth Warren's newest economic reform proposal. Briefly, she wants to force corporations with more than $1 billion in revenue to apply for a charter of corporate citizenship.
@@ -29,6 +30,7 @@ Vox characterizes this as Warren's plan to "save capitalism". The idea is that i
 Other supposed benefits of this plan include greater corporate respect for the environment, more innovation, less corporate political meddling, and a greater say for workers in their jobs. The whole 25% decrease in the value of the stock market can also be spun as a good thing, depending on your opinions on wealth destruction and wealth inequality.
 
 I think Vox was too uncritical in its praise of Warren's new plan. There are some good aspects of it – it's not a uniformly terrible piece of legislation – but I think once of a full accounting of the bad, the good, and the ugly is undertaken, it becomes obvious that it's really good that this plan will never pass congress.
+
 <h2>The Bad</h2>
 I can see one way how this plan might affect normal workers – decreased purchasing power.
 
@@ -87,6 +89,7 @@ Heath goes on to explain that basically all governments were forced to abandon t
 This is the kind of thing Warren's plan would bring back. We'd once again be facing managers with split priorities who would plow money into vanity projects, office politics, and their own compensation while using the difficulty of meeting all of the goals in Warren's charter as a reason to escape shareholder lawsuits. It's possible that this cover for incompetence could, in the long run, damage stock prices much more than any other change presented in the plan.
 
 I also have two minor quibbles that I believe are adequately covered elsewhere, but that I want to include for completeness. First, I think this plan is inefficient at controlling executive pay <a href="https://socratic-form-microscopy.com/2018/01/22/youre-doing-taxes-wrong-consumptive-vs-wealth-inequality/">compared to bracketed scaled payroll taxes</a>. Second, if share buybacks were just a short-term profit scheme, <a href="https://www.bloomberg.com/view/articles/2018-08-07/buying-your-way-back-to-riches">they would always backfire</a>. If they're being done, <a href="https://www.bloomberg.com/view/articles/2018-07-09/companies-keep-buying-back-stock">it's probably for rational reasons</a>.
+
 <h2>The Good</h2>
 The shift in comparative advantage that this plan would precipitate within the American economy won't come without benefits. Just as Trump's corporate tax cut makes American finance relatively more appealing and <a href="https://krugman.blogs.nytimes.com/2017/11/14/tax-cuts-and-the-trade-deficit/?mtrref=undefined&amp;assetType=opinion">will likely lead to increased manufacturing job losses</a>, a reduction in deeply discounted goods from China will likely lead to job losses in finance and job gains in manufacturing.
 
@@ -99,6 +102,7 @@ This all shakes out to an increase in middle class wages and a decrease in the w
 As I mentioned above, we would also see fewer attacks on labour laws and organized labour spearheaded by companies. I'll include this as a positive, although I wonder if these attacks would really stop if deprived of corporate money. I suspect that the owners of corporations would keep them up themselves.
 
 I must also point out that Warren's plan would certainly be helpful when it comes to environmental protection. Having environmental protection responsibilities laid out as just as important as fiduciary duty would probably make it easy for private citizens and pressure groups to take enforcement of environmental rules into their own hands via the courts, even when their state EPA is slow out of the gate. This would be a real boon to environmental groups in conservative states and probably bring some amount of uniformity to environmental protection efforts.
+
 <h2 id='the-fucking-pensions'>The Ugly</h2>
 Everyone always forgets the pensions.
 
@@ -125,7 +129,9 @@ The best-case scenario, of course, is just that a bunch of retirees see a huge c
 It is easy to hate on shareholder protection when you think it only benefits the rich. But that just isn't the case. It also benefits anyone with a pension. Your pension, possibly underfunded and a bit terrified of that fact, is one of the actors pushing CEOs to make as much money as possible. It <em>has</em> to if you're to retire someday.
 
 Vox is ultimately wrong about how affected ordinary people are when the stock market declines and because of this, their enthusiasm for this plan is deeply misplaced.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="wwp-bot-1">[1]</strong> To some extent, Warren's plan starts out much less appeal if you (like me) don't have "Wall Street is too focused on the short term" as a foundational assumption.
 
 I am very skeptical of claims that Wall Street is too short-term focused. Matt Levine gives an excellent run-down of <a href="https://www.bloomberg.com/view/articles/2018-06-07/ceos-still-don-t-like-short-termism">why you should be skeptical as well</a>. The very brief version is that complaints about short-termism normally come from CEOs and it's maybe a bad idea to agree with them when they claim that everything will be fine if we monitor them less. <a href="#wwp-top-1">^</a>

@@ -16,6 +16,7 @@ tags:
   - housing policy
   - zoning delenda est
 ---
+
 The 2019 Budget introduced by the Liberal government includes one of the worst policies I've ever seen.
 
 The <a href="https://globalnews.ca/news/5069183/budget-2019-canada-housing-affordability/">CMHC First-Time Home Buyer Incentive</a> provides up to 10% of the purchase price of a house (5% for existing homes, 10% for new homes) to any household buying a home for the first time with an annual income up to $120,000. To qualify, the total mortgage must be less than four times the household's yearly income and the mortgage must be insured, which means that any house costing more than $590,000 <a id="fth-top-1" href="#fth-bot-1">[1]</a> is ineligible for this program. The government will recoup its 5-10% stake when the home is sold.
@@ -39,7 +40,9 @@ The only path towards broadly affordable housing prices is the removal of all im
 <a href="https://www.latimes.com/opinion/livable-city/la-oe-vallianatos-sb-827-housing-zoning-20180402-story.html">Zoning began as a way to enforce racial segregation</a>. Today, it enforces not just racial, but financial segregation, forcing immigrants, the young, and everyone else who isn't well off towards the peripheries of our cities and our societies.
 
 Serious work towards housing affordability would strike back against zoning. This incentive provides a temporary palliative without addressing the root cause, while tying the government's financial wellbeing to high home prices. Everyone struggling with housing affordability deserves better.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="fth-bot-1">[1]</strong> Mortgage insurance is required for any down payment less than 20%. If you have an income of $120,000 and you max out the down payment, then the mortgage of $480,000 would be about 81% of the total price. Division tells us the total price in this case would be $592,592.59, although obviously few people will be positioned to max out the benefit. <a href="#fth-top-1">^</a>
 
 <strong id="fth-bot-2">[2]</strong> Currently, the best argument against buying a home is the chance that the government will one day wake up to the crisis it is creating and withdraw some of its subsidies. It is, in general, not wise to make heavily leveraged bets that will only pay off if subsidies are left in place, but a bet on housing has so far been an exception to this rule. <a href="#fth-top-2">^</a>

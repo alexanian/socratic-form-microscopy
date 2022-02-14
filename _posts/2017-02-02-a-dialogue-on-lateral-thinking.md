@@ -12,6 +12,7 @@ categories:
 tags:
   - dialogue
 ---
+
 <strong>Cast: </strong><em>The Hare</em> (interviewer #1), <em>The Coyote</em> (interviewer #2), and <em>The Tortoise</em> (interviewee).
 
 <em>Hare</em>: Okay, that wraps up the technical portion of the interview. Now we want to ask you some lateral thinking questions.
@@ -99,7 +100,7 @@ tags:
 <em>Tortoise: </em>So about your benefits package…
 
 <hr>
-<strong>Footnotes:</strong>
+<h3>Footnotes:</h3>
 
 <em id="1">[1]</em> All puzzles in this dialogue taken from <a href="http://www.folj.com/lateral/">http://www.folj.com/lateral/</a> <a href="#b1">^</a>
 

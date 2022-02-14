@@ -17,6 +17,7 @@ tags:
   - monetary policy
   - trade
 ---
+
 I have previously written about <a href="https://socratic-form-microscopy.com/2018/03/18/when-to-worry-about-public-debt/">how to evaluate and think about public debt</a> in stable, developed countries. There, the overall message was that the dangers of debt were often (but not always) overhyped and cynically used by certain politicians. In a throwaway remark, I suggested the case was rather different for developing countries. This post unpacks that remark. It looks at why things go so poorly when developing countries take on debt and lays out a set of policies that I think could help developing countries that have high debt loads.
 
 The very first difference in debt between developed and developing countries lies in the available terms of credit; developing countries get much worse terms. This makes sense, as they're often much more likely to default on their debt. Interest scales with risk and it just <em>is </em>riskier to lend money to Zimbabwe than to Canada.
@@ -88,7 +89,9 @@ The doctrine of odious debts wouldn't apply to every indebted developing country
 Until international progress is made on a clear list of conditions under which countries cannot take on new debt and a comprehensive program of debt forgiveness, we're going to see the same cycle repeat over and over again. Countries will take on debt when their commodities are expensive, locking them into an economy dependent on resource extraction. Then prices will fall, default will loom, and the IMF will protect investors. Countries are left gutted, lenders are left rich, taxpayers the world over hold the bag, and poverty and misery continue – until the cycle starts over once again.
 
 A global economy without this cycle of boom, bust, and poverty might be one of our best chances of providing stable, sustainable growth to everyone in the world. I hope one day we get to see it.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 <strong id="3wd-bot-1">[1]</strong> I so wanted to get through this post without any footnotes, but here we are.
 
 There's one other reason why e.g. Canada is a lower risk for devaluation than e.g. Venezuela: central bank independence. The Bank of Canada is staffed by expert economists and somewhat isolated from political interference. It is unclear just how much it would be willing to devalue the currency, even if that was the desire of the Government of Canada.

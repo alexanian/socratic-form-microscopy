@@ -1,6 +1,6 @@
 ---
 id: 986
-title: 'Ending Bailouts and Recessions: Why the Left should care about monetary economics'
+title: "Ending Bailouts and Recessions: Why the Left should care about monetary economics"
 date: 2019-05-05T18:48:44-04:00
 author: Zach
 layout: post
@@ -15,6 +15,7 @@ tags:
   - overview
   - someone else definitely came up with this first
 ---
+
 When I write about economics on this blog, it is <a href="https://socratic-form-microscopy.com/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">quite</a> <a href="https://socratic-form-microscopy.com/2018/07/01/you-might-want-to-blame-central-banks-for-poor-wage-growth/">often</a> from the perspective of monetary economics. I've certainly made <a href="https://socratic-form-microscopy.com/2018/06/02/political-views-for-may-2018/">no secret</a> about how important monetary economics is to my thinking, but I also have never clearly laid out the arguments that convinced me of monetarism, let alone explained its central theories. This isn't by design. I've found it frustrating that many of my explanations of monetarism are relegated to disjointed footnotes. There's almost an introduction to monetarism already on this blog, if you're willing to piece together thirty footnotes on ten different posts.
 
 It is obviously the case that no one wants to do this. Therefore, I'd like to try something else: a succinct explanation of monetary economics, written as clearly as possible and without any simplifying omissions or obfuscations, but free of (unexplained) jargon.
@@ -22,6 +23,7 @@ It is obviously the case that no one wants to do this. Therefore, I'd like to tr
 It is my hope that having recently struggled to shove this material into my own head, I'm well positioned to explain it. I especially hope to explain it to people broadly similar to me: people who are vaguely left-leaning and interested in economics as it pertains to public policy, especially people who believe that public policy should have as its principled aim ensuring a comfortable and dignified standard of living for as many as possible (especially those who have traditionally been underserved or abandoned by the government).
 
 To begin, I should define monetarism. Monetarism is the branch of (macro-)economic thought that holds that the supply of money is a key determinant of recessions, depressions, and growth (in whole, the "business cycle", the pattern of boom and bust that characterizes all market economies that use money).
+
 <h2>Why does money matter?</h2>
 In general, during both periods of growth and recessions, the supply of money increases. However, there have been several periods of time in America where the supply of money has decreased. Between the years of 1867 and 1963, there were eight such periods. They are: 1873-1879, 1892-1894, 1907-1908, 1920-1921, 1929-1933, 1937-1938, 1948-1949, and 1959-1960.
 
@@ -60,6 +62,7 @@ Fourth, we do not need to be a priori skeptical of money as a key determinant of
 These arguments are necessarily summaries; this blog post isn't the best place to put all of the graphs and regression analyses that Schwartz and Friedman did when first formulating their theory of monetary economics. I've read through the analysis several times and I believe it to be sound. If you wish to pore over regressions yourself, I recommend the paper <em>Money and Business Cycle (1963)</em>.
 
 If you can accept that the supply of money plays a key role in the business cycle, you'll probably find yourself in possession of several questions, not the least of which will be "how?". That's a good question! But before I can explain "how", I first need to define money, explain how banking works, and delve into the role and abilities of the central bank. It will be worth it, I promise.
+
 <h2>What is money?</h2>
 At first blush, this is a silly question. Money is one of those things we know when we see. It's the cash in our wallets and the accounts at our banks. Except, it's not quite that.
 
@@ -68,6 +71,7 @@ Money isn't a binary category. Things can have varying amounts of "moneyness", w
 While bank deposits and cash are obviously money, there are also a variety of financial products that we tend to consider money even though they have less moneyness than cash. For example, <a href="https://www.wealthsimple.com/en-ca/investing-101/roboadvisor">robo-investment accounts</a> (of the sort that my generation uses) often given the illusion of containing cash by being denominated in dollars and allowing withdrawals <a id="mon-top-4" href="#mon-bot-4">[4]</a>. What makes them have less moneyness than cash is only apparent when you look under the hood and realize they contain a mixture of stocks and loans.
 
 In a monetary context, when we say "money", we aren't referring to investment accounts or any other instrument that pretends to be cash <a id="mon-top-5" href="#mon-bot-5">[5]</a>. Instead, we're referring to the "money supply", which is made up of instruments with very high moneyness and is determined by three factors:
+
 <ol>
  	<li>The monetary base. This is the money that the central bank issues. We see it as cash, as well as the reserves that regular banks choose to hold.</li>
  	<li>The amount of reserves banks keep against deposits. Later this will show up as the deposit-reserve ratio, which is calculated by dividing total deposits by the reserves kept on hand by banks.</li>
@@ -97,6 +101,7 @@ It isn't just the government that provides restraints. Banks may have internal p
 Governments and bank risk management departs set limits on the deposit-reserve ratio in an attempt to limit bank failures, which become more likely the higher the deposit-reserve ratio gets. Banks don't really sit on all of their reserves, or even stuff it in vaults. Instead, they normally use it to buy assets that they and the government agree are safe. Often this takes the form of government bonds, but sometimes other assets are considered suitable. Many of the mortgage backed securities that exploded during the financial crisis <em>were</em> considered suitably safe, which was a major failure of the ratings agencies.
 
 If assets banks have bought to act as their reserves lose value, they can find their deposit-reserve ratio higher than they want it to be, which often results in a sudden decline in loan activity (and therefore a decline in the growth rate of the money supply) as they try to return their financials to normal <a id="mon-top-8" href="#mon-bot-8">[8]</a>. Bank failures can occur if deposit-reserve ratios get so far from normal that banks cannot afford to meet normal withdrawal requests.
+
 <h2>If people and banks have so much control over the money supply, what do central banks do?</h2>
 What central banks do depends on their <em>mandate</em>; what the government has told them to do. The US Federal Reserve Bank has a <em><a href="https://www.chicagofed.org/research/dual-mandate/dual-mandate">dual mandate</a></em>: to maintain a stable price level (here defined as inflation of approximately 2%) and to ensure full employment (defined as an unemployment rate of around 4.5% <a id="mon-top-9" href="#mon-bot-9">[9]</a>). The Fed is actually a bit of an aberration here. Many central banks (like <a href="https://www.bankofcanada.ca/core-functions/monetary-policy/">Canada's</a>) have a single mandate: "to keep inflation low, predictable, and stable".
 
@@ -125,6 +130,7 @@ Conversely, a 10% interest rate could conceivably represent easy money if banks 
 If you want to see if the target interest rate is inflationary or deflationary, you should look at the market's expectations for inflation. If the market is predicting higher than target inflation, money is easy. If it's predicting below target inflation, money is tight.
 
 Central banks often collect statistics so that they can judge the effectiveness of their policy actions. If inflation is too low, they'll lower their target rate. Too high, and they'll raise it. Over time, if the economy is stable, central banks will correct any short run problems introduced by interest rate targeting and eventually zero in on their inflation target. Unfortunately, this leaves the door open to painful short-term failures.
+
 <h2>How do central banks fail in the short run?</h2>
 First, I want to make it clear that short-term failures are <em>bad</em>. While long-term price stability is definitely a good thing, short-term fluctuations in the money supply can lead to recessions (remember our solid correlation between shrinking money supply and recessions). Even relatively minor short-term failures can have consequences for hundreds of thousands or millions of people whenever recessions lead to job losses.
 
@@ -145,6 +151,7 @@ Things can get even worse when the public loses faith in the banking system. If 
 It's good that we've stopped bank runs, because they're incredibly deflationary (they are very good at shrinking the money supply). This is due to the deposit-currency ratio being a key determinant of the total money supply. When people stop using banks, the deposit-currency ratio falls and the money supply decreases.
 
 Since bank failures can occur quite suddenly and can spread throughout the financial system quickly, a financial crisis can cause a deflation that is too rapid for the central bank to react too. This is especially true because modern central banks have a general tendency to <a href="https://www.lesswrong.com/posts/tAThqgpJwSueqhvKM/frequently-asked-questions-for-central-banks-undershooting">fear inflation much more than many monetarists believe they should</a> <a id="mon-top-16" href="#mon-bot-16">[16]</a>. This is really unfortunate! A slow response to a decrease in the growth of the money supply (whether caused by a financial crisis or something else) can easily turn into a recession or depression, with all the attendant misery.
+
 <h2>Okay, but can you explain how this happens?</h2>
 Many individuals and companies like to keep a certain amount of money on hand, if at all possible. When they have less money than this, they economize, until they feel comfortable with the amount of money they have. When they have more money, the tend to invest it or spend it.
 
@@ -169,6 +176,7 @@ The price of labour (wages), might, in theory be expected to go down, <a href="h
 Decreased growth in the rate of money affects more than just workers. Factories close or sit idle. Economic capacity diminishes. Ultimately, the whole economy can spend less, if some of the economy is gone.
 
 All of these taken together are the hallmarks of recession. We see job losses, idle capacity, and closures. And we can directly point at failures of central bank policy as the culprit.
+
 <h2>Can changes in the growth rate of money affect anything else?</h2>
 There are three interesting relationships between inflation and employment.
 
@@ -183,6 +191,7 @@ Finally, inflation can play an important role in avoiding job losses. Not all ec
 If salaries are kept constant while inflation continues apace (or even increases), they become relatively less expensive, all without the emotional toll that wage cuts take. This can protect jobs and engineer a "soft landing", where a shock doesn't lead to any large-scale job losses.
 
 Obviously, this has to be temporary, so as not to erode the purchasing power of workers too much, but most shocks are temporary, so this is not a difficult constraint.
+
 <h2>Okay, what does this say about policy?</h2>
 There are three main policy takeaways from this post.
 
@@ -195,11 +204,14 @@ Third, expectations are a powerful tool. If banks believe that the central bank 
 I know that "the money supply" will never be a progressive priority. But I think it's a thing that progressives <em>should</em> care about. Billionaires may not like bad monetary policy, but they aren't the ones who feel the brunt of its failure. Those are the workers who are laid off, or the pensioners who lose their savings.
 
 I hope I've made the case that in order to care about them, we need to care about how money works.
+
 <h2>Further Reading and Sources</h2>
 I drew heavily on Money in Historical Perspective, by Anna J. Schwartz when writing this blog post. The papers <em>Money and Business Cycles </em>(1963, with Milton Friedman), <em>Why Money Matters</em> (1969), <em>The Importance of Stable Money: Theory and Evidence</em> (1983, with Michael D. Bordo), and <em>Real and Pseudo-Financial Crises</em> (1986) were particularly informative.
 
 Scott Sumner's blog <a href="https://www.themoneyillusion.com/">The Money Illusion</a> is an excellent resource for current monetarist thought, while J. P. Koning's blog <a href="http://jpkoning.blogspot.com/">Moneyness</a> provides many excellent historical anecdotes about money.
-<h2>Footnotes</h2>
+
+<h3>Footnotes:</h3>
+
 Like all of my posts about economics, this one contains way too many footnotes. These footnotes are mainly clarifying anecdotes, definitions, and comments. I've relegated them here because they aren't necessary for understanding this post, but I think they still can be useful.
 
 <strong id="mon-bot-1">[1]</strong> Separately, banks create <em>currency</em> for day to day use based on the public's demand for currency. The more you go to the ATM, the more bills the central bank creates for you to withdraw. Banks return currency to the central bank every so often (either to buy assets the central bank holds, or to replace it with its digital equivalents). If fewer people want cash and ATMs are overprovisioned, banks will deposit more cash with the central bank than they, as a whole, withdraw.
