@@ -71,7 +71,7 @@ If we didn't have Trump this year, we'd have someone like him in four years or e
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <em id="1"><strong>[1]</strong></em> I'm a Bayesian, so I'll quite happily bet with anyone who believes otherwise. <a href="#b1">^</a>
 <em id="2"><strong>[2]</strong></em> For more information on the transition of Rome into a dictatorship and the forces of empire that drove that transformation, I recommend <a href="/2017/01/22/book-review-spqr/">SPQR by Prof. Mary Beard</a>. <a href="#b2">^</a>

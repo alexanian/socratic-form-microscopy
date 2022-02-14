@@ -68,7 +68,7 @@ Finally, it might be that you don't care that some effects are placebo, so long 
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="iws-bot-1">[1]</strong> Even so, there are things you can do here to get useful information. For example, you could get in the habit of collecting information on yourself for a month or so (like happiness, focus, etc.), then try several combinations of interventions you think might work (e.g. A, B, C, AB, BC, CA, ABC, then back to baseline) for a few weeks each. Assuming that at least one of the interventions doesn't work, you'll have a placebo to compare against. Although be sure to correct any results <a href="https://en.wikipedia.org/wiki/Multiple_comparisons_problem">for multiple comparisons</a>. <a href="#iws-top-1">^</a>
 

@@ -140,7 +140,7 @@ If he ever does, I'll probably give it a read.
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="hwl-bot-1">[1]</strong> David Anthony is very sensitive to the political ends that some scholars of Proto-Indo-European have turned to. He acknowledges that white supremacists appropriated the self-designation of "Aryan" used by some later speakers of PIE-derived languages and used it to refer to some sort of ancient master race. Professor Anthony does not buy into this one bit. He points out that Aryan was always a cultural term, not a racial one (showing the historical ignorance of the racists) and he is careful to avoid assigning any special moral or mythical virtue to the Proto-Indo-Europeans whose culture he studies.
 

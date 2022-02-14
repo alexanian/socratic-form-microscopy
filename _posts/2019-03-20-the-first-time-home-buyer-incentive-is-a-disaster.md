@@ -44,7 +44,7 @@ Serious work towards housing affordability would strike back against zoning. Thi
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="fth-bot-1">[1]</strong> Mortgage insurance is required for any down payment less than 20%. If you have an income of $120,000 and you max out the down payment, then the mortgage of $480,000 would be about 81% of the total price. Division tells us the total price in this case would be $592,592.59, although obviously few people will be positioned to max out the benefit. <a href="#fth-top-1">^</a>
 

@@ -76,7 +76,7 @@ It was an abrogation of duty to go to the courts instead of respectfully dealing
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="mk1" >[1]</strong> I have a lot of fondness for McMaster, having had at least one surgery and many doctors' appointments there. <a href="#mk-top-1">^</a>
 

@@ -102,7 +102,7 @@ tags:
 <hr>
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <em id="1">[1]</em> All puzzles in this dialogue taken from <a href="http://www.folj.com/lateral/">http://www.folj.com/lateral/</a> <a href="#b1">^</a>
 

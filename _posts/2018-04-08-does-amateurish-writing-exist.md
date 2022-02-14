@@ -43,7 +43,7 @@ There's obviously an inferential gap here, if everyone can feel angry about the 
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="ama-bot-1">[1]</strong> A disclaimer: the work of a critic is always easier than that of a creator. I'm going to be criticizing writing that's better than my own here, which is always a risk. Think of me not as someone criticizing from on high, but frantically taking notes right before a test I hope to barely pass. <a href="#ama-top-1">^</a>
 

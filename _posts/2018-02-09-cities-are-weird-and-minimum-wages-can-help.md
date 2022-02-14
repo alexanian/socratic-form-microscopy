@@ -66,7 +66,7 @@ The final piece of the puzzle was the mental shift whereby I started to view wag
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="caw-bot-1">[1]</strong> This is inductive up to the point where you have a critical mass; there's no benefit until you're the nth + 1 person, where n is the number of people necessary to create a scarcity of workers sufficient to begin bidding up wages. And all of the people who moved will see little benefit for their hassle, unless they're willing to move back. <a href="#caw-top-1">^</a>
 

@@ -78,7 +78,7 @@ In either case, I'm not holding my breath.
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="bsb-bot-1">[1]</strong> I'm ignoring the drop in Q2 2014, where wages fell to $330/week, because this was <a href="http://www.themoneyillusion.com/no-strong-labor-markets-dont-cause-higher-wages-never-reason-from-a-quantity-change/">caused by the end of extended unemployment insurance</a> in America. The end of that program made finding work somewhat more important for a variety of people, which led to an uptick in the supply of labour and a corresponding decrease in the market clearing wage. <a href="#bsb-top-1">^</a>
 

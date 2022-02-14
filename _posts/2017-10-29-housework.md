@@ -134,7 +134,7 @@ If you feel underpraised, stop and consider how often <em>you</em> praise your p
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="hw-bot-1">[1]</strong> Or partner<strong>s</strong>. Or roommates. Or family. Endlessly caveating for all potential relationships that can occur in shared spaces is inimical to good flow and I'm vain enough about my writing that I'm going to sacrifice some nuance in the name of readability. <a href="#hw-top-1">^</a>
 

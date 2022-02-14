@@ -130,7 +130,10 @@ It is easy to hate on shareholder protection when you think it only benefits the
 
 Vox is ultimately wrong about how affected ordinary people are when the stock market declines and because of this, their enthusiasm for this plan is deeply misplaced.
 
-<h3>Footnotes:</h3>
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes</h3>
 
 <strong id="wwp-bot-1">[1]</strong> To some extent, Warren's plan starts out much less appeal if you (like me) don't have "Wall Street is too focused on the short term" as a foundational assumption.
 
@@ -147,3 +150,5 @@ I am very skeptical of claims that Wall Street is too short-term focused. Matt L
 <strong id="wwp-bot-6">[6]</strong> These goals could, of course, be accomplished with tax policy, but this is America we're talking about. You can never get the effect you want in America simply by legislating for it. Instead you need to set up a Rube Goldberg machine and pray for the best. <a href="#wwp-top-6">^</a>
 
 <strong id="wwp-bot-7">[7]</strong> Any decline in stocks should cause a similar decline in return on bonds over the long term, <a href="https://www.fool.com/knowledge-center/when-do-stock-bond-prices-move-in-opposite-directi.aspx">because bond yields fall when stocks fall</a>. There's a set amount of money out there being invested. When one investment becomes unavailable or less attractive, similarly investments are substituted. If the first investment is big enough, this creates an excess of demand, which allows the seller to get better terms. <a href="#wwp-top-7">^</a>
+
+</div>

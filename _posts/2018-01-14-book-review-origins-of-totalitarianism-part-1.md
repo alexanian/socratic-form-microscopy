@@ -141,7 +141,7 @@ Increasingly, it seems like this might be one of those moments where the chips c
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="tl1-bot-1">[1]</strong> I want to make it clear that Hannah Arendt (and I) don't believe the old canard about Jews controlling the world. She specifically mentions this lie being baffling, because when it was started, it was true that a rather small group of European statesmen essentially did control the world. But none of those statesmen were Jewish and all of them were so at cross-purposes that no coordination occurred.
 

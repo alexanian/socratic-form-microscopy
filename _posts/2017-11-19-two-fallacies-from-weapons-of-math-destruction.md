@@ -80,7 +80,7 @@ If you want to give your readers an accurate snapshot of the ground truth, your 
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="wtf-bot-1">[1]</strong> This is a classic example of "anchoring", a phenomenon where you appear to have a strong correlation in a certain direction because of a single extreme point. When you have anchoring, it's unclear how generalizable your conclusion is – as the whole direction of the fit could be the result of the single extreme point.
 

@@ -111,7 +111,7 @@ What I've outlined here is a series of small taxes, small enough to make each no
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="cwe-bot-1">[1]</strong> A minimum wage can make it impossible to have <a href="https://en.wikipedia.org/wiki/Pareto_efficiency">Pareto optimal</a> distributions – distributions where you cannot make anyone better off without making someone else worse off. Here's a trivial example: imagine a company with two overworked employees, each of whom make $15/hour. The employees are working more than they particularly want to, because there's too much work for the two of them to complete. Unfortunately, the company can only afford to pay an additional $7/hour and the minimum wage is $14/hour. If the company could hire someone without much work experience for $7/hour everyone would be better off.
 

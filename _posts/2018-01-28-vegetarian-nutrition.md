@@ -88,7 +88,7 @@ That's everything I was able to dig up in a few hours of research. If I've made 
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="nut-bot-1">[1]</strong> I like PubMed because it doesn't index journals unless they meet certain standards of quality. This doesn't <em>ensure</em> anything, but it does mean I don't have to constantly check the impact factor and editorial board of anything I read. <a href="#nut-top-1">^</a>
 

@@ -64,7 +64,7 @@ When you're worried about a certain type of EM radiation causing cancer, all you
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <em id="ant1"><strong>[1]</strong></em> You may have heard that the speed of light changes in different substances. Tables will tell you that the speed of light in water is only about ¾ of the speed of light in air or vacuum and that the speed of light in glass is even slower still. This isn't technically true. The speed of light is (as far as we know) cosmically invariant – light travels the same speed everywhere in the galaxy. That said, the amount of time light takes to travel between two points can vary based on how many collisions and redirections it is likely to get into between two points. It's the difference between how long it takes for a pinball to make its way across a pinball table when it hits nothing and how long it takes when it hits every single bumper and obstacle. <a href="#anttop1">^</a>
 

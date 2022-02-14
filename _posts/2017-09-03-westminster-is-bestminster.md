@@ -74,7 +74,7 @@ In one of the articles <a href="http://induecourse.ca/thoughts-on-president-trum
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="wes-bot-1">[1]</strong> Israel took many cues from Westminster governments. Its president is non-partisan and ceremonial. If Canada was every forced to give up the monarchy, I'd find this sort of presidential system acceptable. <a href="#wes-top-1">^</a>
 

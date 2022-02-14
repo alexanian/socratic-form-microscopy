@@ -117,7 +117,7 @@ Taking just the past into account, I should expect my positions to change regard
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="m17-1">[1]</strong> Bank runs used to be a fact of life. Whenever anyone got hint of any trouble at a bank, they'd rush to it and pull all of their money out, to protect against losing it in the event the bank failed. Unfortunately, this often caused banks to fail, because everyone had an incentive to try and pull all their money out at the slightest hint of insecurity. If they didn't, they'd risk losing it when other people ran to the bank to do the same. Old banks are imposing to give people a sense that their money is safe there. Ever wondered why bank runs just stopped happening in developed countries? Turns out it's because the government started to insure deposits. Once you know that your money will be safe no matter what, you no longer have any incentive to withdraw it at the first sign of trouble. <a href="#top-m17-1">^</a>
 

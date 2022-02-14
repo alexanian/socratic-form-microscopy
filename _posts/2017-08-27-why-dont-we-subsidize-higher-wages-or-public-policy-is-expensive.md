@@ -63,7 +63,7 @@ Disturb it at your own peril.
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="wage-bot-1">[1]</strong> Failure (to me) means increased unemployment. A decrease in labour force participation would probably represent a return to single income families, unless preceded by high unemployment of the sort that drives people to give up looking for work. There's also the failure mode of "causes spiralling inflation", but that seems more likely to end the whole experiment prematurely. <a href="#wage-top-1">^</a>
 

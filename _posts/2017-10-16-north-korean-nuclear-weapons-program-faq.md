@@ -46,7 +46,12 @@ tags:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.6.1">3.6.1 How come China can't make North Korea stop?</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.6.2">3.6.2 How did South Africa end its nuclear weapons program?</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.6.3">3.6.3 How could we convince North Korea to give up its nuclear weapons?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4.0">4. Footnotes</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+---
+
+<div class="footnotes" markdown="1">
+<a href="#4.0">4. Footnotes</a>
 
 <h1 id="1.0">1. Why?</h1>
 <h2 id="1.1">1.1 Why are you writing this?</h2>

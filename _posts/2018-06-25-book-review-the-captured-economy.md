@@ -220,7 +220,10 @@ Lindsey and Teles convinced me that fighting rent-seeking is entirely consistent
 
 And when the time is right, I want to be there when those alternatives supplant the rent-seekers.
 
-<h3>Footnotes:</h3>
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes</h3>
 
 <strong id="tce-bot-1">[1]</strong> Rent-seeking doesn't necessarily have to lead to increased inequality. Strict immigration controls, monopolies, strong unions, and strict tariffs all extract rents. These rents, however, tend to distribute down or sideways, so don't really increase inequality. <a href="#tce-top-1">^</a>
 
@@ -245,3 +248,5 @@ Bank architecture reflects this risk. Everything about the imposing facades of o
 <strong id="tce-bot-9">[9]</strong> This is perhaps the most invidious – and unintended – consequence of Stephen Harper's agenda for Canada. Cutting the long form census made it harder for the Canadian government to enact social policies (<a href="http://induecourse.ca/the-firewall-from-the-other-side-the-past-and-future-of-stephen-harpers-agenda/">Harper's goal</a>), but if these sorts of actions aren't checked, reversed, and guarded against, they also make rent-seeking much more likely. <a href="#tce-top-9">^</a>
 
 <strong id="tce-bot-10">[10]</strong> In Canadian politics, I have hope that some sort of housing affordability coalition could form between some members from left-leaning parties and some principled free-marketers. Michael Chong already has a plan to lower housing prices <a href="http://nationalpost.com/news/canada/tory-leadership-candidate-michael-chong-wants-to-privatize-cmhc-to-fight-trend-to-higher-housing-prices">by getting the government out of the loan securitization business</a>. No doubt banks wouldn't enjoy this, but I for one would appreciate it if my taxes <em>couldn't</em> be used to bail out failing banks. <a href="#tce-top-10">^</a>
+
+</div>

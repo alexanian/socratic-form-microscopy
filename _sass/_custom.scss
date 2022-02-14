@@ -377,7 +377,9 @@ a.slide-menu-nav-item:focus {
 }
 
 // Custom footnotes styling
-.footnotes p {
-  font-size: 0.8em;
-  color: #2b3233;
+.footnotes {
+  p {
+    font-size: 0.8em;
+    color: #2b3233;
+  }
 }

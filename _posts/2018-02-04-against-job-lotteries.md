@@ -105,7 +105,7 @@ If you're someone who has made the opposite trade, I'm very interested in hearin
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="lot-bot-1">[1]</strong> I should mention that there's a difference between economic value, normative/moral value, and social value <em>and I am only talking about economic value here</em>. I wouldn't be writing a blog post if I didn't think writing was important. I wouldn't be learning French if I didn't think learning other languages is a worthwhile endeavour. And I love libraries.
 

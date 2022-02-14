@@ -70,7 +70,7 @@ It is popular to blame business owners and capitalists for the wages their worke
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="tim-bot-1">[1]</strong> As long as there are other available investments approximately as risky as opening a fast-food restaurant that return at least 6%, profits shouldn't drop any lower than that. In this way, inefficiencies in other sectors could stop fast food restaurants from behaving like they were in a perfectly free market even if they were. <a href="#tim-top-1">^</a>
 

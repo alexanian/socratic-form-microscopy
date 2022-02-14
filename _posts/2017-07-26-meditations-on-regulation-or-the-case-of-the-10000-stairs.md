@@ -83,7 +83,7 @@ Also, it probably seems true that some things are a touch over-regulated if $65,
 <em class="epistemic-status">Epistemic Status: </em> <a href="/about-me">Model</a>
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="reg-bot-1">[1]</strong> Of course, even unpaid overtime has a cost. After a lot of it, you might feel justified to a rather longer paid vacation than you might otherwise take. Not to mention that long hours with inadequate breaks can harm productivity in the long run.  <a href="#reg-top-1">^</a>
 

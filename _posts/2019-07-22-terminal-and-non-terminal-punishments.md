@@ -82,7 +82,7 @@ For all that we I wish we had cheaper and less destructive terminal punishments,
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="tnt-bot-1">[1]</strong> And also like, social conventions and your neighbours' opinions and a whole bunch of other things. This blog post is dealing with <a href="https://socratic-form-microscopy.com/2019/04/27/book-review-on-violence/">the small minority of cases where coercion is necessary</a> to get people to play by "the rules of the game" – those rules governing behaviour, social interactions, and conduct which are largely enforced though habit and peer pressure, rather than police dragging you to jail. The principle need for terminal punishments is to provide a stronger inducement to follow the "rules of the game" than most people require. <a href="#tnt-top-1">^</a>
 

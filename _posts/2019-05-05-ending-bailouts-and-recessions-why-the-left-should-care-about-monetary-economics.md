@@ -213,7 +213,7 @@ Scott Sumner's blog <a href="https://www.themoneyillusion.com/">The Money Illusi
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 Like all of my posts about economics, this one contains way too many footnotes. These footnotes are mainly clarifying anecdotes, definitions, and comments. I've relegated them here because they aren't necessary for understanding this post, but I think they still can be useful.
 

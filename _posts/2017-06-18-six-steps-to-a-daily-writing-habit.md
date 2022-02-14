@@ -158,7 +158,7 @@ I've linked to my specific Beeminder writing goals (there are four of them) at v
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="w-b-1">[1]</strong> If this advice doesn't work for you, don't sweat it. I'm just a dude on the internet. This isn't the bible. What works for me may not work for you and there's nothing wrong with you if it doesn't. You'll just have to find your own way, is all. <a href="#w-t-1">^</a>
 

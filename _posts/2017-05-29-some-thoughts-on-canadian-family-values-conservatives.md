@@ -53,7 +53,7 @@ I'm not yet sure of the answer myself.
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="so-con-1">[1]</strong> I want to be clear that I'm talking about execution here, not beliefs. Canadian social conservatives believe many of the same things as American so-cons and vote remarkably similarly to their American counterparts when they're in opposition. The key difference is how they behave when they're in power. Nine years of Conservative governments (four of which saw the Conservatives as the majority party) brought no change in the legal status of gay rights or abortion in Canada. That would be unprecedented in America.  <a href="#top-so-con-1">^</a>
 

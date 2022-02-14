@@ -90,7 +90,7 @@ Also note that this transition doesn't only go in one direction. As manufacturin
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="wvs-bot-1">[1]</strong> Note the past tense throughout much of this essay; when I speak about soldiers and warriors, I'm referring only to times before the 1900s. I know comparatively little about how modern armies are set up. <a href="#wvs-top-1">^</a>
 

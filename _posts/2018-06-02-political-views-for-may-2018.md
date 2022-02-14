@@ -83,7 +83,7 @@ I hope these predictions are more properly calibrated than my last ones!
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="m18-bot-1">[1] </strong>The common liberal take on this is different from pure Keynesian economics, because they don't restrict "times are tough" to recessions and depressions. For a lot of modern people who say they just "support Keynesian economics" (and I was one of them), it's always tough times for someone. <a href="#m18-top-1">^</a><strong> </strong>
 

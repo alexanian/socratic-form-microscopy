@@ -89,8 +89,10 @@ tags:
 
 ## <!-- wp:heading --></p>
 
+---
+
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <p><!-- /wp:heading -->
 

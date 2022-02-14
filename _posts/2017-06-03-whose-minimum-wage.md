@@ -71,7 +71,7 @@ I'm game to kick the can down the road for a bit if it means we can make the liv
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="min-1">[1]</strong> I'm not sure this is exactly a bad thing, per se. Money is a means of signalling that you'd like your preferences satisfied. It becoming more expensive to pay actual humans to do things could mean that actual humans have so many good options that they're only going to waste their time satisfying your preferences if you <em>really</em> make it worth their while. Looked at this way, this means we're steadily freeing ourselves from work.
 

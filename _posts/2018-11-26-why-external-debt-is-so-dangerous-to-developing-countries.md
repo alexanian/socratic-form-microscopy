@@ -93,7 +93,7 @@ A global economy without this cycle of boom, bust, and poverty might be one of o
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="3wd-bot-1">[1]</strong> I so wanted to get through this post without any footnotes, but here we are.
 

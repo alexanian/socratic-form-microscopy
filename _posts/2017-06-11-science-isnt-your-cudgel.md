@@ -44,7 +44,7 @@ This is an experiment I would like to try.
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="science1">[1]</strong> The right, especially the religious right, is less likely to use "science" as a justification for anything, which is the main reason I don't have complaints about them <u>in this blog post</u>. It is obviously terrible science to pretend that evolution didn't happen or that global warming isn't occurring, but it isn't hypocritical if you don't otherwise claim to be a fan of science. Crucially, this blog post is more about hypocrisy than bad science per se. <a href="#sciencetop1">^</a>
 

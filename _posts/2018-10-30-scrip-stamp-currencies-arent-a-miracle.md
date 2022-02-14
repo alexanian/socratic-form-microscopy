@@ -56,7 +56,7 @@ That said, I think a general caution is needed when thinking about situations li
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="scr-bot-1">[1]</strong> My opinion is that their marketing structure is kind of cringey (my Facebook feed currently reminds me of all of the "Paul Allen is giving away his money" chain emails from the 90s and <a href="https://www.facebook.com/zjacobi/posts/10155432099651467?notif_id=1540691579640771&amp;notif_t=feedback_reaction_generic">I have only myself to blame</a>) and their monetary policy has two aims that could end up in conflict. On the other hand, it's fun to watch the numbers go up and idly speculate about what you could do if it was worth anything. I would cautiously recommend Q ahead of lottery tickets but not ahead of saving for retirement. <a href="#scr-top-1">^</a>
 

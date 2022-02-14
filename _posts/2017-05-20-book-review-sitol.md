@@ -119,7 +119,7 @@ I know that myself (and many other cosmopolitan-leaning liberals) have begun to 
 ---
 
 <div class="footnotes" markdown="1">
-<h3>Footnotes:</h3>
+<h3>Footnotes</h3>
 
 <strong id="sitol-b-1">[1]</strong> Specifically, Prof. Hochschild looked for correlations between agreement with the statements "people worry too much about progress harming the environment", "industrial air pollution is dangerous to the environment", "the U.S. does enough to protect the environment", and "Some people think that the government in Washington is trying to do too many things that should be left to individuals and private businesses", political affiliation (Democrat/Republican), and pollution rates. Her analysis found that agreement with the statement "people worry too much about progress harming the environment" (as well as membership in the Republican party) was correlated with relative risk of being exposed to toxic chemical release. Because I don't even have the P values these were significant at, let alone knowledge of how they corrected for multiple comparisons and how many comparisons were attempted, I have to treat the correlation as liable to be caused by chance. <a href="#sitol-t-1">^</a>
 
