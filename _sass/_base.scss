@@ -44,7 +44,7 @@ body {
   font-size: $body-font-size;
   line-height: 1.5;
   color: $color-body-text;
-  background-color: #fff;
+  background-color: $white;
 }
 
 p {
@@ -91,6 +91,10 @@ h6,
   text-transform: uppercase;
   letter-spacing: 0.02em;
   color: $color-secondary;
+}
+
+.text-light {
+  color: $white;
 }
 
 a {

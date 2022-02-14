@@ -7,11 +7,18 @@ title: Categories
 <header class="header-background">
   <div class="container mx-auto px-2 mb-2 clearfix header-text">
     <h1 class="inline-block col-9 sm-width-full py-2 mt-2 header-title">
-      {{ page.title }}
+      All Posts by Category
     </h1>
+    <p class="h4 text-light">
+      Jump to category: {% assign sorted_categories = site.categories | sort %}
+      {% for category in sorted_categories %} {% capture category_name %}{{
+      category | first }}{% endcapture %}
+      <a href="#{{ category_name | slugize }}">{{category_name}}</a>{% if
+      forloop.last %}{% else %},{% endif %} {% endfor %}
+    </p>
   </div>
 </header>
-<div class="container mx-auto px-2 py-4">
+<div class="container mx-auto px-2 py-2">
   <div id="archives">
     {% assign sorted_categories = site.categories | sort %} {% for category in
     sorted_categories %}
@@ -20,8 +27,10 @@ title: Categories
       <div id="#{{ category_name | slugize }}"></div>
       <p></p>
 
-      <a href="/category/{{ category_name | slugify }}" class="category-head"
-        ><h3>{{ category_name }}</h3></a
+      <a
+        href="/category/{{ category_name | slugify }}"
+        class="category-head secondary"
+        ><h3 class="text-dark">{{ category_name }}</h3></a
       >
       <div class="category-articles">
         <a name="{{ category_name | slugize }}"></a>
