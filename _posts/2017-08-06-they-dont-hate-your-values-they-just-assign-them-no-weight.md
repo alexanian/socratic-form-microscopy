@@ -42,10 +42,15 @@ But empathy isn't useless! There's something to be said for the productivity of 
 
 Abortion gave me the clearest example of orthogonal values, but it might actually be the hardest place to find any compromise. Strongly held orthogonal values can still lead to gridlock. If not abortion, where is mutually beneficial compromise possible? Where else do liberals argue with only a caricature of their opponents' values?
 
-<em>Epistemic Status: <a href="/about-me">Model</a></em>
+---
 
+<em class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></em>
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="val-bot-1">[1]</strong> Socially liberal legislation is just <em>objectively</em> right and is based on the values everyone <em>would</em> have if they could choose freely. Only my political enemies try and <em>force</em> anything on anyone. /sarcasm <a href="#val-top-1">^</a>
 
 <strong id="val-bot-2">[2]</strong> People who aren't women can also have abortions and their ability to express their sexualities is also controlled by laws limiting access to abortion. If there exists a less awkward construction than "anyone with a uterus" that I can use instead of "women", I'd be delighted to find it. <a href="#val-top-2">^</a>
+
+</div>

@@ -1,6 +1,6 @@
 ---
 id: 419
-title: 'Science Isn&#8217;t Your Cudgel'
+title: "Science Isn&#8217;t Your Cudgel"
 date: 2017-06-11T12:34:59-04:00
 author: Zach
 layout: post
@@ -13,11 +13,13 @@ categories:
 tags:
   - skepticism
 ---
+
 Do you want to understand how the material world works at the most fundamental level? Great! There's a tool for that. Or a method. Or a collection of knowledge. "Science" is an amorphous concept, hard to pin down or put into a box. Is science the method of hypothesis generation and testing? Is it as Popper claimed, asking falsifiable questions and trying to refute your own theories? Is it inextricably entangled with the ream of statistical methods that have grown up in service of it? Or is it the body of knowledge that has emerged from the use of all of these intellectual tools?
 
 I'm not sure what exactly science is. Whatever its definition, I feel like it helps me understand the world. Even still I have to remind myself that caring about science is like caring about a partner in a marriage. You need to be with it in good health and in bad, when it confirms things <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8543.2009.00723.x/abstract">you've always wanted to believe</a>, or when your favourite study fails to replicate or is <a href="http://retractionwatch.com/2014/07/18/the-camel-doesnt-have-two-humps-programming-aptitude-test-canned-for-overzealous-conclusion/">retracted</a>. It's rank hypocrisy to shout the virtues of science when it confirms your beliefs and denigrate or ignore it when it doesn't.
 
 Unfortunately, it's easy to collect examples of people who are selective about their support for science. Here's three:
+
 <ol>
  	<li>Elizabeth May – and many other environmentalists – are really fond of the phrase "<a href="https://twitter.com/ElizabethMay/status/854538884910170113">the science is clear</a>" when talking about global warming or the dangers of pollution. In this they are entirely correct – the scientific consensus on global warming is <a href="https://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change">incredibly clear</a>. But when Elizabeth May says things like "<a href="http://elizabethmaymp.ca/get-involved/phase-out-nuclear-energy-facilities">Nuclear energy power generation has been proven to be harmful to the environment and hazardous to human health</a>", she isn't speaking scientifically. Nuclear energy is one of the safest forms of power for both <a href="https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/#1be2325709b7">humans</a> and the <a href="https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources">climate</a>. Elizabeth May (and most of the environmental movement) are only fans of science when it fits with their fantasies of deindustrialization, not when it conflicts with them. See also the conflict between <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4218791/">scientists on GMOs</a> and <a href="https://www.greenparty.ca/en/policy/vision-green/economy/genetic-engineering">environmentalists on GMOs</a>.</li>
  	<li>Hillary Clinton (who earned the support of most progressive Americans in the past election) is quite happy to applaud the<a href="http://www.huffingtonpost.com/entry/hillary-clinton-science-march_us_58fc91d1e4b00fa7de14ff85"> March For Science and talk about how important science is</a>, but she's equally happy to peddle junk science (like the <a href="https://www.ncbi.nlm.nih.gov/pubmed/19449998">implicit association test</a>) <a href="https://www.washingtonpost.com/video/politics/clinton-on-implicit-bias-in-policing/2016/09/26/46e1e88c-8441-11e6-b57d-dd49277af02f_video.html">on the campaign trail</a>.</li>
@@ -39,7 +41,10 @@ Science is more than a march and some <a href="https://www.facebook.com/IFeaking
 
 This is an experiment I would like to try.
 
-<strong>Footnotes</strong>
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
 
 <strong id="science1">[1]</strong> The right, especially the religious right, is less likely to use "science" as a justification for anything, which is the main reason I don't have complaints about them <u>in this blog post</u>. It is obviously terrible science to pretend that evolution didn't happen or that global warming isn't occurring, but it isn't hypocritical if you don't otherwise claim to be a fan of science. Crucially, this blog post is more about hypocrisy than bad science per se. <a href="#sciencetop1">^</a>
 
@@ -48,3 +53,5 @@ This is an experiment I would like to try.
 <strong id="science3">[3]</strong> Taken together, these are damning for the idea that race can be easily inferred from skin colour. <a href="#sciencetop3">^</a>
 
 <strong id="science4">[4]</strong> Yes, I know we aren't supposed to trust Vox when it comes to scientific consensus. But <a href="https://fredrikdeboer.com/2017/05/19/like-the-validity-of-intelligence-testing-the-heritability-of-intelligence-is-no-longer-scientifically-contentious/">Freddie de Boer backs it up</a> and people I trust who have spent way more time than I have reading about IQ think that Freddie knows his stuff. <a href="#sciencetop4">^</a>
+
+</div>

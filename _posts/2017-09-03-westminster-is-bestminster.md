@@ -15,11 +15,13 @@ tags:
   - overview
   - political philosophy
 ---
+
 <em>[6-minute read]</em>
 
 I've been ranting to random people all week about how much I love the Westminster System of parliamentary government (most notably used in Canada, Australia, New Zealand, and the UK) and figured it was about time to write my rant down for broader consumption.
 
 Here's three reasons why the Westminster System is so much better than the abominable hodgepodge Americans call a government and all the other dysfunctional presidential republics the world over.
+
 <h3>1. The head of state and head of government are separate</h3>
 And more importantly, the head of state is a figurehead.
 
@@ -30,6 +32,7 @@ This is an excellent protection against populism. There is no one person who can
 It's also much easier to remove the head of government in the Westminster system. Unlike the president, the prime minister serves only while they have the confidence of parliament and their party. An unpopular prime minister can be easily replaced, as Australia seems happy to demonstrate <a href="https://en.wikipedia.org/wiki/Australian_Labor_Party_leadership_spill,_2010">over</a> <a href="https://en.wikipedia.org/wiki/Australian_Labor_Party_leadership_spill,_June_2013">and</a> <a href="https://en.wikipedia.org/wiki/Liberal_Party_of_Australia_leadership_spill,_September_2015">over</a>. A figure like Trump could not be prime minister if their parliamentarians did not like them.
 
 This feature is at risk from open nominating contests and especially rules that don't allow MPs to pick the interim leader during a leadership race. In this regard, Australia is doing a much better job at exemplifying the virtues of the Westminster system than Canada or the UK (where Corbyn's vote share is all the more surprising for how much internal strife his election caused) <a href="#wes-bot-4" id="wes-top-4">[4]</a>.
+
 <h3>2. Confidence</h3>
 To the Commonwealth, one of the most confusing features of American democracy is its (semi-)regular government shut downs, like <a href="http://www.cnn.com/2017/08/23/politics/trump-wall-mexico-government-shutdown/index.html">the one Trump had planned for September</a> <a href="#wes-bot-5" id="wes-top-5">[5]</a>. On the other side, Americans are baffled at the seemingly random elections that Commonwealth countries have.
 
@@ -46,6 +49,7 @@ This feature prevents government shutdowns. If the government can't agree on a b
 By convention, votes on major legislative promises are also motions of confidence. This helps ensure that the priorities laid out during an election campaign don't get dropped. In a minority government situation, the opposition must decide whether it is worth another election before vetoing any of the government's key legislative proposals. Because of this, Commonwealth governments can be surprisingly functional even without a legislative majority.
 
 Add all of this together and you get very accountable parties. Try and enact unpopular legislation with anything less than a majority government and you'll probably find yourself shortly facing voters. On the flip side, obstruct popular legislation and you'll also find yourself facing voters. Imagine how the last bit of Obama's term would have been different if the GOP had to fight an election because of the government shutdown.
+
 <h3>3. The upper house is totally different</h3>
 Many Westminster countries have bicameral legislatures, with two chambers making up parliament (New Zealand is the notable exception here). In most Westminster system countries with two chambers, the relationship between the houses is different than that in America.
 
@@ -66,7 +70,12 @@ Among certain people in Canada, electoral and senate reform have become contenti
 Senate reform may have already been accomplished, with Prime Minister Trudeau's move to appoint only non-partisan senators and dissolve the Liberal caucus in the senate. Time will tell if this new system survives his tenure as prime minister.
 
 In one of the articles <a href="http://induecourse.ca/thoughts-on-president-trump/">I linked above</a>, Prof. Joseph Heath compares the utter futility Americans feel about changing their electoral system with the indifference most Canadians feel about changing theirs. In Canada, many proponents of electoral reform specifically wanted to avoid a plebiscite, because they understand that there currently exists no legitimacy crisis sufficient to overcome the status quo bias most people feel. Reform in Canada is certainly possible, but first the system needs to be broken. Right now, the Westminster system is working admirably.
-<h3>Footnotes</h3>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
+
 <strong id="wes-bot-1">[1]</strong> Israel took many cues from Westminster governments. Its president is non-partisan and ceremonial. If Canada was every forced to give up the monarchy, I'd find this sort of presidential system acceptable. <a href="#wes-top-1">^</a>
 
 <strong id="wes-bot-2">[2]</strong> It's hard to tell which is less populist; the oldest representative of one of the few remaining aristocracies, or (like in Israel or the governor-generals of the former colonies), exceptional citizens chosen for their reliability and loyalty to the current political order. <a href="#wes-top-2">^</a>
@@ -76,3 +85,5 @@ In one of the articles <a href="http://induecourse.ca/thoughts-on-president-trum
 <strong id="wes-bot-4">[4]</strong> I've of the opinion that Corbyn's "popularity" is really indicative of PM Teresa May's unpopularity bolstered by his ability to barely surpass incredibly low expectations. <a href="#wes-top-4">^</a>
 
 <strong id="wes-bot-5">[5]</strong> Since rescheduled to December, in light of Hurricane Harvey. <a href="#wes-top-5">^</a>
+
+</div>

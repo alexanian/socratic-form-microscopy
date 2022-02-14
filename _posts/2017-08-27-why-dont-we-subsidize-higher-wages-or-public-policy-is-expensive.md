@@ -60,6 +60,9 @@ When we focus only on what we feel is fair or justified and not on what is achie
 
 Disturb it at your own peril.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="wage-bot-1">[1]</strong> Failure (to me) means increased unemployment. A decrease in labour force participation would probably represent a return to single income families, unless preceded by high unemployment of the sort that drives people to give up looking for work. There's also the failure mode of "causes spiralling inflation", but that seems more likely to end the whole experiment prematurely. <a href="#wage-top-1">^</a>
@@ -87,3 +90,5 @@ Not pictured: any adjustment for the percent of people who are married. The simp
 <strong id="wage-bot-8">[8]</strong> Rent control is the only possible solution, but it might be worse than what it seeks to cure. The economist Assar Lindbeck claimed that "In many cases rent control appears to be the most efficient technique presently known to destroy a city—except for bombing." This was falsified by communist Vietnam, according to a speech by its onetime foreign minister: "The Americans couldn’t destroy Hanoi, but we have destroyed our city by very low rents. We realized it was stupid and that we must change policy". <a href="#wage-top-8">^</a>
 
 <strong id="wage-bot-9">[9]</strong> On all sides. For every Bernie bro convinced we need socialism right now, there's someone who believes in the explicitly anti-empirical assertions of the Austrian School. <a href="#wage-top-9">^</a>
+
+</div>

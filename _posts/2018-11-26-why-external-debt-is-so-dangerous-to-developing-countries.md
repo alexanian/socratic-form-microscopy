@@ -90,6 +90,9 @@ Until international progress is made on a clear list of conditions under which c
 
 A global economy without this cycle of boom, bust, and poverty might be one of our best chances of providing stable, sustainable growth to everyone in the world. I hope one day we get to see it.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="3wd-bot-1">[1]</strong> I so wanted to get through this post without any footnotes, but here we are.
@@ -117,3 +120,5 @@ Countries that are heavily dependent on the export of only one or two commoditie
 <strong id="3wd-bot-9">[9]</strong> A quick search found <a href="https://www.sciencedirect.com/science/article/pii/S0261560608000570">two</a> <a href="https://pdfs.semanticscholar.org/4bc3/190e21ce299179479e34f931a5b32b80f257.pdf">papers</a> that claimed there was a moral hazard associated with the IMF and one article hosted <em>by the IMF</em> (and as far as I can tell, later at least somewhat repudiated by the author in the book cited in <a href="#3wd-bot-4">[4]</a>) that claims there is <a href="https://www.imf.org/external/pubs/ft/fandd/2002/09/rogoff.htm">no moral hazard</a>. Draw what conclusions from this you will. <a href="#3wd-top-9">^</a>
 
 <strong id="3wd-bot-10">[10]</strong> I'm not entirely sure what such a ban would look like, but I'm thinking some hard cap on amount loaned based on percent of GDP, with the percent able to rise in response to reforms that boost transparency, cut corruption, and establish modern safeguards on the central bank. <a href="#3wd-top-10">^</a>
+
+</div>

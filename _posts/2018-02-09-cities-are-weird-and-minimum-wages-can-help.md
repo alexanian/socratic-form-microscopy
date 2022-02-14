@@ -63,6 +63,9 @@ A couple of things changed my mind. First, I paid more attention to the experien
 
 The final piece of the puzzle was the mental shift whereby I started to view wages in cities – especially for low-wage earners – as a collective action problem and a market failure. As anyone on the <a href="http://induecourse.ca/on-the-disappearance-of-the-centre-right-in-canada/">centre-left</a> can tell you, it's the government's job to fix those – ideally in a redistributive way.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="caw-bot-1">[1]</strong> This is inductive up to the point where you have a critical mass; there's no benefit until you're the nth + 1 person, where n is the number of people necessary to create a scarcity of workers sufficient to begin bidding up wages. And all of the people who moved will see little benefit for their hassle, unless they're willing to move back. <a href="#caw-top-1">^</a>
@@ -74,3 +77,5 @@ The final piece of the puzzle was the mental shift whereby I started to view wag
 <strong id="caw-bot-4">[4]</strong> I think we may have to subsidize some new construction or portion of monthly rent so that all increased wages don't get ploughed into to increased rents. If you have more money chasing the same number of rental units and everything else remains constant, you'll see all gains in wages erased by increases in rents. Rent control is a very imperfect solution, because it changes new construction into units that can be bought outright, at market rates. This helps people who have saved up a lot of money outside of the city and what to move there, but is very bad for the people living there, grappling with rent so high that they can't afford to save up a down payment. <a href="#caw-top-4">^</a>
 
 <strong id="caw-bot-5">[5]</strong> No seriously, this is what passes for conservative among economists these days; while we all stopped looking, they all became utilitarians who want to help impoverished people as much as possible. <a href="#caw-top-5">^</a>
+
+</div>

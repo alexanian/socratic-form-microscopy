@@ -79,6 +79,9 @@ I'm also sure there's space for many science-fiction writers to come up with ter
 
 For all that we I wish we had cheaper and less destructive terminal punishments, all of this explains why prison has persisted. Aside from a few cases where public shaming might be useful, all other terminal punishments have serious flaws. And maybe that's inevitable. Terminal punishments should be those rare big sticks with which we whack people who repeatedly or flagrantly violate the social contract. They aren't ever going to be pleasant; they <em>can't</em> be pleasant.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="tnt-bot-1">[1]</strong> And also like, social conventions and your neighbours' opinions and a whole bunch of other things. This blog post is dealing with <a href="https://socratic-form-microscopy.com/2019/04/27/book-review-on-violence/">the small minority of cases where coercion is necessary</a> to get people to play by "the rules of the game" – those rules governing behaviour, social interactions, and conduct which are largely enforced though habit and peer pressure, rather than police dragging you to jail. The principle need for terminal punishments is to provide a stronger inducement to follow the "rules of the game" than most people require. <a href="#tnt-top-1">^</a>
@@ -100,3 +103,5 @@ For all that we I wish we had cheaper and less destructive terminal punishments,
 I am not arguing that prison is never necessary. But I do believe we spend far too much money incarcerating people, when the incarceration of many of these people serves little social value. <a href="#tnt-top-8">^</a>
 
 <strong id="tnt-bot-9">[9]</strong> Also of note: it's hard to find rights that are actually terminal, without turning our society into a massive police state. Many people banned from driving, from alcohol, or from guns find ways to do or possess those things anyway. If people are caught with prohibited items, they're often jailed, which means also means that we haven't figured out a way to make these restrictions, in their current form, a terminal punishment. <a href="#tnt-top-9">^</a>
+
+</div>

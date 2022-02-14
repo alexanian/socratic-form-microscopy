@@ -19,6 +19,7 @@ tags:
   - someone else probably came up with this first
   - zach does analysis
 ---
+
 One of the best things about taking physics classes is that the equations you learn are directly applicable to the real world. Every so often, while reading a book or watching a movie, I'm seized by the sudden urge to check it for plausibility. A few scratches on a piece of paper later and I will generally know one way or the other.
 
 One of the most amusing things I've found doing this is that the people who come up with the statistics for Pokémon definitely don't have any sort of education in physics.
@@ -60,6 +61,7 @@ Well it's currently hard to compare. I'm much more used to seeing densities of s
 There are 1000 kilograms in a ton. If we divide our density by a thousand we can calculate a new density for Onix of 0.0304t/m<sup>3</sup>.
 
 How does this fit in with common materials, like wood, Styrofoam, water, stone, and metal?
+
 <table id="pkm-table-1">
 <tbody>
 <tr>
@@ -157,5 +159,12 @@ Scaling properties determine how much of the world is arrayed. We see extremely 
 These equations aren't just important to physicists. They're important to any science fiction or fantasy writer who wants to tell a realistic story.
 
 Or, at least, to anyone who doesn't want their work picked apart by physicists.
-<h2 id="pkm-ft-notes">Footnotes</h2>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3 id="pkm-ft-notes">
+
 <strong>[1]</strong> Not the professor. His density <a href="https://www.google.ca/search?q=average+human+density&amp;rlz=1C5CHFA_enCA691CA692&amp;oq=average+human+density&amp;aqs=chrome..69i57j0l5.3857j1j1&amp;sourceid=chrome&amp;ie=UTF-8">is 0.985t/m<sup>3</sup></a>. <a href="#pkm-table-1">^</a>
+
+</div>

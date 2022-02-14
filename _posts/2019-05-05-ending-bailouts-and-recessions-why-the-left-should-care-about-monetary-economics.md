@@ -210,6 +210,9 @@ I drew heavily on Money in Historical Perspective, by Anna J. Schwartz when writ
 
 Scott Sumner's blog <a href="https://www.themoneyillusion.com/">The Money Illusion</a> is an excellent resource for current monetarist thought, while J. P. Koning's blog <a href="http://jpkoning.blogspot.com/">Moneyness</a> provides many excellent historical anecdotes about money.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 Like all of my posts about economics, this one contains way too many footnotes. These footnotes are mainly clarifying anecdotes, definitions, and comments. I've relegated them here because they aren't necessary for understanding this post, but I think they still can be useful.
@@ -259,3 +262,5 @@ Still, the more money that is dumped into the economy, the closer we get to the 
 <strong id="mon-bot-19">[19]</strong> <a href="https://books.google.ca/books?id=tTr_AwAAQBAJ&amp;pg=PA74&amp;lpg=PA74&amp;dq=co-op+wage+rigidity+economics&amp;source=bl&amp;ots=dcyYMbfFc0&amp;sig=ACfU3U0rQaR8nJVGuP6tKlg0MuuL7c8zbQ&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjJmbXu5fPhAhVKPK0KHfUHCR8Q6AEwEnoECAoQAQ#v=onepage&amp;q=co-op%20wage">I am not the first</a> to wonder if co-ops might be more "recession-proof" than conventional firms. Since co-ops generally operate via profit-sharing, rather than set wages, they may exhibit less downwards nominal wage rigidity (the economic term for people's aversion to pay cuts), which means they might weather recessions with wage cuts, rather than outright job losses. I haven't been able to find any studies on this subject, but I'd be very interested to see if they exist. <a href="#mon-top-19">^</a>
 
 <strong id="mon-bot-20">[20]</strong> There is a strain of leftist thought that views Paul Volcker reining in inflation as much worse for workers than any policy of Reagan's. I'm trying to find a better explanation of this position somewhere and plan to write about it once I do. <a href="#mon-top-20">^</a>
+
+</div>

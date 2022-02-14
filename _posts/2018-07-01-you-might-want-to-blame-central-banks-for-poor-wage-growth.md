@@ -75,6 +75,9 @@ One of the purposes of institutions is <a href="https://socratic-form-microscopy
 
 In either case, I'm not holding my breath.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="bsb-bot-1">[1]</strong> I'm ignoring the drop in Q2 2014, where wages fell to $330/week, because this was <a href="http://www.themoneyillusion.com/no-strong-labor-markets-dont-cause-higher-wages-never-reason-from-a-quantity-change/">caused by the end of extended unemployment insurance</a> in America. The end of that program made finding work somewhat more important for a variety of people, which led to an uptick in the supply of labour and a corresponding decrease in the market clearing wage. <a href="#bsb-top-1">^</a>
@@ -82,3 +85,5 @@ In either case, I'm not holding my breath.
 <strong id="bsb-bot-2">[2]</strong> Under a fractional reserve banking system, banks can lend out most of their deposits, with only a fraction kept in reserve to cover any withdrawals customers may want to make. This effectively increases the money supply, because you can have dollars (or yen, or pesos) that are both left in a bank account and invested in the economy. When banks hold onto more of their reserves because of uncertainty, they are essentially shrinking the total money supply. <a href="#bsb-top-2">^</a>
 
 <strong  id="bsb-bot-3">[3]</strong> Scott Sumner suggests that we <a href="http://static1.squarespace.com/static/56eddde762cd9413e151ac92/56f251ef74e8d670d36b9188/56f2694674e8d670d36e51a9/1458727238686/ASI_NGDP_WEB.pdf?format=original">should target nominal GDP instead of inflation</a>. When economic growth slows, we'd automatically get higher inflation, as the central bank pumps out money to meet the growth target. When the market begins to give way to roaring growth and speculative bubbles, the high rate of real growth would cause the central bank to step back, tapping the brakes before the economy overheats. I wonder if limiting inflation on the upswing would also have the advantage of increasing real wages as the economy booms? <a href="#bsb-top-3">^</a>
+
+</div>

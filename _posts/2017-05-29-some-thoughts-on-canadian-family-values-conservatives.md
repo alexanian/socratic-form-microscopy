@@ -1,6 +1,6 @@
 ---
 id: 398
-title: 'Some thoughts on Canadian &#8220;family values&#8221; conservatives'
+title: "Some thoughts on Canadian &#8220;family values&#8221; conservatives"
 date: 2017-05-29T20:02:12-04:00
 author: Zach
 layout: post
@@ -19,6 +19,7 @@ tags:
   - scheer
   - social conservatism
 ---
+
 I'd like to expand on <a href="https://socratic-form-microscopy.com/2017/05/28/five-things-i-learned-from-the-conservative-leadership-race-that-all-canadians-should-take-note-of/">one of the points I raised yesterday</a> about Canadian social conservatives and the sorts of things they can expect from Andrew Scheer, because I think the Canadian approach to "family values" conservatism is desperately under-theorized.
 
 Yesterday I claimed that the main way that Harper pushed so-called family values was through economic incentives to have a 1950s-style nuclear family. Both income splitting and the Universal Child Care Benefit were designed to make it more feasible to have a single income family.
@@ -49,8 +50,13 @@ I'd much rather have a political conversation about the amount of tax benefits w
 
 I'm not yet sure of the answer myself.
 
-<strong>Footnotes</strong>
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
 
 <strong id="so-con-1">[1]</strong> I want to be clear that I'm talking about execution here, not beliefs. Canadian social conservatives believe many of the same things as American so-cons and vote remarkably similarly to their American counterparts when they're in opposition. The key difference is how they behave when they're in power. Nine years of Conservative governments (four of which saw the Conservatives as the majority party) brought no change in the legal status of gay rights or abortion in Canada. That would be unprecedented in America.  <a href="#top-so-con-1">^</a>
 
 <strong id="so-con-2">[2]</strong> On Facebook, I said: "<span data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="UFICommentBody">If the trend is that Liberals/NDP push [our] social policies of choice and the Cons don't roll them back, then we still win in the long run." I stand by that statement. I would <em>prefer</em> that Conservatives were as enthusiastic about pushing for positive social change as I am. Given that I don't live in that world, I'll settle for one where conservative <em>politicians</em> don't to push back.  <a href="#top-so-con-2">^</a></span></span>
+
+</div>

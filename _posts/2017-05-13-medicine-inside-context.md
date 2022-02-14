@@ -73,6 +73,9 @@ In the story of Pandora's Box, all of the pestilence and disease of the world sp
 
 It was an abrogation of duty to go to the courts instead of respectfully dealing with J.J.'s family. It was reckless and it could have put years of careful outreach by other doctors at risk. Sometimes there are things more important than one life. That's why I'm glad the judge didn't order J.J. back into chemo.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="mk1" >[1]</strong> I have a lot of fondness for McMaster, having had at least one surgery and many doctors' appointments there. <a href="#mk-top-1">^</a>
@@ -80,3 +83,5 @@ It was an abrogation of duty to go to the courts instead of respectfully dealing
 <strong id="mk2" >[2]</strong> Doctors have a legal obligation to report any child abuse they see. Under subsection <a href="http://canliiconnects.org/en/commentaries/37105">37(2)e of the Child and Family Services Act (CFSA)</a>, this includes “the child requires medical treatment to cure, prevent or alleviate physical harm or suffering, and the child’s parent refuses to consent to treatment”. <a href="#mk-top-2">^</a>
 
 <strong id="mk3" >[3]</strong> I'm not actually sure how relevant that is here – Brian Clement is no one's idea of an expert in Indigenous medicine and it's not clear that this ruling still sets any sort of precedent, given that the judge later amended his ruling to "make it clear that the interests of the child must be paramount" in cases like this. <a href="#mk-top-3">^</a>
+
+</div>

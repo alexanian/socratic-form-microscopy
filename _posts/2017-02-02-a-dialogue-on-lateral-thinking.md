@@ -100,8 +100,12 @@ tags:
 <em>Tortoise: </em>So about your benefits package…
 
 <hr>
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <em id="1">[1]</em> All puzzles in this dialogue taken from <a href="http://www.folj.com/lateral/">http://www.folj.com/lateral/</a> <a href="#b1">^</a>
 
 <em id="2">[2]</em> Specifically this question: <a href="http://stackoverflow.com/questions/6137986/javascript-roundoff-number-to-nearest-0-5">http://stackoverflow.com/questions/6137986/javascript-roundoff-number-to-nearest-0-5</a> <a href="#b2">^</a>
+
+</div>

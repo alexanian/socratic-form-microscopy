@@ -87,7 +87,9 @@ tags:
 
 <!-- wp:paragraph --> Having alternative moralities around makes public morality more complicated. It becomes harder to agree on what is right or wrong; it might be right for a lawyer to help a criminal in a way that it would be wrong for anyone else, or wrong for an engineer to make a mistake in a way that would carry no moral blame for anyone outside of the profession. These alternative moralities require us to do a deeper analysis before judging and reward us with a stronger, more resilient society when we do. <!-- /wp:paragraph -->
 
-<!-- wp:heading --></p>
+## <!-- wp:heading --></p>
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <p><!-- /wp:heading -->
@@ -95,3 +97,5 @@ tags:
 <!-- wp:paragraph --> <strong id="am-bot-1">[1]</strong> Even though I disagree strenuously with this poster, I have a bit of fondness for their comment. <a href="https://socratic-form-microscopy.com/justice/">My very first serious essay</a> – and my interest in moral philosophy – was inspired by a similar comment. <a href="#am-top-1">^</a><br /><br /><!-- /wp:paragraph -->
 
 <!-- wp:paragraph --> <strong id="am-bot-2">[2]</strong> This isn’t just a capitalism thing. Retirement really just looks like delay some consumption now in order to be able to consume more in retirement. Consumption, time value of [goods and services, money], and growth follow the same math whether you have central planning or free markets. Communists have to figure out how to do retirement as well and they’re faced with the prospect of either providing less for retired people, or using tactics that would make American CEOs blush in order to drive the sort of growth necessary to support an aging retired population. <a href="#am-top-2">^</a><br /><!-- /wp:paragraph --></p>
+
+</div>

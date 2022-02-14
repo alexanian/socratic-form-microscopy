@@ -1,6 +1,6 @@
 ---
 id: 391
-title: 'Book Review: Strangers in Their Own Land'
+title: "Book Review: Strangers in Their Own Land"
 date: 2017-05-20T10:29:38-04:00
 author: Zach
 layout: post
@@ -16,6 +16,7 @@ tags:
   - donald trump
   - pollution
 ---
+
 I just finished Professor Arlie Hochschild's latest book, "Strangers in Their Own Land: Anger and Mourning on the American Right", a book some people are trumpeting as the one that explains Trump.
 
 That wasn't exactly how I read the book. I think Trump's win is well explained by some combination of the "<a href="http://induecourse.ca/thoughts-on-president-trump/">fundamentals</a>" and the <a href="https://fivethirtyeight.com/features/the-comey-letter-probably-cost-clinton-the-election/">Comey Letter</a> just before the election. I'm also wary of falling into the trap of drawing conclusions about America because Trump won. The result of the election could have been changed by dozens of random events. I'm following <a href="http://slatestarcodex.com/2016/11/07/tuesday-shouldnt-change-the-narrative/">Scott Alexander's advice</a> and not basing my narratives off of which potential events happened to actually <em>happen</em>.
@@ -61,6 +62,7 @@ It's hard not to feel like the conservatives in this book are being betrayed by 
 Further to this point, Prof. Hochschild dug up a damning report, prepared at the behest of the California Waste Management Board by some very fancy (and expensive!) consultants. The report identifies communities that won't complain about "locally undesirable land use" (LULU), with the goal of identifying these communities so polluting (and property value lowering) activities can be more easily sited. Protests are very inconvenient for construction, after all.
 
 Communities identified as ill-suited to resist LULU are:
+
 <ul>
  	<li>Composed of long-time residents (who are unlikely to want to move away)</li>
  	<li>Small</li>
@@ -114,10 +116,15 @@ Prof. Hochschild seems to be neither migratory, nor caught up in the atomization
 
 I know that myself (and many other cosmopolitan-leaning liberals) have begun to feel the pain that can come with our migratory impulses. I abandoned a graduate degree, in part because it took me away from a community I had grown to love. For all that I often found myself completely disagreeing with the Tea Party members profiled in this book, I was glad to find that I might be able to talk with them about the benefits of community. I'm not sure if that would be enough of a starting point to convince them of anything substantial – rootedness and community are just one axis of (dis)agreement, just one part of the story – but it's where I would start if I ever had to build a bridge to these strangers in their own land.
 
-<strong>Footnotes</strong>
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
 
 <strong id="sitol-b-1">[1]</strong> Specifically, Prof. Hochschild looked for correlations between agreement with the statements "people worry too much about progress harming the environment", "industrial air pollution is dangerous to the environment", "the U.S. does enough to protect the environment", and "Some people think that the government in Washington is trying to do too many things that should be left to individuals and private businesses", political affiliation (Democrat/Republican), and pollution rates. Her analysis found that agreement with the statement "people worry too much about progress harming the environment" (as well as membership in the Republican party) was correlated with relative risk of being exposed to toxic chemical release. Because I don't even have the P values these were significant at, let alone knowledge of how they corrected for multiple comparisons and how many comparisons were attempted, I have to treat the correlation as liable to be caused by chance. <a href="#sitol-t-1">^</a>
 
 <strong id="sitol-b-2">[2]</strong> I think Prof. Hochschild could have done a bit more analysis around feelings rules, because in my experience, they cut both ways. As far as I can tell, there seem to be one set of <em>local</em> feelings rules and another set of <em>cosmopolitan </em>feeling rules. Cosmopolitan feelings rules emphasize charity and welcoming the stranger, while local feelings rules emphasize responsibility to family and community. In both cases, it is grating to feel compelled to pretend to emotions that aren't genuine. <a href="#sitol-t-2">^</a>
 
 <strong id="sitol-b-3">[3]</strong> I can't find any remnants of Freddie's blog that make the point I'm ascribing to him, but if you want to get an idea of the tone of it, I've found <a href="http://ordinary-gentlemen.com/2016/05/17/our-nightmare-fredrik-deboer/">an excerpt</a> from the post "Our Nightmare", which talks about a different way he feels the left is under threat. Freddie is an excellent writer, and I do recommend checking out his current blog, <a href="https://fredrikdeboer.com/2017/03/29/welcome-to-the-anova/">The ANOVA</a>. <a href="#sitol-t-3">^</a>
+
+</div>

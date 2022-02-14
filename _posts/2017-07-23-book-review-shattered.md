@@ -98,6 +98,9 @@ November 8<sup>th</sup> may have been one of the worst nights of my life. But I'
 
 I really recommend Shattered for anyone who wants to see just how off the rails a political campaign can go when it's buffeted by a combination of candidate ineptitude, unclear chains of command, and persistent attacks from a foreign adversary. It's a bit repetitious at times, which was sometimes annoying and sometimes helpful (especially when I'd forgotten who was who), but otherwise grippingly and accessibly written. The fascinating subject matter more than makes up for any small burrs in the delivery.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="shtrd-btm-1">[1]</strong> In a district that has an odd number of delegates, winning by a single vote meant an extra delegate. In a district with 6 delegates, you'd get 3 delegates if you won between 50% and 67% of the votes. In a district with 7, you'd get 4 if you won by even a single vote, and five once you surpassed 71%. If a state has ten counties, four with seven delegates and six with six delegates, you can win the state by four delegates if you squeak to a win in the four districts with seven delegates and win at least 34% of the vote in each of the others. In practice, statewide delegates prevent such wonky scenarios except when the vote is really close, but this sort of math remains vital to winning a close race.  <a href="#shtrd-top-1">^</a>
@@ -105,3 +108,5 @@ I really recommend Shattered for anyone who wants to see just how off the rails 
 <strong id="shtrd-btm-2">[2]</strong> WikiLeaks released the hacked emails a few hundred a day for the last month of the election, starting right after the release of Trump's "grab her by the pussy" video. This steady drip-drip-drip of bad press was very damaging for the Clinton campaign, especially because many people didn't differentiate this from the <em>other</em> Clinton-email story.
 
 At this point, I want to know whether WikiLeaks is an organ of the Russian state, or just manipulated by them. Personally, I gravitate towards the first. Chelsea Manning is a hero, but <a href="https://www.theguardian.com/commentisfree/2017/mar/11/farage-assange-shameless-illiberal-alliance">everyone else aligned with WikiLeaks seems to hate the West so much that they'll happily climb into Putin's pocket</a> if it means they get to take a shot at it. <a href="#shtrd-top-2">^</a>
+
+</div>

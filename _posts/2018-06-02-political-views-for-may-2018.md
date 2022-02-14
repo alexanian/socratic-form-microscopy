@@ -79,6 +79,10 @@ I like this as a concept, so I'm going to try it again. My predictions for this 
  	<li>I will actually read an economics textbook before May 2019: 70%</li>
 </ol>
 I hope these predictions are more properly calibrated than my last ones!
+
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="m18-bot-1">[1] </strong>The common liberal take on this is different from pure Keynesian economics, because they don't restrict "times are tough" to recessions and depressions. For a lot of modern people who say they just "support Keynesian economics" (and I was one of them), it's always tough times for someone. <a href="#m18-top-1">^</a><strong> </strong>
@@ -86,3 +90,5 @@ I hope these predictions are more properly calibrated than my last ones!
 <strong id="m18-bot-2">[2]</strong> I basically never see monetary policy even mentioned on the left. My guess is this is because the left largely views this as simple bean counting that is nowhere near as interesting or important as making sure we have lots of spending on social programs. Reality seems to be different, especially when <a href="https://www.ft.com/content/d4c2f40e-5373-11e8-b3ee-41e0209208ec">you get it wrong</a>. <a href="#m18-top-2">^</a>
 
 <strong id="m18-bot-3">[3]</strong> This is probably more evidence that I'm <a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">under-confident</a>. <a href="#m18-top-3">^</a>
+
+</div>

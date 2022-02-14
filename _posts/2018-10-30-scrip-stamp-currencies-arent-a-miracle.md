@@ -53,6 +53,9 @@ Still, in situations where the central bank fails, stamp scrip currencies can be
 
 That said, I think a general caution is needed when thinking about situations like this. There are few times in economic history as different from the present day as the Great Depression. The very fact that there was unemployment north of 20% and many empty factories makes it miles away from the economic situation right now. I would suspect that radical interventions that were useful during the Great Depression might be useless or actively harmful right now, simply due to this difference in circumstances.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="scr-bot-1">[1]</strong> My opinion is that their marketing structure is kind of cringey (my Facebook feed currently reminds me of all of the "Paul Allen is giving away his money" chain emails from the 90s and <a href="https://www.facebook.com/zjacobi/posts/10155432099651467?notif_id=1540691579640771&amp;notif_t=feedback_reaction_generic">I have only myself to blame</a>) and their monetary policy has two aims that could end up in conflict. On the other hand, it's fun to watch the numbers go up and idly speculate about what you could do if it was worth anything. I would cautiously recommend Q ahead of lottery tickets but not ahead of saving for retirement. <a href="#scr-top-1">^</a>
@@ -78,3 +81,5 @@ The increase in employment ends when people adjust their expectations for raises
 See also: <a href="https://object.cato.org/sites/cato.org/files/serials/files/cato-journal/1983/5/cj3n1-5.pdf">"The Importance of Stable Money: Theory and Evidence" by Michael Bordo and Anna Schwartz</a>. <a href="#scr-top-6">^</a>
 
 <strong id="scr-bot-7">[7]</strong> I suspect that if the stamp scrip currency had been allowed to go on for another decade or so, it would have had some sort of amusing monetary crisis. <a href="#scr-top-7">^</a>
+
+</div>

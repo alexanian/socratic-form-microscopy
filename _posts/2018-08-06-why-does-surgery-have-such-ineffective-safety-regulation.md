@@ -61,6 +61,9 @@ I wonder if it's possible to get a profession running scared about their reputat
 
 If not, they'll continue to get away with murder.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="srg-bot-1">[1]</strong> From the CDC's truly excellent <a href="https://wonder.cdc.gov/ucd-icd10.html">Cause of Death search function</a>, using codes V81.7 &amp; V82.7 (derailment with no collision), W13 (falling out of building), W23 (caught or crushed between objects), and W35 (explosion of boiler) at home, other, or unknown. I read through several hundred causes of deaths, some alarmingly unlikely, and these were the only ones that seemed relevant. This estimate seems higher than the one surgeon Atul Gawande gave in The Checklist Manifesto, so I'm confident it isn't too low. <a href="#srg-top-1">^</a>
@@ -76,3 +79,5 @@ If not, they'll continue to get away with murder.
 <strong id="srg-bot-6">[6]</strong> This is the ratio between the average miles flown before crash of the (very safe) post office planes and the (very dangerous) privately owned planes. Many in the airline industry wanted the government to mandate the same safety standards on private planes as they mandated on their airmail planes. <a href="#srg-top-6">^</a>
 
 <strong id="srg-bot-7">[7]</strong> I should mention that I have been very lucky to have been in the hands of a number of very competent and professional surgeons over the years. That said, I'm probably going to ask any future surgeon I'm assigned if they follow safety checklists – and ask for someone else to perform the procedure if they don’t. <a href="#srg-top-7">^</a>
+
+</div>

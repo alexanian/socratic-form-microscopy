@@ -375,3 +375,9 @@ a.slide-menu-nav-item:focus {
   -ms-transform: translateX(20rem);
   transform: translateX(20rem);
 }
+
+// Custom footnotes styling
+.footnotes p {
+  font-size: 0.8em;
+  color: #2b3233;
+}

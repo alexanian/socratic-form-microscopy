@@ -17,6 +17,7 @@ tags:
   - someone else probably came up with this first
   - tradeoffs are hard
 ---
+
 In simple economic theory, <a href="https://www.economics.utoronto.ca/jfloyd/modules/sadl.html">wages are supposed to act as signals</a>. When wages increase in a sector, it should signal people that there's lots of work to do there, incentivizing training that will be useful for that field, or causing people to change careers. On the flip side, when wages decrease, we should see a movement out of that sector.
 
 This is all well and good. It explains why the United States has seen <a href="https://nces.ed.gov/programs/digest/d16/tables/dt16_322.10.asp?current=yes">(over the past 45 years</a>) little movement in the number of linguistics degrees, a precipitous falloff in library sciences degrees, some decrease in English degrees, and a large increase in engineering and business degrees <a id="lot-top-1" href="#lot-bot-1">[1]</a>.
@@ -52,6 +53,7 @@ It is not 80%. It's not even 50%. It's 31%. This is probably best illustrated vi
 &nbsp;
 
 There are four things that can happen here (I'm going to conflate tenure track job offers with tenure out of a desire to stop typing "tenure track job offers").
+
 <ul>
  	<li>A student can correctly believe they will get tenure</li>
  	<li><a href="https://en.wikipedia.org/wiki/Impostor_syndrome">A student can incorrectly believe they won't get tenure</a></li>
@@ -99,7 +101,12 @@ Old fashioned economic theory held that the freer people were, the better off th
 I increasingly believe that it isn't. And I increasingly believe that having rough encounters with reality early on and having smooth salary gradients is important to prevent this world. Of course, this is easy for me to say. I've been very deliberate taking my skin out of job lotteries. I dropped out of graduate school. I write often and would like to someday make money off of writing, <a href="http://locusmag.com/2015/02/kameron-hurley-the-privilege-to-publish-the-power-to-persevere/">but I viscerally understand the odds of that happening</a>, so I've been very careful to have a day job that I'm happy with <a id="lot-top-8" href="#lot-bot-8">[8]</a>.
 
 If you're someone who has made the opposite trade, I'm very interested in hearing from you. What experiences do you have that I'm missing that allowed you to make that leap of faith?
-<h1>Footnotes:</h1>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
+
 <strong id="lot-bot-1">[1]</strong> I should mention that there's a difference between economic value, normative/moral value, and social value <em>and I am only talking about economic value here</em>. I wouldn't be writing a blog post if I didn't think writing was important. I wouldn't be learning French if I didn't think learning other languages is a worthwhile endeavour. And I love libraries.
 
 And yes, I know there are many career opportunities for people holding those degrees and no I don't think they're useless. I simply think a long-term shift in labour market trends have made them relatively less attractive to people who view a degree as a path to prosperity. <a href="#lot-top-1">^</a>
@@ -125,3 +132,5 @@ Uber could restrict supply, but it doesn't want to and its customers certainly d
 <strong id="lot-bot-8">[8]</strong> I do think that I would currently be a much better writer if I'd instead tried to transition immediately to writing, rather than finding a career and writing on the side. Having a substantial safety net removes almost all of the urgency that I'd imagine I'd have if I was trying to live on (my non-existent) writing income.
 
 There's a flip side here too. I've spent all of zero minutes trying to monetize this blog or worrying about SEO, because I'm not interested in that and I have no need to. I also spend zero time fretting over popularizing anything I write (again, I don't enjoy this). Having a security net makes this something I do largely for myself, which makes it entirely fun. <a href="#lot-top-8">^</a>
+
+</div>

@@ -15,6 +15,7 @@ tags:
   - empiricism is my "rationality" tag
   - someone else probably came up with this first
 ---
+
 <em>[7 minute read]</em>
 
 When you make continuous, incremental improvements to something, one of two things can happen. You can improve it a lot, or you can fall into superstition. I'm not talking about black cats or broken mirrors, but rather humans becoming <a href="http://www.nytimes.com/2005/12/13/science/children-learn-by-monkey-see-monkey-do-chimps-dont.html">addicted to whichever steps were last seen to work, instead of whichever steps produce their goal.</a>
@@ -54,6 +55,7 @@ From the perspective of avoiding superstition: even if you believe that medicine
 Scott Alexander recently wrote about <a href="http://slatestarcodex.com/2017/12/08/what-to-make-of-new-positive-nsi-189-results/">an exciting new antidepressant failing in Stage I trials</a>. When the drug was first announced, a few brave souls managed to synthesize some. When they tried it, they reported amazing results, results that we now know to have been placebo. Look. You aren't getting an experimental drug synthesized and trying it unless you're pretty familiar with nootropics. Is the state of self-experimentation really that poor among the nootropics community? Or is it really hard to figure out if something works on you or not <a id="iws-top-2" href="#iws-bot-2">[2]</a>?
 
 Still, reflection isn't the same thing as abandoning the <a href="http://www.overcomingbias.com/2007/07/beware-the-insi.html">inside view</a> entirely. I've been thinking up heuristics since I read Dr. Gawande's articles; armed with these, I expect to have a reasonable shot at knowing when I'm at risk of becoming superstitious. They are:
+
 <ul>
  	<li>If you genuinely care only about the outcome, not the techniques you use to attain it, you're less likely to mislead yourself (beware the person with a favourite technique or a vested interest!).</li>
  	<li>If the thing you're trying to improve doesn't tend to get better on its own and you're only trying one potentially successful intervention at a time, fewer of your interventions will turn out to be superstitions and you'll need to prune less often (much can be masked by a steady rate of change!).</li>
@@ -61,8 +63,15 @@ Still, reflection isn't the same thing as abandoning the <a href="http://www.ove
 </ul>
 Finally, it might be that you don't care that some effects are placebo, so long as you get them and get them repeatedly. That's what happened with the experiment I worked on that summer. We knew we were superstitious, but we didn't care. We just needed enough data to publish. <a href="http://www.jbc.org/content/292/35/14349">And eventually, we got it.</a>
 
-<em>[Special thanks go to <a href="http://tessa.fyi/">Tessa Alexanian</a>, who provided</em> incisive <em>comments on an earlier draft. Without them, this would be very much an incoherent mess. <a href="https://www.lesserwrong.com/posts/M2g5zDEwwp2o8NriZ/improvement-without-superstition">This was cross-posted on Less Wrong 2.0</a> and as of the time of posting it here, there's at least one comment over there.]</em>
-<h2>Footnotes:</h2>
+## <em>[Special thanks go to <a href="http://tessa.fyi/">Tessa Alexanian</a>, who provided</em> incisive <em>comments on an earlier draft. Without them, this would be very much an incoherent mess. <a href="https://www.lesserwrong.com/posts/M2g5zDEwwp2o8NriZ/improvement-without-superstition">This was cross-posted on Less Wrong 2.0</a> and as of the time of posting it here, there's at least one comment over there.]</em>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
+
 <strong id="iws-bot-1">[1]</strong> Even so, there are things you can do here to get useful information. For example, you could get in the habit of collecting information on yourself for a month or so (like happiness, focus, etc.), then try several combinations of interventions you think might work (e.g. A, B, C, AB, BC, CA, ABC, then back to baseline) for a few weeks each. Assuming that at least one of the interventions doesn't work, you'll have a placebo to compare against. Although be sure to correct any results <a href="https://en.wikipedia.org/wiki/Multiple_comparisons_problem">for multiple comparisons</a>. <a href="#iws-top-1">^</a>
 
 <strong id="iws-bot-2">[2]</strong> That people still buy anything from <a href="https://hvmn.com/">HVMN</a> (<a href="https://www.cnbc.com/2017/11/30/hvmn-nootrobox-study-smart-pill-less-effective-than-caffeine.html">after they rebranded themselves in what <em>might</em> have been an attempt to avoid a study showing their product did no better than coffee</a>) actually makes me suspect the latter explanation is true, but still. <a href="#iws-top-2">^</a>
+
+</div>

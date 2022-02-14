@@ -70,8 +70,11 @@ If we didn't have Trump this year, we'd have someone like him in four years or e
 
 ---
 
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <em id="1"><strong>[1]</strong></em> I'm a Bayesian, so I'll quite happily bet with anyone who believes otherwise. <a href="#b1">^</a>
 <em id="2"><strong>[2]</strong></em> For more information on the transition of Rome into a dictatorship and the forces of empire that drove that transformation, I recommend <a href="/2017/01/22/book-review-spqr/">SPQR by Prof. Mary Beard</a>. <a href="#b2">^</a>
 <em id="3"><strong>[3]</strong></em> I'm certainly not opposed to checks and balances, but they can end up doing more harm than good if they make the act of governing so difficult that they end up ignored. <a href="#b3">^</a>
+
+</div>

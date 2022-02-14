@@ -68,6 +68,9 @@ But a minimum wage increase leaves the larger problem of differing rates of infl
 
 I'm game to kick the can down the road for a bit if it means we can make the lives of minimum wage workers better right now. But until we've solved this problem for good, it <em>will</em> keep coming back <a id="min-top-4" href="#min-4">[4]</a>.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="min-1">[1]</strong> I'm not sure this is exactly a bad thing, per se. Money is a means of signalling that you'd like your preferences satisfied. It becoming more expensive to pay actual humans to do things could mean that actual humans have so many good options that they're only going to waste their time satisfying your preferences if you <em>really</em> make it worth their while. Looked at this way, this means we're steadily freeing ourselves from work.
@@ -79,3 +82,5 @@ On the other hand, this seems to apply mainly to responsible/competent/intellige
 <strong id="min-3">[3]</strong> No effect on the <em>unemployment rate</em> does not mean no effect on the employment of individual people. A $15/hour minimum wage will probably tempt some people back into the labour force (I'm thinking here that this will mostly be women), while excluding others whose labour would not be valued that highly (unfortunately this will probably hit people with certain mental illnesses or disabilities the hardest). <a href="#min-top-3">^</a>
 
 <strong id="min-4">[4]</strong> I think it's especially pernicious how the difference in inflation rates between types of goods is kind of by default a source of inter-generational strife. First, it makes it more difficult for each succeeding generation to hit the same landmarks that defined adulthood and independence for the previous generation (e.g. home ownership, education, having children), with all the terrible think-pieces, conflict-ridden Thanksgiving dinners, and crushed dreams this implies. Second, it can pit the economic interests of generations against each other; healthcare for older people is subsidized by premiums from younger ones, while the increase in the cost of homes benefit existing players (who skew older) to the determinant of new market entrants (who skew younger). <a href="#min-top-4">^</a>
+
+</div>

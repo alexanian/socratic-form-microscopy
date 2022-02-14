@@ -40,6 +40,9 @@ For the people who previously had their choices picked year after year, this (as
 
 There's obviously an inferential gap here, if everyone can feel angry about the crappy writing everyone else likes. For my part, I'll probably be using "amateurish" only to describe books that are technically deficient. For books that are genuinely well written but seem to focus more on what the author wants than (on what I think) their likely audience wants, well, I won't have a snappy term, I'll just have to explain it like that.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="ama-bot-1">[1]</strong> A disclaimer: the work of a critic is always easier than that of a creator. I'm going to be criticizing writing that's better than my own here, which is always a risk. Think of me not as someone criticizing from on high, but frantically taking notes right before a test I hope to barely pass. <a href="#ama-top-1">^</a>
@@ -47,3 +50,5 @@ There's obviously an inferential gap here, if everyone can feel angry about the 
 <strong id="ama-bot-2">[2]</strong> I want to separate the Sad Puppies, who I view as people sad that action-packed books were being passed over in favour of more literary ones from the Rabid Puppies, who just wanted to burn everything to the ground. I'm not going to make any excuses for the Rabid Puppies. <a href="#ama-top-2">^</a>
 
 <strong id="ama-bot-3">[3]</strong> As much as I can find some science fiction and fantasy too full of violence for my tastes, I've also had little to complain about in the past, because my favourite author, Lois McMaster Bujold, has been <a href="http://www.authorsroad.com/LoisMcMasterBujold.html">reliably winning Hugo awards</a> since before I was born. I'm not sure why there was never a backlash around her books. Perhaps it's because they're still reliably space opera, so class distinctions around how "literary" a work is don't come up when Bujold wins. <a href="#ama-top-3">^</a>
+
+</div>

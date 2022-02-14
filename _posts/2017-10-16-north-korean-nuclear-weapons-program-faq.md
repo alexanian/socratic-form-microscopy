@@ -17,6 +17,7 @@ tags:
   - overview
   - x-risk
 ---
+
 <em>"We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita... 'Now, I am become Death, the destroyer of worlds.'" – J Robert Oppenheimer, on the reaction to the successful test of the first atomic bomb.</em>
 
 <em>[30 minute read]</em>
@@ -54,6 +55,7 @@ Because I keep talking about it piecemeal with various people and wanted to coll
 I researched nuclear weapons for two months and wrote a <a href="/2017/01/22/nuclear-weapons-1-0-introduction/">fifteen-thousand-word primer on the subject</a>. Nuclear weapons are a thing I know a lot about. <a href="/2017/01/28/nuclear-weapons-7-0-strategy/#55">I covered North Korea briefly in that post</a>, which means I already knew some of the background information for this post.
 
 The real experts are currently busy briefing politicians and making clipped statements to the media. Therefore, it falls to verbose hobbyists like myself to try and make sense of every cryptic utterance and disseminate some of what the experts are saying more widely.
+
 <h2 id="1.3">1.3 Why is does North Korea have a nuclear program anyway?</h2>
 There are a lot of theories here. I'm going to walk you through my favourite. See these men?
 
@@ -66,6 +68,7 @@ Both of those men once ran countries. Now they're deposed and dead. The common f
 As far as I know (and the <a href="https://www.nytimes.com/2016/09/01/world/asia/north-korea-executes-deputy-premier.html?_r=0">bloody purges</a> at the start of his reign probably attest to this), Kim Jong-un doesn't want to die. If he has a nuclear deterrent, he might fancy himself safe from any American led attempts at regime change and/or ending his <a href="http://www.businessinsider.com/un-north-korea-prison-camp-2017-3/#-and-kim-jong-uns-power-over-his-people-22">horrific prison camp system</a>.
 
 You don't have to take just my word for it though. <a href="https://www.cnbc.com/2017/07/10/a-possible-reason-north-koreas-kim-wont-disarm-memories-of-gadhafi.html">Here's a professor suggesting the same thing</a>. Or you could just listen to what <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/12090658/North-Korea-cites-Muammar-Gaddafis-destruction-in-nuclear-test-defence.html">North Korea itself said</a>:
+
 <blockquote>The Saddam Hussein regime in Iraq and the Gaddafi regime in Libya could not escape the fate of destruction after being deprived of their foundations for nuclear development and giving up nuclear programmes of their own accord</blockquote>
 <h1 id="2.0">2. What?</h1>
 <h2 id="2.1">2.1 What should I know about nuclear weapons to understand this crisis?</h2>
@@ -84,10 +87,12 @@ Yields are commonly measured in kilotons (kt; equivalent to 1000 tons of TNT) or
 Having a high yield in a small package is very important for <em>miniaturization</em>, the process of making a functioning atomic bomb small enough for delivery on a missile. When it comes to missiles, the smaller (and lighter) the warhead, the better. A lighter warhead allows a missile to travel further, a key requirement for countries like North Korea or America, with very distant adversaries.
 
 If you'd like to read more about how nuclear weapons work, see my posts on the <a href="/2017/01/23/nuclear-weapons-2-0-basic-science/">science underlying nuclear weapons</a> and on <a href="/2017/01/25/nuclear-weapons-4-0-weapon-design/">nuclear weapon design</a>.
+
 <h2 id="2.2">2.2 What do we even know?</h2>
 This is a really good question. Before I start on speculation or analysis, it's important to talk about what we know <em>for sure</em> and what we can only speculate on.
 
 Here are the facts:
+
 <ul>
  	<li>North Korea possesses a nuclear weapons program.</li>
  	<li>North Korea has engaged in six known underground tests of their nuclear weapons.</li>
@@ -115,6 +120,7 @@ I <a href="/2017/01/24/nuclear-weapons-3-0-proliferation/#3.3">previously</a> me
 There's one final possibility, although it seems less likely. North Korea could have resurrected the old <a href="/2017/01/25/nuclear-weapons-4-0-weapon-design/#sloika">Sloika (layer-cake)</a> nuclear weapon design. This is technically a thermonuclear weapon, but it requires a disproportionally (compared to its power) large mass of high explosives to work and lacks many of the desirable properties of the more conventional (staged) <a href="/2017/01/25/nuclear-weapons-4-0-weapon-design#sloika">Teller-Ulam</a> design (like the ability to chain as many additional stages as you'd like). The Sloika is currently regarded as a dead end in weapon development, but if the North wanted an impressive explosion to scare off the Americans and didn't have any intent to ever put it on a rocket, it might be a good choice for them.
 
 For what it's worth, the United States army has <a href="http://www.navytimes.com/flashpoints/2017/09/14/stratcom-assesses-that-north-korea-now-has-the-hydrogen-bomb-as-country-conducts-another-launch/">chosen to treat the bomb as a thermonuclear weapon</a>.
+
 <h3 id="2.3.2">2.3.2 Is it miniaturized?</h3>
 I don't know. I want to believe that they haven't successfully miniaturized this device (and that Kim Jong-un is posing with a fake <a href="http://i2.mirror.co.uk/incoming/article11103311.ece/ALTERNATES/s615b/North-Korean-leader-Kim-Jong-Un-provides-guidance-on-a-nuclear-weapons-program-in-this-undated-photo.jpg">in this picture</a>). The first successful detonation of a multi-stage thermonuclear weapon required an <a href="https://en.wikipedia.org/wiki/Ivy_Mike#Device_design_and_preparations">82-ton facility</a> (Soviets mocked it as a "thermonuclear installation"). I find it hard to believe that in less than a year, North Korea could go from miniaturizing fission weapons to miniaturizing thermonuclear weapons, but it is <em>possible </em>that they have.
 
@@ -127,22 +133,26 @@ Last year, North Korea claimed that a 10kt detonation was the successful test of
 [caption id="attachment_509" align="alignnone" width="768"]<img class="wp-image-509 size-medium_large" src="/wp-content/uploads/10KTvsContUSA-1-768x398.png" alt="" width="768" height="398" /> Pictured: The scale of a 10kt explosion vs The United States of America. Not pictured: America being destroyed. Note that while the pin marking the centre of America is highly visible, the radius of destruction covers just 30­ pixels of the approximately 450,000 pixels making up America in this image.[/caption]
 
 So, in this case, I think we're going to have to wait for more US intelligence leaks before we know either way.
+
 <h3 id="2.3.3">2.3.3 Does the heat shield work?</h3>
 It might depend on the payload. Doctor John Schilling, <a href="http://www.38north.org/2017/08/jschilling080117/">writing for 38 North</a> (a North Korea focused blog run by Johns Hopkins) believes that the heat shield failed for one of the two ICBM tests this summer. He thinks that North Korea has a successfully tested a heat shield that will work with very light payloads, but has been unsuccessful building one suitable for heavier payloads (such a heatshield would need to be rather light itself).
 
 Depending on the mass of the miniaturized North Korean bombs, they might have a heatshield suitable for striking targets on America's east coast, or they might not be able to reach even there. It does seem likely that they can reach Hawaii or Alaska with their current proven heat shield design.
 
 North Korea has every incentive to play down the mass of their weapons and play up the strength of their heat shield, which is what makes determining the likelihood they can successfully strike America so challenging.
+
 <h3 id="2.3.4">2.3.4 Can THAAD and GCM defend America (and its allies)?</h3>
 <a href="https://en.wikipedia.org/wiki/Terminal_High_Altitude_Area_Defense#Engineering_and_manufacturing">THAAD</a> and <a href="https://en.wikipedia.org/wiki/Ground-Based_Midcourse_Defense#Intercept_tests">GCM</a> have both succeeded in their last few tests, but it's unclear how closely these tests mimic reality. Unfortunately, success is relatively new for the GCM system. Previously it's failed about as often as it has succeeded. Real missiles will probably be even harder to successfully target than the dummies it's been tested on.
 
 THAAD has been fairly reliable, at least in its last few tests. But it is currently only deployed to protect a few US bases in Korea. Seoul is not within its range and even if it was, <a href="http://nationalinterest.org/blog/the-buzz/thaad-wont-save-asia-or-america-north-korea-20665">THAAD wouldn't be able to protect the South Korean capital</a> (and its millions of inhabitants) from the conventional artillery aimed at it by North Korea. There are also THAAD launchers in Guam, Hawaii, and Alaska, giving those territories some modicum of protection.
 
 I honestly don't know what probability to assign to these systems making a successful interception of a North Korean missile. I think the THAAD is more likely to succeed than the GCM, but I have no hard numbers to put on either.
+
 <h1 id="3.0">3. How?</h1>
 North Korea's nuclear program has existed for more than three decades. But for many people, the latest tests are the first time they've really sat up and taken notice. To a certain extent, this makes sense. Before Kim Jong-un took over from his father, there had only been two nuclear tests and both of them were of fairly small bombs (the first was under 2kt, the second under 5kt).
 
 If this is the first you're seriously hearing about the crisis, it can help to get some of the historical context.
+
 <h2 id="3.1">3.1 How expensive has the program been?</h2>
 That's a hard question to answer. The total cost direct cost is <a href="https://www.reuters.com/article/us-northkorea-nuclear-money/north-korea-overcomes-poverty-sanctions-with-cut-price-nukes-idUSKCN0UP1G820160111">possibly</a> between $1.1 billion and $3.2 billion, but it's really hard to put hard numbers on anything that goes on in North Korea.
 
@@ -151,6 +161,7 @@ In addition to whatever North Kore has actually paid for its program, there's th
 There's also the opportunity cost. North Korea is <a href="https://en.wikipedia.org/wiki/Economy_of_North_Korea">incredibly impoverished</a>, such that $1-3 billion dollars represents 3.5% to 10.5% of its entire yearly economic output. Had this been invested in a more economically useful fashion (e.g. in manufacturing or mining) North Korea would probably have a higher GDP. The opportunity cost of using this money in such a wasteful way cannot help but compound – that is to say the gap between what is and what could have been will only grow larger.
 
 Here, I think a qualitative answer is best. The nuclear program has been <em>incredibly expensive</em>, but also – given that it is an excellent shield against regime change – worth it, at least from the perspective of Kim John-un.
+
 <h2 id="3.2">3.2 Okay, but it's cheap compared to the $61.3 billion the US spent on nuclear weapons in 2011. How can they get so much with so little?</h2>
 Really, the correct comparison is the Manhattan Project. <a href="https://www.ctbto.org/nuclear-testing/history-of-nuclear-testing/manhattan-project/">It cost about $2 billion in the 1940s</a> (about $20 billion today), still ten times more than the North Korean nuclear program.
 
@@ -165,6 +176,7 @@ When China refused to provide Pakistan with missile technology, North Korea and 
 The other reason for the cheap price tag is domestic. In America, the government cannot force scientists or labourers to work on atomic weapons and must pay a wage commensurate with each employee's skills. The American government cannot force someone who finds atomic weapons distasteful to work on them against their will. For example, Joseph Roblatt was able to leave the Manhattan Project, even in the middle of all the paranoia stirred up by World War II.
 
 North Koreans have none of that luxury. They work for whatever pittance the government chooses to give them and are executed or sent to prison camps if they refuse. There is no room for conscientious objectors or for negotiating on salary. Put plainly, the North Korean nuclear program is much cheaper than other nuclear programs because it is underlain with slavery and coercion.
+
 <h2 id="3.3">3.3 How did things get so bad?</h2>
 To rip off one of my favourite authors, "slowly, then all at once".
 
@@ -177,6 +189,7 @@ By 2006, <a href="https://en.wikipedia.org/wiki/List_of_nuclear_weapons_tests_of
 The nuclear program rapidly accelerated after Kim Jong-Il's death in 2011. I'm of two minds about this. I've seen people claim that Jong-un has poured resources into the program to help <a href="https://www.vox.com/2016/3/4/11160314/north-korea-nuclear-threat">prop up his standing internally</a>, which certainly seems in keeping with his self-preservation instinct. But I also wonder if this could just be the natural result of North Korean scientists becoming more experienced and proficient in nuclear weapons production.
 
 Either way, there have been four nuclear tests since Jong-un took power, three of them since 2016. The rapidity of these recent tests, their pairing with tests of missiles, and Trump's bellicose response have combined to make the stand-off feel much direr than it has been at any other point in my life.
+
 <h2 id="3.4">3.4 How many nuclear weapons does North Korea have? How does this compare to the US?</h2>
 North Korea's nuclear warhead count is unclear, but estimates range from <a href="http://time.com/4906219/north-korea-nuclear-weapons-how-many/">12 to 60</a>.
 
@@ -191,6 +204,7 @@ Likewise, raw fissile material can be mostly neutralized as a threat by eliminat
 I should also mention that very few (if any) of North Korea's active warheads will be similar to the most recent test detonation. Many of their weapons will be relatively weak pure fission devices (similar in strength to their previous nuclear tests). Now that they have a warhead capable of ~150kt yields, they'll certainly try and ramp up production of it (assuming that it's at all practically useful and doesn't weigh several tonnes), but that will take time.
 
 Some experts seem to think that North Korea has much more access to enriched uranium than plutonium. This will further slow down their ability to build new weapons in the ~150kt range, at least if they want those weapons to be miniaturized <a id="nk-top-3" href="#nk-bot-3">[3]</a>.
+
 <h2 id="3.5">3.5 How bad would it be if North Korea used nuclear weapons?</h2>
 Bad.
 
@@ -221,6 +235,7 @@ If an Ohio class submarine were to unleash its payload on North Korea, the count
 <a href="https://www.youtube.com/watch?v=dyeS5JPqOyQ"><strong>Trump's speech</strong></a><strong>, where he promised "fire and fury unlike the world has ever seen" wasn't hyperbole. It was a statement of fact. A single US nuclear ballistic missile submarine could easily make good on his threats. A single US nuclear tipped <em>missile</em> could make good on his threats.</strong>
 
 (There are 14 Ohio class submarines, by the way.)
+
 <h3 id="3.5.1">3.5.1 I've heard that nuclear weapons cause an electromagnetic pulse (EMP). How much damage could North Korea do with this?</h3>
 Like most questions about nuclear weapon damage, this depends on several factors.
 
@@ -233,6 +248,7 @@ The strength of this electromagnetic pulse depends on the type of bomb, its alti
 I don't think North Korea has resources to invest in optimising for EMP effects. Development would probably require tests, which themselves require an expenditure of the government's limited stockpile of fissile material. Since cost-effective and material-effective EMP weapons are normally single stage, North Korea would risk weakening their deterrent posture if they conducted these tests (to the US listening in with seismographs, it would look like they had regressed in their program and were failing to achieve fusion).
 
 It also appears that <a href="https://en.wikipedia.org/wiki/Nuclear_electromagnetic_pulse#Effects">most electronics</a>, especially unplugged electronics would survive an EMP almost entirely unscathed. Computers, phones, and cars would largely be undamaged, but power lines would be heavily affected. This would be bad, but also probably not irrecoverable. A bunch of things would have to go horribly wrong for an EMP attack on America to cause more casualties than a thermonuclear attack on a large city. For this reason, I suspect North Korea's would favour attacking population centres in any retaliatory second strike over high altitude EMP-producing bursts.
+
 <h2 id="3.6">3.6 How do we get North Korea to give up its nuclear weapons program?</h2>
 That is the most important question. President Trump likes to assert that China could get North Korea to stop. I once thought this was true, but I've abandoned that position as I've become better informed on the topic. If we give up on the idea that China can magically get North Korea to stop, it's difficult to conceptualize North Korea giving up its weapons program. We don't have a lot of examples of this occurring; the only singular history has to give us come from South Africa, which was briefly a nuclear power but later gave up its weapons. The parallels – both were international pariahs who felt weapons were necessary against an encroaching threat – offer perhaps the only blueprint for the denuclearization of the Korean peninsula.
 <h3 id="3.6.1">3.6.1 How come China can't make North Korea stop?</h3>
@@ -247,6 +263,7 @@ I don't know why I didn't realize this until I had it pointed out to me by <a hr
 At this point, China seems to believe they've lost any ability to control North Korea. They responded to the latest North Korean missile test <a href="http://nationalinterest.org/blog/the-buzz/china-just-sent-big-military-warning-north-korea-22234">with the test of an anti-ballistic missile system </a> <a href="https://qz.com/1070503/with-tensions-over-north-korea-mounting-china-is-testing-antimissile-systems-of-its-own/">of their own</a>. The location of this system? Between North Korea and Beijing. This is <strong>not</strong> something allies do. This isn't even something that disinterested parties do. Pakistan and the UK both have nuclear weapons, but the US has put no effort into building missile defenses against either of them. China fears and mistrusts North Korea more than the United States fears and mistrusts Pakistan (<a href="https://en.wikipedia.org/wiki/Pakistan_and_state-sponsored_terrorism#Haqqani_Network">which incidentally is also another excellent example of a rocky relationship</a> between client and suzerain).
 
 All of this means that a solution for the present crisis will not come only from Beijing. The <em>engagement</em> of Beijing is key to bringing North Korea to the table – we can't accomplish anything without them – but we can no longer foist <em>responsibility</em> for North Korea onto China.
+
 <h3 id=3.6.2">3.6.2 Why did South Africa end its nuclear weapons program?</h3>
 In the 1970s South Africa was internationally isolated. It was <a href="https://en.wikipedia.org/wiki/Sporting_boycott_of_South_Africa_during_the_apartheid_era">banned from major sporting events</a> and faced coordinated <a href="http://www.nytimes.com/1993/09/12/weekinreview/the-world-south-africa-sanctions-may-have-worked-at-a-price.html?mcubz=0">economic</a> and <a href="https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_418">military</a> sanctions. It was fighting two separate guerilla wars and one conventional war. Thanks to intervention by Cuba and the USSR, (white) South Africans legitimately felt like they might soon be overrun by communists.
 
@@ -261,6 +278,7 @@ Does any of this sound familiar? South Africa had the same foundational paranoia
 Here's what happened. The sanctions – especially the sports bans – took their toll, demoralizing white South Africans. The Soviet Union fell, ending communism as an existential threat. Demographics forced the government to realized that they could only fight the tide of history for so long. F.W. de Klerk negotiated peace with the Angolans, the Namibians, the Cubans, and the ANC. He secured immunity for the state actors that had propped up apartheid. <a href="http://www.latimes.com/opinion/op-ed/la-oe-deklerk-south-africa-nukes-20131222-story.html">Then he dismantled his country's nuclear weapons</a>, followed shortly by his government.
 
 This, I think, is the blueprint we must follow for North Korea. We should follow it not because it's particularly attractive, but because it is the <em>only</em> blueprint we have.
+
 <h3 id="3.6.3">3.6.3 How could we convince North Korea to give up its nuclear weapons?</h3>
 First, the Americans and North Koreans would have to accept the current Chinese <a href="https://www.lawfareblog.com/taking-china-seriously-north-korea-deal">proposal</a>, which would see North Korea pause its nuclear program and the US cancel joint military exercises with South Korea. This is actually similar in principle to the trilateral treaty that ended the conflict in Namibia and Angola. As a result of that treaty South Africa withdrew its forces, Cuba did the same, and Namibia ran democratic elections.
 
@@ -273,6 +291,7 @@ There are two paths that can be followed once the North freezes its nuclear prog
 Hence, the second path. It starts off like the first, with the world steadily upping the pressure on Kim Jong-un. But here, instead of just making this about nuclear weapons, we make it personal <em>and</em> we offer him a personal escape from his current situation <a id="nk-top-11" href="#nk-bot-11">[11]</a>. A guaranteed life of ease may not be owning a country, but it competes favourably with being dead. The goal here would be to remove Jong-un and replace him with someone able to undertake the Korean equivalent of the <a href="https://en.wikipedia.org/wiki/Khrushchev_Thaw">Khrushchev Thaw</a> or <a href="https://en.wikipedia.org/wiki/Deng_Xiaoping#Opening_up">Deng Xiaoping's reforms</a>.
 
 This would go hand in hand with the negotiations following the suspension of military drills and might involve the following:
+
 <ul>
  	<li>America removes all of its troops from South Korea</li>
  	<li>Kim steps down as Supreme Leader. He and all of his cronies are guaranteed a state pension for as long as they live.</li>
@@ -292,7 +311,8 @@ I don't know if this plan could work. I don't know if there's the political will
 That's the other reason I wrote this FAQ. Because I want people to have all of the context for this crisis. I want you to understand the true scope of devastation that any military response to North Korea would entail. I want you to understand that China cannot control North Korea. I want you to understand that missile defense is cold comfort. I want you to understand that we have done this before and we can do it again but that it will be hard and unsatisfying.
 
 If you've made it this far, I have a favour to ask of you. Check my work. Make sure what I've written is correct. If I'm wrong, help me to understand this crisis even better. And if it checks out, tell other people what we know. Spread it as far as you can. Tell your friends, your coworkers. Tell your parents, your children. Help people understand what we have to do.
-<h1 id="4.0">4. Footnotes</h1>
+
+<h3 id="4.0">4. Footnotes</h3>
 <strong id="nk-bot-1">[1]</strong> For <a href="https://nuclearsecrecy.com/nukemap/">illustrative purposes</a>, note that this means 175,000 to 380,000 fatalities if detonated above downtown LA or 270,000 to 760,000 fatalities if detonated above downtown Tokyo. For more on yield, see my post on <a href="/2017/01/26/nuclear-weapons-5-0-effects">nuclear weapon effects</a>. <a href="#nk-top-1">^</a>
 
 <strong id="nk-bot-2">[2]</strong> If it is following the limits outlined in the <a href="https://en.wikipedia.org/wiki/New_START#Overview">New START</a> treaty with Russia. <a href="#nk-top-2">^</a>

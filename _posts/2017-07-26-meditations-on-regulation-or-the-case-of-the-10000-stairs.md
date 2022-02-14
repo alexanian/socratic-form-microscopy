@@ -78,8 +78,11 @@ I would suggest that if you're the type of person whose knee-jerk response to re
 
 Also, it probably seems true that some things are a touch over-regulated if $65,000 (or even $10,000) is an unsurprising estimate for a set of stairs.
 
-<em>Epistemic Status: </em> <a href="/about-me">Model</a>
+---
 
+<em class="epistemic-status">Epistemic Status: </em> <a href="/about-me">Model</a>
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="reg-bot-1">[1]</strong> Of course, even unpaid overtime has a cost. After a lot of it, you might feel justified to a rather longer paid vacation than you might otherwise take. Not to mention that long hours with inadequate breaks can harm productivity in the long run.  <a href="#reg-top-1">^</a>
@@ -105,3 +108,5 @@ Anyway, you should look at changes to liability the same way you look at regulat
 <strong id="reg-bot-7">[7]</strong> This is dubious because it's inherently anti-democratic (the government is taking actions designed to be opaque to the governed) and also incredibly baroque. I'm not talking about simple changes to liability that will be intuitively understood. I'm talking about provisos written in solid legalese that tweak liability in ways that I wouldn't expect anyone without a law degree and expertise in liability law to understand. If a government was currently doing this, I would expect that I wouldn't know it and wouldn't understand it even if it was pointed out to me. <a href="#reg-top-7">^</a>
 
 <strong id="reg-bot-8">[8]</strong> Note, crucially, that it feels radical, but isn't. Most people who read my blog already agree with me here, so I'm not actually risking any consequences by being all liberal/centrist/neo-liberal/whatever we're calling people who don't toe the party line this week. <a href="#reg-top-8">^</a>
+
+</div>

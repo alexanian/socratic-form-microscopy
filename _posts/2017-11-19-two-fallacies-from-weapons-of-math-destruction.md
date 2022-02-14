@@ -77,6 +77,9 @@ Because for a book about how algorithms are destroying everything, there was a r
 
 If you want to give your readers an accurate snapshot of the ground truth, your examples must be representative of the ground truth. If algorithms cause twice as much damage as human decision making in certain circumstances (and again, I've seen <em>zero</em> proof that this is the case) then you should interleave every two examples of algorithmic destruction with one of human pettiness. As long as you aren't doing this, you are lying to your readers. If you're committed to lying, perhaps for reasons of pithiness or flow, then drop the vague allusions to the costs of the other way of doing things. Make it clear you're writing a hatchet job, instead of trying to claim epistemic virtue points for "telling both sides of the story". At least doing things that way is honest <a id="wtf-top-7" href="#wtf-bot-7">[7]</a>.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="wtf-bot-1">[1]</strong> This is a classic example of "anchoring", a phenomenon where you appear to have a strong correlation in a certain direction because of a single extreme point. When you have anchoring, it's unclear how generalizable your conclusion is – as the whole direction of the fit could be the result of the single extreme point.
@@ -116,3 +119,5 @@ In this case, I think the moral thing to do <em>as a society</em> is to ignore a
 <strong id="wtf-bot-6">[6]</strong> Or at least, you would if I hadn't warned you that I was about to talk about biases. <a href="#wtf-top-6">^</a>
 
 <strong id="wtf-bot-7">[7]</strong> My next blog post is going to be devoted to what I <em>did</em> like about the book, because I don't want to commit the mistakes I've just railed against (and because I think there was some good stuff in the book that bears reviewing). <a href="#wtf-top-7">^</a>
+
+</div>

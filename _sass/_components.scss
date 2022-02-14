@@ -34,29 +34,35 @@ code {
     @media (min-width: $breakpoint-lg) {
       width: (10 / 12 * 100%); // matches col-10
     }
-
   }
 
-  ul, ol {
+  ul,
+  ol {
     padding-left: 40px;
   }
 
   li {
     margin-bottom: 0.5em;
 
-    ul li, ol li {
+    ul li,
+    ol li {
       margin-bottom: 0;
     }
   }
 
-  img {
+  h2 {
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+  }
 
+  img {
     max-width: 100%;
 
     @media (min-width: $breakpoint-lg) {
-      max-width: (12 / 10 * 100%); // make image fill width of container on desktop
+      max-width: (
+        12 / 10 * 100%
+      ); // make image fill width of container on desktop
     }
-
   }
 
   blockquote {
@@ -78,9 +84,7 @@ code {
       p {
         font-size: 32px;
       }
-
     }
-
   }
 
   hr {

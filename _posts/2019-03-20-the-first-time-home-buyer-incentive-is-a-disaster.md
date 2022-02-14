@@ -41,6 +41,9 @@ The only path towards broadly affordable housing prices is the removal of all im
 
 Serious work towards housing affordability would strike back against zoning. This incentive provides a temporary palliative without addressing the root cause, while tying the government's financial wellbeing to high home prices. Everyone struggling with housing affordability deserves better.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="fth-bot-1">[1]</strong> Mortgage insurance is required for any down payment less than 20%. If you have an income of $120,000 and you max out the down payment, then the mortgage of $480,000 would be about 81% of the total price. Division tells us the total price in this case would be $592,592.59, although obviously few people will be positioned to max out the benefit. <a href="#fth-top-1">^</a>
@@ -48,3 +51,5 @@ Serious work towards housing affordability would strike back against zoning. Thi
 <strong id="fth-bot-2">[2]</strong> Currently, the best argument against buying a home is the chance that the government will one day wake up to the crisis it is creating and withdraw some of its subsidies. It is, in general, not wise to make heavily leveraged bets that will only pay off if subsidies are left in place, but a bet on housing has so far been an exception to this rule. <a href="#fth-top-2">^</a>
 
 <strong id="fth-bot-3">[3] </strong>Technically, it will hurt the Canadian Mortgage and Housing Corporation, but given that this is the crown corporation responsible for mortgage insurance, a decline in home prices could leave it undercapitalized to the point where the government has to step in <em>even before</em> this policy was enacted. With this policy, a bailout in response to lower home prices seems even more likely. <a href="#fth-top-3">^</a>
+
+</div>

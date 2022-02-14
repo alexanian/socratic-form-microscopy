@@ -17,6 +17,7 @@ tags:
   - tradeoffs are hard
   - zach really likes military history
 ---
+
 <em>Epistemic Status: Full of sweeping generalizations because I don't want to make it 10x longer by properly unpacking all the underlying complexity.</em>
 
 <em>[9 minute read]</em>
@@ -28,6 +29,7 @@ The C-section – and epidurals and induced labour – have become so common bec
 The C-section has taken the place of much of the specialized knowledge of obstetrics of old, not the least because it is easy to teach and easy for even relatively less skilled doctors to get right. When Gawande wrote the article, there was debate about offering women in their 39<sup>th</sup> week of pregnancy C-sections as an alternative to waiting for labour. Based on <a href="https://www.cdc.gov/nchs/data/nvsr/nvsr63/nvsr63_06.pdf">the stats</a>, this hasn't quite come to pass, but C-sections have become slightly more prevalent since the article was written.
 
 I noticed two laments in the piece. First, Gawande wonders at the consequences of such an essential aspect of the human experience being increasingly (and based off of the studies that show forceps are just as good as C-sections, arguably unnecessarily) medicalized. Second, there's a sense throughout the article that difficult and hard-won knowledge is being lost.
+
 <blockquote>The question facing obstetrics was this: Is medicine a craft or an industry? If medicine is a craft, then you focus on teaching obstetricians to acquire a set of artisanal skills—the Woods corkscrew maneuver for the baby with a shoulder stuck, the Lovset maneuver for the breech baby, the feel of a forceps for a baby whose head is too big. You do research to find new techniques. You accept that things will not always work out in everyone’s hands.
 
 But if medicine is an industry, responsible for the safest possible delivery of millions of babies each year, then the focus shifts. You seek reliability. You begin to wonder whether forty-two thousand obstetricians in the U.S. could really master all these techniques. You notice the steady reports of terrible forceps injuries to babies and mothers, despite the training that clinicians have received. After Apgar, obstetricians decided that they needed a simpler, more predictable way to intervene when a laboring mother ran into trouble. They found it in the Cesarean section.</blockquote>
@@ -84,9 +86,16 @@ But the transition from warriors to soldiers is. It's amazing that we can often 
 Being able to understand where this transition is occurring helps you understand where we're putting effort. Understanding when it's happening within your own sphere of influence can help you weather it.
 
 Also note that this transition doesn't only go in one direction. As manufacturing becomes less and less prevalent in North America, we may return to the distant past, when manufacturing stuff was only undertaken by very skilled artisans making unique objects.
-<h2>Footnotes:</h2>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
+
 <strong id="wvs-bot-1">[1]</strong> Note the past tense throughout much of this essay; when I speak about soldiers and warriors, I'm referring only to times before the 1900s. I know comparatively little about how modern armies are set up. <a href="#wvs-top-1">^</a>
 
 <strong id="wvs-bot-2">[2]</strong> Best of all were the Mongols, who combined the lifelong training of warriors with the discipline and organization of soldiers. When Mongols clashed with European knights in Hungary, their "dishonourable" tactics (feints, followed by feigned retreats and skirmishing) easily took the day. This was all possible through a system of signal flags that allowed Subutai to command the whole battle from a promontory. European leaders were expected to show their bravery by being in the thick of fighting, which gave them no overall control over their lines. <a href="#wvs-top-2">^</a>
 
 <strong id="wvs-bot-3">[3]</strong> Historically, professional armies with good logistical support could somewhat pay for themselves by expanding an empire, which brought in booty and slaves. This is distinct from raiding (which does not seek to incorporate other territories) and has its own disadvantages (rebellion, over-extension, corruption, massive unemployment among unskilled labourers, etc.). <a href="#wvs-top-3">^</a>
+
+</div>

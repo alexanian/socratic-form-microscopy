@@ -14,6 +14,7 @@ categories:
 tags:
   - i apparently give writing advice now
 ---
+
 I identify so strongly as a person who writes daily that I sometimes find myself bowled over by the fact that I haven't always done it.
 
 Since my first attempt to write a novel (at age 13), I've known that I really enjoy writing. The problem was that I could never really get myself to write. I managed the occasional short story for a contest and I pulled off NaNoWriMo when I was 20, but even after that, writing remained something that happened almost at random. Even when I had something I really wanted to write it was a toss-up as to whether I would be able to sit down and get it on a page.
@@ -23,6 +24,7 @@ This continued for a while. Up until January 1<sup>st</sup>, 2015, I had written
 What changed in 2015? I made a New Year's Resolution to write more. And then, when that began to fall apart a few months later (as almost all New Year's Resolutions do), I sought out better commitment devices.
 
 Did you read my first paragraph and feel like it describes you? Do you want to stop trying to write and start actually writing? If your brain works like mine, you can use what I've learned to skip over (some of) the failing part and go right to the writing every single day part <a id="w-t-1" href="#w-b-1">[1]</a>.
+
 <h3>Step 1: Cultivate Love</h3>
 I like having completed writing projects to show off as much as the next person, but I also enjoy the <em>act</em> of writing. If you don't actually <em>enjoy</em> writing, you may have a problem. My techniques are designed to help people (like me) who genuinely enjoy writing once they get going but have trouble forcing themselves to even start.
 
@@ -33,6 +35,7 @@ Writing (at least partially) for the sake of writing means that you won’t beco
 If you don't like writing for its own sake, don't despair completely. It's possible you might come to love it if you spend more time on it. As you start to write regularly, try out lots of things and figure out what you like and dislike. It can be hard to tell the difference between not liking writing and not liking the types of writing you've done.
 
 For example, I'm a really exploratory writer. I've found that I don't enjoy writing if there's a strict outline I'm trying to follow or if I'm constrained by something someone else has written. Fanfiction is one of the common ways that new writers develop their skills, but I <em>really</em> dislike writing fanfiction. Realizing this has allowed me to avoid a bunch of writing that I'd find tedious. Tedious writing is a big risk to your ability to write daily, so if you can reasonably avoid it, you should.
+
 <h3>Step 2: Start Small</h3>
 When learning a new skill or acquiring a new habit, it's <em>really </em>tempting to try and dive right in and do everything at once. I'd like to strongly discourage this sort of thing. If you get overwhelmed right at the start you're unlikely to keep with it. Sometimes jumping right into the deep end teaches you to swim, sure. But sometimes you <em>drown</em>. Or develop a fear of water.
 
@@ -51,6 +54,7 @@ Next, your goal should be achievable; something you have no doubt <em>you</em> c
 Lastly, atomic. Atomic goals can't be broken down any further. Don't start by Beeminding blog posts or gods forfend, <em>novels</em>! Pick the smallest unit of writing you can, probably either <a href="https://www.beeminder.com/zacharyjacobi/writingtime">time</a> or <a href="https://www.beeminder.com/zacharyjacobi/writing">word count</a>, and make your goal about this. When you're Beeminding words or time, you can't fail and get discouraged for lack of ideas or "writer's block" <a id="w-t-3" href="#w-b-3">[3]</a>. It's much better to spend a week writing detailed journals of every day (or even a detailed description of your bedroom) than it is to spend a week not writing because you can't think of what to write.
 
 My recommended starter goals are either: write 150 words each day or write 15 minutes each day. Both of these are easy to Beeminder and should be easy for most people to achieve.
+
 <h3>Step 3: Acquire Confidence</h3>
 Even with goals that easy, your first few days or weeks may very well be spent just barely meeting them, perhaps as Beeminder breaths down your neck. Writing is like exercise. It's surprising how hard it can be to do it every day if you're starting from nothing.
 
@@ -75,6 +79,7 @@ The number of days before you derail on a goal in Beeminder is called "safety bu
 [caption id="attachment_427" align="alignnone" width="768"]<img class="size-medium_large wp-image-427" src="https://socratic-form-microscopy.com/wp-content/uploads/trim-safety-buffer-768x190.png" alt="" width="768" height="190" /> The set-up on my daily writing time goal.[/caption]
 
 When you get to the point of regularly trimming your safety buffer you're almost ready to move on up. Once you're really, <em>really</em> sure you can handle more (i.e. exceeded your minimum every day for two weeks), slowly increase your commitment. You don't want to get too cocky here. If you're currently aiming for 150 words/day and 9 days out of 10 you write 250, set your new goal to 200, not 250. You want to feel like you're successfully and competently meeting your goal, not like you're scrapping by by the skin of your teeth.
+
 <h3>Step 4: Make Molecules</h3>
 Once you become comfortable with your atomic goals and find stable long term resting spots for them, you can start to Beemind more complex outputs. This is using Beeminder to directly push you towards your goals. Want to work on your blog? <a href="https://www.beeminder.com/zacharyjacobi/blog">Beemind blog posts</a>. Want to work on a book? Beemind pages or chapters or scenes. Want to keep a record of your life? <a href="https://www.beeminder.com/zacharyjacobi/journal">Beemind weekly journals</a>.
 
@@ -101,6 +106,7 @@ Here's my new blogging goal:
 [caption id="attachment_432" align="alignnone" width="696"]<img class="size-full wp-image-432" src="https://socratic-form-microscopy.com/wp-content/uploads/blog_posts.png" alt="" width="696" height="453" /> No derailments here! I started this at the rate of one post per month and only increased the slope at the end of March after I'd proved to myself that I wouldn't have any problems keeping up the pace. It was a near thing at the start of May after two weeks of vacation where I'd had less chance to write than I hoped, but it turned out okay. In retrospect, it probably would have been smarter to increase the rate after my vacation, not before.[/caption]
 
 As you can see, I learned my lesson about over-ambition.
+
 <h3>Step 5: Vanquish Guilt</h3>
 At the same time as you work on Beeminding more complex outputs, you will want to be examining and replacing the guilt based motivation structure you may have built to get there.
 
@@ -119,6 +125,7 @@ It may seem hard to make this leap, especially when you start out with Beeminder
 Mere reminders to write are the least of what I get out Beeminder though. Beeminder became so much more effective for me once I started to regularly surpass my goals. Slowly, I began to be motivated mostly by exceeding them and that motivation led me to exceed them by ever greater margins <em>and</em> enjoy every minute of it.
 
 For more about the perils of guilt as a motivational tool (and some suggestions on how to replace it), check out the <a href="http://mindingourway.com/guilt/">replacing guilt sequence</a> on Nate Soare's blog, Minding Our Way. For a TL;DR, try "<a href="http://mindingourway.com/dont-steer-with-guilt/">Don't steer with guilt</a>".
+
 <h3>Step 6: Success Spiral</h3>
 This is the part where everything starts to come together. When you get here, guilt based motivation is but a dim memory. You write because you want to. Beeminder helps keep you on track, but you're more likely to spend a bit of extra time writing to see the spike in your graphs than you are because you'll derail otherwise.
 
@@ -133,19 +140,26 @@ This is really good, because any grumpiness about writing I might start with is 
 The road here wasn't exactly easy. It's taken more than two and a half years, hundreds of thousands of words, incipient carpal tunnel, and many false starts. It's the false starts that inspired me to write this. I doubt, dear reader, that you are exactly like me. Likely some of this advice won't work for you. It is, however, my hope that it can point you in the right direction. Perhaps my false starts can save you some of your own.
 
 I would feel deeply uncomfortable giving anyone advice on how to be a better writer; I don't feel confident enough in my craft for that <a id="w-t-5" href="#w-b-5">[5]</a>. But I do feel like I know how to develop a kickass writing habit, the sort of habit that gives you the practice you need to get better. If you too want to write regularly, how about you give this a try?
+
 <h3>Postscript</h3>
 I think the steps outlined here could be used to help build a variety of durable habits across disciplines. Want to program, cook, draw, or learn a new language? Think that in any of those cases a daily habit would be helpful? This advice is probably transferable to some degree. That said, I haven't tried to repeat this process for any of those things, so I don't know what the caveats are or where it will break down. If you adapt this post for anything else, let me know and I'll link to it here.
 <h3>Acknowledgements</h3>
 Thanks to the <a href="https://www.beeminder.com/aboutus">kind folks at Beeminder</a> for helping me create some of the graphs used in this post. In addition, thanks are due for fielding my semi-panicked support requests when the graph generation caused some problems with my account.
 
 Thanks to <a href="http://malcolmocean.com/">Malcolm Ocean</a> of Complice for pointing me towards Beeminder in the first place and for the <a href="http://malcolmocean.com/2015/01/2014-an-objective-year/">year in review post</a> that spurred me to make writing my New Year's Resolution in 2015.
+
 <h3>Disclaimer</h3>
 I genuinely like the people whose products I recommend in this blog post. I genuinely like their creations. They aren't giving me anything to recommend their stuff.
 
 True story: Beeminder sent out a survey about referral links and I told them they could set up a referral system, but I'd never use it. I think Beeminder and Complice are incredibly valuable tools that are tragically under-used and I don't want to risk even the appearance of a conflict of interest that might make people less likely to follow my recommendations to use them. For me, they've been literally life-changing.
 
 I've linked to my specific Beeminder writing goals (there are four of them) at various points throughout this post, but if you want the proof that I'm not talking out of my ass all nicely collected in one place, you can check out my progress towards all of my Beeminder goals at: <a href="https://www.beeminder.com/zacharyjacobi">https://www.beeminder.com/zacharyjacobi</a>.
+
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
+
 <strong id="w-b-1">[1]</strong> If this advice doesn't work for you, don't sweat it. I'm just a dude on the internet. This isn't the bible. What works for me may not work for you and there's nothing wrong with you if it doesn't. You'll just have to find your own way, is all. <a href="#w-t-1">^</a>
 
 <strong id="w-b-2">[2]</strong> If Beeminder doesn't work for you, I recommend a human <a href="http://www.quietrev.com/forget-mentors-find-an-accountability-partner/">accountability buddy</a> (who will check up on your writing progress each day and maybe take your money if you aren't hitting your goals). <a href="#w-t-2">^</a>
@@ -155,3 +169,5 @@ I've linked to my specific Beeminder writing goals (there are four of them) at v
 <strong id="w-b-4">[4]</strong> I cannot recommend this feature highly enough for people in long-distance relationships. <a href="#w-t-4">^</a>
 
 <strong id="w-b-5">[5]</strong> For non-fiction writing advice, <a href="http://slatestarcodex.com/2016/02/20/writing-advice/">try the Slate Star Codex post of the same name</a>. For more general advice, <a href="http://blogs.plos.org/neurotribes/2011/06/02/practical-tips-on-writing-a-book-from-22-brilliant-authors/">here's tips from 23 different authors</a>. <a href="#w-t-5">^</a>
+
+</div>

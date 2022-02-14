@@ -67,6 +67,9 @@ Minimum wage jobs suck. For all that economists claim there is no moral judgemen
 
 It is popular to blame business owners and capitalists for the wages their workers make and to say that it shows how little they value their workers. I don't think that's merited here. Corporate Tim Hortons has crunched the numbers and decided that if they raise prices, fewer people will buy coffee, their profits will decrease, and they might be personally liable for breach of fiduciary duty. In the face of rising prices, franchisees try and do whatever they can to stay afloat. We can say that caring about profits more than the wages their workers make shows immense selfishness on the part of these franchisees, but it's little different than the banal selfishness anyone shows when they care more about making money for themselves than making money and giving it away – or the selfishness we show when we want our coffee to be cheaper than it can be when made by someone earning a wage that can comfortably support a family.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="tim-bot-1">[1]</strong> As long as there are other available investments approximately as risky as opening a fast-food restaurant that return at least 6%, profits shouldn't drop any lower than that. In this way, inefficiencies in other sectors could stop fast food restaurants from behaving like they were in a perfectly free market even if they were. <a href="#tim-top-1">^</a>
@@ -74,3 +77,5 @@ It is popular to blame business owners and capitalists for the wages their worke
 <strong id="tim-bot-2">[2]</strong> This calculation is flawed, in that there are probably other costs making up total labour costs (like benefits) beyond simple wage income. On the other hand, it isn't just wages that are going up. Other increased costs probably balance out any inaccuracies, making the conclusions essentially correct. This is to say nothing for corporate taxes, which further reduce profits. <a href="#tim-top-2">^</a>
 
 <strong id="tim-bot-3">[3]</strong> We can't blame fiduciary duty, because fiduciary duty is how investing at all can happen. You might not like investing, but without investing, saving for retirement or having a national pension plan is impossible. If your response to this is to say "well let's just tear down capitalism and start over", I'd like to remind you that people tried that and it led to a) <a href="https://en.wikipedia.org/wiki/Soviet_famine_of_1932%E2%80%9333">famine</a>, b) <a href="https://en.wikipedia.org/wiki/Gulag">gulags</a>, c) <a href="https://en.wikipedia.org/wiki/Death_squad#Soviet_Union">death squads</a>, d) <a href="https://en.wikipedia.org/wiki/Soviet_famine_of_1946%E2%80%9347">more famine</a>, and e) <a href="https://en.wikipedia.org/wiki/Consumer_goods_in_the_Soviet_Union#Consumer_supply_in_the_1980s">persistent shortages of every consumer good imaginable, including food</a> <a href="#tim-top-3">^</a>
+
+</div>

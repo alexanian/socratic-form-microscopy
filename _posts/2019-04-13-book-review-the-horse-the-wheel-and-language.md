@@ -137,6 +137,9 @@ The rest of it makes up for that. But I think there would be market for Anthony 
 
 If he ever does, I'll probably give it a read.
 
+---
+
+<div class="footnotes" markdown="1">
 <h3>Footnotes:</h3>
 
 <strong id="hwl-bot-1">[1]</strong> David Anthony is very sensitive to the political ends that some scholars of Proto-Indo-European have turned to. He acknowledges that white supremacists appropriated the self-designation of "Aryan" used by some later speakers of PIE-derived languages and used it to refer to some sort of ancient master race. Professor Anthony does not buy into this one bit. He points out that Aryan was always a cultural term, not a racial one (showing the historical ignorance of the racists) and he is careful to avoid assigning any special moral or mythical virtue to the Proto-Indo-Europeans whose culture he studies.
@@ -150,3 +153,5 @@ White supremacists will find nothing to like about this book, unless they engage
 <strong id="hwl-bot-4">[4]</strong> Uralic is the language family that in modern times includes Finnish and some languages spoken in Russia. <a href="#hwl-top-4">^</a>
 
 <strong id="hwl-bot-5">[5]</strong> While looking up the word \*médhu, I found out that it is also likely the root of the Old Chinese word for honey, via an extinct Proto-Indo-European language, Tocharian. The speakers of Tocharian migrated from the Proto-Indo-European homeland to Xinjiang, in what is now China, which is likely where the borrowing took place. <a href="#hwl-top-5">^</a>
+
+</div>

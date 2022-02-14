@@ -14,6 +14,7 @@ tags:
   - overview
   - someone else probably came up with this first
 ---
+
 It can be hard to grasp that radio waves, deadly radiation, and the light we can see are all the same thing. How can electromagnetic (EM) radiation – photons – sometimes penetrate walls and sometimes not? How can some forms of EM radiation be perfectly safe and others damage our DNA? How can radio waves travel so much further than gamma rays in air, but no further through concrete?
 
 It all comes down to wavelength. But before we get into that, we should at least take a <em>glance </em>at what EM radiation really is.
@@ -59,7 +60,12 @@ Wavelength explains how gamma rays can penetrate concrete (they're actually so s
 When you're worried about a certain type of EM radiation causing cancer, all you have to do is look at its wavelength. Any wavelength smaller than that of ultraviolet light (about 400nm) is small enough to interact with DNA in a meaningful way. Anything large is unable to really interact with DNA and is therefore safe.
 
 <strong>Epistemic Status</strong>: Model. Looking at everything as antenna will help you understand why EM radiation interacts with the physical world the way it does, but there is a lot of hidden complexity here. For example, eyes are far from directly analogous to antennas in their mechanism of action, even if they are sized appropriately to be antennas for light. It's also true that at the extreme ends of photon energy, interactions are based more on energy than on size. I've omitted this in order to write something that isn't entirely caveats, but be aware that it occurs.
-<h5>Footnotes:</h5>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
+
 <em id="ant1"><strong>[1]</strong></em> You may have heard that the speed of light changes in different substances. Tables will tell you that the speed of light in water is only about ¾ of the speed of light in air or vacuum and that the speed of light in glass is even slower still. This isn't technically true. The speed of light is (as far as we know) cosmically invariant – light travels the same speed everywhere in the galaxy. That said, the amount of time light takes to travel between two points can vary based on how many collisions and redirections it is likely to get into between two points. It's the difference between how long it takes for a pinball to make its way across a pinball table when it hits nothing and how long it takes when it hits every single bumper and obstacle. <a href="#anttop1">^</a>
 
 <em id="ant2"><strong>[2]</strong></em> This is a first approximation of what is going on. Eyes can be <em>modelled</em> as antennas for the right wavelength of EM radiation, but this ignores a whole lot of chemistry and biophysics. <a href="#anttop2">^</a>
@@ -69,3 +75,5 @@ When you're worried about a certain type of EM radiation causing cancer, all you
 <em id="ant4"><strong>[4]</strong></em> This interaction is actually governed by quantum mechanical tunneling. Whenever a form of EM radiation "tries" to cross a barrier larger than its wavelength, it will be attenuated by the barrier. The equation that describes the probability distribution of a particle (the photons that make up EM radiation are both waves and particles, so we can use particle equations for them) is approximately <img class="alignnone wp-image-367 " src="https://socratic-form-microscopy.com/wp-content/uploads/Antennas-Eq-1.png" alt="" width="160" height="27" /> (I say approximately because I've simplified all the constants into a single term, <em>k</em>), which becomes <img class="alignnone wp-image-366" src="https://socratic-form-microscopy.com/wp-content/uploads/Antennas-Eq-2.png" alt="" width="132" height="27" /> (here I'm using <em>k<sub>1</sub></em> to imply that the constant will be different), the equation for exponential decay, when the energy (to a first approximation, length) of the substance is higher than the energy (read size of wavelength) of the light.
 
 This equation shows that there can be some probability – occasionally even a high probability – of the particle existing on the other side of a barrier.  All you need for a particle to traverse a barrier is an appropriately small barrier. <a href="#anttop4">^</a>
+
+</div>

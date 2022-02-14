@@ -1,6 +1,6 @@
 ---
 id: 671
-title: 'Book Review: Origins of Totalitarianism Part 1'
+title: "Book Review: Origins of Totalitarianism Part 1"
 date: 2018-01-14T10:50:26-05:00
 author: Zach
 layout: post
@@ -18,6 +18,7 @@ tags:
   - hannah arendt
   - liberalism
 ---
+
 <em>[Content Warning: Discussions of genocide and antisemitism]</em>
 
 Hannah Arendt's massive study of totalitarianism, <em>The Origins of Totalitarianism</em>, is (at the time of writing), <a href="https://www.amazon.ca/gp/bestsellers/books/16037261/ref=pd_zg_hrsr_b_1_5_last">the fourth most popular political theory book on Amazon</a> (after two editions of The Prince, Plato's Republic, and a Rebecca Solnit book). It's also a densely written tome, not unsuitable for defending oneself from wild animals. Many of its paragraphs could productively be turned into whole books of their own.
@@ -43,6 +44,7 @@ When you accept that certain people have <em>vices</em>, you may excuse them som
 The danger that Arendt identifies here is that this "tolerance" for murder or treason can be quickly reversed. And when this happens, it isn't enough just to punish the traitors or murderers. Everyone who is racially or dispositionally inclined to these crimes must then be "liquidated".
 
 Hannah Arendt's exact phrasing of the threat here is:
+
 <blockquote>It is an attraction to murder and treason which hides behind such perverted tolerance, for in a moment it can switch to a decision to liquidate not only all actual criminals but all who are "racially" predestined to commit certain crimes. Such changes take place whenever the legal and political machine is not separated from society so that social standards can penetrate into it and become political and legal rules. The seeming broad-mindedness that equates crime and vice, if allowed to establish its own code of law, will invariably prove more cruel and inhuman than laws, no matter how severe, which respect and recognize man's independent responsibility for his behavior.</blockquote>
 Having separated modern antisemitism from earlier religious pogroms, Arendt also spends some time separating nationalism from totalitarianism. Nationalism, to Arendt, is always inward focused. It views one's own nation as best and spurns contact with outsiders. Nationalism may be paranoid and bellicose, but it has no desire to expand, nor any desire to coordinate with foreign nationalists. Totalitarianism, on the other hand, is always focused outwards, its eyes set on world domination.
 
@@ -125,15 +127,22 @@ On the other side of the equation, we have her pioneering work on antisemitism w
 Arendt had standards that were impossibly high and I think she held Jews to higher standards than any other group. She may have been secular, but I think she also still believed that the Jews were God's chosen people, chosen to be a light among the nations. When others said "we must not judge that, we were not there" about the Jewish leaders and their actions during the Holocaust, <a href="https://www.thenation.com/article/trials-hannah-arendt/">Arendt built a system of political theory around the act of judgement, a theory she thought that would be inimical to tyrants and Nazis</a>.
 
 She was assuredly arrogant. She assuredly burned bridges. A set of lecture notes she once prepared said:
+
 <blockquote>For conscience to work: either a very strong religious belief—extremely rare. Or: pride, even arrogance. If you say to yourself in such matters: who am I to judge?—you are already lost.”</blockquote>
 There is very little positive said in Part 1 of The Origins of Totalitarianism, which is to say that it doesn't give us very much idea of what <em>we</em> can do to prevent totalitarianism and barbarism. But if we could ask Hannah Arendt, the great political theorist of the 20<sup>th</sup> century, the lost child of the French Revolution, she might say something like: "find your principles and stick to them; think about what is the right thing and do it; defend liberty always."
 
 Or, if I can for a second steal <a href="https://www.youtube.com/watch?v=wmBSIQ1lkOA">the speech her biopic puts in her mouth</a>:
+
 <blockquote>Since Socrates and Plato, we usually call thinking to be engaged in that silent dialogue between me and myself. In refusing to be a person Eichmann utterly surrendered that single most defining human quality: that of being able to think. And consequently, he was no longer capable of making moral judgements. This inability to think created the possibility for many ordinary men to commit evil deeds on a gigantic scale, the likes of which have never been seen before.
 
 It is true, I have considered these questions in a philosophical way. The manifestation of the wind of thought is not knowledge, but the ability to tell right from wrong, beautiful from ugly. And I hope that thinking gives people the strength to prevent catastrophes in these rare moments when the chips are down.</blockquote>
 Increasingly, it seems like this might be one of those moments where the chips could be down. I shivered when I read some of Arendt's descriptions of the mob, because I knew it wasn't a hypothetical. I've seen it, on social media and at rallies. With tiki-torches and with weapons, I have seen the mob. And I hope reading this book and others like it and <em>thinking</em> will give me the strength to act to prevent catastrophe if I am ever so unlucky to have to.
-<h2>Footnotes:</h2>
+
+---
+
+<div class="footnotes" markdown="1">
+<h3>Footnotes:</h3>
+
 <strong id="tl1-bot-1">[1]</strong> I want to make it clear that Hannah Arendt (and I) don't believe the old canard about Jews controlling the world. She specifically mentions this lie being baffling, because when it was started, it was true that a rather small group of European statesmen essentially did control the world. But none of those statesmen were Jewish and all of them were so at cross-purposes that no coordination occurred.
 
 When Arendt talks about internationalism in the European Jewish community, she is simply saying that there were many ties of family and friendship among Jews of different countries, which meant that privileged Jews were more likely to have close associates in countries other than the one in which they resided, even compared to similarly privileged gentiles. <a href="#tl1-top-1">^</a>
@@ -151,3 +160,5 @@ Even if the internationalism of the Catholic Church and its occasional use of th
 <strong id="tl1-bot-6">[6]</strong> Zola hated the pardon. He said all it accomplished was "to lump together in a single stinking pardon men of honour with the hoodlums". <a href="#tl1-top-6">^</a>
 
 <strong id="tl1-bot-7">[7]</strong> This was very important to Arendt, because she needed to show the totality of moral collapse in "respectable" German society in order to prove her point about the banality of evil. She recounts that Eichmann actually ignored Himmler's orders to stop killing Jews, because within the context of the third Reich, they were unlawful orders that went against the values of the state. She then goes on to present distressing evidence about just how far this moral rot extended and just how easy it was for Hitler to cultivate it. <a href="#tl1-top-7">^</a>
+
+</div>
