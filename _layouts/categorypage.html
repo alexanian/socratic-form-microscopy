@@ -2,13 +2,10 @@
 layout: default
 ---
 
-<header class="header-background">
-  <div class="container mx-auto px-2 mb-2 clearfix header-text">
-    <h1 class="inline-block col-9 sm-width-full py-2 mt-2 header-title">
-      Posts in category <span class="text-accent">{{ page.category }}</span>
-    </h1>
-  </div>
-</header>
+{% capture header_text %}
+Posts in category <span class="text-accent">{{ page.category }}</span>
+{% endcapture %}
+{% include header.html header_text=header_text %}
 
 <div class="container mx-auto px-2 py-2">
   {% for post in site.categories[page.category] %} {% include post_block.html %}
