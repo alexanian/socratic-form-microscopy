@@ -20,7 +20,7 @@ layout: default
         itemprop="datePublished"
         >{{ page.date | date: "%b %-d, %Y" }}</time
       >
-      in {% if page.categories.size > 0 %} {% for category in page.categories %}
+      {% if page.categories.size > 0 %} in {% for category in page.categories %}
       <a href="/category/{{ category | slugify }}">{{ category }}</a>{% if
       forloop.last %}{% else %},{% endif %} {% endfor %} {% endif %}
     </p>

@@ -1,12 +1,19 @@
 <!-- Modified from https://github.com/broccolini/swiss/blob/master/_includes/post_block.html -->
 <!-- Renders post date, title, and snippet of text. -->
-<div class="py-2 mb-2 prose">
-  <a
-    class="no-underline h5 bold text-accent"
-    title="{{ post.url | prepend: site.baseurl }}"
-    href="{{ post.url | prepend: site.baseurl }}"
-    >{{ post.date | date: "%b %-d, %Y" }}</a
-  >
+<div class="py-2 mb-2">
+  <p class="py-2 bold h4 mb-0">
+    <a
+      class="no-underline"
+      title="{{ post.url | prepend: site.baseurl }}"
+      href="{{ post.url | prepend: site.baseurl }}"
+    >
+      {{ post.date | date: "%b %-d, %Y" }}
+    </a>
+    {% if post.categories.size > 0 %} in {% for category in post.categories %}
+        <a class="no-underline" href="/category/{{ category | slugify }}">{{ category }}</a>{% if
+        forloop.last %}{% else %},{% endif %} {% endfor %}
+    {% endif %}
+  </p>
   <h2 class="h1 lh-condensed col-9 mt-0">
     <a
       title="{{ post.url | prepend: site.baseurl }}"
@@ -14,5 +21,20 @@
       >{{ post.title }}</a
     >
   </h2>
-  <p>{{ post.content | strip_html | truncatewords:100 }}</p>
+  <div class="prose">
+    <p>
+      {% if post.preview_excerpt %}
+        {{ post.preview_excerpt }}
+      {% else %}
+        {{ post.content | truncatewords:150 }}
+      {% endif %}
+    </p>
+    <p class="bold h4 mb-0 text-right">
+      <a
+      title="{{ post.url | prepend: site.baseurl }}"
+      href="{{ post.url | prepend: site.baseurl }}"
+      >Read more</a
+      >
+    </p>
+  </div>
 </div>
