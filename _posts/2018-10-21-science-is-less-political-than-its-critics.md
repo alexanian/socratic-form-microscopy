@@ -20,7 +20,7 @@ tags:
 
 A while back, I was linked to this Tweet:
 
-https://twitter.com/ColdWarScience/status/1017211382176059392
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">|￣￣￣￣￣￣￣￣￣￣￣|<br> Science<br> has always<br> been<br> Political<br>|＿＿＿＿＿＿＿＿＿＿＿| <br> (\__/) ||<br> (•ㅅ•) ||<br> / 　 づ<a href="https://twitter.com/hashtag/HistorianSignBunny?src=hash&amp;ref_src=twsrc%5Etfw">#HistorianSignBunny</a></p>&mdash; Audra J. Wolfe, PhD (@ColdWarScience) <a href="https://twitter.com/ColdWarScience/status/1017211382176059392?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It had sparked a brisk and mostly unproductive debate. If you want to see people talking past each other, snide comments, and <a href="https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights">applause lights</a>, check out the thread. One of the few productive exchanges centres on bridges.
 
@@ -36,11 +36,11 @@ You see, science has unfortunate political <em>implications</em> for many moveme
 
 While Dr. Wolfe is no climate change denier, it <em>is</em> hard to square her claims that calling science political is a neutral statement:
 
-https://twitter.com/ColdWarScience/status/1017391376101756928
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You are getting warmer. Fascinating how “science” is read as “empirical findings” and “political” as inherently bad.</p>&mdash; Audra J. Wolfe, PhD (@ColdWarScience) <a href="https://twitter.com/ColdWarScience/status/1017391376101756928?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 With the examples she chooses to demonstrate this:
 
-https://twitter.com/ColdWarScience/status/1017396571783213058
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When chemists choose to produce synthetics at an industrial scale without investigating their safety, that’s a political choice.</p>&mdash; Audra J. Wolfe, PhD (@ColdWarScience) <a href="https://twitter.com/ColdWarScience/status/1017396571783213058?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 When pointing out that science is political, we could also say things like "we chose to target polio for a major elimination effort before cancer, partially because it largely affected poor children instead of rich adults (as rich kids escaped polio in their summer homes)". Talking about the ways that science has been a tool for protecting the most vulnerable paints a very different picture of what its political nature is about.
 
