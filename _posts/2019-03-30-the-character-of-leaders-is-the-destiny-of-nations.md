@@ -117,6 +117,6 @@ I don't know what specific remedies exist for these trends, but they strike me a
 
 If we cannot find a way to fix partisanship and self-promotion within our current system, then the most important political reform we can undertake is to find a system of government that can pick leaders with the right character for governing even under these very difficult circumstances.
 
-<p class="caption pre-post-meta">
-[Epistemic status: much more theoretical than most of my writing. To avoid endless digressions, I don't justify my centrist axioms very often. I'm happy to further discuss anything that strikes anyone as light on evidence in the comments.]
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: Much more theoretical than most of my writing. To avoid endless digressions, I don't justify my centrist axioms very often. I'm happy to further discuss anything that strikes anyone as light on evidence in the comments.
 </p>

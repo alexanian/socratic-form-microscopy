@@ -130,7 +130,7 @@ It is easy to hate on shareholder protection when you think it only benefits the
 
 Vox is ultimately wrong about how affected ordinary people are when the stock market declines and because of this, their enthusiasm for this plan is deeply misplaced.
 
----
+<hr class="post-end" />
 
 <div class="footnotes" markdown="1">
 <h3>Footnotes</h3>

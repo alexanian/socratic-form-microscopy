@@ -1,6 +1,6 @@
 ---
 id: 783
-title: 'A Cross of Gold: The Best Speech You&#8217;ve Never Heard'
+title: "A Cross of Gold: The Best Speech You&#8217;ve Never Heard"
 date: 2018-06-17T21:37:53-04:00
 author: Zach
 layout: post
@@ -19,6 +19,7 @@ tags:
   - tradeoffs are hard
   - utilitarianism
 ---
+
 Friends, lend me your ears.
 
 I write today about a speech that was once considered the greatest political speech in American history. Even today, after Reagan, Obama, Eisenhower, and King, it is counted among the very best. And yet this speech has passed from the history we have learned. Its speaker failed in his ambitions and the cause he championed is so archaic that most people wouldn't even understand it.
@@ -72,16 +73,23 @@ The fantastic thing is that it almost worked. Bryan was nominated on the Democra
 So, what did he say?
 
 Well, the full speech is available <a href="https://en.wikisource.org/wiki/Cross_of_Gold_Speech">here</a>. I do really recommend it. But I want to highlight three specific parts.
+
 <h3>A Too Narrow Definition of "Business"</h3>
+
 <blockquote>We say to you that you have made the definition of a business man too limited in its application. The man who is employed for wages is as much a business man as his employer; the attorney in a country town is as much a business man as the corporation counsel in a great metropolis; the merchant at the cross-roads store is as much a business man as the merchant of New York; the farmer who goes forth in the morning and toils all day—who begins in the spring and toils all summer—and who by the application of brain and muscle to the natural resources of the country creates wealth, is as much a business man as the man who goes upon the board of trade and bets upon the price of grain; the miners who go down a thousand feet into the earth, or climb two thousand feet upon the cliffs, and bring forth from their hiding places the precious metals to be poured into the channels of trade are as much business men as the few financial magnates who, in a back room, corner the money of the world. We come to speak of this broader class of business men.</blockquote>
+
 In some ways, this passage is as much the source of the mythology of the American Dream as the inscription on the statue of liberty. Bryan rejects any definition of businessman that focuses on the richest in the coastal cities and instead substitutes a definition that opens it up to any common man who earns a living. You can see echoes of this paragraph in almost every presidential speech by almost every presidential candidate.
 
 Think of anyone you've heard running for president in recent years. Now read the following sentence in their voice: "Small business owners – like Monica in Texas – who are struggling to keep their business running in these tough economic times need all the help we can give them". It works because "small business owners" has become one of the sacred cows of American rhetoric.
 
 Bryan added this line just days before he delivered the speech. It was the only part of the whole thing that was at all new. And because this speech inspired a generation of future speeches, it passed into the mythology of America.
+
 <h3>Trickle Down or Trickle Up</h3>
+
 <blockquote>Mr. Carlisle said in 1878 that this was a struggle between "the idle holders of idle capital" and "the struggling masses, who produce the wealth and pay the taxes of the country"; and, my friends, the question we are to decide is: Upon which side will the Democratic party fight; upon the side of "the idle holders of idle capital" or upon the side of "the struggling masses"? That is the question which the party must answer first, and then it must be answered by each individual hereafter. The sympathies of the Democratic party, as shown by the platform, are on the side of the struggling masses who have ever been the foundation of the Democratic party. There are two ideas of government. There are those who believe that, if you will only legislate to make the well-to-do prosperous, their prosperity will leak through on those below. The Democratic idea, however, has been that if you legislate to make the masses prosperous, their prosperity will find its way up through every class which rests upon them.</blockquote>
+
 Almost a full century before Reagan's trickle-down economics, Democrats were taking a stand against that entire world-view. Through all its changes – from the party of slavery to the party of civil rights, from the party of the Southern farmers to the party of "coastal elites" – the Democratic party has always viewed itself as hewing to this one simple principle. Indeed, the core difference between the Republican party and the Democratic party may be that the Republican party views the role of government to "get out of the way" of the people, while the Democratic party believes that the job of government is to "make the masses prosperous".
+
 <h3>A Cross of Gold</h3>
 <blockquote>Having behind us the producing masses of this nation and the world, supported by the commercial interests, the laboring interests, and the toilers everywhere, we will answer their demand for a gold standard by saying to them: "You shall not press down upon the brow of labor this crown of thorns; you shall not crucify mankind upon a cross of gold.</blockquote>
 This is perhaps the best ending to a speech I have ever seen. Apparently at the conclusion of the address, dead silence endured for several seconds and Bryan worried he had failed. Two police officers in the audience were ahead of the curve and rushed Bryan – so that they could protect him from the inevitable crush.

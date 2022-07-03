@@ -18,6 +18,7 @@ tags:
   - police
   - violence
 ---
+
 Remember <a href="http://rationalwiki.org/wiki/Horseshoe_theory">Horseshoe Theory</a>? It's the observation that in many ways, the extremist wings of political movements resemble each other more than centrists or their more moderate brethren. We see this in anti-Semitism, for example. In any given week this year, you're about as likely to see anti-Semitism come from Stormfront… or the <a href="https://www.theguardian.com/commentisfree/2016/mar/18/labour-antisemitism-jews-jeremy-corbyn">British Labour Party</a>.
 
 I've been thinking about horseshoe theory in light of another issue: the police. Let me explain.
@@ -27,6 +28,7 @@ Like most denizens of the internet, I've been exposed to libertarians of various
 I disagree strongly with calls to abolish the police. It's not that I'm a great fan of the police: I'm a member of the Canadian Civil Liberties Union and I believe in strong checks and balances on law enforcement power. It's just that one lesson we've learned repeatedly over the past century is that radical change to public institutions rarely goes smoothly. We should always remember caution when people suggest tearing up everything we already know without really planning for what will happen next.
 
 So despite high profile incidents of unjustified police violence, I support the state's monopoly on the means of violence. Beyond simple caution, here are my reasons.
+
 <h4>Convenience</h4>
 Violence has been with us forever. War is rightfully one of the four horsemen of the apocalypse, one of those four almost primal forces responsible for killing so many humans. Trying to reduce violence is important. But it isn't the only fight. Any policy proposal sees diminishing returns. Beyond a certain point, effort that could be spent reducing violence could more effectively improve lives through other means (for example, by fighting <a href="https://www.againstmalaria.com/">malaria</a>, or global warming).
 
@@ -53,6 +55,7 @@ In a civil war, the central government loses its monopoly on violence and other 
 In the context of police violence, having one group to negotiate with is extremely useful. It means that there's only one battle to be fought. And in constitutional democracies, it gives reformers a powerful weapon by way of the court system. The courts may force (using the threat of violence) individual police departments to conform to certain practices. Imagine a country instead with only private security forces and a court system without access to the threat of violence. It would be impossible to enforce any rulings on these private security forces.
 
 Abolishing the police will not abolish people's desire for protection. Leftists should be scared of unaccountable private security firms. Anyone who loves peace and order should be scared of the conflicts between these firms.
+
 <h4>17<sup>th</sup> Century Philosophy</h4>
 There is a very short list of political philosophers whose works have shaped and guided revolutions. To have written works that inspire such drastic change in society doesn't require or even suggest correctness. But it does suggest an understanding of the values that people hold closest to their hearts.
 
@@ -81,6 +84,7 @@ So this society without police would have to deal with crime. John Locke's theor
 But would it really be justice? If society wanted to maximize the number of wrongdoers it punished, then it wouldn't bother with things like "reasonable doubt" or "right to an attorney". One of the little discussed uses of the police is to make it look like things are being done whenever there is a scare around criminal activity, so as to prevent public panic. <a href="https://www.quora.com/What-would-happen-if-there-were-no-police/answer/Paul-Harding-14">Police might authorize extra patrols not to protect the public, but to protect people matching the description of alleged criminals</a> from vigilante "justice".
 
 Without the police, people would have to seek their own justice. And they'd do it poorly. Given that society (at least, every society I know of) is racist, can we really expect individual people to do it any better than the police? Imperfect due process (and I know the due process counts for far less when you aren't white) is surely better than none. Without the police, people of colour face a nation of George Zimmermans.
+
 <h4>Recent Statistics</h4>
 <a href="http://fivethirtyeight.com/">FiveThirtyEight.com</a> has looked at <a href="http://fivethirtyeight.com/features/gun-violence-spiked-and-arrests-declined-in-chicago-right-after-the-laquan-mcdonald-video-release/">violent crime data out of Chicago after the video of Laquan McDonald's murder was released</a>. They found a (statistically) significant increase in violent crimes, correlated with a decrease in proactive police behaviour (here measured by a decrease in police patrols and stops). They weren't able to tease out the root cause of the decrease in proactive policing (it could have been the release of the new video or an increase in the amount of paperwork officers now must do after interacting with the public). The increase in violent crime bucks seasonal trends and can't be blamed on a warmer than average winter – winters even warmer than the last one have seen no large spike in deaths.
 
@@ -89,6 +93,7 @@ This should not be surprising in light of the earlier sections. When the police 
 I don't wish to say that the answer to all violent crime is more police patrols and more random stops. As the FiveThirtyEight article points out, there are costs associated with proactive policing. Sometimes police tactics labelled as proactive are also unconstitutional. Opposing unconstitutional police tactics – even if they reduce violence – is one of the trade-offs around violence I discussed earlier and one I strongly endorse. If alienation, segregation, and police violence is the price we pay for a reduction in violence through proactive policing, then I would believe it to be a price not worth paying. Some police tactics should be off the table in a free and democratic society, even if they provide short term gains.
 
 But if, on the other hand, proactive policing saves lives without damaging communities and breeding alienation, then I would oppose rolling back these policies. One article in a newspaper – even one renowned for its statistical acumen – isn't enough to drive public policy. More research on the costs and benefits of various policing programs, including controlled studies is desperately needed. To this end, the lack of a centralized police shooting database in the United States is both a national tragedy and a national disgrace.
+
 <h4>A Legitimate State Monopoly Over the Means of Violence</h4>
 The modern definition of a state acknowledges that it must have a monopoly on the means of violence within a territory. Without this monopoly, a state is powerless to do most of the things we associate with a state. It cannot enforce contracts or redistribute wealth. It cannot protect the environment or private property rights. I have yet to see a single serious policy proposal that adequately addresses how these could be accomplished without police.
 
@@ -98,10 +103,12 @@ As citizens of a free and democratic society, we should continue to pressure our
 
 We should fight for a society where the government holds only <a href="http://www.usip.org/guiding-principles-stabilization-and-reconstruction-the-web-version/6-safe-and-secure-environment/le">a legitimate monopoly</a> on the means of violence. Where violence is used only when truly necessary and not a moment sooner. Where security forces are truly subservient to civilian leaders. Where police shootings of unarmed civilians are an aberration, not a regular occurrence. We aren't there yet. But we could be.
 
-Epistemic Status: <a href="/about-me/">Ethics</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a>
 
-<hr />
+<div class="footnotes" markdown="1">
+<h3>Footnotes</h3>
 
 [1] Trade-offs between different rights are the proper territory of legislation and acknowledging this is separate from the harmful moral relativism that has infected leftist rhetoric on international relations. There is a distinct difference between trade-offs among competing rights and a fearful refusal to acknowledge universal and inalienable human rights.
 
-&nbsp;
+</div>

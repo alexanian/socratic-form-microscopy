@@ -1,6 +1,6 @@
 ---
 id: 263
-title: 'Checks and balances can&#8217;t last if they make governing impossible'
+title: "Checks and balances can&#8217;t last if they make governing impossible"
 date: 2017-02-06T21:29:24-05:00
 author: Zach
 layout: post
@@ -10,6 +10,7 @@ categories:
   - Model
   - Politics
 ---
+
 There is an interesting post by Professor Bryan Caplan spinning limited government as an insurance policy against wild swings in political climate. You should <a href="http://econlog.econlib.org/archives/2017/01/limited_governm.html">go read the whole thing</a>, but I'll summarize for the lazy.
 
 Professor Caplan makes his case using a thought experiment with an angel. This angel talks to you during Obama's inauguration and offers you a bargain. The terms are simple If you accept, neither Obama nor Trump will be able to get much done. You trade away Obamacare and in exchange you don't get Trump's immigration policies. Professor Caplan frames this as a form of political insurance, a guarantee of mediocracy instead of potentially wild swings.
@@ -52,4 +53,5 @@ If 51% of the population want something, they will probably eventually get somet
 
 My overriding desire is for checks and balances that are reasonably effective over the lifetime of a nation. I support limited checks and balances because I truly believe that in the long run, this leads to governments being most constrained in their actions.
 
-Epistemic Status: <a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a>

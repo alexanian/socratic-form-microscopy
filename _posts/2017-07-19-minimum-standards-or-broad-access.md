@@ -66,4 +66,5 @@ This is going to be another one of those posts where I don't have a clear prescr
 
 Somehow, despite it all, we manage to mostly not kill each other. Maybe my prescription is simply that we should keep trying to find workable compromises and keep trying not to kill each other. Perhaps we could stand to put more effort into understanding why people ask for what they do. And we could try and be kind to each other. I feel comfortable recommending <em>that</em>.
 
-<em>Epistemic Status: </em><a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: Model</a></p>

@@ -13,6 +13,7 @@ tags:
   - donald trump
   - someone else probably came up with this first
 ---
+
 In light of the leaks about Michael Flynn, just about everyone, from America's allies to its intelligence officers, <a href="http://www.cbc.ca/news/world/white-house-leaks-russia-michael-flynn-intelligence-five-eyes-1.3985073">seems to be reconsidering how much intelligence they share</a> with Donald Trump's White House. I can't think of anything more damaging to President Trump's ability to govern than various domestic and allied agencies (semi-)publicly mulling whether or not to share information with him.
 
 It's not that I think this will cause irreparable damage to his public image. At this point, you can be swayed by other people's opinion of Trump or you can't. Trump's base doesn't care what a bunch of intelligence geeks in suits think about him. They just want to see jobs come back.
@@ -65,4 +66,5 @@ But it should also frighten Trump's supporters. One man rule is a terrible syste
 
 The final remaining question then is: will this resistance show up, or are the early rumours exaggerated. On this point, the world is watching and hoping that the ordinary civil servants of America display the requisite moral courage to passively resist Trump's most damaging requests.
 
-Epistemic Status: <a href="/about-me/">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Model</a>

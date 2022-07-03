@@ -58,4 +58,5 @@ There are some things that liberals and social conservatives will probably never
 
 It's the authoritarian who seeks to make their choices the choices of everyone. Too often that authoritarian is the social conservative. Allowing them to sanction themselves won't end that. Too many are motivated by self-righteousness or a belief that what works for them must necessarily work for everyone else. We can't fix that. But we sure as hell can be better than it.
 
-<em>Epistemic Status:</em> <a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</p>

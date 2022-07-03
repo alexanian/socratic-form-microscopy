@@ -83,9 +83,8 @@ I would suggest that if you're the type of person whose knee-jerk response to re
 
 Also, it probably seems true that some things are a touch over-regulated if $65,000 (or even $10,000) is an unsurprising estimate for a set of stairs.
 
----
-
-<em class="epistemic-status">Epistemic Status: </em> <a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a>
 
 <div class="footnotes" markdown="1">
 <h3>Footnotes</h3>

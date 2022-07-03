@@ -18,10 +18,8 @@ tags:
   - zach really likes military history
 ---
 
-<em>Epistemic Status: Full of sweeping generalizations because I don't want to make it 10x longer by properly unpacking all the underlying complexity.</em>
-
 <p class="caption pre-post-meta">
-[9 minute read]
+[9 minute read] Epistemic Status: Full of sweeping generalizations because I don't want to make it 10x longer by properly unpacking all the underlying complexity.
 </p>
 
 In 2006, Dr. Atul Gawande wrote an article in The New Yorker about maternal care entitled "<a href="https://www.newyorker.com/magazine/2006/10/09/the-score">How Childbirth Went Industrial</a>". It's an excellent piece from an author who consistently produces excellent pieces. In it, Gawande charts the rise of the C-section, from its origin as technique so dangerous it was considered tantamount to murder (and consequently banned on living mothers), to its current place as one of the most common surgical procedures carried out in North American hospitals.
@@ -89,7 +87,7 @@ Being able to understand where this transition is occurring helps you understand
 
 Also note that this transition doesn't only go in one direction. As manufacturing becomes less and less prevalent in North America, we may return to the distant past, when manufacturing stuff was only undertaken by very skilled artisans making unique objects.
 
----
+<hr class="post-end" />
 
 <div class="footnotes" markdown="1">
 <h3>Footnotes</h3>

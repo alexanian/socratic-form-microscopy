@@ -59,3 +59,5 @@ My final beef with an overemphasis on programming hobbies is that many important
 This isn't meant to conjure up negative and insulting stereotypes about people who spend all their spare time programming. Many of these people are incredibly kind and very devoted to mentoring new members of our community.
 
 I don't want people who program in their spare time and love it with all their hearts to be tarred with negative stereotypes. But I also don't want people with other interests to be considered uncommitted dilettantes. And I hope we can build a profession that believes neither myth.
+
+<hr class="post-end" />

@@ -1,6 +1,6 @@
 ---
 id: 66
-title: 'Why I Don&#8217;t Want Kellie Leitch to Lead the Conservative Party (and how to Stop her)'
+title: "Why I Don&#8217;t Want Kellie Leitch to Lead the Conservative Party (and how to Stop her)"
 date: 2016-11-22T23:03:10-05:00
 author: Zach
 layout: post
@@ -15,7 +15,9 @@ tags:
   - conservative leadership race
   - kellie leitch
 ---
+
 <em>Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did. </em>
+
 <h5>Why I Don't Want Kellie Leitch to Lead the Conservative Party</h5>
 A couple months ago, <a href="/2016/09/03/kellie-leitch-and-liberal-democracy/">I wrote of Kellie Leitch</a>:
 <p style="padding-left: 30px;">I remain genuinely unsure what Kellie Leitch’s goal is. I went into this blog convinced she was another hypocrite who was only using queer Canadians when it suited her racists agenda. And yet, she voted yea to Bill 279 (to treat gender identity as a protected class) despite almost every single one of her cabinet colleagues opposing it. She does appear to have a principled and reasonably long standing support for queer rights. She voted the party line on whipped bills (as does basically every MP in Canada), but when she’s allowed to vote her conscience, we see that it is rather different than many of the other Conservatives. She may be a political opportunist who can sense which way the wind blows. Or she may be trying to change the conservatives from within.</p>
@@ -40,10 +42,12 @@ But this only scratches the surface of my disagreements with Dr. Leitch; I oppos
 I encourage everyone else who opposes Dr. Leitch to focus on her policies and why they're bad for Canada. Insofar as our values differ from those of Dr. Leitch, we should take the time to explain why. We should seek dialogue with her supporters and seek to allay their fears. We should be proud defenders of globalization and immigration and all the benefits they have brought. We should not retreat into our filter bubbles and <a href="http://fredrikdeboer.com/2016/11/13/theyre-going-to-keep-losing/">dismiss the rest of Canada as the wrong kind of people</a>. That kind of retrenchment doesn't have the best track record right now.
 
 I think there are much better candidates in the conservative leadership race. Michael Chong, for example, has an excellent record on social issues and supports carbon pricing. He and I have policy disagreements, but a Conservative Party of Canada led by Michael Chong would be a contender for my vote in the next election. <a href="http://induecourse.ca/three-observations-on-the-leap-manifesto/">Given that the NDP has abandoned me</a>, I would dearly like to be able to make a choice between two parties with sound policy proposals and positive plans for Canada going forward. I could not do that with Kellie Leitch at the head of the Conservative Party.
+
 <h5>4 Things You Can Do To Help</h5>
 Kellie Leitch is relying on free media attention to differentiate her from a crowded field. Under no circumstances should we advocate for deliberate suppression of stories about Dr. Leitch. And yet, outrage generates clicks. As long as Kellie Leitch can profit from her simple algorithm – say something objectionable, but not so objectionable that the party kicks you out, wait for the media to write a hundred stories about it, profit from the increased name recognition – she'll continue to use it.
 
 We can attempt to complicate her algorithm by removing the financial incentive to focus most of the media coverage that the CPC leadership race is getting on her. There are a few ways you can do this.
+
 <ol>
  	<li>Promise yourself that you won't share any news stories about her electronically. By all means, tell you friends. But don't share it on your Facebook wall where it will generate clicks.</li>
  	<li>If you must visit a news article about Kellie Leitch (say to research for a blog post about her), visit with an ad-blocker. You'll notice that I've used [N] style references throughout this post. Those are all links to recent stories about Kellie Leitch. I'd ask that anyone who cares about her not winning the leadership race not visit them without an ad-blocker.</li>
@@ -54,10 +58,11 @@ Kellie Leitch has gained name recognition and a measure of popularity with her s
 
 Let the next Canadian election be about which policies will bring us peace, order, and good government. Let's not bring race and belonging into it.
 
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Ethics?</a></p>
+
 <u>Kellie Leitch related links (don't visit without an ad-blocker):</u>
 
 [1] <a href="http://globalnews.ca/news/3057503/kellie-leitch-wants-to-bring-donald-trumps-exciting-message-to-canada/">http://globalnews.ca/news/3057503/kellie-leitch-wants-to-bring-donald-trumps-exciting-message-to-canada/</a>
 
 [2] <a href="http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470">http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470</a>
-
-Epistemic Status: <a href="/about-me">Ethics?</a>

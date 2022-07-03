@@ -80,4 +80,5 @@ To this end, I've taken the <a href="https://www.givingwhatwecan.org/try-giving"
 
 If utilitarianism appeals to you and you have the means to donate, I'd like to encourage you to do the same.
 
-<em>Epistemic Status: I managed to talk about both post-modernism and evolutionary psychology, so handle with care. Also, Ethics.</em>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: I managed to talk about both post-modernism and evolutionary psychology, so handle with care. Also, <a href="/about-me">Ethics</a>.</p>

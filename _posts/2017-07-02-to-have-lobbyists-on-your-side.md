@@ -15,6 +15,7 @@ tags:
   - canada
   - medicine
 ---
+
 There is perennial debate in Canada about whether we should allow a "two-tiered" healthcare system. The debate is a bit confusing – by many measures we already have a two-tiered system, with private clinics and private insurance – but ultimately hinges on the ability of doctors to mix fees. Currently it is illegal for a doctor to charge anything on top of the provincially mandated fee structure. If the province is willing to pay $3,000 for a procedure, you cannot charge $5,000 and ask your patients (or their insurance) to make up the difference.
 
 Supporters of a mixed system argue that it will <a href="http://ottawacitizen.com/opinion/columnists/shaver-heres-how-to-reduce-hospital-wait-times-in-canada">alleviate wait times for everyone</a>. Detractors argue that <a href="http://www.cbc.ca/news/opinion/two-tiered-health-1.3848228">it will create a cumbersome, unfair system and paradoxically increase wait times</a>. It's enough to convince me that I don't know what the fuck a two-tier healthcare system would have as its first order effects.
@@ -69,7 +70,8 @@ A lottery isn't my preferred solutions. Wealthy people who put their name in and
 
 If you take just one thing from this post, I want it to be "it's really important to have good public systems, so that lobbying effort is focused on improving those systems". If you have room in your mind for another, it should be "having a public embryo selection and genetic engineering program in place is very important if we don't want to social stratification to become much more permanent".
 
-<strong>Epistemic Status: </strong><a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a>
 
 <strong>Footnotes</strong>
 

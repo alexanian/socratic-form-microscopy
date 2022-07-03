@@ -45,9 +45,8 @@ But empathy isn't useless! There's something to be said for the productivity of 
 
 Abortion gave me the clearest example of orthogonal values, but it might actually be the hardest place to find any compromise. Strongly held orthogonal values can still lead to gridlock. If not abortion, where is mutually beneficial compromise possible? Where else do liberals argue with only a caricature of their opponents' values?
 
----
-
-<em class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></em>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
 
 <div class="footnotes" markdown="1">
 <h3>Footnotes</h3>

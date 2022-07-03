@@ -48,3 +48,5 @@ If you believe that someone deserves more punishment than incarceration can prov
 We should, as moral actors, uprightly face the consequences of our decisions. When we fail to, it is much easier for us to decide wrong. When we engage in the winking game of wishing prison violence on someone, when we say "oh, it <em>would be a shame </em>if something happened to them in prison", we are hiding from the full moral force of what we are suggesting. This is cowardice.
 
 Prison violence is tantamount to torture. If you were to explicitly say "I believe what that criminal did was so heinous that they deserve to be tortured", you might find yourself stopping to evaluate if your moral framework is askew. If you cannot stomach explicitly calling for someone to be tortured, you should not be willing to smile and nod and wink while it happens in the darkness.
+
+<hr class="post-end" />
