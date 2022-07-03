@@ -73,21 +73,22 @@ code {
     border-left: 1px solid $color-border;
     font-style: italic;
     max-width: 80%;
+    font-size: $prose-font-size;
+
+    p {
+      width: 100%;
+    }
 
     @media (min-width: $breakpoint-lg) {
       padding-left: $spacer-3;
       margin: $spacer-4 0;
-
-      p {
-        font-size: 32px;
-      }
     }
   }
 
   hr {
     color: $color-body-text;
     border-style: solid;
-    border-width: thin;
+    border-width: 1px 0px 0px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
