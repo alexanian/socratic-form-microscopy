@@ -28,7 +28,7 @@ layout: default
 
   <div class="prose" itemprop="articleBody">{{ content }}</div>
 
-  <p class="mt-3 bold h4">
+  <p class="mt-4 bold h4">
     {% if page.tags.size > 0 %} Tags:{% for tag in page.tags %}
     <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last %}{% else
     %},{% endif %} {% endfor %} {% endif %}
