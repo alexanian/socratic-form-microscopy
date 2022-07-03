@@ -24,7 +24,7 @@ tags:
 
 The modern field of linguistics dates from 1786, when Sir Willian Jones, a British judge sent to India to learn Sanskrit and serve on the colonial Supreme Court, realized just how similar Sanskrit was to Persian, Latin, Greek, Celtic, Gothic, and English (yes, he really spoke all of those). He concluded that the similarities in grammar were too close to be the result of chance. The only reasonable explanation, he claimed, was the descent of these languages from some ancient progenitor.
 
-This ancestor language is now awkwardly known as Proto-Indo-European (PIE). It and the people who spoke it are the subject of David Anthony's book <em>The Horse The Wheel And Language </em><a id="hwl-top-1" href="#hwl-bot-1">[1]</a>. I picked up the book hoping to learn a bit about really ancient history. I ended up learning some of that, but this is more a book about linguistics and archeology than about history.
+This ancestor language is now awkwardly known as Proto-Indo-European (PIE). It and the people who spoke it are the subject of David Anthony's book <em>The Horse The Wheel And Language </em>[^1]. I picked up the book hoping to learn a bit about really ancient history. I ended up learning some of that, but this is more a book about linguistics and archeology than about history.
 
 Proto-Indo-European speakers produced no written works, so almost all of their specific history is lost. The oldest products of their daughter languages – like the Rig Veda – date from well after the last speakers of the original language passed away.
 
@@ -40,7 +40,7 @@ Well it turns out that all languages change in similar ways. The way we pronounc
 
 It would be very odd for an additional syllable to be added in an area where tongue movements aren't particularly hard, or a syllable to be removed from a word that is typically enunciated. Above all, these changes are regular because they rely on predictable laziness.
 
-Changes tend to happen to many words at once. When people began to hear the Proto-French tsentum (root of cent, the French word for 100) as different from the Latin kentum, they had to make a decision about how exactly it would be pronounced. They chose a soft-c, a sound Latin lacks, but that is easier to say. This change got carried over to every ts-, c-, or k-, that had previously made the same sound as kentum/tsentum, except those before a back vowel (like "o"), presumably because a soft sound there is actually harder to say <a id="hwl-top-2" href="#hwl-bot-2">[2]</a>.
+Changes tend to happen to many words at once. When people began to hear the Proto-French tsentum (root of cent, the French word for 100) as different from the Latin kentum, they had to make a decision about how exactly it would be pronounced. They chose a soft-c, a sound Latin lacks, but that is easier to say. This change got carried over to every ts-, c-, or k-, that had previously made the same sound as kentum/tsentum, except those before a back vowel (like "o"), presumably because a soft sound there is actually harder to say[^2].
 
 There's one final type of change that Anthony mentions: analogy. This is where a grammatical rule used in a single place (e.g. pluralization with -s or -es) is expanded to encompass many more words or cases (most English nouns were originally pluralized with other suffixes, or with stem changes like "geese"; it was only later that people decided -s and -es would be the general markers of plural nouns).
 
@@ -80,7 +80,7 @@ Better candidates are archaic Greek and Old-Indic, both of which have inscriptio
 
 Second is the birth date, the other half of the critical window. To find it, Anthony looks for words that have a known date of invention, specifically "wool" and "wagon". Getting broadly useful amounts of wool from sheep wasn't possible until a mutation made sheep coats much larger. We know roughly when this mutation occurred, because sheep suddenly became a larger portion of herds around 3,500 BCE, displacing goats (which produce more milk). The only reasonably explanation for this event is the advent of wool producing sheep, which were very valuable as a source of clothes.
 
-Similarly, wagons have left physical evidence (both directly and in preserved images) and that evidence has been carbon dated to 3,500 BCE <a id="hwl-top-3" href="#hwl-bot-3">[3]</a>.
+Similarly, wagons have left physical evidence (both directly and in preserved images) and that evidence has been carbon dated to 3,500 BCE[^3].
 
 Since all Proto-Indo-European languages outside of the Anatolian branch have related words for both "wagon" and "wool" that show no evidence of borrowing from other languages, it seems reasonable to conclude that some form of the language existed when wagons and wool first began to reshape the pre-historic world. That means the language had to exist by 3,500 BCE.
 
@@ -88,11 +88,11 @@ There is, I should note, one competing theory that Anthony outlines, in which PI
 
 Anthony doesn't give this theory much credence.
 
-With a rough time-range, we can begin looking for our Proto-Indo-Europeans in space. Anthony does this by looking for evidence of very old loan words. He finds a set coming from Uralic, which also has a bevy of very old loanwords from PIE <a id="hwl-top-4" href="#hwl-bot-4">[4]</a>.
+With a rough time-range, we can begin looking for our Proto-Indo-Europeans in space. Anthony does this by looking for evidence of very old loan words. He finds a set coming from Uralic, which also has a bevy of very old loanwords from PIE[^4].
 
 Uralic (appropriately) probably first emerged somewhere near the Ural Mountains. This corresponds well with our other evidence because the area around the Urals (where borrowing could have taken place) is temperate and home to the flora and fauna words we know exist in PIE.
 
-The PIE word for honey, \*médhu (note its similarity with the English word for a fermented honey drink, "mead" <a id="hwl-top-5" href="#hwl-bot-5">[5]</a>), is particularly useful here. We know that bees weren't common in Siberia during the time when we suspect PIE was being spoken (and where they were common, the people weren't herders), but that bees were common on the other side of the Urals.
+The PIE word for honey, \*médhu (note its similarity with the English word for a fermented honey drink, "mead"[^5]), is particularly useful here. We know that bees weren't common in Siberia during the time when we suspect PIE was being spoken (and where they were common, the people weren't herders), but that bees were common on the other side of the Urals.
 
 Laying it all out, we see that PIE speakers were herders (there's an expansive set of words relating to the tasks herders must accomplish), who lived near the Urals but not in Siberia. The best archeological match for these criteria is a set of herder people who lived in what is now modern-day Ukraine and it is these people that Anthony identifies as the Proto-Indo-Europeans.
 
@@ -137,21 +137,10 @@ The rest of it makes up for that. But I think there would be market for Anthony 
 
 If he ever does, I'll probably give it a read.
 
----
+<hr class="post-end">
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="hwl-bot-1">[1]</strong> David Anthony is very sensitive to the political ends that some scholars of Proto-Indo-European have turned to. He acknowledges that white supremacists appropriated the self-designation of "Aryan" used by some later speakers of PIE-derived languages and used it to refer to some sort of ancient master race. Professor Anthony does not buy into this one bit. He points out that Aryan was always a cultural term, not a racial one (showing the historical ignorance of the racists) and he is careful to avoid assigning any special moral or mythical virtue to the Proto-Indo-Europeans whose culture he studies.
-
-White supremacists will find nothing to like about this book, unless they engage in a deliberate misreading. <a href="#hwl-top-1">^</a>
-
-<strong id="hwl-bot-2">[2]</strong> This is why the French côte is still similar to the Latin costa. <a href="#hwl-top-2">^</a>
-
-<strong id="hwl-bot-3">[3]</strong> Anthony identifies improvements in carbon dating, especially improvements in how we calibrate for diets high in fish (which contain older carbon, <a href="https://alunsalt.com/archaeologists-prove-the-secret-to-a-successful-date-is-knowing-what-is-on-the-menu-1c9220963019">leading to incorrect ages</a>) as a major factor in his ability to untangle the story of the Proto-Indo-Europeans. <a href="#hwl-top-3">^</a>
-
-<strong id="hwl-bot-4">[4]</strong> Uralic is the language family that in modern times includes Finnish and some languages spoken in Russia. <a href="#hwl-top-4">^</a>
-
-<strong id="hwl-bot-5">[5]</strong> While looking up the word \*médhu, I found out that it is also likely the root of the Old Chinese word for honey, via an extinct Proto-Indo-European language, Tocharian. The speakers of Tocharian migrated from the Proto-Indo-European homeland to Xinjiang, in what is now China, which is likely where the borrowing took place. <a href="#hwl-top-5">^</a>
-
-</div>
+[^1]: David Anthony is very sensitive to the political ends that some scholars of Proto-Indo-European have turned to. He acknowledges that white supremacists appropriated the self-designation of "Aryan" used by some later speakers of PIE-derived languages and used it to refer to some sort of ancient master race. Professor Anthony does not buy into this one bit. He points out that Aryan was always a cultural term, not a racial one (showing the historical ignorance of the racists) and he is careful to avoid assigning any special moral or mythical virtue to the Proto-Indo-Europeans whose culture he studies.<br />White supremacists will find nothing to like about this book, unless they engage in a deliberate misreading.
+[^2]: This is why the French côte is still similar to the Latin costa.
+[^3]: Anthony identifies improvements in carbon dating, especially improvements in how we calibrate for diets high in fish (which contain older carbon, <a href="https://alunsalt.com/archaeologists-prove-the-secret-to-a-successful-date-is-knowing-what-is-on-the-menu-1c9220963019">leading to incorrect ages</a>) as a major factor in his ability to untangle the story of the Proto-Indo-Europeans.
+[^4]: Uralic is the language family that in modern times includes Finnish and some languages spoken in Russia.
+[^5]: While looking up the word \*médhu, I found out that it is also likely the root of the Old Chinese word for honey, via an extinct Proto-Indo-European language, Tocharian. The spea

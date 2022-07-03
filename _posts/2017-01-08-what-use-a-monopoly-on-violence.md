@@ -36,7 +36,7 @@ We could reduce violence conducted by the state by abolishing the police. But st
 
 This process of trading-off must be undertaken by each body politic, as willingness to tolerate risk differs between countries. Canada, America, and Switzerland, for example, all have accepted higher rates of gun violence than other developed countries in exchange for more freedom to own and use firearms.
 
-People generally have a right to own whatever they want to own. People also have a right not to be randomly shot. With guns, these two rights can be in conflict. The more people who have guns, the more likely I am to be randomly shot. Society has to come together and negotiate a trade-off between these two rights that they can (collectively) stomach. The weird thing about these negotiated trade-offs is that they can look ridiculous, even from inside of one (ask any American liberal how they feel about gun rights and you'll see what I mean). It is certainly possible to have values such that no amount of firearm ownership is justifiable if it leads to deaths. Just as it is possible to have values such that no amount of intoxicant usage is permissible if it leads to death. [1]
+People generally have a right to own whatever they want to own. People also have a right not to be randomly shot. With guns, these two rights can be in conflict. The more people who have guns, the more likely I am to be randomly shot. Society has to come together and negotiate a trade-off between these two rights that they can (collectively) stomach. The weird thing about these negotiated trade-offs is that they can look ridiculous, even from inside of one (ask any American liberal how they feel about gun rights and you'll see what I mean). It is certainly possible to have values such that no amount of firearm ownership is justifiable if it leads to deaths. Just as it is possible to have values such that no amount of intoxicant usage is permissible if it leads to death.[^1]
 
 Like intoxicants or guns, society must negotiate on the amount of violence it will permit. These negotiations are most convenient when they can be done with a single organization, or a single umbrella group. Consider, for example, the relative difficultly of abolishing the death penalty (one form of violence undertaken by states) in Singapore, America, and Syria.
 
@@ -106,9 +106,4 @@ We should fight for a society where the government holds only <a href="http://ww
 <hr class="post-end" />
 <p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a>
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-[1] Trade-offs between different rights are the proper territory of legislation and acknowledging this is separate from the harmful moral relativism that has infected leftist rhetoric on international relations. There is a distinct difference between trade-offs among competing rights and a fearful refusal to acknowledge universal and inalienable human rights.
-
-</div>
+[^1]: Trade-offs between different rights are the proper territory of legislation and acknowledging this is separate from the harmful moral relativism that has infected leftist rhetoric on international relations. There is a distinct difference between trade-offs among competing rights and a fearful refusal to acknowledge universal and inalienable human rights.

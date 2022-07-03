@@ -19,7 +19,7 @@ tags:
 
 The 2019 Budget introduced by the Liberal government includes one of the worst policies I've ever seen.
 
-The <a href="https://globalnews.ca/news/5069183/budget-2019-canada-housing-affordability/">CMHC First-Time Home Buyer Incentive</a> provides up to 10% of the purchase price of a house (5% for existing homes, 10% for new homes) to any household buying a home for the first time with an annual income up to $120,000. To qualify, the total mortgage must be less than four times the household's yearly income and the mortgage must be insured, which means that any house costing more than $590,000 <a id="fth-top-1" href="#fth-bot-1">[1]</a> is ineligible for this program. The government will recoup its 5-10% stake when the home is sold.
+The[^1] is ineligible for this program. The government will recoup its 5-10% stake when the home is sold.
 
 The cap on eligible house price is this program's only saving grace. Everything else about it is awful.
 
@@ -31,9 +31,9 @@ This plan, like many other aspects of our society, is predicated on the idea tha
 
 I'm not even sure this incentive will help anyone in the short term though, because with constrained housing supply (as it is in urban areas, where zoning prevents much new housing from being built), housing costs are determined based on what people can afford. As long as there are more people that would like to live in a city than houses for them to live in, people are in competition for the limited supply of housing. If you were willing to spend some amount of your salary on a house before this incentive, you can just afford to pay more money after the incentive. You don't end up any better off as the money is passed on to someone else. Really, this benefit is a regressive transfer of money to already-wealthy homeowners, or a subsidy to the construction industry.
 
-The worst part is that buying a house at an inflated valuation isn't even irrational! The fact of the matter is that as long as everyone knows that governments at all levels are committed to maintaining the status quo – where housing prices cannot be allowed to drop – the longer <a href="https://socratic-form-microscopy.com/2018/02/25/not-just-zoning-housing-prices-driven-by-beauty-contests/">housing costs will continue to rise</a>. Why shouldn't anyone who can afford to stick all their savings into a home do so, when they know it's the only investment they can make that the government will protect from failing <a id="fth-top-2" href="#fth-bot-2">[2]</a>?
+The worst part is that buying a house at an inflated valuation isn't even irrational! The fact of the matter is that as long as everyone knows that governments at all levels are committed to maintaining the status quo – where housing prices cannot be allowed to drop – the longer[^2]?
 
-That's what's truly pernicious about this plan: it locks up government money in a speculative bet on housing. Any future decline in housing costs won't just hurt homeowners. With this incentive, it will hurt the government too <a id="fth-top-3" href="#fth-bot-3">[3]</a>. This gives the federal government a strong incentive to keep housing prices high (read: unaffordable), even after some inevitable future round of austerity removes this credit. This is the opposite of what we want the federal government to be doing!
+That's what's truly pernicious about this plan: it locks up government money in a speculative bet on housing. Any future decline in housing costs won't just hurt homeowners. With this incentive, it will hurt the government too[^3]. This gives the federal government a strong incentive to keep housing prices high (read: unaffordable), even after some inevitable future round of austerity removes this credit. This is the opposite of what we want the federal government to be doing!
 
 The only path towards broadly affordable housing prices is the removal of all implicit and explicit subsidies, an action that will make it clear that housing prices won't keep rising (which will have the added benefit of ending speculation on houses, another source of unaffordability). This wouldn't just mean scaling back policies like this one; it means that we need to get serious about zoning reform and adopt a policy <a href="http://urbankchoze.blogspot.com/2014/04/japanese-zoning.html">like the one that has kept housing prices in Tokyo stable</a>. Our current style of zoning is broken and accounts <a href="http://theconversation.com/rba-research-shows-that-zoning-restrictions-are-driving-up-housing-prices-93064">for an increasing percentage of housing prices in urban areas</a>.
 
@@ -41,15 +41,8 @@ The only path towards broadly affordable housing prices is the removal of all im
 
 Serious work towards housing affordability would strike back against zoning. This incentive provides a temporary palliative without addressing the root cause, while tying the government's financial wellbeing to high home prices. Everyone struggling with housing affordability deserves better.
 
----
+<hr class="post-end">
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="fth-bot-1">[1]</strong> Mortgage insurance is required for any down payment less than 20%. If you have an income of $120,000 and you max out the down payment, then the mortgage of $480,000 would be about 81% of the total price. Division tells us the total price in this case would be $592,592.59, although obviously few people will be positioned to max out the benefit. <a href="#fth-top-1">^</a>
-
-<strong id="fth-bot-2">[2]</strong> Currently, the best argument against buying a home is the chance that the government will one day wake up to the crisis it is creating and withdraw some of its subsidies. It is, in general, not wise to make heavily leveraged bets that will only pay off if subsidies are left in place, but a bet on housing has so far been an exception to this rule. <a href="#fth-top-2">^</a>
-
-<strong id="fth-bot-3">[3] </strong>Technically, it will hurt the Canadian Mortgage and Housing Corporation, but given that this is the crown corporation responsible for mortgage insurance, a decline in home prices could leave it undercapitalized to the point where the government has to step in <em>even before</em> this policy was enacted. With this policy, a bailout in response to lower home prices seems even more likely. <a href="#fth-top-3">^</a>
-
-</div>
+[^1]: Mortgage insurance is required for any down payment less than 20%. If you have an income of $120,000 and you max out the down payment, then the mortgage of $480,000 would be about 81% of the total price. Division tells us the total price in this case would be $592,592.59, although obviously few people will be positioned to max out the benefit.
+[^2]: Currently, the best argument against buying a home is the chance that the government will one day wake up to the crisis it is creating and withdraw some of its subsidies. It is, in general, not wise to make heavily leveraged bets that will only pay off if subsidies are left in place, but a bet on housing has so far been an exception to this rule.
+[^3]: Technically, it will hurt the Canadian Mortgage and Housing Corporation, but given that this is the crown corporation responsible for mortgage insurance, a decline in home prices could leave it undercapitalized to the point where the government has to step in <em>even before</em> this policy was enacted. With this policy, a bailout in response to lower home prices seems even more likely.

@@ -22,9 +22,9 @@ tags:
 
 The first time I tried vegetarianism, I ended up deficient in B12. Since then, I've realized just <em>how bad</em> vitamin B12 deficiency is (hint: it can cause irreversible neural damage) and resolved to get it right this time.
 
-I'm currently eating no meat, very little milk, almost no eggs, and a fair amount of cheese. I consider clams, oysters, and mussels to be <a href="http://archdruidmirror.blogspot.ca/2017/06/retrotopia-public-utilities-private.html">morally (if not taxonomically) vegetables</a>, but am too lazy to eat them regularly. To figure out what this diet put me at risk for, I trolled PubMed <a id="nut-top-1" href="#nut-bot-1">[1]</a> until I found a recent article arguing for a vegan diet, then <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662288/">independently checked their nutritional recommendations</a>.
+I'm currently eating no meat, very little milk, almost no eggs, and a fair amount of cheese. I consider clams, oysters, and mussels to be[^1] until I found a recent article arguing for a vegan diet, then <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662288/">independently checked their nutritional recommendations</a>.
 
-Based on this, I've made a number of changes to my diet. I now take two vitamins in the morning and a slew of supplements in sugar-free fruit juice when I get home from work <a id="nut-top-2" href="#nut-bot-2">[2]</a>. I hope the combined effect of this will be to protect me from any nutritional problems.
+Based on this, I've made a number of changes to my diet. I now take two vitamins in the morning and a slew of supplements in sugar-free fruit juice when I get home from work[^2]. I hope the combined effect of this will be to protect me from any nutritional problems.
 
 {% include image.html src="/wp-content/uploads/TheSlew-1-768x552.jpg" alt="" caption="Pictured: the slew. Next: The science!" %}
 
@@ -81,21 +81,14 @@ From what I read, the absolute level of these is less important that the ratio o
 As far as I could tell, there was once controversy as to whether non-animal sources of Omega-3 fatty acids could be adequate, <a href="https://www.sciencedirect.com/science/article/pii/S0163782709000307">but that looks to be cleared up in favour of the vegetarian sources</a>. This is good, because it means that I can follow the recommendations in <a href="http://ajcn.nutrition.org/content/78/3/640S.long">this paper</a> and consume about 6g of unheated flaxseed oil daily to meet my Omega-3 needs. This goes pretty easily into my fruit juice mixture with my protein powder and creatine.
 
 <h1>Creatine</h1>
-There's some evidence (although no meta-analyses that I could find) that <a href="http://rspb.royalsocietypublishing.org/content/270/1529/2147.short">creatine improves</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/21118604">cognitive performance in vegetarians</a> (although not in omnivores, probably because it is present in meat <a id="nut-top-3" href="#nut-bot-3">[3]</a>). I've decided to take 5g a day because it seems to be <a href="https://en.wikipedia.org/wiki/Creatine#Health_effects">largely risk free</a> and it also makes exercise feel somewhat easier.
+There's some evidence (although no meta-analyses that I could find) that[^3]). I've decided to take 5g a day because it seems to be <a href="https://en.wikipedia.org/wiki/Creatine#Health_effects">largely risk free</a> and it also makes exercise feel somewhat easier.
 
 ---
 
 That's everything I was able to dig up in a few hours of research. If I've made any horrible mistakes, I'd very much like to hear about them.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="nut-bot-1">[1]</strong> I like PubMed because it doesn't index journals unless they meet certain standards of quality. This doesn't <em>ensure</em> anything, but it does mean I don't have to constantly check the impact factor and editorial board of anything I read. <a href="#nut-top-1">^</a>
-
-<strong id="nut-bot-2">[2]</strong> The timing is based on convenience, not science. The fruit juice is actually important, because the vitamin C in it makes the iron in my protein powder more bio-available. It also makes the whole mixture palatable, which is what I originally chose it for. <a href="#nut-top-2">^</a>
-
-<strong id="nut-bot-3">[3]</strong> Although people I know have also speculated that this might just be the effect of poor diet. That is to say, if you're studying university vegetarians, you might be primarily studying people who recently adopted vegetarianism and (like I was the first time I tried it) are deficient in a few important things because they're restricting what already tends to be a somewhat poor student diet. A definitive mechanism will probably have to wait for many more studies. <a href="#nut-top-3">^</a>
-
-</div>
+[^1]: I like PubMed because it doesn't index journals unless they meet certain standards of quality. This doesn't <em>ensure</em> anything, but it does mean I don't have to constantly check the impact factor and editorial board of anything I read.
+[^2]: The timing is based on convenience, not science. The fruit juice is actually important, because the vitamin C in it makes the iron in my protein powder more bio-available. It also makes the whole mixture palatable, which is what I originally chose it for.
+[^3]: Although people I know have also speculated that this might just be the effect of poor diet. That is to say, if you're studying university vegetarians, you might be primarily studying people who recently adopted vegetarianism and (like I was the first time I tried it) are deficient in a few important things because they're restricting what already tends to be a somewhat poor student diet. A definitive mechanism will probably have to wait for many more studies.

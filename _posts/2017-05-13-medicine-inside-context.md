@@ -33,9 +33,9 @@ Makayla's parents were swindled. They paid $18,000 to the Hippocrates Health Ins
 
 There was another girl (her name is under a publication ban; I only know her by her initials, J.J.) whose parents withdrew her from chemotherapy around the same time as Makayla. She too went to the Hippocrates Health Institute. But when she suffered a relapse of cancer, her parents appear to have fallen out with Hippocrates. They returned to Canada and sought chemotherapy alongside traditional Haudenosaunee medicine. This is the part of the story with a happy ending. The chemotherapy saved J.J.'s life.
 
-When J.J. left chemotherapy, her doctors at McMaster Children's Hospital <a href="#mk1" id="mk-top-1">[1]</a> sued the Children's Aid Society of Brant. They wanted the Children's Aid Society to remove J.J. from her parents so that she could complete her course of treatment. I understand why J.J.'s doctors did this. They knew that without chemotherapy she would die. While merely telling the Children's Aid Society this fact discharged their legal duty <a href="#mk2" id="mk-top-2">[2]</a>, it did not discharge their ethical duty. They sued because the Children's Aid Society refused to act in what they saw as the best interest of a child; they sued because they found this unconscionable.
+When J.J. left chemotherapy, her doctors at McMaster Children's Hospital[^1] sued the Children's Aid Society of Brant. They wanted the Children's Aid Society to remove J.J. from her parents so that she could complete her course of treatment. I understand why J.J.'s doctors did this. They knew that without chemotherapy she would die. While merely telling the Children's Aid Society this fact discharged their legal duty[^2], it did not discharge their ethical duty. They sued because the Children's Aid Society refused to act in what they saw as the best interest of a child; they sued because they found this unconscionable.
 
-The judge denied their lawsuit. He ruled that indigenous Canadians have a charter right to receive traditional medical care if they wish it <a href="#mk3" id="mk-top-3">[3]</a>.
+The judge denied their lawsuit. He ruled that indigenous Canadians have a charter right to receive traditional medical care if they wish it[^3].
 
 Makayla died because she left chemotherapy. J.J. could have died had she and her parents not reversed their decision. But I'm glad the judge didn't order J.J. back into chemotherapy.
 
@@ -73,15 +73,8 @@ In the story of Pandora's Box, all of the pestilence and disease of the world sp
 
 It was an abrogation of duty to go to the courts instead of respectfully dealing with J.J.'s family. It was reckless and it could have put years of careful outreach by other doctors at risk. Sometimes there are things more important than one life. That's why I'm glad the judge didn't order J.J. back into chemo.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="mk1" >[1]</strong> I have a lot of fondness for McMaster, having had at least one surgery and many doctors' appointments there. <a href="#mk-top-1">^</a>
-
-<strong id="mk2" >[2]</strong> Doctors have a legal obligation to report any child abuse they see. Under subsection <a href="http://canliiconnects.org/en/commentaries/37105">37(2)e of the Child and Family Services Act (CFSA)</a>, this includes “the child requires medical treatment to cure, prevent or alleviate physical harm or suffering, and the child’s parent refuses to consent to treatment”. <a href="#mk-top-2">^</a>
-
-<strong id="mk3" >[3]</strong> I'm not actually sure how relevant that is here – Brian Clement is no one's idea of an expert in Indigenous medicine and it's not clear that this ruling still sets any sort of precedent, given that the judge later amended his ruling to "make it clear that the interests of the child must be paramount" in cases like this. <a href="#mk-top-3">^</a>
-
-</div>
+[^1]: I have a lot of fondness for McMaster, having had at least one surgery and many doctors' appointments there.
+[^2]: Doctors have a legal obligation to report any child abuse they see. Under subsection <a href="http://canliiconnects.org/en/commentaries/37105">37(2)e of the Child and Family Services Act (CFSA)</a>, this includes “the child requires medical treatment to cure, prevent or alleviate physical harm or suffering, and the child’s parent refuses to consent to treatment”.
+[^3]: I'm not actually sure how relevant that is here – Brian Clement is no one's idea of an expert in Indigenous medicine and it's not clear that this ruling still sets any sort of precedent, given that the judge later amended his ruling to "make it clear that the interests of the child must be paramount" in cases like this.

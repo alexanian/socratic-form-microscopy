@@ -20,7 +20,7 @@ tags:
 
 I do think the first five points in Dr. Zunger's analysis are fairly sound. I'm not sure if they are true, but they're certainly plausible. It is true, for example, that it is unusual to file papers for re-election so quickly. Barack Obama didn't file his re-election form <a href="http://www.fec.gov/press/press2011/presidential_form2nm.shtml">until 2011</a>. Whether this means that Trump will use campaign donations to enrich his family remains to be seen, but the necessary public disclosures of campaign expenses make this falsifiable. Give it a year and we'll know.
 
-Unfortunately, the 6th point is much more speculative. Dr. Zunger believes that it is likely that Trump received a large share in the Russian gas giant Rosneft in payment for winning the election and (presumably) lifting Russian sanctions in the future. Dr. Zunger relies on a recently announced and difficult to trace sale of 19.5% of Rosneft, which is close to the 19% claimed in the Steele papers (which should be the first red flag). But the <a href="http://www.reuters.com/article/us-russia-rosneft-privatisation-insight-idUSKBN1582OH">AP article he links</a> sheds some serious doubt on this claim. It makes it clear that it isn't the whole 19.5%, €10 billion stake in Rosneft that has disappeared, only a "small" €2 billion portion of it. Between this contradiction and the inherent unreliability of the Steele papers, I'm disinclined to believe that this represents a real transfer of wealth from Russia to Trump <em id="b1"><a href="#1">[1]</a></em>.
+Unfortunately, the 6th point is much more speculative. Dr. Zunger believes that it is likely that Trump received a large share in the Russian gas giant Rosneft in payment for winning the election and (presumably) lifting Russian sanctions in the future. Dr. Zunger relies on a recently announced and difficult to trace sale of 19.5% of Rosneft, which is close to the 19% claimed in the Steele papers (which should be the first red flag). But the <a href="http://www.reuters.com/article/us-russia-rosneft-privatisation-insight-idUSKBN1582OH">AP article he links</a> sheds some serious doubt on this claim. It makes it clear that it isn't the whole 19.5%, €10 billion stake in Rosneft that has disappeared, only a "small" €2 billion portion of it. Between this contradiction and the inherent unreliability of the Steele papers, I'm disinclined to believe that this represents a real transfer of wealth from Russia to Trump[^1].
 
 This point, although relatively minor, represents an inflection point in Dr. Zunger's post, where it shifts from insightful analysis to shaky speculation.
 
@@ -43,9 +43,9 @@ Supposed bust of Gauis Marius. Image Credit: <a href="https://www.flickr.com/pho
 
 Like America, Rome in the 1st century BCE found itself overextended, governing and protecting a large network of tributary states and outright colonies. The Roman constitutional framework couldn't really handle administration on this scale. While year long terms are a sensible way to run a city state, they don't work with a continent-spanning empire.
 
-In addition to the short institutional memory and lack of institutional expertise that strict term limits guaranteed, Rome ran up against a system of checks and balances that made it incredibly hard to get anything done  <em id="b2"><a href="#2">[2]</a></em>.
+In addition to the short institutional memory and lack of institutional expertise that strict term limits guaranteed, Rome ran up against a system of checks and balances that made it incredibly hard to get anything done[^2].
 
-Today, America is running up against an archaic system of checks and balances <em id="b3"><a href="#3">[3]</a></em>. America has fallen to "<a href="http://www.nationalaffairs.com/publications/detail/kludgeocracy-in-america">government by kluge</a>", a state of affairs that has seriously degraded <a href="http://induecourse.ca/thoughts-on-president-trump/">output legitimacy</a>. From Prof. Joseph Heath on Donald Trump:
+Today, America is running up against an archaic system of checks and balances[^3]. America has fallen to "<a href="http://www.nationalaffairs.com/publications/detail/kludgeocracy-in-america">government by kluge</a>", a state of affairs that has seriously degraded <a href="http://induecourse.ca/thoughts-on-president-trump/">output legitimacy</a>. From Prof. Joseph Heath on Donald Trump:
 
 <blockquote>
 <p>In response to the impossibility of reform, the American system has slowly evolved into what Steven Teles calls a kludgeocracy. Rather than enacting reforms, people have found “work-arounds” to the existing system, ways of getting things done that twist the rules a bit, but that everyone accepts because it’s easier than trying to change the rules. (This is why, incidentally, those who hope that the “separation of powers” will constrain President Trump are kidding themselves – the separation of powers in the U.S. is severely degraded, as an accumulated effect of decades of “work arounds” or kludges that violate it.)</p>
@@ -77,13 +77,8 @@ I no longer believe in the great man theory of history. Instead, I've begun to s
 
 If we didn't have Trump this year, we'd have someone like him in four years or eight. The stresses on the American system of government are such that someone had to emerge as the "natural endpoint" of failed reform. But I don't think it's this person's fate to become America's first dictator. That part is reserved for a later actor and there is still hope that the role can be written out before they step onto the stage.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<em id="1"><strong>[1]</strong></em> I'm a Bayesian, so I'll quite happily bet with anyone who believes otherwise. <a href="#b1">^</a>
-<em id="2"><strong>[2]</strong></em> For more information on the transition of Rome into a dictatorship and the forces of empire that drove that transformation, I recommend <a href="/2017/01/22/book-review-spqr/">SPQR by Prof. Mary Beard</a>. <a href="#b2">^</a>
-<em id="3"><strong>[3]</strong></em> I'm certainly not opposed to checks and balances, but they can end up doing more harm than good if they make the act of governing so difficult that they end up ignored. <a href="#b3">^</a>
-
-</div>
+[^1]: I'm a Bayesian, so I'll quite happily bet with anyone who believes otherwise.
+[^2]: For more information on the transition of Rome into a dictatorship and the forces of empire that drove that transformation, I recommend <a href="/2017/01/22/book-review-spqr/">SPQR by Prof. Mary Beard</a>.
+[^3]: I'm certainly not opposed to checks and balances, but they can end up doing more harm than good if they make the act of governing so difficult that they end up ignored.

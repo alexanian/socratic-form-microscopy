@@ -27,16 +27,16 @@ Here's three reasons why the Westminster System is so much better than the abomi
 <h3>1. The head of state and head of government are separate</h3>
 And more importantly, the head of state is a figurehead.
 
-The president is an odd dual-role, both head of government (and therefore responsible for running the executive branch and implementing the policies of the government) and head of state (the face of the nation at home and abroad; the person who is supposed to serve as a symbol of national unity and moral authority). In Westminster democracies, these roles are split up. The Prime Minister serves as head of government and directs the executive branch, while the Queen (or her representative) serves as head of state <a href="#wes-bot-1" id="wes-top-1">[1]</a>. Insofar as the government is personified in anyone, it is personified in a non-partisan person with a circumscribed role.
+The president is an odd dual-role, both head of government (and therefore responsible for running the executive branch and implementing the policies of the government) and head of state (the face of the nation at home and abroad; the person who is supposed to serve as a symbol of national unity and moral authority). In Westminster democracies, these roles are split up. The Prime Minister serves as head of government and directs the executive branch, while the Queen (or her representative) serves as head of state[^1]. Insofar as the government is personified in anyone, it is personified in a non-partisan person with a circumscribed role.
 
-This is an excellent protection against populism. There is no one person who can gather the mob to them and offer the solutions to all problems, because the office of the head of state is explicitly anti-populist <a href="#wes-bot-2" id="wes-top-2">[2]</a>. In Westminster governments, any attempt at crude populism on the part of the prime minister can be countered by messages of national unity from the head of state <a href="#wes-bot-3" id="wes-top-3">[3]</a>.
+This is an excellent protection against populism. There is no one person who can gather the mob to them and offer the solutions to all problems, because the office of the head of state is explicitly anti-populist[^2]. In Westminster governments, any attempt at crude populism on the part of the prime minister can be countered by messages of national unity from the head of state[^3].
 
 It's also much easier to remove the head of government in the Westminster system. Unlike the president, the prime minister serves only while they have the confidence of parliament and their party. An unpopular prime minister can be easily replaced, as Australia seems happy to demonstrate <a href="https://en.wikipedia.org/wiki/Australian_Labor_Party_leadership_spill,_2010">over</a> <a href="https://en.wikipedia.org/wiki/Australian_Labor_Party_leadership_spill,_June_2013">and</a> <a href="https://en.wikipedia.org/wiki/Liberal_Party_of_Australia_leadership_spill,_September_2015">over</a>. A figure like Trump could not be prime minister if their parliamentarians did not like them.
 
-This feature is at risk from open nominating contests and especially rules that don't allow MPs to pick the interim leader during a leadership race. In this regard, Australia is doing a much better job at exemplifying the virtues of the Westminster system than Canada or the UK (where Corbyn's vote share is all the more surprising for how much internal strife his election caused) <a href="#wes-bot-4" id="wes-top-4">[4]</a>.
+This feature is at risk from open nominating contests and especially rules that don't allow MPs to pick the interim leader during a leadership race. In this regard, Australia is doing a much better job at exemplifying the virtues of the Westminster system than Canada or the UK (where Corbyn's vote share is all the more surprising for how much internal strife his election caused)[^4].
 
 <h3>2. Confidence</h3>
-To the Commonwealth, one of the most confusing features of American democracy is its (semi-)regular government shut downs, like <a href="http://www.cnn.com/2017/08/23/politics/trump-wall-mexico-government-shutdown/index.html">the one Trump had planned for September</a> <a href="#wes-bot-5" id="wes-top-5">[5]</a>. On the other side, Americans are baffled at the seemingly random elections that Commonwealth countries have.
+To the Commonwealth, one of the most confusing features of American democracy is its (semi-)regular government shut downs, like[^5]. On the other side, Americans are baffled at the seemingly random elections that Commonwealth countries have.
 
 Her Majesty's Prime Minister governs only so long as they have the confidence of the house. A government is only sworn in after they can prove they have confidence (via a vote of all newly elected and returning MPs). When no party has an absolute majority, things can get tense – or can go right back to the polls. We've observed two tense confidence votes this year, <a href="http://www.macleans.ca/news/canada/christy-clarks-b-c-liberals-fall-on-confidence-vote/">one in BC</a>, <a href="http://www.france24.com/en/20170629-british-pm-theresa-may-narrowly-wins-confidence-vote-parliament">the other in the UK</a>.
 
@@ -73,19 +73,10 @@ Senate reform may have already been accomplished, with Prime Minister Trudeau's 
 
 In one of the articles <a href="http://induecourse.ca/thoughts-on-president-trump/">I linked above</a>, Prof. Joseph Heath compares the utter futility Americans feel about changing their electoral system with the indifference most Canadians feel about changing theirs. In Canada, many proponents of electoral reform specifically wanted to avoid a plebiscite, because they understand that there currently exists no legitimacy crisis sufficient to overcome the status quo bias most people feel. Reform in Canada is certainly possible, but first the system needs to be broken. Right now, the Westminster system is working admirably.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="wes-bot-1">[1]</strong> Israel took many cues from Westminster governments. Its president is non-partisan and ceremonial. If Canada was every forced to give up the monarchy, I'd find this sort of presidential system acceptable. <a href="#wes-top-1">^</a>
-
-<strong id="wes-bot-2">[2]</strong> It's hard to tell which is less populist; the oldest representative of one of the few remaining aristocracies, or (like in Israel or the governor-generals of the former colonies), exceptional citizens chosen for their reliability and loyalty to the current political order. <a href="#wes-top-2">^</a>
-
-<strong id="wes-bot-3">[3]</strong> See Governor General David Johnston's <a href="http://www.cbc.ca/news/politics/governor-general-comments-wherry-1.3537296">criticism of some of Steven Harper's campaign rhetoric</a>. <a href="#wes-top-3">^</a>
-
-<strong id="wes-bot-4">[4]</strong> I've of the opinion that Corbyn's "popularity" is really indicative of PM Teresa May's unpopularity bolstered by his ability to barely surpass incredibly low expectations. <a href="#wes-top-4">^</a>
-
-<strong id="wes-bot-5">[5]</strong> Since rescheduled to December, in light of Hurricane Harvey. <a href="#wes-top-5">^</a>
-
-</div>
+[^1]: Israel took many cues from Westminster governments. Its president is non-partisan and ceremonial. If Canada was every forced to give up the monarchy, I'd find this sort of presidential system acceptable.
+[^2]: It's hard to tell which is less populist; the oldest representative of one of the few remaining aristocracies, or (like in Israel or the governor-generals of the former colonies), exceptional citizens chosen for their reliability and loyalty to the current political order.
+[^3]: See Governor General David Johnston's <a href="http://www.cbc.ca/news/politics/governor-general-comments-wherry-1.3537296">criticism of some of Steven Harper's campaign rhetoric</a>.
+[^4]: I've of the opinion that Corbyn's "popularity" is really indicative of PM Teresa May's unpopularity bolstered by his ability to barely surpass incredibly low expectations.
+[^5]: Since rescheduled to December, in light of Hurricane Harvey.

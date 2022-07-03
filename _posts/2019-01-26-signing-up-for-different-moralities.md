@@ -31,7 +31,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote">In this case I feel it is for the greater good that human garbage like Mokbel are convicted even if the system has to be bent to do so. <a id="am-top-1" href="#am-bot-1">[1]</a></blockquote>
+<blockquote class="wp-block-quote">In this case I feel it is for the greater good that human garbage like Mokbel are convicted even if the system has to be bent to do so.[^1]</blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:quote -->
@@ -83,21 +83,11 @@ tags:
 
 <!-- wp:paragraph --> I think alternative moralities, actively different moral systems that people sign up for as part of their professions are an important model to hold for precedent utilitarians. Alternative moralities encode good precedents, even if they stand in opposition to commonly held values.<br /><br /><!-- /wp:paragraph -->
 
-<!-- wp:paragraph --> We don’t just see this among lawyers. CEOs sign up for the alternative morality of fiduciary duty, which requires them to put the interests of their investors <a href="https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html">above everything but the law</a>. Complaints about the downsides of this ignore the fact we <em>need</em> companies to grow and profit <a href="https://socratic-form-microscopy.com/2018/09/29/good-intentions-meet-a-messy-reality-in-elizabeth-warrens-corporate-citizenship-push/#the-fucking-pensions">if we ever want to retire</a> <a id="am-top-2" href="#am-bot-2">[2]</a>. Engineers sign up for an alternative, stricter morality, which holds them personally and professionally responsible for the failures of any device or structure they sign off on.<br /><br /><!-- /wp:paragraph -->
+<!-- wp:paragraph --> We don’t just see this among lawyers. CEOs sign up for the alternative morality of fiduciary duty, which requires them to put the interests of their investors[^2]. Engineers sign up for an alternative, stricter morality, which holds them personally and professionally responsible for the failures of any device or structure they sign off on.<br /><br /><!-- /wp:paragraph -->
 
 <!-- wp:paragraph --> Having alternative moralities around makes public morality more complicated. It becomes harder to agree on what is right or wrong; it might be right for a lawyer to help a criminal in a way that it would be wrong for anyone else, or wrong for an engineer to make a mistake in a way that would carry no moral blame for anyone outside of the profession. These alternative moralities require us to do a deeper analysis before judging and reward us with a stronger, more resilient society when we do. <!-- /wp:paragraph -->
 
-## <!-- wp:heading --></p>
+<hr class="post-end" />
 
----
-
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<p><!-- /wp:heading -->
-
-<!-- wp:paragraph --> <strong id="am-bot-1">[1]</strong> Even though I disagree strenuously with this poster, I have a bit of fondness for their comment. <a href="https://socratic-form-microscopy.com/justice/">My very first serious essay</a> – and my interest in moral philosophy – was inspired by a similar comment. <a href="#am-top-1">^</a><br /><br /><!-- /wp:paragraph -->
-
-<!-- wp:paragraph --> <strong id="am-bot-2">[2]</strong> This isn’t just a capitalism thing. Retirement really just looks like delay some consumption now in order to be able to consume more in retirement. Consumption, time value of [goods and services, money], and growth follow the same math whether you have central planning or free markets. Communists have to figure out how to do retirement as well and they’re faced with the prospect of either providing less for retired people, or using tactics that would make American CEOs blush in order to drive the sort of growth necessary to support an aging retired population. <a href="#am-top-2">^</a><br /><!-- /wp:paragraph --></p>
-
-</div>
+[^1]: Even though I disagree strenuously with this poster, I have a bit of fondness for their comment. <a href="https://socratic-form-microscopy.com/justice/">My very first serious essay</a> – and my interest in moral philosophy – was inspired by a similar comment.
+[^2]: This isn’t just a capitalism thing. Retirement really just looks like delay some consumption now in order to be able to consume more in retirement. Consumption, time value of [goods and services, money], and growth follow the same math whether you have central planning or free markets. Communists have to figure out how to do retirement as well and they’re faced with the prospect of either providing less for retired people, or using tactics that would make American CEOs blush in order to drive the sort of growth necessary to support an aging retired population.

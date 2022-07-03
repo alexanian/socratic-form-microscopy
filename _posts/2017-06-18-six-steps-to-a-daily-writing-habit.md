@@ -23,7 +23,7 @@ This continued for a while. Up until January 1<sup>st</sup>, 2015, I had written
 
 What changed in 2015? I made a New Year's Resolution to write more. And then, when that began to fall apart a few months later (as almost all New Year's Resolutions do), I sought out better commitment devices.
 
-Did you read my first paragraph and feel like it describes you? Do you want to stop trying to write and start actually writing? If your brain works like mine, you can use what I've learned to skip over (some of) the failing part and go right to the writing every single day part <a id="w-t-1" href="#w-b-1">[1]</a>.
+Did you read my first paragraph and feel like it describes you? Do you want to stop trying to write and start actually writing? If your brain works like mine, you can use what I've learned to skip over (some of) the failing part and go right to the writing every single day part[^1].
 
 <h3>Step 1: Cultivate Love</h3>
 I like having completed writing projects to show off as much as the next person, but I also enjoy the <em>act</em> of writing. If you don't actually <em>enjoy</em> writing, you may have a problem. My techniques are designed to help people (like me) who genuinely enjoy writing once they get going but have trouble forcing themselves to even start.
@@ -41,7 +41,7 @@ When learning a new skill or acquiring a new habit, it's <em>really </em>temptin
 
 It isn't enough to set things up so that you'll be fine if everything goes as planned. A good starting level is something that won't be hard even if life gets in the way. Is your starting goal achievable even if you had to work overtime for the next two weeks? If not, consider toning it down a bit.
 
-You should set a measurable, achievable, and <em>atomic</em> goal. In practice, measurable means numeric, so I'd recommend committing to a specific number of words each day or a specific amount of daily time writing. Here <a href="https://www.beeminder.com/">Beeminder</a> will be your best friend <a id="w-t-2" href="#w-b-2">[2]</a>.
+You should set a measurable, achievable, and <em>atomic</em> goal. In practice, measurable means numeric, so I'd recommend committing to a specific number of words each day or a specific amount of daily time writing. Here[^2].
 
 Beeminder is a service that helps you bind your future self to your current goals. You set up a goal (like writing 100,000 words) and a desired daily progress (say, 200 words each day) towards that goal. Each day, Beeminder will make sure you've made enough progress towards your desired end-state. If you haven't, Beeminder charges your credit card (you can choose to pay anywhere from $5 to $2430). Fail again and it charges you more (up to a point; you can set your own maximum). In this way, Beeminder can "sting" you into completing your goals.
 
@@ -51,7 +51,7 @@ Beeminder only works for numeric goals, so there's the first of the triad I ment
 
 Next, your goal should be achievable; something you have no doubt <em>you</em> can do. Not something some idealized, better, or perfect version of you could do. Something you, with all your constraints and flaws are sure you can achieve. Don't worry about making this too small. Fifty or one hundred words per day is a perfectly adequate starter goal.
 
-Lastly, atomic. Atomic goals can't be broken down any further. Don't start by Beeminding blog posts or gods forfend, <em>novels</em>! Pick the smallest unit of writing you can, probably either <a href="https://www.beeminder.com/zacharyjacobi/writingtime">time</a> or <a href="https://www.beeminder.com/zacharyjacobi/writing">word count</a>, and make your goal about this. When you're Beeminding words or time, you can't fail and get discouraged for lack of ideas or "writer's block" <a id="w-t-3" href="#w-b-3">[3]</a>. It's much better to spend a week writing detailed journals of every day (or even a detailed description of your bedroom) than it is to spend a week not writing because you can't think of what to write.
+Lastly, atomic. Atomic goals can't be broken down any further. Don't start by Beeminding blog posts or gods forfend, <em>novels</em>! Pick the smallest unit of writing you can, probably either[^3]. It's much better to spend a week writing detailed journals of every day (or even a detailed description of your bedroom) than it is to spend a week not writing because you can't think of what to write.
 
 My recommended starter goals are either: write 150 words each day or write 15 minutes each day. Both of these are easy to Beeminder and should be easy for most people to achieve.
 
@@ -129,7 +129,7 @@ For more about the perils of guilt as a motivational tool (and some suggestions 
 <h3>Step 6: Success Spiral</h3>
 This is the part where everything starts to come together. When you get here, guilt based motivation is but a dim memory. You write because you want to. Beeminder helps keep you on track, but you're more likely to spend a bit of extra time writing to see the spike in your graphs than you are because you'll derail otherwise.
 
-When you get to this point (or earlier, depending on how you like to work), something like <a href="https://complice.co/">Complice</a> can really help you make the most of all your motivation. Complice helps you tie your daily actions into the set long- and medium-term goals you've set. It has a kickass Beeminder integration that makes Beeminding as easy checking off a box. It has integrated Pomodoro timers for tracking how much time you work (and can send the results to Beeminder). It allows you and a friend to sign up as accountability buddies and see what each other get done <a id="w-t-4" href="#w-b-4">[4]</a>. And it shows you how much work you've done in the past, allowing you to use the "<a href="https://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/">don't break the chain</a>" productivity hack if it works for you (it works for me).
+When you get to this point (or earlier, depending on how you like to work), something like[^4]. And it shows you how much work you've done in the past, allowing you to use the "<a href="https://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/">don't break the chain</a>" productivity hack if it works for you (it works for me).
 
 {% include image.html src="/wp-content/uploads/complice-timeline-768x49.png" alt="" caption="The last few weeks of my writing goal in Complice. For two of the days in the pictured period, I only wrote because I couldn't bear to lose my streak of days where I'd hit my writing goal." %}
 
@@ -139,7 +139,7 @@ This is really good, because any grumpiness about writing I might start with is 
 
 The road here wasn't exactly easy. It's taken more than two and a half years, hundreds of thousands of words, incipient carpal tunnel, and many false starts. It's the false starts that inspired me to write this. I doubt, dear reader, that you are exactly like me. Likely some of this advice won't work for you. It is, however, my hope that it can point you in the right direction. Perhaps my false starts can save you some of your own.
 
-I would feel deeply uncomfortable giving anyone advice on how to be a better writer; I don't feel confident enough in my craft for that <a id="w-t-5" href="#w-b-5">[5]</a>. But I do feel like I know how to develop a kickass writing habit, the sort of habit that gives you the practice you need to get better. If you too want to write regularly, how about you give this a try?
+I would feel deeply uncomfortable giving anyone advice on how to be a better writer; I don't feel confident enough in my craft for that[^5]. But I do feel like I know how to develop a kickass writing habit, the sort of habit that gives you the practice you need to get better. If you too want to write regularly, how about you give this a try?
 
 <h3>Postscript</h3>
 I think the steps outlined here could be used to help build a variety of durable habits across disciplines. Want to program, cook, draw, or learn a new language? Think that in any of those cases a daily habit would be helpful? This advice is probably transferable to some degree. That said, I haven't tried to repeat this process for any of those things, so I don't know what the caveats are or where it will break down. If you adapt this post for anything else, let me know and I'll link to it here.
@@ -156,19 +156,10 @@ True story: Beeminder sent out a survey about referral links and I told them the
 
 I've linked to my specific Beeminder writing goals (there are four of them) at various points throughout this post, but if you want the proof that I'm not talking out of my ass all nicely collected in one place, you can check out my progress towards all of my Beeminder goals at: <a href="https://www.beeminder.com/zacharyjacobi">https://www.beeminder.com/zacharyjacobi</a>.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="w-b-1">[1]</strong> If this advice doesn't work for you, don't sweat it. I'm just a dude on the internet. This isn't the bible. What works for me may not work for you and there's nothing wrong with you if it doesn't. You'll just have to find your own way, is all. <a href="#w-t-1">^</a>
-
-<strong id="w-b-2">[2]</strong> If Beeminder doesn't work for you, I recommend a human <a href="http://www.quietrev.com/forget-mentors-find-an-accountability-partner/">accountability buddy</a> (who will check up on your writing progress each day and maybe take your money if you aren't hitting your goals). <a href="#w-t-2">^</a>
-
-<strong id="w-b-3">[3]</strong> The best advice about writer's block I've ever seen came from <a href="http://www.avclub.com/article/cory-doctorow-14255">Cory Doctorow</a>. He said that some days he feels like he's inspired and a heavenly chorus is writing for him and other days he feels like he can't write worth shit and has no clue what's he's supposed to be doing. He goes on to say that no matter how strong these feelings are, a month later <em>he can't tell the which words were written in which state. <a href="#w-t-3">^</a></em>
-
-<strong id="w-b-4">[4]</strong> I cannot recommend this feature highly enough for people in long-distance relationships. <a href="#w-t-4">^</a>
-
-<strong id="w-b-5">[5]</strong> For non-fiction writing advice, <a href="http://slatestarcodex.com/2016/02/20/writing-advice/">try the Slate Star Codex post of the same name</a>. For more general advice, <a href="http://blogs.plos.org/neurotribes/2011/06/02/practical-tips-on-writing-a-book-from-22-brilliant-authors/">here's tips from 23 different authors</a>. <a href="#w-t-5">^</a>
-
-</div>
+[^1]: If this advice doesn't work for you, don't sweat it. I'm just a dude on the internet. This isn't the bible. What works for me may not work for you and there's nothing wrong with you if it doesn't. You'll just have to find your own way, is all.
+[^2]: If Beeminder doesn't work for you, I recommend a human <a href="http://www.quietrev.com/forget-mentors-find-an-accountability-partner/">accountability buddy</a> (who will check up on your writing progress each day and maybe take your money if you aren't hitting your goals).
+[^3]: The best advice about writer's block I've ever seen came from <a href="http://www.avclub.com/article/cory-doctorow-14255">Cory Doctorow</a>. He said that some days he feels like he's inspired and a heavenly chorus is writing for him and other days he feels like he can't write worth shit and has no clue what's he's supposed to be doing. He goes on to say that no matter how strong these feelings are, a month later <em>he can't tell the which words were written in which state. </em>
+[^4]: I cannot recommend this feature highly enough for people in long-distance relationships.
+[^5]: For non-fiction writing advice, <a href="http://slatestarcodex.com/2016/02/20/writing-advice/">try the Slate Star Codex post of the same name</a>. For more general advice, <a href="http://blogs.plos.org/neurotribes/2011/06/02/practical-tips-on-writing-a-book-from-22-brilliant-authors/">here's tips from 23 different authors</a>.

@@ -48,7 +48,7 @@ Of course before I could really take this fear seriously, I had to think about w
 
 <img class="alignnone size-full wp-image-548" src="/wp-content/uploads/Slide05.png" alt="" width="720" height="405" />
 
-Here's what the payoff matrix looks like for nuclear war between major powers. Everyone is pretty happy doing nothing, although they'd be happier if they could wipe out their pesky rivals <a id="talk-top-1" href="#talk-bot-1">[1]</a>. Unfortunately, their rivals want to avenge themselves if they're going to die.
+Here's what the payoff matrix looks like for nuclear war between major powers. Everyone is pretty happy doing nothing, although they'd be happier if they could wipe out their pesky rivals[^1]. Unfortunately, their rivals want to avenge themselves if they're going to die.
 
 The decision-making algorithm that tells us we're going to stick to doing nothing is General Metarationality. We know how our opponents will act in response to our actions and we avoid actions that will cause strong sanctioning. And I don't know of any sanctions stronger than getting nuked.
 
@@ -60,7 +60,7 @@ But this is just theory. How do you ensure mutually assured destruction in pract
 
 That’s a question people have been asking since the 1950s. By now everyone's agreed that there's a right way to do it and a wrong way to do it. The wrong way is to stick a bunch of missiles in a desert and call it a day. The right way is to come up with three separate ways of delivering your warheads, spend billions and billions of dollars on them, and call it a day.
 
-Here we have the three methods that everyone's chosen – and I want to make it clear that this is arbitrary; three others would work just as well <a id="talk-top-2" href="#talk-bot-2">[2]</a>. As it stands though, the conventional nuclear triad is Nuclear armed bombers, like the US B-52 or B-2, Intercontinental Ballistic Missiles (ICBMs) like the US Minuteman III, and submarine launched ballistic missiles (SLBMs), like the US Trident II. The idea with this triad is that it's impossible for an enemy to launch a first strike so devastating that they take out your whole ability to respond.
+Here we have the three methods that everyone's chosen – and I want to make it clear that this is arbitrary; three others would work just as well[^2]. As it stands though, the conventional nuclear triad is Nuclear armed bombers, like the US B-52 or B-2, Intercontinental Ballistic Missiles (ICBMs) like the US Minuteman III, and submarine launched ballistic missiles (SLBMs), like the US Trident II. The idea with this triad is that it's impossible for an enemy to launch a first strike so devastating that they take out your whole ability to respond.
 
 <img class="alignnone size-full wp-image-550" src="/wp-content/uploads/Slide07.png" alt="" width="720" height="405" />
 
@@ -148,15 +148,17 @@ If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0
  	<li>In response to a question about the risk of Pakistani nuclear weapons falling into the wrong hands, I explained that this would be locally really bad, but drew the distinction between events that are bad for a localized group of people (like the Taliban nuking Karachi) and events that are bad for the human race (a MAD-level nuclear exchange between China and the US). If you're worrying about the <em>existential</em> risk posed by nuclear weapons, the first is really just noise, except insofar as it can make the second more likely by increasing tensions all around.</li>
  	<li>In response to a question about disarmament, I talked about the New START treaty and the need to distinguish between warheads that are stored (most of them, at least for Russia and America) and warheads ready to go (1,550 for both the US and Russia, if they're sticking to their treaty obligations). I stressed the need for further treaties like New START to slowly reduce the number of active (and therefore existentially dangerous) nuclear weapons in the arsenals of major powers.</li>
 </ul>
-<h3>Footnotes</h3>
-<strong id="talk-bot-1">[1]</strong> I was questioned pretty heavily on this pay-off matrix. Several people thought that <em>Do Nothing</em> should be preferred to <em>Attack</em>. I have two things to say to this:
+
+<hr class="post-end" />
+
+[^1]: I was questioned pretty heavily on this pay-off matrix. Several people thought that <em>Do Nothing</em> should be preferred to <em>Attack</em>. I have two things to say to this:
+
 <ol>
  	<li>In an iterated game with this sort of matrix, the highest payoff comes when people cooperate the most. So while at any given point in time attacking might be preferred, once you take into account that real life is iterated, doing nothing is a better long term strategy.</li>
  	<li>All of us born after the Cold War, or even born after the 60s, cannot adequately understand what it was like to live in a world where it really did seem like the Soviets might "bury us". Faced with that kind of existential threat, a first strike seemed like an appealing option. In this globalist age, it does seem much worse to launch a first strike, especially because major powers do major mutual trade.</li>
 </ol>
-<a href="#talk-top-1">^</a>
 
-<strong id="talk-bot-2">[2]</strong> If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).  <a href="#talk-top-2">^</a>
+[^2]: If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).
 
 <h3>Using this presentation</h3>
 The slides are available <a href="https://www.dropbox.com/s/6ebxh6dbdhpz04w/Presentation.pptx?dl=0">here</a>. This content, like everything else original on my blog, is covered by the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA v4 International</a> license. If you present this, please reference this blog and include a link. If you are a student and using this presentation is against the academic policies of your institution, I'd ask that you please refrain from plagiarizing it.

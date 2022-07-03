@@ -101,7 +101,7 @@ How does this fit in with common materials, like wood, Styrofoam, water, stone, 
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="77"><a href="http://www.wolframalpha.com/input/?i=density+of+oak">Oak</a> <a href="#pkm-ft-notes">[1]</a></td>
+<td style="text-align: center;" width="77"><a href="http://www.wolframalpha.com/input/?i=density+of+oak">Oak</a>[^1]</td>
 <td width="94">
 <p style="text-align: center;">0.65</p>
 </td>
@@ -170,11 +170,6 @@ These equations aren't just important to physicists. They're important to any sc
 
 Or, at least, to anyone who doesn't want their work picked apart by physicists.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3 id="pkm-ft-notes">
-
-<strong>[1]</strong> Not the professor. His density <a href="https://www.google.ca/search?q=average+human+density&amp;rlz=1C5CHFA_enCA691CA692&amp;oq=average+human+density&amp;aqs=chrome..69i57j0l5.3857j1j1&amp;sourceid=chrome&amp;ie=UTF-8">is 0.985t/m<sup>3</sup></a>. <a href="#pkm-table-1">^</a>
-
-</div>
+[^1]: Not the professor. His density <a href="https://www.google.ca/search?q=average+human+density&amp;rlz=1C5CHFA_enCA691CA692&amp;oq=average+human+density&amp;aqs=chrome..69i57j0l5.3857j1j1&amp;sourceid=chrome&amp;ie=UTF-8">is 0.985t/m<sup>3</sup></a>.

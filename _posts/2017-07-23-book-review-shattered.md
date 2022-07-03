@@ -22,9 +22,8 @@ tags:
 
 <p class="caption pre-post-meta">
 [10 minute read]
+Foreword: November 8<sup>th</sup> was one of the worst nights of my life, in a way that might have bled through – just a bit, mind you – into this review. My position will probably mellow as the memories of my fear and disappointment fade.
 </p>
-
-<em>Foreword: November 8<sup>th</sup> was one of the worst nights of my life, in a way that might have bled through – just a bit, mind you – into this review. My position will probably mellow as the memories of my fear and disappointment fade. </em>
 
 My latest non-fiction read was <em>Shattered: Inside Hillary Clinton's Doomed Campaign</em>. In addition to making me consider a career in political consultancy, it gave me a welcome insight into some of the <em>fascinating</em> choices the Clinton campaign made during the election.
 
@@ -84,11 +83,11 @@ You'd think the effect of all of this would be for me to feel contempt for the D
 
 I felt sorry for Debbie Wasserman Schultz. Sanders' inflammatory rhetoric necessitated throwing her under the bus right before the convention. She didn't take it gracefully, but then, how could she? She'd flown her whole family from Florida to Philadelphia to see her moment of triumph as Chairwoman of the DNC speaking at the Democratic National Convention and had it all taken away from her so that Sanders' supporters wouldn't riot (and apparently it was still a near thing). She spent the better part of the day negotiating her exit with the Clinton campaign's COO, instead of appearing on the stage like she'd hoped to. The DNC ended up footing the bill for flying her family home.
 
-I felt sorry for Mook. He had a hard job and less power and budget than were necessary to do it well. He trusted his models too much, but this is partially because he was really good with them. Mook's math made it almost impossible for Sanders to win. Clinton had been terrible at delegate math in 2008. Mook redeemed that. To give just one example of his brilliance, he prioritized media spending in districts with an odd number of delegates, which meant that Clinton won an outside number of delegates from her wins <em>and</em> losses <a href="#shtrd-btm-1" id="shtrd-top-1">[1]</a>.
+I felt sorry for Mook. He had a hard job and less power and budget than were necessary to do it well. He trusted his models too much, but this is partially because he was really good with them. Mook's math made it almost impossible for Sanders to win. Clinton had been terrible at delegate math in 2008. Mook redeemed that. To give just one example of his brilliance, he prioritized media spending in districts with an odd number of delegates, which meant that Clinton won an outside number of delegates from her wins <em>and</em> losses[^1].
 
 I felt sorry for the whole Clinton campaign. Things went so wrong, so often that they had a saying: "we don't get to have nice things". Media ignores four Clinton victories to focus on one of Sanders'? "We don't get to have nice things". Trump goes off the rails, but it gets overshadowed by the ancient story about emails? "We don't get to have nice things."
 
-Several members of the campaign had their emails hacked (probably by the Russians). Instead of reporting on the Russian interference and Russian ties to the Trump campaign, the media talked about those emails over and over again in the last month of the election <a href="#shtrd-btm-2" id="shtrd-top-2">[2]</a>. That must have been maddening for the candidate and her team.
+Several members of the campaign had their emails hacked (probably by the Russians). Instead of reporting on the Russian interference and Russian ties to the Trump campaign, the media talked about those emails over and over again in the last month of the election[^2]. That must have been maddening for the candidate and her team.
 
 Even despite <em>that,</em> I felt sorry for the press, who by and large didn't want Trump to win, but were forced by a string of terrible incentives to consistently cover Clinton in an exceedingly damning way. If you want to see <a href="https://www.google.ca/search?q=meditations+on+moloch&amp;rlz=1C5CHFA_enCA691CA692&amp;oq=meditations+on+moloch&amp;aqs=chrome..69i57.4658j0j1&amp;sourceid=chrome&amp;ie=UTF-8">Moloch</a>'s hand at work, look no further than reporting on the 2016 election.
 
@@ -100,15 +99,7 @@ November 8<sup>th</sup> may have been one of the worst nights of my life. But I'
 
 I really recommend Shattered for anyone who wants to see just how off the rails a political campaign can go when it's buffeted by a combination of candidate ineptitude, unclear chains of command, and persistent attacks from a foreign adversary. It's a bit repetitious at times, which was sometimes annoying and sometimes helpful (especially when I'd forgotten who was who), but otherwise grippingly and accessibly written. The fascinating subject matter more than makes up for any small burrs in the delivery.
 
----
+<hr class="post-end" />
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="shtrd-btm-1">[1]</strong> In a district that has an odd number of delegates, winning by a single vote meant an extra delegate. In a district with 6 delegates, you'd get 3 delegates if you won between 50% and 67% of the votes. In a district with 7, you'd get 4 if you won by even a single vote, and five once you surpassed 71%. If a state has ten counties, four with seven delegates and six with six delegates, you can win the state by four delegates if you squeak to a win in the four districts with seven delegates and win at least 34% of the vote in each of the others. In practice, statewide delegates prevent such wonky scenarios except when the vote is really close, but this sort of math remains vital to winning a close race.  <a href="#shtrd-top-1">^</a>
-
-<strong id="shtrd-btm-2">[2]</strong> WikiLeaks released the hacked emails a few hundred a day for the last month of the election, starting right after the release of Trump's "grab her by the pussy" video. This steady drip-drip-drip of bad press was very damaging for the Clinton campaign, especially because many people didn't differentiate this from the <em>other</em> Clinton-email story.
-
-At this point, I want to know whether WikiLeaks is an organ of the Russian state, or just manipulated by them. Personally, I gravitate towards the first. Chelsea Manning is a hero, but <a href="https://www.theguardian.com/commentisfree/2017/mar/11/farage-assange-shameless-illiberal-alliance">everyone else aligned with WikiLeaks seems to hate the West so much that they'll happily climb into Putin's pocket</a> if it means they get to take a shot at it. <a href="#shtrd-top-2">^</a>
-
-</div>
+[^1]: In a district that has an odd number of delegates, winning by a single vote meant an extra delegate. In a district with 6 delegates, you'd get 3 delegates if you won between 50% and 67% of the votes. In a district with 7, you'd get 4 if you won by even a single vote, and five once you surpassed 71%. If a state has ten counties, four with seven delegates and six with six delegates, you can win the state by four delegates if you squeak to a win in the four districts with seven delegates and win at least 34% of the vote in each of the others. In practice, statewide delegates prevent such wonky scenarios except when the vote is really close, but this sort of math remains vital to winning a close race.
+[^2]: WikiLeaks released the hacked emails a few hundred a day for the last month of the election, starting right after the release of Trump's "grab her by the pussy" video. This steady drip-drip-drip of bad press was very damaging for the Clinton campaign, especially because many people didn't differentiate this from the <em>other</em> Clinton-email story.<br />At this point, I want to know whether WikiLeaks is an organ of the Russian state, or just manipulated by them. Personally, I gravitate towards the first. Chelsea Manning is a hero, but <a href="https://www.theguardian.com/commentisfree/2017/mar/11/farage-assange-shameless-illiberal-alliance">everyone else aligned with WikiLeaks seems to hate the West so much that they'll happily climb into Putin's pocket</a> if it means they get to take a shot at it.

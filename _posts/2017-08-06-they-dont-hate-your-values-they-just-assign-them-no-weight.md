@@ -25,9 +25,9 @@ Content Warning: Extensive discussion of the morality of abortion
 
 </p>
 
-Previously, I talked about akrasia as <a href="/2017/07/30/socially-conservative-legislation-as-akrasia-managment/">one motive for socially conservative legislation</a>. I think the akrasia model is useful when explaining certain classes of seemingly hypocritical behaviour, but it's far from the only reason for social conservatives to push for legislation that liberals oppose. At least <em>some</em> legislation comes from a desire to force socially conservative values on everyone <a href="#val-bot-1" id="val-top-1">[1]</a>.
+Previously, I talked about akrasia as[^1].
 
-Liberals are <em>terrible</em> at understanding the values underlying conservative legislation. When <a href="http://thefederalist.com/2017/05/25/5-things-right-can-learn-abortion-supporters-yale-law/">an anti-abortion single issue voter took a reproductive rights seminar at Yale</a>, he was surprised to hear that many of his classmates believed that anti-abortion laws were aimed entirely at controlling women's sexuality, rather than stopping the (to his eyes) moral crime of abortion <a href="#val-bot-2" id="val-top-2">[2]</a>.
+Liberals are <em>terrible</em> at understanding the values underlying conservative legislation. When[^2].
 
 This is an easy mistake to make. It's true that limiting abortion also limits women's financial and sexual freedom. In the vast majority of cases it's false to claim that this is a plus for the most vociferous opponents of abortion. To their detriment it also isn't a <em>minus</em>. For many of the staunchest opponents of abortion, the financial or sexual freedom of women plays no role at all in their position. Held against the life of a fetus, these freedoms are (morally) worthless.
 
@@ -48,11 +48,5 @@ Abortion gave me the clearest example of orthogonal values, but it might actuall
 <hr class="post-end" />
 <p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<strong id="val-bot-1">[1]</strong> Socially liberal legislation is just <em>objectively</em> right and is based on the values everyone <em>would</em> have if they could choose freely. Only my political enemies try and <em>force</em> anything on anyone. /sarcasm <a href="#val-top-1">^</a>
-
-<strong id="val-bot-2">[2]</strong> People who aren't women can also have abortions and their ability to express their sexualities is also controlled by laws limiting access to abortion. If there exists a less awkward construction than "anyone with a uterus" that I can use instead of "women", I'd be delighted to find it. <a href="#val-top-2">^</a>
-
-</div>
+[^1]: Socially liberal legislation is just <em>objectively</em> right and is based on the values everyone <em>would</em> have if they could choose freely. Only my political enemies try and <em>force</em> anything on anyone. /sarcasm
+[^2]: People who aren't women can also have abortions and their ability to express their sexualities is also controlled by laws limiting access to abortion. If there exists a less awkward construction than "anyone with a uterus" that I can use instead of "women", I'd be delighted to find it.

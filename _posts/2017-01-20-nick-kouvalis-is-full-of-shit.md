@@ -18,7 +18,7 @@ tags:
 
 <em>Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did. </em>
 
-Nick Kouvalis (campaign manager for Canada's <a href="https://www.thebeaverton.com/2017/01/op-ed-kellie-leitch-oh-no-im-ben-carson-arent/">cheap knock off demagogue, Kellie Leitch</a>) bragged in Macleans [1] about how he's deliberately spreading "fake news" on Twitter to help him identify liberals who are joining the Conservative party to vote against Kellie Leitch.
+Nick Kouvalis (campaign manager for Canada's <a href="https://www.thebeaverton.com/2017/01/op-ed-kellie-leitch-oh-no-im-ben-carson-arent/">cheap knock off demagogue, Kellie Leitch</a>) bragged in Macleans[^1] about how he's deliberately spreading "fake news" on Twitter to help him identify liberals who are joining the Conservative party to vote against Kellie Leitch.
 
 <p style="padding-left: 30px;">“We call it Operation Flytrap,” Kouvalis says. “We did it knowing that people who aren’t real Conservatives can’t help themselves, so they post something negative about me, or Kellie. Some of them use real names. We find out who they are, and check them against the membership list. I’m going to challenge as many as I can.”</p>
 But there are further layers of dishonesty going on here. Note that Mr. Kouvalis is looking merely for comments directed against himself or Dr. Leitch. From these, he wants to gather a list of people who (he suspects but probably can't prove) joined the Conservative Party just to vote against Dr. Leitch.
@@ -60,6 +60,6 @@ P.S. I'm older than 14, have paid my membership fee, and I agree with all 22 of 
 
 <hr class="post-end" />
 
-Ad Supported References (as <a href="/2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/">per earlier</a>, please only visit with an adblocker so as to avoid incentivizing Kellie Leitch name recognition):
+<p>Ad Supported References (as <a href="/2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/">per earlier</a>, please only visit with an adblocker so as to avoid incentivizing Kellie Leitch name recognition):</p>
 
-[1] <a href="http://www.macleans.ca/news/canada/inside-nick-kouvaliss-fake-news-strategy/">http://www.macleans.ca/news/canada/inside-nick-kouvaliss-fake-news-strategy/</a>
+[^1]: <a href="http://www.macleans.ca/news/canada/inside-nick-kouvaliss-fake-news-strategy/">http://www.macleans.ca/news/canada/inside-nick-kouvaliss-fake-news-strategy/</a>

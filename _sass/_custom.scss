@@ -378,14 +378,18 @@ a.slide-menu-nav-item:focus {
 
 // Custom footnotes styling
 .footnotes {
-  p {
+  li {
     font-size: 0.8em;
-    color: #2b3233;
+  }
+  
+  ol p {
+    width: 100%;
+    font-size: inherit;
   }
 }
 
 // Custom typography
-figcaption, p.caption {
+figcaption, p.caption, p.epistemic-status {
   color: gray;
   font-style: italic;
 }
@@ -406,5 +410,6 @@ figure.image {
 
 hr.post-end {
   margin-top: $spacer-4;
+  margin-bottom: $spacer-2;
   border-color: $color-dot-accent;
 }

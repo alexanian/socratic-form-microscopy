@@ -16,13 +16,13 @@ tags:
   - kellie leitch
 ---
 
-<p class="pre-post-meta">Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did.</p>
+<p class="caption pre-post-meta">Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did.</p>
 
 A couple months ago, <a href="/2016/09/03/kellie-leitch-and-liberal-democracy/">I wrote of Kellie Leitch</a>:
 
 <blockquote>I remain genuinely unsure what Kellie Leitch’s goal is. I went into this blog convinced she was another hypocrite who was only using queer Canadians when it suited her racists agenda. And yet, she voted yea to Bill 279 (to treat gender identity as a protected class) despite almost every single one of her cabinet colleagues opposing it. She does appear to have a principled and reasonably long standing support for queer rights. She voted the party line on whipped bills (as does basically every MP in Canada), but when she’s allowed to vote her conscience, we see that it is rather different than many of the other Conservatives. She may be a political opportunist who can sense which way the wind blows. Or she may be trying to change the conservatives from within.</blockquote>
 
-I spent weeks wondering: is Dr. Leitch just a political opportunist, or is she driven by real (albeit misguided) principles? This week, she provided me with an answer [1]:
+I spent weeks wondering: is Dr. Leitch just a political opportunist, or is she driven by real (albeit misguided) principles? This week, she provided me with an answer[^1]:
 
 <blockquote>Tonight, our American cousins threw out the elites and elected Donald Trump as their next president. It’s an exciting message and one that we need delivered in Canada as well. It’s the message I’m bringing with my campaign to be the next Prime Minister of Canada.</blockquote>
 
@@ -34,7 +34,7 @@ And yet.
 
 Donald Trump hasn't even taken office, but already his election has changed America. His supporters, emboldened at the thought of no longer being held accountable for bigotry are chomping at the bit. <a href="https://twitter.com/i/moments/796417517157830656">Real people, vulnerable people, are being hurt because of this</a>.
 
-Even if (hypothetical) Prime Minister Kellie Leitch governs soundly and sensibly, even if she never enacts a tip-line for "<a href="http://www.huffingtonpost.ca/2015/10/02/tip-line-barbaric-cultural-practices-tories_n_8234610.html">barbaric cultural practices</a>" and never sets up screening for "anti-Canadian values" [2], her candidacy or victory represents a real risk to black, indigenous, southeast Asian, and Muslim Canadians. As much as we'd love to believe otherwise, there are dangerous racists <a href="supremacists">in Canada</a>. A win for Kellie Leitch on a platform of "Canadian Values" and coded anti-Muslim rhetoric would give this small minority social license to harass, attack, and intimidate. A win by Michael Chong or Eric O'Toole would not.
+Even if (hypothetical) Prime Minister Kellie Leitch governs soundly and sensibly, even if she never enacts a tip-line for "<a href="http://www.huffingtonpost.ca/2015/10/02/tip-line-barbaric-cultural-practices-tories_n_8234610.html">barbaric cultural practices</a>" and never sets up screening for "anti-Canadian values"[^2], her candidacy or victory represents a real risk to black, indigenous, southeast Asian, and Muslim Canadians. As much as we'd love to believe otherwise, there are dangerous racists <a href="supremacists">in Canada</a>. A win for Kellie Leitch on a platform of "Canadian Values" and coded anti-Muslim rhetoric would give this small minority social license to harass, attack, and intimidate. A win by Michael Chong or Eric O'Toole would not.
 
 Unfortunately, there is a real risk that Kellie Leitch could become the next leader of the Conservative party (and from there, possibly PM). It's a crowded field and she's learned the correct lessons from Donald Trump. Milk every controversy for as much media attention as possible and strongly appeal to the parts of your base most concerned with the changing appearance of Canada.
 
@@ -46,7 +46,8 @@ I encourage everyone else who opposes Dr. Leitch to focus on her policies and wh
 
 I think there are much better candidates in the conservative leadership race. Michael Chong, for example, has an excellent record on social issues and supports carbon pricing. He and I have policy disagreements, but a Conservative Party of Canada led by Michael Chong would be a contender for my vote in the next election. <a href="http://induecourse.ca/three-observations-on-the-leap-manifesto/">Given that the NDP has abandoned me</a>, I would dearly like to be able to make a choice between two parties with sound policy proposals and positive plans for Canada going forward. I could not do that with Kellie Leitch at the head of the Conservative Party.
 
-<h5>4 Things You Can Do To Help</h5>
+## 4 Things You Can Do To Help
+
 Kellie Leitch is relying on free media attention to differentiate her from a crowded field. Under no circumstances should we advocate for deliberate suppression of stories about Dr. Leitch. And yet, outrage generates clicks. As long as Kellie Leitch can profit from her simple algorithm – say something objectionable, but not so objectionable that the party kicks you out, wait for the media to write a hundred stories about it, profit from the increased name recognition – she'll continue to use it.
 
 We can attempt to complicate her algorithm by removing the financial incentive to focus most of the media coverage that the CPC leadership race is getting on her. There are a few ways you can do this.
@@ -64,8 +65,7 @@ Let the next Canadian election be about which policies will bring us peace, orde
 <hr class="post-end" />
 <p class="epistemic-status">Epistemic Status: <a href="/about-me">Ethics?</a></p>
 
-<u>Kellie Leitch related links (don't visit without an ad-blocker):</u>
+<p>Kellie Leitch related links (don't visit without an ad-blocker):</p>
 
-[1] <a href="http://globalnews.ca/news/3057503/kellie-leitch-wants-to-bring-donald-trumps-exciting-message-to-canada/">http://globalnews.ca/news/3057503/kellie-leitch-wants-to-bring-donald-trumps-exciting-message-to-canada/</a>
-
-[2] <a href="http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470">http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470</a>
+[^1]: <a href="http://globalnews.ca/news/3057503/kellie-leitch-wants-to-bring-donald-trumps-exciting-message-to-canada/">http://globalnews.ca/news/3057503/kellie-leitch-wants-to-bring-donald-trumps-exciting-message-to-canada/</a>
+[^2]: <a href="http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470">http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470</a>

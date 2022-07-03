@@ -23,7 +23,7 @@ tags:
 
 **Tortoise**: Okay…
 
-**Hare**: We'll start off easy <a id="b1" href="#1">[1]</a>. Acting on an anonymous phone call, the police raid a house to arrest a suspected murderer. They don't know what he looks like but they know his name is John and that he is inside the house. The police bust in on a carpenter, a lorry driver, a mechanic and a fireman all playing poker. Without hesitation or communication of any kind, they immediately arrest the fireman. How do they know they've got their man?
+**Hare**: We'll start off easy[^1]. Acting on an anonymous phone call, the police raid a house to arrest a suspected murderer. They don't know what he looks like but they know his name is John and that he is inside the house. The police bust in on a carpenter, a lorry driver, a mechanic and a fireman all playing poker. Without hesitation or communication of any kind, they immediately arrest the fireman. How do they know they've got their man?
 
 **Tortoise**: Hmmm… Well, if they can immediately tell the profession of everyone in the room without saying anything, presumably everyone is dressed in clothes emblematic of their profession. I think the jumpsuits firefighters…
 
@@ -132,7 +132,7 @@ Image Credit: <a href="https://www.flickr.com/photos/ekilby/1464834963" target="
 
 **Hare and Tortoise**: Stack Overflow?
 
-**Coyote**: Stack Overflow <a id="b2" href="#2">[2]</a>.
+**Coyote**: Stack Overflow[^2].
 
 <em>All pause to consider this.</em>
 
@@ -180,13 +180,7 @@ Image Credit: <a href="https://www.flickr.com/photos/ekilby/1464834963" target="
 
 **Tortoise**: So about your benefits package…
 
-<hr>
+<hr class="post-end">
 
-<div class="footnotes" markdown="1">
-<h3>Footnotes</h3>
-
-<em id="1">[1]</em> All puzzles in this dialogue taken from <a href="http://www.folj.com/lateral/">http://www.folj.com/lateral/</a> <a href="#b1">^</a>
-
-<em id="2">[2]</em> Specifically this question: <a href="http://stackoverflow.com/questions/6137986/javascript-roundoff-number-to-nearest-0-5">http://stackoverflow.com/questions/6137986/javascript-roundoff-number-to-nearest-0-5</a> <a href="#b2">^</a>
-
-</div>
+[^1]: All puzzles in this dialogue taken from <a href="http://www.folj.com/lateral/">http://www.folj.com/lateral/</a>
+[^2]: Specifically this question: <a href="http://stackoverflow.com/questions/6137986/javascript-roundoff-number-to-nearest-0-5">http://stackoverflow.com/questions/6137986/javascript-roundoff-number-to-nearest-0-5</a>
