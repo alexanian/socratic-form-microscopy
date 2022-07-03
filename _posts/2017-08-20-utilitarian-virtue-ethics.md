@@ -15,7 +15,10 @@ tags:
   - ethics
   - utilitarianism
 ---
-<em>[4 minure read]</em>
+
+<p class="caption pre-post-meta">
+[4 minure read]
+</p>
 
 The nagging question that <a href="https://socratic-form-microscopy.com/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">both</a> <a href="https://socratic-form-microscopy.com/2017/07/16/book-review-utilitarianism-for-and-against-part-2/">halves</a> of <em>Utilitarianism for and against</em> left me with is: "can utilitarianism exist without veering off into total assessment?"
 

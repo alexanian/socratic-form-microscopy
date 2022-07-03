@@ -18,7 +18,9 @@ tags:
   - tradeoffs are hard
 ---
 
-<em>[7 Minute Read]</em>
+<p class="caption pre-post-meta">
+[7 Minute Read]
+</p>
 
 Epistemic Status: Started as a reduction ad absurdum.
 

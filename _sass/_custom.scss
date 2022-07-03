@@ -383,3 +383,17 @@ a.slide-menu-nav-item:focus {
     color: #2b3233;
   }
 }
+
+// Custom typography
+p {
+  &.caption {
+    font-size: $body-font-size;
+    color: gray;
+    font-style: italic;
+  }
+
+  &.pre-post-meta {
+    padding: 0px 20px;
+    margin: -20px 0px 40px;
+  }
+}

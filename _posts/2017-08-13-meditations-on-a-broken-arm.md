@@ -11,7 +11,10 @@ inline_featured_image:
 categories:
   - All About Me
 ---
-<em>[4 minute read]</em>
+
+<p class="caption pre-post-meta">
+[4 minute read]
+</p>
 
 This will be a ramble.
 

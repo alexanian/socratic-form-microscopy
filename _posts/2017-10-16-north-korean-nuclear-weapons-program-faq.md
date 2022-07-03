@@ -20,7 +20,9 @@ tags:
 
 <em>"We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita... 'Now, I am become Death, the destroyer of worlds.'" – J Robert Oppenheimer, on the reaction to the successful test of the first atomic bomb.</em>
 
-<em>[30 minute read]</em>
+<p class="caption pre-post-meta">
+[30 minute read]
+</p>
 
 <h1>0. Table of Contents</h1>
 <a href="#1.0">1. Why?</a>

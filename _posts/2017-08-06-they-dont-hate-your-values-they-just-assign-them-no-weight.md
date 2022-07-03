@@ -18,9 +18,12 @@ tags:
   - tradeoffs are hard
 ---
 
-<em>[3-minute read]</em>
+<p class="caption pre-post-meta">
+[3-minute read]
 
-<em>Content Warning: Extensive discussion of the morality of abortion</em>
+Content Warning: Extensive discussion of the morality of abortion
+
+</p>
 
 Previously, I talked about akrasia as <a href="/2017/07/30/socially-conservative-legislation-as-akrasia-managment/">one motive for socially conservative legislation</a>. I think the akrasia model is useful when explaining certain classes of seemingly hypocritical behaviour, but it's far from the only reason for social conservatives to push for legislation that liberals oppose. At least <em>some</em> legislation comes from a desire to force socially conservative values on everyone <a href="#val-bot-1" id="val-top-1">[1]</a>.
 

@@ -16,7 +16,10 @@ tags:
   - prison
   - punishment
 ---
-<em>[Epistemic Status: I agree with the argument I'm making, but not with some of the propositions I accept in order to most effectively make it. See the first comment for details.]</em>
+
+<p class="caption pre-post-meta">
+[Epistemic Status: I agree with the argument I'm making, but not with some of the propositions I accept in order to most effectively make it. See the first comment for details.]
+</p>
 
 Paul Manafort <a href="https://www.foxnews.com/politics/paul-manafort-not-going-rikers-island-federal-custody-justice-department">just narrowly avoided spending time in Rikers</a>, which has left some people disappointed. There's a certain glee that's common to cases where the defendant is hated, as people begin to speculate just how grim their life will be in prison.
 

@@ -18,6 +18,7 @@ tags:
   - someone else definitely came up with this first
   - statistics
 ---
+
 So, there's this thing that happens in certain intellectual communities, like (to give a totally random example) social psychology. This thing is that novel takes are rewarded. New insights are rewarded. Figuring out things that no one has before is rewarded. The high-status people in such a community are the ones who come up with and disseminate many new insights.
 
 On the face of it, this is good! New insights are how we get penicillin and flight and Pad Thai burritos. But there's one itty bitty little problem with building a culture around it.
@@ -76,4 +77,6 @@ Therefore, I suggest caution. We do not know how many true insights we should ex
 
 We might not be able to change novelty culture, but we can do our best to guard against it.
 
-<em>[Special thanks to <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> for coming up with most of the lyrics to Bayesian Hallelujah.]</em>
+<p class="caption pre-post-meta">
+[Special thanks to <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> for coming up with most of the lyrics to Bayesian Hallelujah.]
+</p>

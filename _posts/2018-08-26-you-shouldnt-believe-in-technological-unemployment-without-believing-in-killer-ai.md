@@ -20,7 +20,9 @@ tags:
   - x-risk
 ---
 
-<em>[Epistemic Status: Open to being convinced otherwise, but fairly confident. 11 minute read.]</em>
+<p class="caption pre-post-meta">
+[Epistemic Status: Open to being convinced otherwise, but fairly confident. 11 minute read.]
+</p>
 
 As interest in how artificial intelligence will change society <a href="https://trends.google.com/trends/explore?date=all_2008&amp;geo=US&amp;gprop=news&amp;q=%2Fm%2F0mkz">increases</a>, I've found it revealing to note what narratives people have about the future.
 

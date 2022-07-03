@@ -1,6 +1,6 @@
 ---
 id: 632
-title: 'Book Review: The Managed Heart'
+title: "Book Review: The Managed Heart"
 date: 2017-12-10T10:14:04-05:00
 author: Zach
 layout: post
@@ -14,9 +14,11 @@ tags:
   - book review
   - feminism
 ---
-[16 minute read]
 
-<em>Content warning: reading this book left me in a low state of existential panic and unable to respond appropriately to other people's emotions for about a week. You have been warned.</em>
+<p class="caption pre-post-meta">
+[16 minute read]
+Content warning: reading this book left me in a low state of existential panic and unable to respond appropriately to other people's emotions for about a week. You have been warned.
+</p>
 
 If you've followed my blog for any amount of time, you probably know that I'm a big fan of the sociologist and feminist scholar Professor Arlie Russell Hochschild. Previously I have reviewed her books "<a href="https://socratic-form-microscopy.com/2017/05/20/book-review-sitol/">Strangers in Their Own Land</a>" and "<a href="https://socratic-form-microscopy.com/2017/09/17/book-review-the-second-shift/">The Second Shift</a>". I've also published <a href="https://socratic-form-microscopy.com/2017/10/29/housework/">a practical guide to sharing housework</a>, inspired by reading "The Second Shift". Today I'm going to review <a href="https://www.ucpress.edu/book.php?isbn=9780520272941">The Managed Heart</a> the book that first brought Professor Hochschild to mainstream attention.
 
@@ -101,6 +103,7 @@ Like all of Professor Hochschild's books, The Managed Heart is in some sense an 
 Earlier, I said that workers are being increasingly asked to avoid consonant feelings. Take as an example the bill collector, moved by pity or charity to seek to find a repayment schedule that works for their client or a flight attendant furious at a customer who is repeatedly belittling them. In both of these cases, emotions are correctly functioning (both as a signal function, and in accordance with societal feelings rules), but economic realities demand that the worker feel something else. Corporate requirements impose a new set of feelings rules, which may clash with extant ones, potentially grinding up workers in the process.
 
 Acting in response to these alien feeling rules can be exhausting. For flight attendants, Professor Hochschild identified three stances they can take towards their work, each with its own risks:
+
 <blockquote>In the first, the worker identifies too wholeheartedly with the job, and therefore risks burnout. In the second, the worker clearly distinguishes her- self from the job and is less likely to suffer burnout; but she may blame herself for making this very distinction and denigrate herself as 'Just an actor, not sincere." In the third, the worker distinguishes herself from her act, does not blame herself for this, and sees the job as positively requiring the capacity to act; for this worker there is some risk of estrangement from acting altogether, and some cynicism about it– "We're just illusion makers."</blockquote>
 No job is entirely without risks (both physical and psychological), yet work must get done. I would have like to see Professor Hochschild better engage with this fact. Her potential solution (to give workers more control over the emotional labour they are required to do) is not as free of costs as she seems to think it is. For whenever it is not universal, all those companies that refuse to give control of emotional labour over to their employees may find themselves at a steep advantage. The threat of this (if emotional labour is indeed a competitive advantage) might be enough to keep whole industries scared of allowing any worker control, <a href="http://slatestarcodex.com/2014/07/30/meditations-on-moloch/">absent a mechanism for perfect coordination</a>.
 
@@ -121,6 +124,7 @@ In a personal control system, control is achieved via appeals to the emotions of
 There is also a relationship between these control systems and discipline. Professor Hochschild cites research that middle-class parents are more likely to sanction intent, while working-class parents are more likely to sanction actions. The working-class parent sanctions the child because of the results of a temper-tantrum. The middle-class parent sanctions the child because they lost their temper.
 
 Professor Hochschild suggests that the sum of this is three messages sent to a (middle-class) child:
+
 <ul>
  	<li>Feelings in others, particularly their superiors, are important and worth trying to understand.</li>
  	<li>Their own feelings are important and a valid reason for making decisions.</li>
@@ -131,6 +135,7 @@ It's clear that because of this education, feelings rules are a gender and class
 Second, in a world in which the higher ranks of government and corporations are biased towards men, women are given a particular incentive to be sensitive towards the feelings of men, while men have no corresponding requirement to be sensitive towards the feelings of women. Combine this with a toxic masculinity that leaves men little room to acknowledge or talk about feelings and you're left with a situation where many men will seriously lack the capacity to understand – or even the knowledge that they should be trying to understand – the feelings of women in their lives.
 
 Professor Hochschild frames the intersection of class and feeling rules somewhat more bluntly than I have:
+
 <blockquote>More precisely, the class messages that parents pass on to their children may be roughly as follows. Middle class: "Your feelings count because you are (or will be) considered important by others:' Lower class: "Your feelings don't count because you aren't (or won't be) considered important by others:'</blockquote>
 Note that this was written in the 80s and Professor Hochschild did suggest that orientation towards controlling emotions might soon (after the time of publication) cut across class lines due to the advent of automation. To an extent I think this has been borne out, but I feel like there is also an aesthetic element here. Class determines what emotions are acceptable to show (although of course this relationship is complicated and fickle, much like fashion), which also determines what people are raised to be able to do.
 

@@ -1,6 +1,6 @@
 ---
 id: 448
-title: 'Book Review: Utilitarianism for and against (Part 2)'
+title: "Book Review: Utilitarianism for and against (Part 2)"
 date: 2017-07-16T10:07:42-04:00
 author: Zach
 layout: post
@@ -18,7 +18,10 @@ tags:
   - reading
   - utilitarianism
 ---
-<em>[33 minute read]</em>
+
+<p class="caption pre-post-meta">
+[33 minute read]
+</p>
 
 <a href="/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">Three weeks ago, I reviewed the first half of <em>Utilitarianism for and against</em></a>. This week I'll be reviewing the second half, the <em>against</em> side. I should note that I'm a utilitarian and therefore likely to be biased against the arguments presented here. If my criticism is rather thicker than last week, it is not because the author of the second essay is any worse than the first.
 
@@ -55,6 +58,7 @@ Williams then turns his attention to the ways in which he thinks utilitarianism'
 I get the impression of a man almost tearing out his hair because for him, there exist actions that are <em>wrong</em> under all circumstances and here we are, talking about circumstances in which we'd do them. There's a kernel of truth here too. I think there can be a sort of bravado in accepting utilitarian conclusions. <em>Yeah, I'm tough enough that I'd kill one to save one thousand? You wouldn't? I guess you're just soft and old-fashioned.</em> For someone who cares as much about virtue as I think Williams does, this must be abhorrent.
 
 I loved how Williams summed this up.
+
 <blockquote>The demand… to <em>think the unthinkable</em> is not an unquestionable demand of rationality, set against a cowardly or inert refusal to follow out one's moral thoughts. Rationality he sees as a demand not merely on him, but on the situations in and about which he has to think; unless the environment reveals minimum sanity, it is insanity to carry the decorum of sanity into it.</blockquote>
 For all that I enjoyed the phrasing, I don't see how this changes anything; there is nothing at all sane about the current world. A life is worth something like <a href="https://www.theglobalist.com/the-cost-of-a-human-life-statistically-speaking/">$7 million to $9 million</a> and yet can be  saved for <a href="https://www.thelifeyoucansave.org/Impact-Calculator">less than $5000</a>. This planet contains some of the most wrenching poverty and lavish luxury imaginable, often in the very same cities. Where is the sanity? If Williams thinks sane situations are a reasonable precondition to sane action, then he should see no one on earth with a duty to act sanely.
 
@@ -157,6 +161,7 @@ I would also like to add a criticism of Williams' complaint that utilitarian act
 The next two sections of Williams' essay were the most difficult to parse, but also the most rewarding. They deal with the interplay between calculating utilities and utilitarianism and question the extent to which utilitarianism is practical outside of appealing to the idea of total utility. That is to say, they ask if the unique utilitarian ethical frame can, under practical conditions have practical effects.
 
 To get to the meat of Williams points, I had to wade through what at times felt like word games. All of the things he builds up to throughout these lengthy sections begin with a premise made up of two points that Williams thinks are implied by Smart's essay.
+
 <ol>
  	<li>All utilities should be assessed in terms of acts. If we're talking about rules, governments, or dispositions, their utility stems from the acts they either engender or prevent.</li>
  	<li>To say that a rule (as an example) has any effect at all, we must say that it results in some change in acts. In Williams' words: "the total utility effect of a rule's obtaining must be cashable in terms of the effects of acts.</li>
@@ -240,6 +245,7 @@ Imagine a government that is minimally responsive to non-utilitarian concerns. I
 Could such an arrangement exist with a free media? With free elections? Democracies are notably less corrupt than autocracies, so there are significant advantages to having free elections and free media. But how, if those exist, does the utilitarian government propose to keep its secrets hidden from the population? And if the government was successful, how could it respect its citizens, so duped?
 
 In addition to all that, there is the problem of calculating how to satisfy people's preferences. Williams identifies three problems here:
+
 <ol>
  	<li>How do you measure individual welfare?</li>
  	<li>To what extent is welfare comparative?</li>
@@ -254,12 +260,14 @@ More problems arise around substitution or compensation. It may be more optimifi
 Utilitarianism is about trade-offs. And some people have views which they hold to be beyond all trade-off. It is even possible for happiness to be buttressed or rest entirely upon principles – principles that when dearly and truly held cannot be traded-off against. Certainly, utilitarians can attempt to work around this – if such people are a minority, they will be happily trammelled by a utilitarian majority. But it is unclear what a utilitarian government could do in a such a case where the majority of their population is "afflicted" with deeply held non-utilitarian principles.
 
 Williams sums this up as:
+
 <blockquote>Perhaps humanity is not yet domesticated enough to confine itself to preferences which utilitarianism can handle without contradiction. If so, perhaps utilitarianism should lope off from an unprepared mankind to deal with problems it finds more tractable – such as that present by Smart… of a world which consists only of a solitary deluded sadist.</blockquote>
 Finally, there's the problem of people being terrible judges of what they want, or simply not understanding the effects of their preferences (<a href="https://www.nytimes.com/2017/02/07/upshot/one-third-dont-know-obamacare-and-affordable-care-act-are-the-same.html">as the Americas who rely on the ACA but want Obamacare to be repealed may find out</a>). It is certainly hard to walk the line between respecting preferences people would have if they were better informed or truly understood the consequences of their desires and the common (leftist?) fallacy of assuming that everyone who held all of the information you have must necessarily have the same beliefs as you.
 
 All of this combines to make Williams view utilitarianism as dangerously irresponsible as a system of public decision making. It assumes that preferences exist, that the method of collecting them doesn't fail to capture meaningful preferences, that these preferences would be vindicated if implemented, and that there's a way to trade-off among all preferences.
 
 To the potential utilitarian rejoinder that half a loaf is better than none, he points out a partial version of utilitarianism is very vulnerable to the <a href="https://en.wikipedia.org/wiki/Streetlight_effect">streetlight effect</a>. It might be used where it can and therefore act to legitimize – as "real"– concerns in the areas where it can be used and delegitimize those where it is unsuitable. This can easily lead to the <a href="https://en.wikipedia.org/wiki/McNamara_fallacy">McNamara fallacy</a>; deliberate ignorance of everything that cannot be quantified:
+
 <blockquote>The first step is to measure whatever can be easily measured. This is OK as far as it goes. The second step is to disregard that which can't be easily measured or to give it an arbitrary quantitative value. This is artificial and misleading. The third step is to presume that what can't be measured easily really isn't important. This is blindness. The fourth step is to say that what can't be easily measured really doesn't exist. This is suicide.
 
 — Daniel Yankelovich "Corporate Priorities: A continuing study of the new demands on business." (1972)</blockquote>

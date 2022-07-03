@@ -17,6 +17,7 @@ tags:
   - elections
   - political philosophy
 ---
+
 The fundamental problem of governance is the misalignment between means and ends. In all practically achievable government systems, the process of acquiring and maintaining power requires different skills than the exercise of power. The core criteria of any good system of government, therefore, must be selecting people by a metric that bears some resemblance to governing, or perhaps more importantly, having a metric that actively filters out people who are not suited to govern.
 
 When the difference between means and ends becomes extreme, achieving power serves only to demonstrate unsuitability for holding it. Such systems are inevitably doomed to collapse.
@@ -28,6 +29,7 @@ In practice, however, monarchies are rather unstable. This is because monarchs a
 Monarchy, like many other systems of government, was not doomed so much by its institutions, as by its process for choosing a leader. The character of leaders is the destiny of nations and many forms of government have no way of picking people with a character conducive to governing well.
 
 By observing the pathologies of failed systems of government, it becomes possible to understand why democracy is a uniquely successful form of government, as well as the risks that emergent social technologies pose to democracy.
+
 <h2>The USSR</h2>
 <span style="color: #808080;">"Lenin's core of original Bolsheviks… were many of them highly educated people…and they preserved these elements even as they murdered and lied and tortured and terrorised. They were social scientists who thought principle required them to behave like gangsters. But their successors… were not the most selfless people in Soviet society, or the most principled, or the most scrupulous. They were the most ambitious, the most domineering, the most manipulative, the most greedy, the most sycophantic." – Francis Spufford, Red Plenty</span>
 
@@ -54,6 +56,7 @@ It's true that its combination economic system and ambitions doomed the Soviet U
 In the USSR, legitimacy didn't come from the people, but from the party apparatus. Bold changes, of the sort necessary to rescue the Soviet economy were unthinkable because they cut against too many entrenched interested. The army budget could not be decreased because the leader needed to maintain control of the army. The economic system couldn't be changed because of how tightly the elite were tied to it.
 
 The USSR needed bold, pioneering leaders who were willing to take risks and shake up the system. But the system guaranteed that those leaders would never rule. And so, eventually, the USSR fell.
+
 <h2>Military Dictatorships</h2>
 <span style="color: #808080;">"The difference between a democracy and a dictatorship is that in a democracy you vote first and take orders later; in a dictatorship you don't have to waste your time voting." - Charles Bukowski</span>
 
@@ -76,6 +79,7 @@ There is one last great vice of military dictatorships: a tendency to paper over
 Off the top of my head, I can think of two wars started by military dictatorships seeking to improve their standing (the Falkland War and Six-Day War). No doubt a proper survey would turn up many others.
 
 Since the time of Plato, soldier-rulers have been held up as the ideal heads of state. It is perhaps time to abandon this notion.
+
 <h2>Democracy</h2>
 <span style="color: #808080;">"Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time." – Winston Churchill to the House of Commons</span>
 
@@ -113,4 +117,6 @@ I don't know what specific remedies exist for these trends, but they strike me a
 
 If we cannot find a way to fix partisanship and self-promotion within our current system, then the most important political reform we can undertake is to find a system of government that can pick leaders with the right character for governing even under these very difficult circumstances.
 
-<em>[Epistemic status: much more theoretical than most of my writing. To avoid endless digressions, I don't justify my centrist axioms very often. I'm happy to further discuss anything that strikes anyone as light on evidence in the comments.]</em>
+<p class="caption pre-post-meta">
+[Epistemic status: much more theoretical than most of my writing. To avoid endless digressions, I don't justify my centrist axioms very often. I'm happy to further discuss anything that strikes anyone as light on evidence in the comments.]
+</p>

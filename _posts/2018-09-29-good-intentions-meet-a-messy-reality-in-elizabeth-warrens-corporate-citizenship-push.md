@@ -17,7 +17,9 @@ tags:
   - tradeoffs are hard
 ---
 
-<em>[Epistemic Status: I am not an economist. I am fairly confident in my qualitative assessment, but there could be things I've overlooked.]</em>
+<p class="caption pre-post-meta">
+[Epistemic Status: I am not an economist. I am fairly confident in my qualitative assessment, but there could be things I've overlooked.]
+</p>
 
 Vox has <a href="https://www.vox.com/2018/8/15/17683022/elizabeth-warren-accountable-capitalism-corporations">an interesting article</a> on Elizabeth Warren's newest economic reform proposal. Briefly, she wants to force corporations with more than $1 billion in revenue to apply for a charter of corporate citizenship.
 

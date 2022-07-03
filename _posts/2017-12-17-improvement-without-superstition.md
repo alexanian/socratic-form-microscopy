@@ -16,7 +16,9 @@ tags:
   - someone else probably came up with this first
 ---
 
-<em>[7 minute read]</em>
+<p class="caption pre-post-meta">
+[7 minute read]
+</p>
 
 When you make continuous, incremental improvements to something, one of two things can happen. You can improve it a lot, or you can fall into superstition. I'm not talking about black cats or broken mirrors, but rather humans becoming <a href="http://www.nytimes.com/2005/12/13/science/children-learn-by-monkey-see-monkey-do-chimps-dont.html">addicted to whichever steps were last seen to work, instead of whichever steps produce their goal.</a>
 
@@ -63,7 +65,11 @@ Still, reflection isn't the same thing as abandoning the <a href="http://www.ove
 </ul>
 Finally, it might be that you don't care that some effects are placebo, so long as you get them and get them repeatedly. That's what happened with the experiment I worked on that summer. We knew we were superstitious, but we didn't care. We just needed enough data to publish. <a href="http://www.jbc.org/content/292/35/14349">And eventually, we got it.</a>
 
-## <em>[Special thanks go to <a href="http://tessa.fyi/">Tessa Alexanian</a>, who provided</em> incisive <em>comments on an earlier draft. Without them, this would be very much an incoherent mess. <a href="https://www.lesserwrong.com/posts/M2g5zDEwwp2o8NriZ/improvement-without-superstition">This was cross-posted on Less Wrong 2.0</a> and as of the time of posting it here, there's at least one comment over there.]</em>
+## <p class="caption pre-post-meta">
+
+[Special thanks go to <a href="http://tessa.fyi/">Tessa Alexanian</a>, who provided</em> incisive <em>comments on an earlier draft. Without them, this would be very much an incoherent mess. <a href="https://www.lesserwrong.com/posts/M2g5zDEwwp2o8NriZ/improvement-without-superstition">This was cross-posted on Less Wrong 2.0</a> and as of the time of posting it here, there's at least one comment over there.]
+
+</p>
 
 ---
 

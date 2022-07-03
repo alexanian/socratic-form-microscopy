@@ -1,6 +1,6 @@
 ---
 id: 541
-title: 'The Graph Model of Conflict Resolution &#8211; Introduction'
+title: "The Graph Model of Conflict Resolution &#8211; Introduction"
 date: 2017-11-05T10:32:42-05:00
 author: Zach
 layout: post
@@ -17,7 +17,10 @@ tags:
   - nuclear weapons
   - overview
 ---
-<em>[10 minute read]</em>
+
+<p class="caption pre-post-meta">
+[10 minute read]
+</p>
 
 Why do things happen the way they do?
 
@@ -28,6 +31,7 @@ The final results of many conflicts can look baffling from the outside. Why did 
 The most powerful tool I have for understanding the ebb and flow of conflict is the Graph Model of Conflict Resolution (GMCR). I had the immense pleasure of learning about it under the tutelage of <a href="http://www.systems.uwaterloo.ca/Faculty/Hipel/">Professor Keith Hipel</a>, one of its creators. Over the next few weeks, I'd like to share it with you.
 
 GMCR is done in two stages, modelling and analysis.
+
 <h3>Modelling</h3>
 To model a problem, there are four steps:
 <ul>
@@ -41,6 +45,7 @@ The easiest way to understand this is to see it done.
 Let's look at the current nuclear stand-off on the Korean peninsula. I wrote this on Sunday, October 29<sup>th</sup>, 2017, so that's the point in time we'll use. To keep things from getting truly out of hand in our first example, let's just focus on the US and North Korea (I'll add in South Korea and China in a later post). What options does each side have?
 
 US:
+
 <ul>
  	<li>Nuclear strike on North Korea</li>
  	<li>Withdraw troops and normalize relations</li>
@@ -73,6 +78,7 @@ Here's the revised state-space, with the twelve remaining states:
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone size-medium_large wp-image-568" src="https://socratic-form-microscopy.com/wp-content/uploads/final_options_v1-768x285.png" alt="Click for a copyable version" width="768" height="285" /></a>
 
 The next step is to figure out how each decision maker prioritizes the states. I've found it's helpful at this point to tag each state with a short plain language explanation.
+
 <table>
 <tbody>
 <tr>
@@ -141,6 +147,7 @@ The US prefers North Korea give up its nuclear program and wants to keep protect
 North Korea wants to unify the Korean peninsula under its banner, protect itself against regime change, and end the sanctions its nuclear program has brought. Based on the <a href="https://en.wikipedia.org/wiki/Agreed_Framework">Agreed Framework</a>, I do think Korea would be willing to give up nuclear weapons in exchange for a normalization of relations with the US and sanctions relief.
 
 Once we have preference vectors, we've modelled the problem. Now it's time for stability analysis.
+
 <h3>Stability</h3>
 A state is stable for a player if it isn't advantageous for the player to shift states. A state is globally stable if it is not advantageous for any player to shift states. When a player can move to a state they prefer over the current state without any input from their opponent, this is a "unilateral improvement" (UI).
 
@@ -179,6 +186,7 @@ In a perfect world, I'd go through this exercise four or five different times, e
 The other thing to note here is the existence of simultaneous sanctioning. Both sides have a UI from s. 4; NK to s. 0 and the US to s. 5. Unfortunately, if you take these together, you get s. 1, which both sides disprefer to s. 4. This means that once a war starts the US will be hesitant to launch a nuclear strike and North Korea would be hesitant to withdraw – in case they withdrew just as a strike happened. In reality, we get around double binds like this with negotiated truces – or unilateral ultimatums (e.g. "withdraw by 08:00 tomorrow or we will use nuclear weapons").
 
 There are four stable equilibria in this conflict:
+
 <ul>
  	<li>The status quo</li>
  	<li>A coordinated US withdrawal of troops (but not a complete withdrawal of US interest) and North Korean renouncement of nuclear weapons</li>

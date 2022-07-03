@@ -15,7 +15,10 @@ tags:
   - nuclear weapons
   - x-risk
 ---
-<em>[10 minute read]</em>
+
+<p class="caption pre-post-meta">
+[10 minute read]
+</p>
 
 <em>The following is the annotated speakers notes for a talk I gave on nuclear weapons today. I'd like to claim that it was a transcript, but after practicing from these notes for almost a week, I ended up giving the talk mostly ex tempore. Like I always do. </em>
 
@@ -126,6 +129,7 @@ These probably won't work if push comes to shove, but that's a story for another
 <img class="alignnone size-full wp-image-557" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide14.png" alt="" width="720" height="405" />
 
 So to summarize:
+
 <ul>
  	<li>The major nuclear powers are China, Russia, and the USA</li>
  	<li>Mutually Assured Destruction is guaranteed by a nuclear triad and has kept these powers from nuking each other.</li>
@@ -138,6 +142,7 @@ So to summarize:
 <img class="alignnone size-full wp-image-558" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide15.png" alt="" width="720" height="405" />
 
 If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0-introduction/">nuclear weapons in general</a> or <a href="/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korea's nuclear weapon program in particular</a>, you can go to my blog at socraticfm.com. Also Wikipedia exists.
+
 <h3>Questions</h3>
 <ul>
  	<li>In response to a question about the risk of Pakistani nuclear weapons falling into the wrong hands, I explained that this would be locally really bad, but drew the distinction between events that are bad for a localized group of people (like the Taliban nuking Karachi) and events that are bad for the human race (a MAD-level nuclear exchange between China and the US). If you're worrying about the <em>existential</em> risk posed by nuclear weapons, the first is really just noise, except insofar as it can make the second more likely by increasing tensions all around.</li>
@@ -152,5 +157,6 @@ If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0
 <a href="#talk-top-1">^</a>
 
 <strong id="talk-bot-2">[2]</strong> If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).  <a href="#talk-top-2">^</a>
+
 <h3>Using this presentation</h3>
 The slides are available <a href="https://www.dropbox.com/s/6ebxh6dbdhpz04w/Presentation.pptx?dl=0">here</a>. This content, like everything else original on my blog, is covered by the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA v4 International</a> license. If you present this, please reference this blog and include a link. If you are a student and using this presentation is against the academic policies of your institution, I'd ask that you please refrain from plagiarizing it.

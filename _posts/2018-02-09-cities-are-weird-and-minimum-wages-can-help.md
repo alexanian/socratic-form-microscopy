@@ -23,7 +23,9 @@ tags:
   - zoning delenda est
 ---
 
-<em>[6-minute read]</em>
+<p class="caption pre-post-meta">
+[6-minute read]
+</p>
 
 I don't understand why people choose to go bankrupt living the most expensive cities, but I'm increasingly viewing this as a market failure and collective action problem to be fixed with intervention, not a failure of individual judgement.
 

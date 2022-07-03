@@ -20,7 +20,9 @@ tags:
   - the media
 ---
 
-<em>[10 minute read]</em>
+<p class="caption pre-post-meta">
+[10 minute read]
+</p>
 
 <em>Foreword: November 8<sup>th</sup> was one of the worst nights of my life, in a way that might have bled through – just a bit, mind you – into this review. My position will probably mellow as the memories of my fear and disappointment fade. </em>
 

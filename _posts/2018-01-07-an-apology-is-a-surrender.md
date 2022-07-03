@@ -14,13 +14,17 @@ tags:
   - "it's a metaphor"
   - someone else probably came up with this first
 ---
-<em>[Content Warning: Discussion of the men who have recently been implicated in sexual harassment and assault]</em>
+
+<p class="caption pre-post-meta">
+[Content Warning: Discussion of the men who have recently been implicated in sexual harassment and assault]
+</p>
 
 Why do so many people undermine their apologies with defensiveness?
 
 When celebrity chef Mario Batali apologized for sexually harassing his employees, he <a href="http://www.cnn.com/2017/12/16/entertainment/mario-batali-apology-recipe/index.html">included a link to a recipe at the end of the email</a>.
 
 This fits into the pattern we've seen in many of the recently named abusers. When (if) they apologize, they're sure to lace it with a few face saving measures:
+
 <ul>
  	<li>"[I apologize if I've hurt anyone], but I remember the incident differently" (<a href="http://www.citypages.com/news/i-know-who-i-really-am-franken-resigns-in-defiant-senate-speech-video/462568733">Al Franken</a>)</li>
  	<li>"[It’s] not reflective of who I am." (<a href="https://www.thestar.com/opinion/contributors/2017/12/12/john-olivers-public-confrontation-of-dustin-hoffman-serves-as-an-act-of-genuine-solidarity.html">Dustin Hoffman</a>)</li>
@@ -43,12 +47,14 @@ Doing that, despite the voice inside you telling you to fight, telling you to tr
 <hr />
 
 Of course, surrendering is just the first step. It's best if you back it up with something of substance. My four-step algorithm for a proper surrender-apology goes:
+
 <h2>1. How did I hurt them?</h2>
 Sometimes people will tell you straight up how you hurt them. Others won't. And when you're proactively apologizing, you may know that you did something likely to hurt someone, but not exactly how you hurt them.
 
 To figure out how you hurt someone, consult your mental model of them. Try and remember what makes them sad or insecure. How did your action intersect with that? Don't assume they'll be hurt in the same way as you would. Let's say you played a prank on a co-worker involving paint that ruined their outfit and made them really mad. You might be mad if someone played a similar prank on you because of the ruined clothes. But maybe they're mad because they're quiet and anxious and you put them on the spot in an embarrassing situation in front of a lot of people. If that was the case, the clothes might barely even register for them. Therefore, it's best if you don't focus your apology on the clothes, but on the embarrassment.
 
 If you don't know how you hurt someone, or you want to check if you guessed correctly, you can ask:
+
 <ul>
  	<li>Did &lt;my action X&gt; make you feel &lt;Y&gt;?</li>
  	<li>It seems like &lt;my action X&gt; made you really sad. Can you help me understand how I hurt you?</li>
@@ -68,10 +74,12 @@ Above all other things, avoid the passive voice here. There's no point being sor
 Notice also that this script <em>validates</em> what the person is feeling. It proactively assures them that there isn't something wrong with them for feeling hurt. It makes it clear that their response is reasonable, expected, and that you're the one who did something wrong.
 
 This is one opportunity to surrender. It is excruciatingly difficult to accept full responsibility for your actions without giving any excuses. But it's important that you do that first. It shows how serious you are and really helps to validate the emotions of the person you're apologizing to.
+
 <h2>3. (If desired) Explain yourself</h2>
 After you've made a mistake, people often want to be assured that you are a fundamentally reasonable person who doesn't go around hurting friends for fun. If someone asks you "why?", you should be prepared to explain yourself.
 
 I think it is best to be brutally honest here, which means you first have to be prepared to be brutally honest with yourself. "I just don't know what came over me" is a comforting excuse; it implies that this was sudden, incomprehensible, and unlikely to happen again – so don't allow yourself to believe it! Cop-outs like that allow you to avoid your failings. In almost all cases, "I just don't know what came over me" (or its ilk) can be replaced with something like:
+
 <ul>
  	<li>"Our relationship made me feel undesirable and they made me feel sexy again"</li>
  	<li>"I thought it would be fun and that I could convince you to feel okay about it later"</li>
@@ -83,6 +91,7 @@ Here you must surrender any belief you have that what you did "just happened". T
 I have a bad habit of leaving this step out, even when asked. Part of this is that <a href="http://mindingourway.com/have-no-excuses/">I'm personally against excusing myself</a> and part of this is that being "against excuses" is a great cop-out when you aren't very proud of your actual reasons. But I'm trying to get better, because I think people do find it discomfiting to have their request for explanation ignored.
 
 Apologies aren't magic. Sometimes even the most sincere and heartfelt apology won't change someone's mind if they've decided they don't want to be around you anymore. If that's the case, take your leave as gracefully as you can and try and figure out how you can do better in similar situations in the future. A sincere apology definitionally cannot be contingent on getting something in return.
+
 <h2>4. (If desired) Discuss how to avoid this in the future</h2>
 This is another step that it's tempting to jump to, perhaps before you've even finished apologizing. It's nice to believe that if you convince someone that you'll avoid something in the future, you don't really have to apologize for it now. This is part of the fast-talking school of apology, where you overwhelm someone with excuses, plans for the future, and rushed sorries so that you don't ever have to surrender, admit you're in the wrong, or fundamentally change anything about yourself.
 

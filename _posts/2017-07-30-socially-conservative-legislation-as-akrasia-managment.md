@@ -16,7 +16,10 @@ tags:
   - social conservatism
   - tradeoffs are hard
 ---
-<em>[5-minute read]</em>
+
+<p class="caption pre-post-meta">
+[5-minute read]
+</p>
 
 If you hang out with people obsessed with self-improvement, one term that you'll hear a lot is <em>akrasia</em>. <a href="https://en.oxforddictionaries.com/definition/akrasia">A dictionary</a> will tell you that akrasia means "The state of mind in which someone acts against their better judgement through weakness of will."
 
@@ -31,6 +34,7 @@ Obviously it would be better if akrasia could be wished away. Unfortunately, I h
 Recently, I've started viewing social conservatives who push for tough morality laws and then personally fall short of them as more than risibly hypocritical. I've begun to think that they're deeply akratic individuals who think that strong public morality is their only hope for living up to their own standards.
 
 This model has fundamentally changed the way I look at the world. When I read John Scalzi's <a href="http://www.scalzi.com/whatever/003416.html">rant about covenant marriage</a> while researching for this post –
+
 <blockquote>As a concept, it's pretty damn insulting. "Covenant Marriage" implicitly suggests that people won't stay married <em>unless </em>they subject themselves to onerous governmental restrictions on their personal freedoms; basically, it's the state telling you that it <em>expects </em>you to get a divorce at some point, unless it makes it too <em>annoying </em>for you to get a divorce to make it worth your while. The State of Arkansas is banking on sloth, apathy and state bureaucracy to keep a bunch of bad marriages together, as if bad marriages are really better than divorce.</blockquote>
 – All I could think was <em>yes</em>! Yes, that is exactly what some of the people pushing covenant marriage believe and want. They believe that a bad (or at least <em>difficult</em>) marriage is better than a divorce. But they don't trust <em>themselves</em> to stay in a difficult marriage, so they want to strongly bind their future self to the decisions and values of their current self.
 

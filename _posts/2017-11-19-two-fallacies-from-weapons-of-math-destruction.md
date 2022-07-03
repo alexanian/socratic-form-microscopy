@@ -18,7 +18,9 @@ tags:
 
 <em>Much thanks to <a href="http://decodyng.com/">Cody Wild</a> for providing editing and feedback. That said, I would like to remind my readers that I deserve full credit for all errors and that all opinions expressed here are only guaranteed to be mine.</em>
 
-<em>[12 minute read]</em>
+<p class="caption pre-post-meta">
+[12 minute read]
+</p>
 
 I recently read <a href="https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction">Weapons of Math Destruction by Dr. Cathy O'Neil</a> and found it an enormously frustrating book. It's not that whole book was rubbish ­– that would have made things easy. No, the real problem with this book is that the crap and the pearls were so closely mixed that I had to stare at every sentence very, <em>very</em> carefully in hopes of figuring out which one each was. There's some good stuff in here. But much of Dr. O'Neil's argumentation relies on two new (to me) fallacies. It's these fallacies (which I've dubbed the Ought-Is Fallacy and the Availability Bait-and-Switch) that I want to explore today.
 

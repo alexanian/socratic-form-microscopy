@@ -18,7 +18,9 @@ tags:
   - tradeoffs are hard
 ---
 
-<em>[10-minute read]</em>
+<p class="caption pre-post-meta">
+[10-minute read]
+</p>
 
 Breaking news: <a href="http://www.ctvnews.ca/canada/toronto-man-builds-park-stairs-for-550-irking-city-after-65-000-estimate-1.3510237">a retired mechanic spent one afternoon and $550 building a staircase</a>. This is news because the City of Toronto said it would cost $65,000 for them to do it. They've since walked back that estimate, claiming it won't be <em>that</em> expensive (instead, the final cost looks to be a <a href="http://globalnews.ca/news/3614167/tom-riley-park-stairs-removed-toronto/">mere $10,000</a>).
 

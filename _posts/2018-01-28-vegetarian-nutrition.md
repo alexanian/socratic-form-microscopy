@@ -16,7 +16,9 @@ tags:
   - someone else probably came up with this first
 ---
 
-<em>[Content Note: Discussion of diet]</em>
+<p class="caption pre-post-meta">
+[Content warning: Discussion of diet]
+</p>
 
 The first time I tried vegetarianism, I ended up deficient in B12. Since then, I've realized just <em>how bad</em> vitamin B12 deficiency is (hint: it can cause irreversible neural damage) and resolved to get it right this time.
 

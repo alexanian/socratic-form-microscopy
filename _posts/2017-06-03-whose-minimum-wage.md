@@ -18,7 +18,9 @@ tags:
   - zach does analysis
 ---
 
-<em>[Epistemic Status: I am not an economist, but…]</em>
+<p class="caption pre-post-meta">
+[Epistemic Status: I am not an economist, but…]
+</p>
 
 <em><strong>ETA (October 2018): <a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Preliminary studies from Seattle</a> make me much more pessimistic about the effects of the Ontario minimum wage hike. I'd also like to highlight the <a href="https://socratic-form-microscopy.com/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">potential for problems</a> when linking a minimum wage to inflation.
 </strong></em>

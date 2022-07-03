@@ -15,7 +15,9 @@ tags:
   - feminism
 ---
 
-<em>[15-minute read]</em>
+<p class="caption pre-post-meta">
+[15-minute read]
+</p>
 
 <em>Note: This blog post is about housework and chores. If disability or mental illness makes chores difficult for you to do and having someone breezily describe it as "easy" will be bad for you, I recommend skipping it. This meant to help people who are able split chores with a partner – but historically haven't – begin to do so. It isn't meant to be a cudgel with which to beat people who have difficulty with chores due to ability status. If this describes you, you are not lazy or broken and your difficulties are real and valid.</em>
 

@@ -16,7 +16,9 @@ tags:
   - political philosophy
 ---
 
-<em>[6-minute read]</em>
+<p class="caption pre-post-meta">
+[6-minute read]
+</p>
 
 I've been ranting to random people all week about how much I love the Westminster System of parliamentary government (most notably used in Canada, Australia, New Zealand, and the UK) and figured it was about time to write my rant down for broader consumption.
 

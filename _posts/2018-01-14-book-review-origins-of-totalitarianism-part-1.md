@@ -19,7 +19,9 @@ tags:
   - liberalism
 ---
 
-<em>[Content Warning: Discussions of genocide and antisemitism]</em>
+<p class="caption pre-post-meta">
+[Content Warning: Discussions of genocide and antisemitism]
+</p>
 
 Hannah Arendt's massive study of totalitarianism, <em>The Origins of Totalitarianism</em>, is (at the time of writing), <a href="https://www.amazon.ca/gp/bestsellers/books/16037261/ref=pd_zg_hrsr_b_1_5_last">the fourth most popular political theory book on Amazon</a> (after two editions of The Prince, Plato's Republic, and a Rebecca Solnit book). It's also a densely written tome, not unsuitable for defending oneself from wild animals. Many of its paragraphs could productively be turned into whole books of their own.
 
