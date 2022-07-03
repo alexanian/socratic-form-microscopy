@@ -2,13 +2,7 @@
 <!-- Renders post date, title, and snippet of text. -->
 <div class="py-2 mb-2">
   <p class="py-2 bold h4 mb-0">
-    <a
-      class="no-underline"
-      title="{{ post.url | prepend: site.baseurl }}"
-      href="{{ post.url | prepend: site.baseurl }}"
-    >
-      {{ post.date | date: "%b %-d, %Y" }}
-    </a>
+    {{ post.date | date: "%b %-d, %Y" }}
     {% if post.categories.size > 0 %} in {% for category in post.categories %}
         <a class="no-underline" href="/category/{{ category | slugify }}">{{ category }}</a>{% if
         forloop.last %}{% else %},{% endif %} {% endfor %}
