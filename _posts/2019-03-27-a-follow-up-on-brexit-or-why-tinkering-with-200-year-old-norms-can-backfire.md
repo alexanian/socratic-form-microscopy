@@ -1,6 +1,6 @@
 ---
 id: 962
-title: 'A Follow-up on Brexit (or: why tinkering with 200 year old norms can backfire)'
+title: "A Follow-up on Brexit (or: why tinkering with 200 year old norms can backfire)"
 date: 2019-03-27T08:00:43-04:00
 author: Zach
 layout: post
@@ -16,6 +16,7 @@ tags:
   - democracy
   - elections
 ---
+
 Last week I said that I'd been avoiding writing about Brexit because it was neither my monkeys nor my circus. This week, I'll be eating those words.
 
 I'm a noted enthusiast of the Westminster system of government, yet this week (<a href="https://www.theguardian.com/politics/2019/mar/25/have-mps-gained-the-upper-hand-in-the-brexit-battle">with Teresa May's deal failing in parliament and parliament taking control of Brexit proceedings, to uncertain ends</a>) seems to fly in the face of everything good <a href="https://socratic-form-microscopy.com/2017/09/03/westminster-is-bestminster/">I've said about it</a>. That impression is false; the current impasse has been caused entirely by recent ill-conceived British tinkering, not any core problems with the system itself.
@@ -54,6 +55,8 @@ If, instead of standing by her bill after it had failed, she sought out some oth
 
 By ignoring and changing so many parliamentary conventions, the UK has stripped itself of its protections from deadlock, dooming us all to this seemingly endless Brexit Purgatory. At the time of writing, the prediction market <a href="https://www.predictit.org/markets/search?query=Kingdom">PredictIt</a> had the odds of Brexit at less than 2% by Friday and only 50/50 by May 22. May's own chances are even worse, with only 43% of PredictIt users confident she would still be PM by the start of July.
 
-<img class="size-medium_large wp-image-963 aligncenter" src="https://socratic-form-microscopy.com/wp-content/uploads/Screen-Shot-2019-03-26-at-11.10.19-PM-768x440.png" alt="" width="768" height="440" />
+<img class="size-medium_large wp-image-963 aligncenter" src="/wp-content/uploads/Screen-Shot-2019-03-26-at-11.10.19-PM-768x440.png" alt="" width="768" height="440" />
 
 I hope that parliament comes to its senses and that this is the last thing I'll feel compelled to write about Brexit. Unfortunately, I doubt that will be the case.
+
+<hr class="post-end" />

@@ -16,6 +16,7 @@ tags:
   - someone else probably came up with this first
   - the media
 ---
+
 <a href="http://www.cbc.ca/news/opinion/americans-voting-for-cuts-1.4055389">Neil McDonald's new column</a> points out that Trump's low-income supporters voted against their own economic self-interest. This presents a fine opportunity for Mr. McDonald to lecture those voters about how bad Trump's policies will be for them, as if they couldn't have figured it out themselves.
 
 I say: some of Trump's supporters voted against their own self-interest? So what? Hillary Clinton's well-off supporters, from Sam Altman, to many of my friends in the Bay Area did as well.
@@ -25,6 +26,7 @@ Back in Canada, I have even more examples of people who voted against their self
 Just like Trump's lower-income voters, we knew what we were getting into. We understood that we were voting for higher taxes for people like us. We voted for higher taxes because we like the things taxes buy – infrastructure, social services, and science funding, to name a few.
 
 I have no doubt Mr. McDonald would understand this. But when it comes to low-income voters putting their aspirations for their country above their self-interest, he's flabbergasted.
+
 <blockquote>Americans are raised to believe that anything is possible in America if you are pure of heart and willing to work hard, which is nonsense, and that anyone can become president, which is even more foolish, and that free markets always make the right decision, which is nuts.
 
 They are told that rugged individualism is the American way, which it isn't, and that government is never the solution, which it sometimes most definitely is.</blockquote>
@@ -43,3 +45,5 @@ Here's one theory of political consensus: if everyone votes for the policies tha
 If you look at the <a href="https://www.nytimes.com/interactive/2016/11/08/us/politics/election-exit-polls.html?_r=0">exit poll data</a>, it looks like people are pursuing a mix of these two strategies. Hillary Clinton won among people making less than $50,000 per year and Donald Trump won among people making more. While this may look like people are mainly voting in their economic interest, all of these margins were remarkably thin and notably much smaller than they were in the last election cycle. This could be indicative of more and more people voting aspirationally, rather than economically.
 
 One interesting tidbit for Mr. McDonald though – if you look at the exit poll data, it turns out low income voters are the ones least likely to vote against their own self-interest.
+
+<hr class="post-end" />

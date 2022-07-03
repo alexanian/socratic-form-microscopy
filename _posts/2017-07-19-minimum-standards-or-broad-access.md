@@ -19,7 +19,10 @@ tags:
   - tradeoffs are hard
   - zoning delenda est
 ---
-<em>[5-minute read]</em>
+
+<p class="caption pre-post-meta">
+[5-minute read]
+</p>
 
 There are two sides to every story. Zoning and maximum occupancy regulations are <a href="http://marketurbanism.com/2015/11/05/how-land-use-regulations-hurt-the-poor/">exclusionary and drive up the price of housing</a>. They are also necessary to prevent <a href="http://atlantic.ctvnews.ca/fire-exposes-deplorable-living-conditions-inside-moncton-rooming-house-1.2855267">exploitative landlords from leaving their tenants in squalor</a>. Catastrophic health insurance plans leave patients uncovered for <a href="http://www.cnn.com/2017/03/22/politics/essential-health-benefits-obamacare-freedom-caucus/index.html">many of the services they might need</a>. They're also often the only plans that are <a href="https://www.americanactionforum.org/research/to-buy-or-not-to-buy-uninsured-young-adults-and-the-perverse-economic-incen/">rational for younger people to buy</a>.
 
@@ -63,4 +66,5 @@ This is going to be another one of those posts where I don't have a clear prescr
 
 Somehow, despite it all, we manage to mostly not kill each other. Maybe my prescription is simply that we should keep trying to find workable compromises and keep trying not to kill each other. Perhaps we could stand to put more effort into understanding why people ask for what they do. And we could try and be kind to each other. I feel comfortable recommending <em>that</em>.
 
-<em>Epistemic Status: </em><a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: Model</a></p>

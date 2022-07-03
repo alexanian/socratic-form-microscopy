@@ -1,6 +1,6 @@
 ---
 id: 856
-title: 'Hacked Pacemakers Won&#8217;t Be This Year&#8217;s Hot Crime Trend'
+title: "Hacked Pacemakers Won’t Be This Year’s Hot Crime Trend"
 date: 2018-10-07T08:45:36-04:00
 author: Zach
 layout: post
@@ -14,6 +14,7 @@ tags:
   - safety
   - someone else probably came up with this first
 ---
+
 <strong>Or: the simplest ways of killing people tend to be the most effective.</strong>
 
 A raft of articles came out during Defcon <a href="https://venturebeat.com/2008/08/08/defcon-excuse-me-while-i-turn-off-your-pacemaker/">showing that security vulnerabilities exist in some pacemakers</a>, vulnerabilities which could allow attackers to load a pacemaker with arbitrary code. This is obviously worrying if you have a pacemaker implanted. It is equally self-evident that it is better to live in a world where pacemakers cannot be hacked. But how much worse is it to live in this unfortunately hackable world? Are pacemaker hackings likely to become the latest crime spree?
@@ -49,5 +50,6 @@ Terror for its own sake (or because people believe it is the best path to some o
 In the face of actors committed to terror, we should remember that our risk of dying by a particular method is almost inversely related to how terrifying we find it. Notable intimidators like Vladimir Putin or the Mossad kill people with <a href="https://www.politico.eu/article/theresa-may-blames-russia-for-nerve-gas-attack/">nerve gasses</a>, <a href="https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko">polonium</a>, and <a href="https://en.wikipedia.org/wiki/Assassination_of_Iranian_nuclear_scientists#11_January_2012">motorcycle delivered magnetic bombs</a> to sow fear. I can see either of them one day adding hacked pacemakers to their arsenal.
 
 If you've pissed off the Mossad or Putin and would like to die in some way other than a hacked pacemaker, then by all means, go get a different one. Otherwise, you're probably fine waiting for a software update. If, in the meantime, you don't want to die, maybe try ignoring headlines and instead not owning a gun and skipping French fries. Statistically, there isn't much that will keep you safer.
+
 <h3><strong>Coda</strong></h3>
 Our biases make it hard for us to treat things that are easy to remember as uncommon, which no doubt plays a role here. I wrote this post like this – full of rambles, parentheses, and long-winded examples – to try and convey the difficult intuition, that we should discount as likely to effect us any method of murder that seems shocking, but hard. Remember that most crimes are crimes of opportunity and most criminals are incompetent and you'll never be surprised to hear the three most common murder weapons are guns, knives, and fists.

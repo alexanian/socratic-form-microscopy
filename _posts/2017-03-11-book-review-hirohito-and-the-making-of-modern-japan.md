@@ -1,6 +1,6 @@
 ---
 id: 299
-title: 'Book Review: Hirohito and the Making of Modern Japan'
+title: "Book Review: Hirohito and the Making of Modern Japan"
 date: 2017-03-11T20:45:32-05:00
 author: Zach
 layout: post
@@ -13,13 +13,14 @@ categories:
 tags:
   - book review
 ---
+
 Hirohito and the Making of Modern Japan is the second book I've read about World War II and culpability. I apparently just can't resist the urge to write essays after books like this, so here we go again. Since so much of what I got out of this book was spurred by the history it presented, I'm going to try and intersperse my thoughts with a condensed summary of it.
 
 Aside from the prologue, which takes place just after Hirohito's (arguably) extra-constitutional surrender, the book follows Hirohito's life chronologically. Hirohito's childhood was hardly idyllic. He spent most of it being educated. Meiji Era Japan drew heavily from Prussia and in Hirohito's education, I saw an attempt to mold him into a Japanese Frederick the Great.
 
 I think Dr. Bix is right to spend as much time on Hirohito's childhood as he does. Lois McMaster Bujold once criticized authors who write characters that pop out of a box at 22, fully formed. It's even more lamentable when historians do this.
 
-[caption id="attachment_305" align="alignnone" width="231"]<img class="wp-image-305 size-medium" src="http://socratic-form-microscopy.com/wp-content/uploads/Michi-no-miya_Hirohito_1902-231x300.jpg" alt="" width="231" height="300" /> The baby Hirohito[/caption]
+{% include image.html src="/wp-content/uploads/Michi-no-miya_Hirohito_1902-231x300.jpg" caption="The baby Hirohito" %}
 
 Had Dr. Bix skipped this part, we'd have no explanation for why Hirohito failed so completely at demonstrating any moral fibre throughout the war. In order to understand Hirohito's moral failings, we had to see the failings in Hirohito's moral education. Dr. Bix does an excellent job here, showing how fatuous and sophistic the moral truths Hirohito was raised with were. His instructors lectured him on the moral and temporal superiority of the Imperial House over the people of Japan and the superiority of the people of Japan over the people of the world. Japan, Hirohito was taught, had to steward the rest of Asia towards prosperity – violently if need be.
 
@@ -49,7 +50,7 @@ Requiring active duty military officers in the cabinet probably seemed like a go
 
 In 1926, the Taisho emperor died. Hirohito ascended to throne. His era name was Shōwa – enlightened peace.
 
-[caption id="attachment_303" align="alignnone" width="231"]<img class="wp-image-303 size-medium" src="http://socratic-form-microscopy.com/wp-content/uploads/Emperor_Showa-231x300.jpg" alt="" width="231" height="300" /> Hirohito after his enthronement ceremony[/caption]
+{% include image.html src="/wp-content/uploads/Emperor_Showa-231x300.jpg" caption="Hirohito after his enthronement ceremony" %}
 
 As might be expected, the court group didn't wait long after Hirohito's ascension to the throne to begin actively meddling with the government. Shortly after becoming emperor, Hirohito leaned on the prime minister to commute the death sentence of a married couple who allegedly planned to assassinate him. For all that this was a benevolent action, it wreaked political havoc, with the prime minister attacked in the Diet for falling to show proper concern for the safety of the emperor.
 
@@ -72,6 +73,7 @@ Japan was constantly at war for the next eight years. Over the course of the war
 I often felt like Dr. Bix was trying to have things both ways. He wanted me to believe that Hirohito was morally deficient and unable to put his foot down when he could have stood up for his principles and he wanted me to believe that Hirohito was an activist emperor, able to get what he wanted. This of course ignores a simpler explanation. What if Hirohito was mostly powerless, a mere figurehead?
 
 Here's an example of Dr. Bix accusing Hirohito of doing nothing (without adequate proof that he could have done anything):
+
 <blockquote>When Yonai failed to act on the long-pending issue of a German alliance, the army brought down his cabinet and Hirohito did nothing to prevent it. (Page 357)</blockquote>
 On the other hand, we have (in Hirohito's own words) an admission that Hirohito had some say in military policy:
 <blockquote>Contrary to the views of the Army and Navy General Staffs, I agreed to the showdown battle of Leyte, thinking that if we attacked at Leyte and America flinched, then we would probably be able to find room to negotiate. (Page 481)</blockquote>
@@ -82,12 +84,13 @@ I was convinced that Hirohito (along with several other factions) acted to delay
 Leaving aside for a minute the question of which interpretation is true, <strong>if</strong> Hirohito or a clique including him wielded much of the power of the state, he (or they) also suffered from one of the common downfalls of rule by one man. By Dr. Bix's account, they were frequently controlled by controlling the information they received. We see this in response to the Hull note, an pre-war American diplomatic communique that outlined what Japan would have to do before America would resume oil exports.
 
 At the Imperial Conference on December 1, 1941, Foreign Minister Tōgō misled the assembled senior statesmen, generals and admirals. He told them that America demanded Japan give up Manchuria, which was a red line for the assembled leaders. Based on this information, the group (including Hirohito) assented to war. Here's a quote from the journal of Privy Council President Yoshimichi Hara:
+
 <blockquote>If we were to give in [to the United States], then we would not only give up the fruits of the Sino-Japanese War and the Russo-Japanese War, but also abandon the results of the Manchurian Incident. There is no way we could endure this… [I]t is clear that the existence of our empire is threatened, that the great achievement of the emperor Meiji would all come to naught, and that there is nothing else we can do. (Page 432)</blockquote>
 The problem with all this is that Hull cared nothing for Manchuria, probably didn't even consider it part of China, and would likely have been quite happy to let Japan keep it. By this point, the Japanese conquest of Manchuria had been a done deal for a decade and the world had basically given up on it being returned to China. Hull did want Japan to withdrawn from French Indochina (present day Vietnam) and China. Both of these demands were unacceptable to many of the more hawkish Japanese leaders, but not necessarily to the "moderates".
 
 Foreign Minister Tōgō's lie about Manchuria was required to convince the "moderates" to give their blessing to war.
 
-[caption id="attachment_302" align="alignnone" width="300"]<img class="wp-image-302 size-medium" src="http://socratic-form-microscopy.com/wp-content/uploads/Imperial_general_headquaters_meeting-300x216.jpg" alt="" width="300" height="216" /> Hirohito presides over a similar meeting in 1943[/caption]
+{% include image.html src="/wp-content/uploads/Imperial_general_headquaters_meeting-300x216.jpg" caption="Hirohito presides over a similar meeting in 1943" %}
 
 A word on Japanese "moderates". Dr. Bix is repeatedly scornful of the term and I can't help feeling sympathetic to his point of view. He believes that many of the moderates were only moderate by the standards of the far-right extremists and terrorists who surrounded them. It was quite possible to have an international reputation as a moderate in one of the pre-war cabinets and believe that Japan had a right to occupy Chinese territory seized without even a declaration of war.
 
@@ -104,10 +107,12 @@ One man rule can give the impression of a unified elite. Look behind the curtain
 But how was it that such a small change in the demand could be so important? Dr. Bix theorized that Hirohito's primary goal was always preserving the power of the monarchy. He chose foreign war because he felt it was the only thing capable of preventing domestic dissent. The far-right terrorism of the 1930s was therefore successful; it compelled the government to fight foreign wars to assuage it.
 
 In this regard, the atomic bombs were actually a godsend to the Japanese leadership. They made it clear that Japan was powerless to resist the American advance and gave the leadership a face-saving reason to end the war. I would say this is conjecture, but several members of the court clique and military leadership actually wrote in their diaries that the bombs were "good luck" or the like. Here's former Prime Minister Yonai:
+
 <blockquote>I think the term is perhaps inappropriate, but the atomic bombs and the Soviet entry into the war are, in a sense, gifts from the gods [<em><u>tenyu</u></em>, also “heaven-sent blessings”]. This way we don’t have to say that we quit the war because of domestic circumstances. I’ve long been advocating control of our crisis, but neither from fear of an enemy attack nor because of the atomic bombs and the Soviet entry into the war. The main reason is my anxiety over the domestic situation. So, it is rather fortunate that we can now control matters without revealing the domestic situation. (Page 509)</blockquote>
+
 Regardless of why exactly it came about, the end of the war brought with it the problem of trying war criminals. Dr. Bix alleges that there was a large-scale conspiracy amongst Japan's civilian and military leadership to hide all evidence of Hirohito's war responsibility, a conspiracy aided and abetted by General Douglas McArthur.
 
-[caption id="attachment_301" align="alignnone" width="243"]<img class="wp-image-301 size-medium" src="http://socratic-form-microscopy.com/wp-content/uploads/Macarthur_hirohito-243x300.jpg" alt="" width="243" height="300" /> Hirohito and MacArthur[/caption]
+{% include image.html src="/wp-content/uploads/Macarthur_hirohito-243x300.jpg" caption="Hirohito and MacArthur" %}
 
 The general was supreme commander of the allied occupation forces and had broad powers to govern Japan as he saw fit. Dr. Bix believes that in Hirohito, McArthur saw a symbol he could use to govern more effectively. I'm not sure if I was entirely convinced of a conspiracy – a very good conspiracy leaves the same evidence as no conspiracy at all – but it is undeniable that the defenses of the "Class A" war criminals (the civilian and military leadership charged with crimes against peace) were different from the defenses offered at Nuremburg, in a way that was both curious and most convenient for Hirohito.
 
@@ -116,7 +121,9 @@ Both sets of war criminals (in Tokyo and Nuremburg) tried to deny the legitimacy
 Of course, there is a potential parsimonious explanation for everyone having their stories straight. Hirohito could have been entirely innocent. Except, if Hirohito was so innocent, how can we explain the testimony Konoe made to one of his aides?
 
 Fumimaro Konoe was the last prime minister before the Pearl Harbour attack and an opponent of war with the United States. He refused to take part in the (alleged) cover up. He was then investigated for war crimes and chose to kill himself. Of Hirohito, he said:
+
 <blockquote>"Of course His Imperial Majesty is a pacifist and he wished to avoid war. When I told him that to initiate war was a mistake, he agreed. But the next day, he would tell me: 'You were worried about it yesterday but you do not have to worry so much.' Thus, gradually he began to lead to war. And the next time I met him, he leaned even more to war. I felt the Emperor was telling me: 'My prime minister does not understand military matters. I know much more.' In short, the Emperor had absorbed the view of the army and the navy high commands." (Page 419)</blockquote>
+
 Alas, this sort of damning testimony was mostly avoided at the war crimes trials. With Konoe dead and the rest of Japan's civilian and military leadership prepared to do whatever it took to exonerate Hirohito, the emperor was safe. Hirohito was never indicted for war crimes, despite his role in authorizing the war and delaying surrender as he searched for a great victory.
 
 Some of the judges were rather annoyed by the lack of indictment. The chief judge wrote: "no ruler can commit the crime of launching aggressive war and then validly claim to be excused for doing so because his life would otherwise have been in danger... It will remain that the men who advised the commission of a crime, if it be one, are in no worse position than the man who directs the crime be committed".
@@ -164,6 +171,7 @@ I do believe Dr. Bix when he says that Hirohito's role expanded as the war went 
 Dr. Bix actually posits that these disagreements were the ultimate reason that Hirohito could grasp real power. The cabinet (which included civilian, army, and navy decision makers) was supposed to work by consensus. Where there were deep divisions, they would paper over them with vague statements and false consensus, without engaging in the give and take of negotiation that real consensus requires. Since everything was done in Hirohito's name, he and the court group could twist the vague statements towards their preferred outcomes – all the while pretending Hirohito was a mere constitutional monarch promulgating decisions based on the advice of the cabinet.
 
 This system was horribly inefficient and at least one person tried to reform it. Unfortunately, their "reform" would have led to a military dictatorship. Here's a quote about the troubles facing one of the pre-war prime ministers:
+
 <blockquote>"Right-wing extremists and terrorists repeatedly assailed him verbally, while the leading reformer in his own party, Mori, sought to break up the party system itself and ally with the military to create a new, more authoritarian political order." (Page 247)</blockquote>
 I'm used to seeing "reformers" only applied positively, but if you're willing to look at reform as "the process of making the government run more effectively", I suppose that military dictatorships are one type of reform. I think it's good to be reminded that efficiency is not the only axis on which we should judge a government. It may be quite reasonable to oppose reforms that will streamline the government when those reforms come at the cost of other values, like fairness, transparency, and freedom of speech.
 
@@ -184,3 +192,5 @@ It's only when we remember that terrible things require no malice, that one may 
 Obviously, Hirohito did none of this. That's all on him. No matter how you cut the blame pie, Hirohito did nothing to stop the <a href="https://en.wikipedia.org/wiki/Nanking_Massacre">Rape of Nanjing</a>, the <a href="https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor">attack on Pearl Harbour</a>, the <a href="https://en.wikipedia.org/wiki/Bataan_Death_March">Bataan Death March</a>,  and the <a href="https://en.wikipedia.org/wiki/Battle_of_Okinawa#Civilian_losses.2C_suicides_and_atrocities">forced massed suicides of Okinawans</a>. Hirohito demonstrated that he had the power to order a surrender. Yet he did not do this when the war was all but lost and Japanese cities were bombed daily. He delayed surrender time and again, hoping for some other option that would allow him to cling to whatever scraps of power he had.
 
 For all that Dr. Bix failed to convince me that Hirohito was one of the primary architects of the war, he did convince me that Hirohito bore a large measure of responsibility. I agree that Hirohito should have been a Class A war criminal. I agree that Hirohito escaped all but the faintest touch of justice for his role in the war. And I agree that Hirohito's escape from justice has made it more difficult for Japan to accept the guilt it should bear for its wars of aggression.
+
+<hr class="post-end" />

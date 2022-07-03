@@ -1,6 +1,6 @@
 ---
 id: 143
-title: 'Nuclear Weapons: 3.0 Proliferation'
+title: "Nuclear Weapons: 3.0 Proliferation"
 date: 2017-01-24T21:19:46-05:00
 author: Zach
 layout: post
@@ -14,6 +14,7 @@ tags:
   - nuclear weapons
   - x-risk
 ---
+
 There are currently nine countries with acknowledged or suspected nuclear arsenals. Five of them are signatories of the Non-Proliferation Treaty (NPT), the main international treaty aimed at minimizing the number of nuclear armed states. Ideally, no country or group would have nuclear weapons. Unfortunately, we don't live in an ideal world; the NPT is maybe the next best thing.
 
 The NPT acknowledges the right of the permeant UN Security Council members (UK, USA, France, China, and Russia) to possess nuclear weapons even as it bans anyone else from getting (or trying to get) them. The remainder of the nuclear armed states (Israel, Pakistan, India, and North Korea) haven't signed on to NPT or signed and later withdrew from it. South Sudan also isn't a signatory of the NPT – I think they just haven't gotten around to it – but no one is particularly worried about that (for reasons that will soon become apparent).
@@ -34,7 +35,7 @@ In terms of materials, all nuclear weapons require inherently unstable isotopes 
 
 Any moron can cause a nuclear detonation if given a critical mass of pure plutonium-239 (for the record, this is 12kg). Luckily (and despite what Doc Brown thought about the future), it is almost impossible for anyone (let alone morons) to get their hands on any amount of pure Pu-239. Furthermore, there is a huge gap between setting off an explosion in your lab and building a weapons system that can reliably deliver a nuclear payload to a hostile target.
 
-For the actors that wish to try this, there are two paths to a bomb. The first requires uranium, the second, plutonium. 
+For the actors that wish to try this, there are two paths to a bomb. The first requires uranium, the second, plutonium.
 
 <h3 id='3.1'>3.1 Uranium</h3>
 There are a few advantages of using uranium in a nuclear weapons program. You don't require research reactors just to get fuel for your bombs and the actual bomb design is much simpler. That said (and fortunately for the world), it is much more difficult to enrich uranium than it is to enrich plutonium.
@@ -45,13 +46,13 @@ Once you have your uranium ore, you have to dissolve it in nitric acid. Then you
 
 You're going to need to find a metal it doesn't corrode though (I recommend aluminum) because the next step is putting this terrible chemical into a giant centrifuge, adding some heat to turn it into a gas, and swinging it around as fast as you can. Since all of the isotopes have different masses, this will eventually create a distribution, with heavier isotopes (those with more neutrons) near the bottom. It's the same principle as sand settling to the bottom of water in gravity, except that here gravity alone isn't enough.
 
-Even the immense force of the centrifuge really isn't enough to get an appreciable amount of the necessary isotopes. You need to repeat the process with a thousand other centrifuges, all feeding forward, all enriching the uranium just a bit more, until you get a few kilograms of highly enriched uranium (you'll have started with several dozen tons of uranium ore). The amount of energy, engineering, and time this takes is staggering. 
+Even the immense force of the centrifuge really isn't enough to get an appreciable amount of the necessary isotopes. You need to repeat the process with a thousand other centrifuges, all feeding forward, all enriching the uranium just a bit more, until you get a few kilograms of highly enriched uranium (you'll have started with several dozen tons of uranium ore). The amount of energy, engineering, and time this takes is staggering.
 
 Actually, this laborious and energy intensive process is the "easy" way of enriching uranium. Prior to the invention of centrifuge enrichment, a process known as <a-href="https://en.wikipedia.org/wiki/Gaseous_diffusion">gaseous diffusion</a> was used. Compared to it, centrifuges require very little energy. This has been great for the energy return on investment of civilian nuclear plants, but less good for proliferation risk.
 
 This process may eventually become even easier, due to technological advances like <a href="/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a>. But for now, you have to put in this work if you want uranium for your bomb.
 
-Again, all of this is necessary for uranium bombs because naturally occurring uranium is <em>depleted</em>. To make nuclear weapons, you need highly unstable uranium. But all the uranium on earth was created billions of years ago, in the hearts of now long-dead stars. Over time, more and more of the unstable uranium has broken down, leaving mostly the more-stable isotopes. 
+Again, all of this is necessary for uranium bombs because naturally occurring uranium is <em>depleted</em>. To make nuclear weapons, you need highly unstable uranium. But all the uranium on earth was created billions of years ago, in the hearts of now long-dead stars. Over time, more and more of the unstable uranium has broken down, leaving mostly the more-stable isotopes.
 
 <a href="https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor">2 billion years ago, fission could occur in uranium deposits</a>. That's now impossible.
 
@@ -62,9 +63,9 @@ When people discuss enriched uranium, they frequently talk about enrichment perc
 <h3 id='3.2'>3.2 Plutonium</h3>
 It is much easier to acquire enough weapons-grade plutonium for a bomb than it is to acquire weapons-grade uranium. There are two reasons for this: separation is easier and the mass required to produce a plutonium bomb is lower than the mass required to produce a uranium bomb. Plutonium has a critical mass of 11kg, about five times less than that of uranium. This means that a viable plutonium bomb requires about one fifth the fissile material as a viable uranium bomb.
 
-Weapons-grade plutonium starts with uranium. Like I said before, the plutonium-239 used in bombs no longer exists in nature. 
+Weapons-grade plutonium starts with uranium. Like I said before, the plutonium-239 used in bombs no longer exists in nature.
 
-To get plutonium from uranium, you need a nuclear reactor that's running on uranium. This means that even when a country builds a bomb using plutonium, they must enrich some uranium. This presents all of the challenges outlined above, partially allayed by the fact that the enrichment percentage required is not very high, merely a few percent. 
+To get plutonium from uranium, you need a nuclear reactor that's running on uranium. This means that even when a country builds a bomb using plutonium, they must enrich some uranium. This presents all of the challenges outlined above, partially allayed by the fact that the enrichment percentage required is not very high, merely a few percent.
 
 Inside any uranium fuelled nuclear reactor, some U-238 atoms will absorb neutrons, becoming U-239. This is a very unstable isotope (half-life: 23 minutes), which tends to briefly moonlight as Np-239 (half-life: ~2 days) before fulfilling its destiny and becoming Pu-239 (half-life: 24,110 years). Thus in many nuclear reactor designs, this Pu-239 will hang around in the fuel rods, occasionally decaying, fissioning, or absorbing neutrons (to form Pu-240), but largely just sitting there, waiting to be recovered.
 
@@ -76,11 +77,11 @@ Weapons-grade plutonium (largely Pu-239) does have some problems with other plut
 
 No one wants to separate Pu-239 from Pu-240; one of the major advantages of plutonium bombs are that you don't needs to set up a huge centrifuge plant. To avoid having to separate the two isotopes, groups that are preparing plutonium for bombs aim to avoid the production of Pu-240 altogether. This means that any reactor optimized for producing plutonium can only run for about 90 days at a time. After uranium has been in a reactor for 90 days, the Pu-240 concentration is too high to easily build a working bomb. Despite this, the International Atomic Energy Agency runs audits on spent fuel from reactors, ensuring that no plutonium can be diverted from civilian reactors to weapons.
 
-To economically start and stop a reactor every 90 days, you need a special reactor design. Civilian light-water nuclear reactors won't do the trick. They have a huge pressure vessel that needs to be laboriously disassembled by specially trained divers every time they needs to get at the fuel. This is so inconvenient that civilian reactors are normally only cracked open once a year – by which point the plutonium has far too much Pu-240 to be viable in most weapons. 
+To economically start and stop a reactor every 90 days, you need a special reactor design. Civilian light-water nuclear reactors won't do the trick. They have a huge pressure vessel that needs to be laboriously disassembled by specially trained divers every time they needs to get at the fuel. This is so inconvenient that civilian reactors are normally only cracked open once a year – by which point the plutonium has far too much Pu-240 to be viable in most weapons.
 
-Reactors optimized for plutonium production allow for the rapid cycling of U-238 pellets through the reactor core. This requires quite a bit of engineering work – which has to be done from scratch unless you can find a country willing to share their schematics with you. It's also basically impossible to hide the purpose of a reactor like this. Any IAEA inspector who sees your reactor will understand right away what you're doing with it. 
+Reactors optimized for plutonium production allow for the rapid cycling of U-238 pellets through the reactor core. This requires quite a bit of engineering work – which has to be done from scratch unless you can find a country willing to share their schematics with you. It's also basically impossible to hide the purpose of a reactor like this. Any IAEA inspector who sees your reactor will understand right away what you're doing with it.
 
-Once you have your reactor and your fuel, you have to decide how you want to run it. The shorter your cycles, the closer to your plutonium to pure Pu-239, but the more you're going to pay per gram (in reagents, labour, wasted fuel rods, and wasted time as you cycle the reactor). The US uses >97% Pu-239 in the nuclear weapons on its submarines (Pu-240 produces a lot of gamma rays, which would be dangerous for the crews in close quarters), while its silo based weapons <em>only</em> use ~93% pure Pu-239. 
+Once you have your reactor and your fuel, you have to decide how you want to run it. The shorter your cycles, the closer to your plutonium to pure Pu-239, but the more you're going to pay per gram (in reagents, labour, wasted fuel rods, and wasted time as you cycle the reactor). The US uses >97% Pu-239 in the nuclear weapons on its submarines (Pu-240 produces a lot of gamma rays, which would be dangerous for the crews in close quarters), while its silo based weapons <em>only</em> use ~93% pure Pu-239.
 
 To give an idea of the cost difference for increasing purities, the <a href="https://science.energy.gov/nbl/certified-reference-materials/prices-and-certificates/plutonium-certified-reference-materials-price-list/">US Government</a> helpfully lists 87% Pu-239 as $5,840 per gram, while 94% Pu-239 is $10,990 per gram. At these prices, the 3-4kg of plutonium in an atomic bomb would cost about $44 million if weapons-grade (and untold millions more if super-grade).
 
@@ -103,6 +104,7 @@ While it's probably possible for a sufficiently advanced country to build a very
 This doesn't even get into the colossal amount of effort required to develop and test all of the technology necessary to successfully deliver a warhead to a target. Stealth bombers, advanced missiles with MIRV technology, and silently running nuclear armed submarines are all necessary for a country to have full nuclear capability and all of these are impossible to develop in secret.
 
 In summary, there are 6 things a country or non-state actor most do to develop a full, modern nuclear weapons program:
+
 <ol>
  	<li>Enrich or acquire a suitable supply of fuel</li>
  	<li>Design a weapon to make use of that fuel</li>
@@ -119,7 +121,10 @@ All of these represent significant threats to individuals. A small nuke or a lar
 
 Because of the difficulties inherent in proliferation, the <em>greatest</em> gains to be made in protecting humanity from nuclear weapons must necessarily come from convincing existing nuclear powers to decrease their stocks of weapons or delivery vehicles. This is especially true of Russia and the US, which <a href="http://www.businessinsider.com/nine-nations-have-nukes--heres-how-many-each-country-has-2014-6">together possess more than 93%</a> of the world's nuclear weapons. The challenge will be to do this while maintaining a credible deterrent against any rogue nation that wishes to develop a nuclear weapons program of its own.
 
+<hr class="post-end" />
+
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">NPT</a> (<a href="http://www.un.org/en/conf/npt/2005/npttreaty.html">Full Text</a>), <a href="https://en.wikipedia.org/wiki/Enriched_uranium">Enriched Uranium</a>, <a href="https://en.wikipedia.org/wiki/Weapons-grade">"Weapons Grade" Nuclear Material</a>, <a href="https://en.wikipedia.org/wiki/Plutonium-239">Plutonium-239</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_reprocessing">Nuclear Reprocessing</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_proliferation#Breakout_capability">Proliferation/Breakout Capability</a>, <a href="https://en.wikipedia.org/wiki/Dirty_bomb">Dirty Bomb</a>, and <a href="https://en.wikipedia.org/wiki/Nuclear_weapons_testing">Nuclear Weapons Testing</a>
+
 <table style="width: 100%; border-width: 0px; background: transparent;">
 <tbody>
 <tr style="border: 0px solid; background: transparent;">

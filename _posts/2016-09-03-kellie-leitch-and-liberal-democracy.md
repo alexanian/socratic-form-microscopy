@@ -15,6 +15,7 @@ tags:
   - kellie leitch
   - liberalism
 ---
+
 <em>Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did. </em>
 
 Kellie Leitch recently put out a survey that asked potential Conservative voters <a href="http://www.cbc.ca/news/politics/leitch-responds-survey-question-1.3746470">"should the Canadian Government screen potential immigrants for anti-Canadian values as part of its normal screening process for refugees and landed immigrants."</a> This has proved <a href="https://www.thestar.com/news/canada/2016/09/02/kellie-leitch-and-the-art-of-the-apology-mallick.html">controversial</a>, to say the least. It's been described as a dog-whistle and has prompted other candidates to ask her to leave the race.
@@ -38,6 +39,7 @@ Before returning to musings on liberal democracy, we should evaluate enhanced sc
 I can find no fault in Kellie Leitch's list of values and am going to assume that this post isn't aimed at anyone who fundamentally disagrees with them. Given these values as a goal for Canada, accepting that any erosion of these values would be an urgent problem, and given that there are many countries around the world where the majority of people don't support these rights/values, it should not be <em>prima facie</em> unreasonable to be worried that immigration from certain countries could threaten these values, or that legislation could be deployed to screen immigrants such that these values are no longer threatened.
 
 A world in which immigration does threaten these values would have one or more of the following characteristics:
+
 <ol>
  	<li>There is an ongoing crisis of integration in Canadian society, with a significant proportion of newcomers failing to pick up "Canadian Values" if they did not already possess them.</li>
  	<li>There are groups immigrating to Canada with the express purpose of shifting Canadian society closer to their (repressive) ideal.</li>
@@ -48,6 +50,7 @@ Let's go through them one by one.
 <em>1 – Crisis of Integration</em>
 
 I feel like one of the purposes of any blog I run is to slightly repackage the ideas of <a href="http://induecourse.ca/">Joseph Heath</a> for those who don't follow Canadian politics blogging. Case in point <a href="http://induecourse.ca/sex-education-and-the-dilemmas-of-immigrant-integration/">is his post about the recent protests around the Ontario Sex-Ed Curriculum</a>. In it, he argues that:
+
 <p style="padding-left: 30px;">[Conservatives] don’t realize how hard it is to transmit a culture that deviates in any significant way from the mainstream. It’s not enough to have a home environment that is radically different. You need to create extensive social isolation, so that children and their peer groups are insulated from every aspect of mainstream society, including schools and the media. This is why religious sects often move to distant rural areas, and limit access to radio, television, internet, etc. This is also why progressives worry about “social exclusion” and racism – because these are some of the few forces powerful enough to create the level of isolation required to impair successful integration. Absent these forces, Canadian suburbs are like giant machines for churning out generic Canadians, and there’s very little a family can do about that.</p>
 Surveys show the Canada is <a href="http://www.theglobeandmail.com/news/politics/canada-near-top-in-integrating-immigrants-survey-says/article568517/">consistently one of the best countries in the world at integrating immigrants</a>. While there was a recent slip in Canada's rankings, <a href="http://www.asianpacificpost.com/article/6945-canada-falling-behind-successfully-integrating-immigrants.html">this is directly attributable to the policies of the Conservative party</a> – the sorts of policies that can create the social and economic isolation that has caused such integration problems in Europe. With these policies set to be reversed under the Liberal government, there is currently little danger of a serious and protracted integration crisis.
 
@@ -82,4 +85,6 @@ I remain genuinely unsure what Kellie Leitch's goal is. I went into this blog co
 If I was sent the survey, I would have answered no to her question. But I can't believe that her question was beyond the pale. It represents a reasonable position and could be implemented in a principled way. That the evidence doesn't currently support it as necessary means merely that it shouldn't be implemented, not that no one should say it. Liberal democracy works best when we're reminded that there are people working from different sets of axioms. This reminder keeps us on our toes and reinvigorates our support for universal rights that aren't tied to membership in any one group or ideology.
 
 These disagreements remind us that we cannot impose our will or morality by fiat on anyone else, but also that they are bound by the same prohibitions. This is a set of rules that I'm happy to play by. I hope that Dr. Leitch is too.
-<p class="p1">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>
+
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>

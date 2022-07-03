@@ -1,6 +1,6 @@
 ---
 id: 30
-title: 'Utilitarianism: An Overview'
+title: "Utilitarianism: An Overview"
 date: 2016-09-30T19:47:24-04:00
 author: Zach
 layout: post
@@ -14,6 +14,7 @@ tags:
   - overview
   - utilitarianism
 ---
+
 <h6>What is a utilitarian?</h6>
 To answer that question, you have to think about another, namely: "what makes an action right?"
 
@@ -29,11 +30,12 @@ Utilitarianism is a subset of consequentialism. Consequentialism is the belief t
 
 When choosing between two actions, selfish consequentialist (philosophers and ethicists would call such a person an <em>egoist</em>) would say that the morally superior action is the one that brings them the most happiness.
 
-Utilitarians would say that the morally superior option is the one that brings the most ______ to the world/universe/multiverse, where ______ is whatever measure of goodness they've chosen. The fact that the world/universe/multiverse is the object of optimization is where the math comes in. It's often pretty hard to add up <em>any</em> measure of goodness over a set as large as a world/universe/multiverse.
+Utilitarians would say that the morally superior option is the one that brings the most **\_\_** to the world/universe/multiverse, where **\_\_** is whatever measure of goodness they've chosen. The fact that the world/universe/multiverse is the object of optimization is where the math comes in. It's often pretty hard to add up <em>any</em> measure of goodness over a set as large as a world/universe/multiverse.
 
 It's also hard to define goodness in abstract without lapsing into tautology ("how does it represent goodness?" – "well it's obvious, it's the best thing!"). Instead of looking at in abstract, it's helpful to look at utilitarian systems in action.
 
 What quality people choose as their ethical barometer/best measure of the goodness of the world tells you a lot about what they value. Here's four common ones. As you read them, consider both what implicit values they encode and which ones call out to you.
+
 <h6><em>QALY Utilitarianism</em></h6>
 QALY Utilitarianism is most commonly seen in discussions around medical ethics, where QALYs are frequently used to determine the optimal allocation of resources. One QALY represents one year of reasonably healthy and happy life. Any conditions which reduce someone's enjoyment of life results in those years so blighted being weighed as less than one full QALY.
 
@@ -48,6 +50,7 @@ Things become more complicated if the treatments cost different amounts of money
 Note that QALY utilitarianism (and utilitarianism in general) doesn't tell us what is <em>right</em> per se. It only gives us a relative ranking of actions. One of those actions may produce the most utility. But that doesn't necessarily mean that the only right thing to do is constantly pursue the actions that produce the very most utility.
 
 QALY utilitarianism remains most useful in medical science, where researchers have spent a lot of time figuring out the QALY values for many potential conditions. Used with a set of accurate QALY tables, it becomes a powerful way to ensure cost effectiveness in healthcare. QALY utilitarianism is less useful when we lack these tables and therefore remains sparsely used for non-healthcare related decisions.
+
 <h6><em>Hedonistic Utilitarianism</em></h6>
 Hedonistic utilitarianism is much more general than QALY utilitarianism, in part because its value function is relatively easy to calculate.
 
@@ -62,6 +65,7 @@ Weighing net pleasure across all people gives us some wiggle room. <a href="http
 So the hedonistic utilitarianism value function probably doesn't assign the highest rating to getting everyone in the world blissed out on the most powerful drugs available.
 
 But even ignoring constant drug use, or other descents into purely hedonistic pleasures, hedonistic utilitarianism often frustrates people who hold a higher value on actions that may produce less direct pleasure, but lead to them feeling more satisfied and contented overall. These people are left with two options: they can argue for ever more complicated definitions of pleasure and pain, taking into account the <a href="https://en.wikipedia.org/wiki/Hedonic_treadmill">hedonic treadmill</a> and <a href="https://en.wikipedia.org/wiki/Hedonic_treadmill">hedonistic paradox</a>, or they can pick another value function.
+
 <h6><em>Preference Utilitarianism</em></h6>
 Preference utilitarianism is simple on the surface. Its value function is supposed to track how closely people's preferences are fulfilled. But there are three big problems with this simple framing.
 
@@ -74,6 +78,7 @@ The second problem is even thornier. What do we do when preferences collide? Say
 One more problem: what do we do with beings that cannot hold preferences? Animals, small children, foetuses, and people in vegetative states are commonly cited as holding no preferences. Does this mean that others may do whatever they want with them? Does it always produce more utility for me to kill any animal I desire to kill, given it has no preferences to balance mine?
 
 All of these questions remain inconclusively answered, leaving each preference utilitarian to decide for herself where she stands on them.
+
 <h6><em>Rule Utilitarianism</em></h6>
 The three previous forms of utilitarianism are broadly grouped together (along with many others) under act utilitarianism. But there is another way and a whole other class of value functions. Meet rule utilitarianism.
 
@@ -82,10 +87,13 @@ Rule utilitarians do not compare actions and outcomes directly when calculating 
 Rule utilitarianism is similar to Kantian deontology, but it still has a distinctly consequentialist flavour. It is true that both of these systems result (if followed perfectly) in someone rigidly following a set of rules without making any exceptions. The difference, however, is in the attitude of the individual. Whereas Kant would call an action good only if done for the right reasons, rule utilitarians call actions that follow their rules good regardless of the motivation.
 
 The rules that arise can also look different from Kantian deontology, depending on the beliefs of the person coming up with the rules. If she's a <a href="https://en.wikipedia.org/wiki/Dark_Enlightenment">neo-</a><a href="http://rationalwiki.org/wiki/Neoreactionary_movement">reactionary</a> who believes that only autocratic states can lead to the common good, she'll come up with a very different set of rules than Immanuel Kant did.
+
 <h6><em>First Order Utilitarianism?</em></h6>
 All of the systems described here are what I've taken to calling first order utilitarianism. They only explicitly consider the direct effects of actions, not any follow-on effects that may happen years down the road. Second-order utilitarianism is a topic for another day.
 <h6><em>Other Value Functions?</em></h6>
 This is just a survey of some of the possible value functions a utilitarian can have. If you're interested in utilitarianism in principle but feel like all of these value functions are lacking, I encourage you to see what other ones exist out there.
 
 I'm going to be following this post up with a post on <a href="http://cnx.org/contents/ba77245b-c596-4485-8f30-94d9209117cf%401">precedent utilitarianism</a>, which solved this problem for me.
-<p class="p1">Epistemic Status: <a href="/about-me/">Ethics</a></p>
+
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a></p>

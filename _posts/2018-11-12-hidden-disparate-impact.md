@@ -13,6 +13,7 @@ categories:
 tags:
   - discrimination
 ---
+
 It is against commonly held intuitions that a group can be both over-represented in a profession, school, or program, and discriminated against. The simplest way to test for discrimination is to look at the general population, find the percent that a group represents, then expect them to represent exactly that percentage in any endeavour, absent discrimination.
 
 Harvard, for example, is <a href="https://www.collegefactual.com/colleges/harvard-university/student-life/diversity/chart-ethnic-diversity.html">17.1% Asian-American</a> (foreign students are broken out separately in the statistics I found, so we're only talking about American citizens or permanent residents in this post). America <a href="https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States">as a whole is 4.8% Asian-American</a>. Therefore, many people will conclude that there is no discrimination happening against Asian-Americans at Harvard.
@@ -54,3 +55,5 @@ It is also interesting to note that both of these cases hid behind racial stereo
 Realizing how hard it is to tell apart valid criteria from discriminatory ones has made me much more sympathetic to points raised by technocrat-skeptics like Dr. Cathy O'Neil, who I have previously <a href="https://socratic-form-microscopy.com/2017/11/19/two-fallacies-from-weapons-of-math-destruction/">been harsh on</a>. When bad actors are hiding the proof of their discrimination, it is genuinely difficult to separate real insurance underwriting (which needs to happen for anyone to get a mortgage) from discriminatory practices, just like it can be genuinely hard to separate legitimate college application processes from discriminatory ones.
 
 While numerical measures, like test scores, have their own problems, they do provide some measure of impartiality. Interested observers can compare metrics to outcomes and notice when they're off. Beyond redlining and college admissions, I wonder what other instances of potential discrimination a few civic minded statisticians might be able to unearth.
+
+<hr class="post-end" />

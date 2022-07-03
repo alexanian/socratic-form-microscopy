@@ -16,9 +16,11 @@ tags:
   - predictions
   - regulation
 ---
+
 I like to keep track of my life over time. I'm an obsessive journaler (and, as this blog can attest, a fairly regular blogger). At the end of every day, I track my mood, my sleep, my productivity, my social life, and how well I did in spaced repetition exercises. Last May, I decided to track one more thing about myself and start a tradition of publishing my <a href="https://socratic-form-microscopy.com/2017/05/31/political-views-for-may-2017/">Political Compass results</a> yearly.
 
 I'm a bit late this year (I kept the title because I started the post in May) because there's actual politics happening; I've been volunteering for <a href="https://www.catherinefife.com/">my local MPP's re-election campaign</a>. Of explanations for being late with a politics related blog post, that might be the best one I ever give.
+
 <h3>The Results</h3>
 Last year, I scored -3.25 on the economic axis and -6.56 on the authority axis.
 
@@ -52,13 +54,14 @@ Long ago, I used to think that regulation was mostly about stopping manufacturer
 
 The second object level update was learning just how important monetary policy was to the economy.
 
-For a long time, I had accepted the liberal pseudo-Keynesian economical orthodoxy: we need to spend lots of money when times are rough in order to stimulate aggregate demand <a href="#m18-bot-1" id="m18-top-1">[1]</a>. Over the past year, I've read some <a href="http://www.themoneyillusion.com/">monetary</a> <a href="http://jpkoning.blogspot.com/">policy</a> <a href="http://econlog.econlib.org/">blogs</a> and have started to understand that things are rather more complicated than the simple concepts I used to parrot.
+For a long time, I had accepted the liberal pseudo-Keynesian economical orthodoxy: we need to spend lots of money when times are rough in order to stimulate aggregate demand[^1]. Over the past year, I've read some <a href="http://www.themoneyillusion.com/">monetary</a> <a href="http://jpkoning.blogspot.com/">policy</a> <a href="http://econlog.econlib.org/">blogs</a> and have started to understand that things are rather more complicated than the simple concepts I used to parrot.
 
 I still don't have as rigorous a grounding in economics as I would like (that's one of the things I'd like to work on this year), but as I begin to learn more, I do find myself shifting to the economic centre because that seems to be where the truth is to be found.
 
-I remain committed to a society that ensures enough for everyone. But I think over the past year I've become more disillusioned with the general level of economic literacy on the left (even in relation to myself!) <a href="#m18-bot-2" id="m18-top-2">[2]</a> and more skeptical of the left's ability to create the sort of plenty I still think we're going to need to ensure human flourishing.
+I remain committed to a society that ensures enough for everyone. But I think over the past year I've become more disillusioned with the general level of economic literacy on the left (even in relation to myself!)[^2] and more skeptical of the left's ability to create the sort of plenty I still think we're going to need to ensure human flourishing.
+
 <h4>Predictions</h4>
-Last year, I made six predictions about how my political views would change over the coming year and all of them turned out to be correct <a href="#m18-bot-3" id="m18-top-3">[3]</a>. They were:
+Last year, I made six predictions about how my political views would change over the coming year and all of them turned out to be correct[^3]. They were:
 <ol>
  	<li>I will have an economic score &gt; -2.25: 50%</li>
  	<li>I will have an economic score &gt; -4.25: 80%</li>
@@ -76,9 +79,9 @@ I like this as a concept, so I'm going to try it again. My predictions for this 
  	<li>I will actually read an economics textbook before May 2019: 70%</li>
 </ol>
 I hope these predictions are more properly calibrated than my last ones!
-<h2>Footnotes</h2>
-<strong id="m18-bot-1">[1] </strong>The common liberal take on this is different from pure Keynesian economics, because they don't restrict "times are tough" to recessions and depressions. For a lot of modern people who say they just "support Keynesian economics" (and I was one of them), it's always tough times for someone. <a href="#m18-top-1">^</a><strong> </strong>
 
-<strong id="m18-bot-2">[2]</strong> I basically never see monetary policy even mentioned on the left. My guess is this is because the left largely views this as simple bean counting that is nowhere near as interesting or important as making sure we have lots of spending on social programs. Reality seems to be different, especially when <a href="https://www.ft.com/content/d4c2f40e-5373-11e8-b3ee-41e0209208ec">you get it wrong</a>. <a href="#m18-top-2">^</a>
+<hr class="post-end" />
 
-<strong id="m18-bot-3">[3]</strong> This is probably more evidence that I'm <a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">under-confident</a>. <a href="#m18-top-3">^</a>
+[^1]: The common liberal take on this is different from pure Keynesian economics, because they don't restrict "times are tough" to recessions and depressions. For a lot of modern people who say they just "support Keynesian economics" (and I was one of them), it's always tough times for someone. <strong> </strong>
+[^2]: I basically never see monetary policy even mentioned on the left. My guess is this is because the left largely views this as simple bean counting that is nowhere near as interesting or important as making sure we have lots of spending on social programs. Reality seems to be different, especially when <a href="https://www.ft.com/content/d4c2f40e-5373-11e8-b3ee-41e0209208ec">you get it wrong</a>.
+[^3]: This is probably more evidence that I'm <a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">under-confident</a>.

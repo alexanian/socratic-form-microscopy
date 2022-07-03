@@ -19,6 +19,7 @@ tags:
   - tradeoffs are hard
   - utilitarianism
 ---
+
 In some parts of the Brazilian Amazon, <a href="https://foreignpolicy.com/2018/04/09/the-right-to-kill-brazil-infanticide/">indigenous groups still practice infanticide</a>. Children are killed for being disabled, for being twins, or for being born to single mothers. This is undoubtedly a piece of cultural technology that existed to optimize resource distribution under harsh conditions.
 
 Infanticide can be legally practiced because these tribes aren't bound by Brazilian law. Under legislation, indigenous tribes are bound by the laws in proportion to how much they interact with the state. Remote Amazonian groups have a waiver from all Brazilian laws.
@@ -50,3 +51,5 @@ In the case of abortion, the very real and pressing need for some women to acces
 Discrimination causes harms on its own and isn't even justified on its own "merits". It's effect on peoples' perceptions of justice are just another reason it should be fought against.
 
 In the case of Brazil, we're faced with an act that is negative (infanticide) with several plausible alternatives (e.g. adoption) that allow the cultural purpose to be served without undermining justice. While the historical record of these types of interventions in indigenous cultures should give us pause, this is counterbalanced by the real harms justice faces as long as infanticide is allowed to continue. Given this, I think the correct and utilitarian thing to do is to support the reformers' effort to outlaw infanticide.
+
+<hr class="post-end" />

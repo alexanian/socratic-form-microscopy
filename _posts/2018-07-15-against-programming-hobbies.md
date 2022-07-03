@@ -13,7 +13,10 @@ categories:
 tags:
   - tech
 ---
-<em>[Epistemic Status: Written more harshly than my actual views for persuasive effect. I should also point out that all views expressed here are my own, not my employer's; when I'm hiring, my first commitment is complying with the relevant Federal, Provincial, and local legislation. My second commitment is to finding the best people. Ideology doesn't come into it. Serendipitously, I think everything I've argued for here helps me discharge both duties.]</em>
+
+<p class="caption pre-post-meta">
+[Epistemic Status: Written more harshly than my actual views for persuasive effect. I should also point out that all views expressed here are my own, not my employer's; when I'm hiring, my first commitment is complying with the relevant Federal, Provincial, and local legislation. My second commitment is to finding the best people. Ideology doesn't come into it. Serendipitously, I think everything I've argued for here helps me discharge both duties.]
+</p>
 
 In my capacity as a senior employee at <a href="https://alertlabs.com/">Alert Labs</a> (it's easy to be senior when the company is only three years old), I do a lot of hiring. Since I started, I've been involved in interviews for four full time hires and five interns. Throughout all of this, I've learned a lot about <a href="https://socratic-form-microscopy.com/2016/11/21/resume-tips-for-students/">what to look for in a resume</a>.
 
@@ -56,3 +59,5 @@ My final beef with an overemphasis on programming hobbies is that many important
 This isn't meant to conjure up negative and insulting stereotypes about people who spend all their spare time programming. Many of these people are incredibly kind and very devoted to mentoring new members of our community.
 
 I don't want people who program in their spare time and love it with all their hearts to be tarred with negative stereotypes. But I also don't want people with other interests to be considered uncommitted dilettantes. And I hope we can build a profession that believes neither myth.
+
+<hr class="post-end" />

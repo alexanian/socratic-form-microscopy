@@ -1,6 +1,6 @@
 ---
 id: 858
-title: 'Book Review: Bad Blood'
+title: "Book Review: Bad Blood"
 date: 2018-10-14T08:45:47-04:00
 author: Zach
 layout: post
@@ -16,6 +16,7 @@ tags:
   - medicine
   - start ups
 ---
+
 Theranos was founded in 2003 by Stanford drop-out Elizabeth Holmes. It and its revolutionary blood tests eventually became a Silicon Valley darling, raising $700 million from investors that included Rupert Murdoch and the Walton family. It ultimately achieved a valuation of almost $10 billion on yearly revenues of $100 million. Elizabeth Holmes was hailed as Silicon Valley's first self-made female billionaire.
 
 In 2015, a series of articles by John Carreyrou published in the Wall Street Journal popped this bubble. Theranos was a fraud. Its blood tests didn't work and were putting patient lives at risk. Its revenue was one thousand times smaller than reported. It had engaged in a long running campaign of intimidation against employees and whistleblowers. Its board had entirely failed to hold the executives to account – not surprising, since Elizabeth Holmes controlled over 99% of the voting power.
@@ -27,6 +28,7 @@ It's also the story of Carreyrou's reporting on Theranos, from the first fateful
 I thought it was one hell of a book and would recommend it to anyone who likes thrillers or anyone who might one day work at a start-up and wants a guide to what sort of company to avoid (pro tip: if your company is faking its demos to investors, leave).
 
 Instead of rehashing the book like I sometimes do in my reviews, I want to discuss three key things I took from it.
+
 <h3>Claims that Theranos is "emblematic" of Silicon Valley are overblown</h3>
 Carreyrou vacillates on this point. He sometimes points out all the ways that Theranos is different from other VC backed companies and sometimes holds it up as a poster child for everything that is wrong with the Valley.
 
@@ -37,6 +39,7 @@ First of all, Theranos had basically no backing from dedicated biotechnology ven
 Next is the list of VCs who did invest. Missing are the big names from the Valley. There's no Softbank, no Peter Thiel, no Andreessen Horowitz. While these investors may have less ability to judge biotech start-ups than the life sciences focused firms, they are experienced in due diligence and they knew red flags (like Holmes's refusal to explain how her tech worked, even under NDA) when they saw them. I work at a venture backed company and I can tell you that experienced investors won't even look at you if you aren't willing to have a frank discussion about your technology with them.
 
 The people who did invest? Largely dabblers, like Rupert Murdoch and the Walton family, drawn in by a board studded with political luminaries (two former secretaries of state, James friggen' Mattis, etc.). It perhaps should have been a red flag that Henry Kissinger (who knows nothing about blood testing and would be better placed on Facebook's board, where his expertise in <a href="https://www.cnn.com/2018/04/06/asia/myanmar-facebook-social-media-genocide-intl/index.html">committing war crimes</a> would come in handy) was on the board, but to the well-connected elites from outside the Valley, this was exactly the opposite.
+
 <h3>It is hard to deal with people who just lie</h3>
 I don't want to blame these dabblers from outside the Valley too much though, because they were lied to like crazy. As America found out in 2016, many institutions struggle when dealing with people who just make shit up.
 
@@ -57,6 +60,7 @@ The biotech companies didn't invest in Theranos because their sweep for general 
 Most VCs (and probably most of the dabblers, who after all made their money in business of <em>some sort</em>) may not understand the nuances of biotech, but they do understand that revenue <em>that low</em> more than a decade into operation represent a serious problem. Conversely, revenues of $100 million are pretty darn good for a decade-old medical device company. With that lie out of the way, the future growth projections looked reasonable; they were just continuing a trend. Had any investors been told the truth, they could have used their long experience as business people or VCs to realize that Theranos was a bad deal. Holmes's lies prevented that.
 
 I sure wish there was a way to make lies less powerful in areas where people mostly stick near the truth (and that we'd found one before 2016), but absent that, I want to give Theranos's investors a bit of a break.
+
 <h3>Theranos was hardest on ethical people</h3>
 Did you know that Theranos didn't have a chief financial officer for most of its existence? Their first CFO confronted Holmes about her blatant lies to investors (she was entirely faking the blood tests that they "took") and she fired him, then used compromising material on his computer to blackmail him into silence. He was one of the lucky ones.
 
@@ -83,3 +87,5 @@ If she'd been in it for the money, I could have understood it, almost. I can see
 And someone who can do that scares me. People who are in it for the money don't go to bed thinking they're squeaky clean. They know they've made a deal with the devil. Elizabeth Holmes doesn’t know and doesn't understand.
 
 I think it's probably for the best that no one will trust Elizabeth Holmes with a fish and chips stand, let alone a billion-dollar company, ever again. Because I tremble to think of what she could do if given another chance to "change the world".
+
+<hr class="post-end" />

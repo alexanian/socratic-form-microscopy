@@ -14,9 +14,10 @@ tags:
   - someone else probably came up with this first
   - trade
 ---
+
 Imagine that you're a young teenager who really loves red jellybeans. You love them so much that you unabashedly call them your favourite food. It's only the red ones though – you find all other jellybeans disgusting. For the purposes of this extended metaphor, you will have a sister. Like you, she loves one colour of jellybeans, but unlike you she only loves the green ones.
 
-[caption id="attachment_325" align="alignnone" width="225"]<img class="size-medium wp-image-325" src="http://socratic-form-microscopy.com/wp-content/uploads/jellybeans-225x300.jpg" alt="" width="225" height="300" /> Image Credit: Larry Jacobsen on Flickr[/caption]
+{% include image.html src="/wp-content/uploads/jellybeans-225x300.jpg" alt="" caption="Image Credit: Larry Jacobsen on Flickr" %}
 
 Your parents are stingy. They long ago realized that they could save a lot of money by paying you for your chores in jellybeans, instead of with an allowance. To prop up this system, they've forbidden both you and your sister from buying jellybeans in any store. Both of you can only get jellybeans from your parents. You each get a few jellybeans of your preferred colour each time you complete a chore.
 
@@ -71,6 +72,7 @@ Everything that was observed between the two siblings trading with jellybeans ca
 For this metaphor to work, the medium of exchange (jellybeans of different colours) had to be something that was so similar as to be essentially the same thing while being treated as vastly different by the participants. This is how people in different countries treat each other's money.
 
 As a Canadian, I need Canadian Dollars to pay my expenses. If I walk into a grocery store or get on a bus and try to pay with Swiss Francs or Japanese Yen, I will be refused service. Because I want to eat and take the bus, if I were sell goods or services outside of Canada, I would only accept as payment:
+
 <ol>
  	<li>Canadian Dollars</li>
  	<li>Something else I know is trivially convertible to Canadian Dollars at a stable rate</li>
@@ -177,4 +179,5 @@ The rest comes from reading too many articles on Wikipedia and too many news thi
 
 As usual, this blog post should only be taken as an accurate account of my own views, not the views of anyone else.
 
-Epistemic Status: <a href="/about-me">Model</a>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>

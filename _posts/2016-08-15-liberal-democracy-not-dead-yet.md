@@ -1,6 +1,6 @@
 ---
 id: 8
-title: 'Liberal Democracy: Not Dead Yet'
+title: "Liberal Democracy: Not Dead Yet"
 date: 2016-08-15T23:23:03-04:00
 author: Zach
 layout: post
@@ -15,6 +15,7 @@ tags:
   - canada
   - liberalism
 ---
+
 This post is a response to a recent <a href="http://www.slate.com/articles/news_and_politics/cover_story/2016/08/the_week_democracy_died_how_brexit_nice_turkey_and_trump_are_all_connected.html">Slate article</a>.
 
 A quick summary: <em>the coup attempt in Turkey, terrorist attacks in France, Brexit in the UK, and rise of Trump in the US are all connected and can be viewed as the four horsemen of the end of liberal democracy. As the last defenders of liberal democracy struggle with the spectre of illiberal democracy (the will of the people unadulterated by any pesky rights for minorities) they throw up roadblocks in the form of undemocratic liberalism (rights for minorities without any of that pesky voting). Defenders of liberalism need to restore the core promise of democracy – that it will lead to ever increasing wealth if we're to keep the "fact" that no wealthy, consolidated democracy has ever fallen true.</em>
@@ -36,6 +37,7 @@ One theory of mine: systems of government last for a few hundred years, then bre
 Canada incorporated our constitution in the 1980s. It’s well suited for modern life. But the US constitution and system of government – like those of some European nations – is over 200 years old. It’s reached its sell by date. America's polarization is largely caused by the design of their government. A switch to <a href="http://induecourse.ca/trump-and-electoral-reform-connecting-the-dots/">mixed member proportional</a> or the <a href="http://induecourse.ca/america-needs-a-parliament/">Westminster system</a> could do a lot to help with the polarization problem, ending the incentive to please primary voters.
 
 This is just one theory. I have many equally plausible ones:
+
 <ol id='zach-is-wrong-anchor'>
  	<li><del>Canada has had no stagnation in wage growth for the average family, a key difference between it and the US. Maybe therefore Canada still retains the ineffable belief that the future will be better than the past?</del> I thought this was true, but <a href="https://www12.statcan.gc.ca/census-recensement/2006/as-sa/97-563/p1-eng.cfm">statistics</a> say otherwise. If incomes in Canada really are stagnant, where is our disaffected rage? Why is it absent?</li>
  	<li>Canadians have something about our culture that makes us innately more compatible with liberal democracy? <a href="https://en.wikipedia.org/wiki/Pierre_Karl_P%C3%A9ladeau">Populist anti-immigration politicians are more common in Quebec</a>, which has more cultural similarities with Europe. I don’t like this theory, because theories that hinge on one being superior to others tend to be wrong.</li>
@@ -43,4 +45,6 @@ This is just one theory. I have many equally plausible ones:
  	<li><a href="http://www.dw.com/en/higher-temperatures-lead-to-substantially-more-violence/a-18029934">Global warming is making everyone more violent, ill-tempered and disagreeable and if we don’t stop the temperature increase we’re all going to kill each other</a>.</li>
 </ol>
 In general, <a href="http://induecourse.ca/in-praise-of-status-quo-ism-or-10-theses-arising-from-the-brexit-fiasco/">I'm on board with the radical idea that radical ideas normally stink,</a> so I will suss to hoping that (3) is the correct explanation.
-<p class="p1">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>
+
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>

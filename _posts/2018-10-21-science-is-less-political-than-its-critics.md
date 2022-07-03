@@ -17,9 +17,10 @@ tags:
   - scientism and proud
   - skepticism
 ---
+
 A while back, I was linked to this Tweet:
 
-https://twitter.com/ColdWarScience/status/1017211382176059392
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">|￣￣￣￣￣￣￣￣￣￣￣|<br> Science<br> has always<br> been<br> Political<br>|＿＿＿＿＿＿＿＿＿＿＿| <br> (\__/) ||<br> (•ㅅ•) ||<br> / 　 づ<a href="https://twitter.com/hashtag/HistorianSignBunny?src=hash&amp;ref_src=twsrc%5Etfw">#HistorianSignBunny</a></p>&mdash; Audra J. Wolfe, PhD (@ColdWarScience) <a href="https://twitter.com/ColdWarScience/status/1017211382176059392?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It had sparked a brisk and mostly unproductive debate. If you want to see people talking past each other, snide comments, and <a href="https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights">applause lights</a>, check out the thread. One of the few productive exchanges centres on bridges.
 
@@ -35,11 +36,11 @@ You see, science has unfortunate political <em>implications</em> for many moveme
 
 While Dr. Wolfe is no climate change denier, it <em>is</em> hard to square her claims that calling science political is a neutral statement:
 
-https://twitter.com/ColdWarScience/status/1017391376101756928
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You are getting warmer. Fascinating how “science” is read as “empirical findings” and “political” as inherently bad.</p>&mdash; Audra J. Wolfe, PhD (@ColdWarScience) <a href="https://twitter.com/ColdWarScience/status/1017391376101756928?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 With the examples she chooses to demonstrate this:
 
-https://twitter.com/ColdWarScience/status/1017396571783213058
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When chemists choose to produce synthetics at an industrial scale without investigating their safety, that’s a political choice.</p>&mdash; Audra J. Wolfe, PhD (@ColdWarScience) <a href="https://twitter.com/ColdWarScience/status/1017396571783213058?ref_src=twsrc%5Etfw">July 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 When pointing out that science is political, we could also say things like "we chose to target polio for a major elimination effort before cancer, partially because it largely affected poor children instead of rich adults (as rich kids escaped polio in their summer homes)". Talking about the ways that science has been a tool for protecting the most vulnerable paints a very different picture of what its political nature is about.
 
@@ -51,9 +52,10 @@ I start to feel that someone is being at least a bit disingenuous when they only
 
 This sort of bait and switch pops up enough in post-modernist "all knowledge is human and constructed by existing hierarchies" places that someone got annoyed enough to coin a name for it: <a href="https://philpapers.org/archive/SHATVO-2.pdf">the motte and bailey fallacy</a>.
 
-[caption id="attachment_863" align="alignleft" width="768"]<img class="size-medium_large wp-image-863" src="https://socratic-form-microscopy.com/wp-content/uploads/800px-Motte_and_bailey_at_olivet_a_grimbosq-768x290.jpg" alt="" width="768" height="290" /> Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Motte_and_bailey_at_olivet_a_grimbosq.jpg?uselang=fr">Hchc2009, Wikimedia Commons.</a>[/caption]
-
-&nbsp;
+{% capture caption %}
+Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Motte_and_bailey_at_olivet_a_grimbosq.jpg?uselang=fr">Hchc2009, Wikimedia Commons</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/800px-Motte_and_bailey_at_olivet_a_grimbosq-768x290.jpg" alt="" caption=caption %}
 
 It's named after the early-medieval form of castle, pictured above. The motte is the outer wall and the bailey is the inner bit. This mirrors the two parts of the motte and bailey fallacy. The "motte" is the easily defensible statement (science is political because all human group activities are political) and the bailey is the more controversial belief actually held by the speaker (something like "we can't trust science because of the number of men in it" or "we can't trust science because it's dominated by liberals").
 
@@ -68,3 +70,5 @@ But there are real and present dangers to uncritically <em>not</em> believing sc
 When anyone says science is political and then goes on to emphasize all of the negatives of this statement, they're giving people permission to believe their political views (like "gas should be cheap" or "vaccines are unnatural") over the hard truths of science. And that has real consequences.
 
 Saying that "science is political" is <em>also</em> political. And it's one of those political things that is more likely than not to be driven by partisan politics. No one trumpets this unless they feel one of their political positions is endangered by empirical evidence. When talking with someone making this claim, it's always good to keep sight of that.
+
+<hr class="post-end" />

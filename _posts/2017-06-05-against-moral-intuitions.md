@@ -16,7 +16,10 @@ tags:
   - someone else probably came up with this first
   - utilitarianism
 ---
+
+<p class="caption pre-post-meta">
 [Content Warning: Effective Altruism, the Drowning Child Argument]
+</p>
 
 I'm a person who sometimes reads about ethics. I blame Catholicism. In Catholic school, you have to take a series of religion courses. The first two are boring. Jesus loves you, is your friend, etc. Thanks school. I got that from going to church all my life. But the later religion classes were some of the most useful courses I've taken. Ever. The first was world religions. Thanks to that course, "how do you know that about [my religion]?" is a thing I've heard many times.
 
@@ -51,6 +54,7 @@ Virtue ethics work best when dealing with small groups of people where everyone 
 Moral intuitions are the same way. I'd like to avoid making any claims about <em>why</em> moral intuitions evolved, but it seems trivially true to say that they exist, that they didn't face strong negative selection pressure, and that the environment in which they came into being was very different from the modern world.
 
 Because of this, moral intuitions tend to only be activated when we see or hear about something wrong. Eating factory farmed meat does not offend the moral intuitions of most people (including me), because we are well insulated from <a href="https://thingofthings.wordpress.com/2017/02/02/why-be-vegetarian/">the horrible cruelty of factory farming</a>. Moral intuitions are also terrible at spurring us to action beyond our own immediate network. From the excellent satirical essay <a href="http://slatestarcodex.com/2013/05/17/newtonian-ethics/">Newtonian Ethics</a>:
+
 <blockquote>Imagine a village of a hundred people somewhere in the Congo. Ninety-nine of these people are malnourished, half-dead of poverty and starvation, oozing from a hundred infected sores easily attributable to the lack of soap and clean water. One of those people is well-off, living in a lovely two-story house with three cars, two laptops, and a wide-screen plasma TV. He refuses to give any money whatsoever to his ninety-nine neighbors, claiming that they’re not his problem. At a distance of ten meters – the distance of his house to the nearest of their hovels – this is monstrous and abominable.
 
 Now imagine that same hundredth person living in New York City, some ten thousand kilometers away. It is no longer monstrous and abominable that he does not help the ninety-nine villagers left in the Congo. Indeed, it is entirely normal; any New Yorker who spared too much thought for the Congo would be thought a bit strange, a bit with-their-head-in-the-clouds, maybe told to stop worrying about nameless Congolese and to start caring more about their friends and family.</blockquote>
@@ -76,4 +80,5 @@ To this end, I've taken the <a href="https://www.givingwhatwecan.org/try-giving"
 
 If utilitarianism appeals to you and you have the means to donate, I'd like to encourage you to do the same.
 
-<em>Epistemic Status: I managed to talk about both post-modernism and evolutionary psychology, so handle with care. Also, Ethics.</em>
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: I managed to talk about both post-modernism and evolutionary psychology, so handle with care. Also, <a href="/about-me">Ethics</a>.</p>

@@ -1,6 +1,6 @@
 ---
 id: 18
-title: 'Skepticism About X-Risk: Viruses and Prions Edition'
+title: "Skepticism About X-Risk: Viruses and Prions Edition"
 date: 2016-08-18T03:37:12-04:00
 author: Zach
 layout: post
@@ -13,6 +13,7 @@ categories:
 tags:
   - x-risk
 ---
+
 There are a lot of living things that are quite good at killing humans. Tigers, anthrax, lions, cows, bears, and other people do away with thousands of us each year.
 
 There are a few non-living things that are also quite good at offing us. Good old water manages to take quite a few. In good years, we don't lose anyone to the nerve gasses sarin or VX (Unfortunately, the last few years haven't been good ones in that regard).
@@ -124,6 +125,7 @@ Vaccination isn't the only thing that becomes easier when viruses don't evolve. 
 It is true that HIV can evolve around some drugs. This is why we've switched to regimes of drugs, which combine several medicines with different routes of action. This strategy is much more effective at preventing resistance. Instead of needing one mutation to develop resistance, the virus must develop several, all at once. This almost never happens, even in fairly fast changing viruses. In one that was deliberately fixed it would be almost impossible.
 
 Here's what the response to a large scale bioengineered pandemic would look like:
+
 <ol>
  	<li>People would start showing signs of infection. Doctors, confused by the mortality rate and the rapidity of the spread would eventually send it off for sequencing (I'm eliding a host of difficulties here, but they're <em>solved</em> difficulties; simple doesn't mean easy).</li>
  	<li>Sequencing results would come back and show that this virus is something new.</li>
@@ -143,4 +145,6 @@ Here's what the response to a large scale bioengineered pandemic would look like
 </li>
 </ol>
 If your next work of fiction involves a virus or prion killing all the world's population, I'm sorry. May I suggest writing about <a href="http://thebulletin.org/timeline">nukes</a> instead?
-<p class="p1">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>
+
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>

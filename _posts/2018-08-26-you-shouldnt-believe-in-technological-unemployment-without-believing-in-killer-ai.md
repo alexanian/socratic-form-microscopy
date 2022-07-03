@@ -1,6 +1,6 @@
 ---
 id: 842
-title: "You Shouldn&#8217;t Believe In Technological Unemployment Without Believing In Killer AI"
+title: "You Shouldn’t Believe In Technological Unemployment Without Believing In Killer AI"
 date: 2018-08-26T08:45:50-04:00
 author: Zach
 layout: post
@@ -20,7 +20,9 @@ tags:
   - x-risk
 ---
 
-<em>[Epistemic Status: Open to being convinced otherwise, but fairly confident. 11 minute read.]</em>
+<p class="caption pre-post-meta">
+[Epistemic Status: Open to being convinced otherwise, but fairly confident. 11 minute read.]
+</p>
 
 As interest in how artificial intelligence will change society <a href="https://trends.google.com/trends/explore?date=all_2008&amp;geo=US&amp;gprop=news&amp;q=%2Fm%2F0mkz">increases</a>, I've found it revealing to note what narratives people have about the future.
 
@@ -166,3 +168,5 @@ Third, I believe that inequality is a political problem amiable to political sol
 (By the way, rising income inequality is <a href="https://fred.stlouisfed.org/series/SIPOVGINIUSA">largely confined to America</a>; most other developed countries <a href="https://fred.stlouisfed.org/series/SIPOVGINIDEU">lack</a> <a href="https://fred.stlouisfed.org/series/SIPOVGININOR">a</a> <a href="https://fred.stlouisfed.org/series/SIPOVGINIFRA">clear</a> <a href="SIPOVGINIFIN">and</a> <a href="SIPOVGINIGBR">sustained</a> <a href="https://fred.stlouisfed.org/series/SIPOVGINICAN">upwards</a> <a href="https://fred.stlouisfed.org/series/SIPOVGINICHE">trend</a>. This suggests that we should look to something unique to America, <a href="http://induecourse.ca/thoughts-on-president-trump/">like a pathologically broken political system</a> to explain why income inequality is rising there.
 
 There is also separately a perception of increasing inequality of outcomes among young people world-wide as <a href="https://socratic-form-microscopy.com/2018/06/25/book-review-the-captured-economy/">rent-seeking</a> makes <a href="https://socratic-form-microscopy.com/2017/06/03/whose-minimum-wage/">goods they don't already own increase in price more quickly than goods they do own</a>. Conflating these two problems can make it seem that countries like Canada are seeing a rise in income inequality when they in fact are not.)
+
+<hr class="post-end" />

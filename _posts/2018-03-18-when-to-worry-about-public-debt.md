@@ -16,6 +16,7 @@ tags:
   - ontario
   - someone else probably came up with this first
 ---
+
 I watch a lot of political debates with my friends. A couple of them have turned to me after watching heated arguments about public debt and (because I have a well-known habit of reading monetary policy blogs) asked me who is right. I hear questions like:
 
 Is it true that public debt represents an unfair burden on our hypothetical grandchildren? Is all this talk about fiscal discipline and balanced budgets pointless? Is it really bad when public debt gets over 100% of a country's GDP? How can the threat of defaulting on loans lead to inflation and ruin?
@@ -25,6 +26,7 @@ And what does all this mean for Ontario? Is Doug Ford right about the deficit?
 This is my attempt to sort this all out in a public and durable form. Now when I've taken a political debate drinking game too far, I'll still be able to point people towards the answers to their questions.
 
 (Disclaimer: I'm not an economist. Despite the research I did for it and the care with which I edited, this post may contain errors, oversimplifications, or misunderstandings.)
+
 <h2>Is Public Debt A Burden On Future Generations?</h2>
 Among politicians of a certain stripe, it's common to compare the budget of a country to the budget of a family. When a family is budgeting, any shortfall must be paid for via loans. Left unspoken is the fact that many families find themselves in a rather large amount of debt early on – because they need a mortgage to buy their dwelling. The only way a family can ever get out of debt is by maintaining a monthly surplus until their mortgage is paid off, then being careful to avoid taking on too much new debt.
 
@@ -34,15 +36,17 @@ Second, parents often desire to leave something behind for their children. This 
 
 Countries have to grapple with neither of these responsibilities. While it is true that the average age in many countries is steadily increasing, countries that have relatively open immigration policies and are attractive to immigrants largely avoid this problem. Look at how Canada and the United States compare to Italy and Japan in working age population percentage, for example.
 
-[caption id="attachment_723" align="alignleft" width="768"]<img class="size-medium_large wp-image-723" src="https://socratic-form-microscopy.com/wp-content/uploads/working_age-768x500.png" alt="Graph showing % of working age population in 4 OECD countries: Japan, Canada, USA, Italy." width="768" height="500" /> After seeing this graph, I realized how hyperbolic it was to talk about Japan's aging population. Source: <a href="https://data.oecd.org/pop/working-age-population.htm#indicator-chart">OECD</a>.[/caption]
-
-&nbsp;
+{% capture caption %}
+After seeing this graph, I realized how hyperbolic it was to talk about Japan's aging population. Source: <a href="https://data.oecd.org/pop/working-age-population.htm#indicator-chart">OECD</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/working_age-768x500.png" alt="Graph showing % of working age population in 4 OECD countries: Japan, Canada, USA, Italy."  caption=caption %}
 
 Even in Japan, where this is "dire", the percentage of the population that is working age is equivalent to the percentage of the population that was working age in Canada or America in 1970. As lifespans increase, we may have to expand our definition of working age. But some combination of immigration, better support for parents, and better support for older citizens who wish to keep working will prevent us from ever getting to a point where it's sensible to talk about a country "retiring".
 
 Since countries don't "retire", they don't have to cope with the worry of "needing to work later to pay off that debt". Since countries don't have children, they don't have to worry about having something to pass on. Countries don't ever actually have to pay back all of their debt. They can continue to roll it over indefinitely, as long as someone is willing to continue to loan them money at a rate they're willing to pay.
 
 What I mean by "rolling over", is that countries can just get a new loan for the same amount as their last one, as soon as the previous loan comes due. If interest rates have risen (either in general, or because the country is a greater risk) since their last loan, the new loan will be more expensive. If they've fallen, it will be cheaper. Rolling over loans changes the interest rate a country is paying, but doesn't change the amount it owes.
+
 <h2>Is Talk Of Discipline Pointless?</h2>
 No.
 
@@ -55,6 +59,7 @@ Unlike most talk about interest rates, where they're entirely hypothetical, I re
 That's the case in a moderately disciplined developed nation with adequate foreign reserves, at least. In a cash-poor or underdeveloped economy where a decent portion of any loan is lost to cronyism and waste, the case for loans being positive is much more… mixed. For these countries, discipline means "taking no loans at all".
 
 When discipline falls apart and debt levels rise too high, very bad things start to happen.
+
 <h2>Is 100% of GDP The Line Beyond Which Debt Shouldn't Rise?</h2>
 There is nothing special about 100% of GDP, except that people think it is special.
 
@@ -79,6 +84,7 @@ When evaluating whether a debt burden is a problem, you should always consider t
 This also suggests that government debt is much more troubling when it's held by a sub-national institution than by a national institution (with the exception of Europe, where even nations don't individually control the currency). In this case, monetary policy options are normally off the table and there's normally someone who's able to force you to pay your debt, no matter what that does to your region.
 
 Developing countries very rarely issue debt in their own currency, mainly because <a href="https://en.wikipedia.org/wiki/Original_sin_(economics)">no one is interested in buying it</a>. This, combined with low foreign cash reserves puts them at a much higher risk of failing to make scheduled debt payments – i.e. experiencing an actual default.
+
 <h2>What Happens If A Country Defaults?</h2>
 No two defaults are exactly alike, so the consequences vary. That said, there do tend to be two common features: austerity and inflation.
 
@@ -93,6 +99,7 @@ On the kind of bright side, defaults also tend to lead to mass unemployment, whi
 If a country has sound economic management (like Argentina did in 2001), a default isn't the end of the world. It can negotiate a "haircut" of its loans, giving its creditors something less than the full amount, but more than nothing. It might even be able to borrow again in a few years, although the rates that it will have to offer will start out in credit card territory and only slowly recover towards auto-loan territory.
 
 When these trends aren't managed by competent leadership, or when the same leaders (or leadership culture) that got a country into a mess are allowed to continue, the recovery tends to be moribund and the crises continual. See, for example, how Greece has limped along, never really recovering over the past decade.
+
 <h2>Where Does Ontario Fit In?</h2>
 My own home province of Ontario is currently in the midst of an election and one candidate, Doug Ford, has made the ballooning public debt the centrepiece of his campaign. Evaluating his claims gives us a practical example of how to evaluate claims of this sort in general.
 
@@ -113,3 +120,5 @@ I plan to take this threat seriously and vote for a party with a credible plan t
 If one even exists. Contrary to his protestations, Doug Ford isn't leading a party committed to reducing the deficit. He's publically pledged himself to scrapping the carbon tax. Absent it, but present the rest of his platform, <a href="http://www.macleans.ca/opinion/scrapping-carbon-taxes-leaves-a-gaping-hole-in-the-ontario-pc-platform/">the deficit spending is going to continue</a> (<a href="http://marginalrevolution.com/marginalrevolution/2018/02/fiscal-policy-might-make-matters-worse.html">during a period of sustained growth, no less!</a>). Doug Ford is either lying about what he's going to cut, or he's lying about ending the debt. That's not a gamble I particularly want to play.
 
 I do hope that someone campaigns on a fully costed plan to restore fiscal order to Ontario. Because we are currently on the path to looking a lot like Greece.
+
+<hr class="post-end" />

@@ -1,26 +1,46 @@
 ---
-layout: page
+layout: default
 permalink: /categories/
 title: Categories
 ---
 
-<div id="archives">
-  {% assign sorted_categories = site.categories | sort %}
-  {% for category in sorted_categories %}
-    <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
+{% capture header_text %}
+All Posts by Category
+{% endcapture %}
+{% capture header_content %}
+<p class="h4 text-light">
+  Jump to category: {% assign sorted_categories = site.categories | sort %}
+  {% for category in sorted_categories %} {% capture category_name %}{{
+  category | first }}{% endcapture %}
+  <a href="#{{ category_name | slugize }}">{{category_name}}</a>{% if
+  forloop.last %}{% else %},{% endif %} {% endfor %}
+</p>
+{% endcapture %}
+{% include header.html header_text=header_text content=header_content %}
 
-    <a href="/category/{{ category_name | slugify }}" class="category-head"><h3>{{ category_name }}</h3></a>
-    <div class="category-articles">
-      <a name="{{ category_name | slugize }}"></a>
-      {% for post in site.categories[category_name] %}
-      <article class="archive-item">
-        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-      </article>
-      {% endfor %}
+<div class="container mx-auto px-2 py-2">
+  <div id="archives">
+    {% assign sorted_categories = site.categories | sort %} {% for category in
+    sorted_categories %}
+    <div class="archive-group">
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <div id="#{{ category_name | slugize }}"></div>
+      <p></p>
+
+      <a
+        href="/category/{{ category_name | slugify }}"
+        class="category-head secondary"
+        ><h3 class="text-dark">{{ category_name }}</h3></a
+      >
+      <div class="category-articles">
+        <a name="{{ category_name | slugize }}"></a>
+        {% for post in site.categories[category_name] %}
+        <article class="archive-item">
+          <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+        </article>
+        {% endfor %}
+      </div>
     </div>
+    {% endfor %}
   </div>
-{% endfor %}
 </div>

@@ -81,9 +81,19 @@
 .header-link:hover {
   color: $color-nav-link !important;
 } // used for navigation links on homepage
+
 .text-accent {
   color: $color-text-accent;
 } // used for date in post list and home link
+
+// Creating additional text categories
+.text-light {
+  color: $white;
+}
+
+.text-dark {
+  color: $black;
+}
 
 /* Layout utilities */
 .container {

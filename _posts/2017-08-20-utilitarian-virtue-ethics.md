@@ -15,7 +15,10 @@ tags:
   - ethics
   - utilitarianism
 ---
-<em>[4 minure read]</em>
+
+<p class="caption pre-post-meta">
+[4 minure read]
+</p>
 
 The nagging question that <a href="https://socratic-form-microscopy.com/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">both</a> <a href="https://socratic-form-microscopy.com/2017/07/16/book-review-utilitarianism-for-and-against-part-2/">halves</a> of <em>Utilitarianism for and against</em> left me with is: "can utilitarianism exist without veering off into total assessment?"
 
@@ -46,3 +49,5 @@ On one hand, this is a community of utilitarians who are similar to me, so conve
 On the other, this could be a classic example of seeing the world how I wish it, rather than it is. "Go hang out with people you already like, doing the things you were already going to do" isn't much of an ethical ask. Given that the world is in a dire state, it makes sense for utilitarians to be sceptical that their ethical system won't require much from them.
 
 There could be other problems with this proposal, but I'm not sure that I'm the type of person who could see them. For now, this represents my best attempt to reconcile my utilitarian ethics with the realities of the modern world. But I will be careful. Ease is ever seductive.
+
+<hr class="post-end" />

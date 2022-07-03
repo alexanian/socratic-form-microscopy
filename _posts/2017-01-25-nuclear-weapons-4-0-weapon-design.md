@@ -1,6 +1,6 @@
 ---
 id: 149
-title: 'Nuclear Weapons: 4.0 Weapon Design'
+title: "Nuclear Weapons: 4.0 Weapon Design"
 date: 2017-01-25T19:13:17-05:00
 author: Zach
 layout: post
@@ -14,6 +14,7 @@ tags:
   - nuclear weapons
   - x-risk
 ---
+
 The last section required that you take it on faith that nuclear weapons are hard to design. Now it's time to get into the nitty-gritty details of weapon design and understand why that is.
 
 Nuclear explosions require a critical mass of the right unstable isotope. But there's no safe way to store an assembled critical mass. As soon as you get to the critical mass, the chain reaction starts and an explosion will occur without drastic countermeasures.
@@ -21,6 +22,7 @@ Nuclear explosions require a critical mass of the right unstable isotope. But th
 All nuclear weapon design ultimately starts with this problem of assembling a critical mass in situ (and only ever in situ).
 
 The first atomic bombs used one of two methods: <em>gun assembly</em> or <em>implosion</em>. These methods are still used to this day in fission weapons or in the fission first stage of multiple stage weapons.
+
 <h3 id="gun">4.1 Gun Assembly Design</h3>
 <img class="alignnone size-medium wp-image-150" src="/wp-content/uploads/gun-300x145.png" alt="" width="300" height="145" />
 
@@ -35,6 +37,7 @@ The only possible fuel in gun-assembly bombs is U-235. Plutonium fissions much m
 Due to these problems, this method has mostly fallen out of use, except in applications where only one dimension can be large (such as artillery shells).
 
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Little_Boy">Little Boy</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_artillery">Nuclear Artillery</a>, <a href="https://en.wikipedia.org/wiki/Fizzle_(nuclear_test)">Fizzle</a>, and <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Gun-type_assembly_weapon">Gun-type assembly weapon</a>
+
 <h3 id="imp">4.2 Implosion Design</h3>
 <img class="alignnone size-medium wp-image-151" src="/wp-content/uploads/implosion-300x203.png" alt="implosion assembly design" width="300" height="203" />
 
@@ -47,6 +50,7 @@ The fizzling problem that plagues the gun-type device is also present here – e
 In addition to tampers, there are various strategies to mitigate the breakup, all adding cost or technical complexity. For example, some nuclear weapons add a layer of aluminum-beryllium alloy between the explosives and the tamper to slow down the explosive shock wave and cause the core to be held compressed for slightly longer. This tweak can marginally increase the efficiency of a weapon.
 
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Implosion-type_weapon">Implosion-type weapon</a> and <a href="https://en.wikipedia.org/wiki/Fat_Man">Fat Man</a>
+
 <h3 id="min">4.3 Miniaturizing Weapons</h3>
 The core of a nuclear weapon is very small and relatively light (compared to conventional munitions). Most of the size and weight of a nuclear weapon comes from the explosives, tamper, and superstructure necessary to hold it all in the right place. The Fat Man bomb was egg shaped, 3.3 metres long and 1.5m in diameter at its thickest. The whole thing weighed 4.67t. the plutonium core was only 6.4kg, 0.14% of the total weight.
 
@@ -55,6 +59,7 @@ There's no point having a weapon you can't deliver. Methods that worked to deliv
 Making weapons more powerful and miniaturizing them are two sides of the same coin. Every innovation that makes a bomb blast bigger can also potentially allow a smaller weapon to have the same effect as a larger weapon.
 
 There are many unique challenges to miniaturizing weapons, such as correctly focusing explosions to create the desired pressure pattern. Regardless of the specific features necessary for miniaturization, it's important to understand why miniaturization is such a big deal. North Korea, for example, has only possibly succeeded in miniaturizing its weapons to the point that its missiles can carry them any significant range. Until it thoroughly conquers this technical hurdle, only its closest neighbours have anything to fear.
+
 <h3 id="boo">4.4 Boosted Weapons</h3>
 Boosted weapons were the first atomic bombs to make use of both fusion and fission, although they still get almost all of their energy from fission. Boosted weapons are all of the implosion type. Instead of a solid core, a boosted weapon will use a core with a hollow centre. In this hollow will be an equal mixture of tritium and deuterium.
 
@@ -73,6 +78,7 @@ While it's possible to build bombs in the &gt;100kt range using boosted fission,
 There's only one real drawback to boosted weapons: tritium. Tritium has a half-life of just 12 years. Even worse, it breaks down into helium-3, a form of helium with a single neutron that really "wants" to have two neutrons instead. Because of this, helium-3 "poisons" nuclear weapons by capturing neutrons that would otherwise cause fission. This means that boosted weapons must be periodically serviced and the helium-3 removed and replaced with fresh tritium. This is expensive (<a href="http://fire.pppl.gov/fesac_dp_ts_willms.pdf">tritium cost $30,000 per gram in 2003 but is probably much more expensive now</a>; we can't calculate the cumulative cost because no government is willing to share the amount of tritium that is in each of their nukes, but it's probably large) and almost certainly tricky (again, I can't be sure, because no one releases their refueling procedures).
 
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Swan_(nuclear_primary)">Swan</a>, <a href="https://en.wikipedia.org/wiki/Tritium">Tritium</a>, and <a href="https://en.wikipedia.org/wiki/Boosted_fission_weapon">Boosted Fission Weapon</a>
+
 <h3 id="sloika">4.5 Alarm Clock/Sloika</h3>
 The Alarm Clock (named because Teller thought it would "wake up" the United States to the possibilities present by fusion weapons) or Sloika (Russian for a type of layered cake dessert) is a single stage boosted fission weapon that gets up to 20% of its yield from fusion (compare the ~1-2% that boosted weapons get from fusion).
 
@@ -85,6 +91,7 @@ The Sloika derives most of its explosive power from relatively cheap natural ura
 Because of these inadequacies, the Sloika proved a dead end in weapon design and is not used in any current nuclear weapons.
 
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Joe_4">Joe 4</a> and <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Alarm_Clock.2FSloika">Alarm Clock/Sloika</a>
+
 <h3 id="tu">4.6 Teller-Ulam Design</h3>
 The Teller-Ulam design is necessary to economically achieve multi-megaton yields with devices small enough to be delivered intercontinentally. Teller-Ulam weapons (also known as thermonuclear bombs or H-bombs) use multiple stages of fission and fusion and incorporate concepts previously seen in boosted, implosion, and Sloika weapons. Here's what the design looks like:
 
@@ -112,8 +119,11 @@ The Teller-Ulam design has the same disadvantage as boosted weapons: constant ma
 
 While a two-stage design is by far the most common, there is no theoretical cap on the number of stages this weapon can have. Each stage provides the compressive force to ignite the next. In this manner, yields up to a gigaton of TNT can be achieved, although a bomb this large would be very difficult to deliver, even with the general efficiencies of this design. The largest bomb ever detonated, the Soviet Tsar Bomba used three stages, massed 27t, and had a total yield of 50 Mt (although it used lead tampers to minimize fallout; had the tampers been uranium the yield would have been 100Mt – and fallout from the fission would have irradiated large swathes of the USSR).
 
+<hr class="post-end" />
+
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Thermonuclear_weapon">Thermonuclear Weapon</a>, <a href="https://en.wikipedia.org/wiki/History_of_the_Teller%E2%80%93Ulam_design">History of the Teller-Ulam Design</a>, and <a href="https://en.wikipedia.org/wiki/Tsar_Bomba">Tsar Bomba</a>
 <br>
+
 <table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
   <tr style="border:0px solid;background:transparent;">
     <td style="border:0px solid;background:transparent;"><a href="/2017/01/24/nuclear-weapons-3-0-proliferation/">&lt; previous</a></th>

@@ -156,7 +156,7 @@ a.category-head {
 
 /* Sidebar from Zach's original CSS (the Satellite WordPress theme) */
 .sidebar-nav {
-  background-color: $grey;
+  background-color: $color-text-accent;
   position: fixed;
   left: 0;
   top: 0;
@@ -191,12 +191,12 @@ a.category-head {
 
 .wrap {
   min-height: 100vh;
-  padding-bottom: 86px;
+  padding-bottom: 56px;
 }
 
 footer {
-  height: 86px;
-  margin-top: -86px;
+  height: 56px;
+  margin-top: -56px;
 }
 
 .wrap,
@@ -307,7 +307,7 @@ a.slide-menu-nav-item:focus {
   display: flex;
   align-items: center;
   padding: 0.25rem 0.75rem;
-  color: $color-secondary;
+  color: $black;
   border-radius: 0.25rem;
   cursor: pointer;
 }
@@ -374,4 +374,42 @@ a.slide-menu-nav-item:focus {
   -webkit-transform: translateX(20rem);
   -ms-transform: translateX(20rem);
   transform: translateX(20rem);
+}
+
+// Custom footnotes styling
+.footnotes {
+  li {
+    font-size: 0.8em;
+  }
+  
+  ol p {
+    width: 100%;
+    font-size: inherit;
+  }
+}
+
+// Custom typography
+figcaption, p.caption, p.epistemic-status {
+  color: gray;
+  font-style: italic;
+}
+
+p.pre-post-meta {
+  margin: -20px 0px 40px;
+}
+
+figure.image {
+  margin: $spacer-2 0;
+  max-width: 80%;
+
+  @media (min-width: $breakpoint-lg) {
+    padding-left: $spacer-3;
+    margin: $spacer-4 0;
+  }
+}
+
+hr.post-end {
+  margin-top: $spacer-4;
+  margin-bottom: $spacer-2;
+  border-color: $color-dot-accent;
 }
