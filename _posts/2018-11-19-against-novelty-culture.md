@@ -18,6 +18,7 @@ tags:
   - someone else definitely came up with this first
   - statistics
 ---
+
 So, there's this thing that happens in certain intellectual communities, like (to give a totally random example) social psychology. This thing is that novel takes are rewarded. New insights are rewarded. Figuring out things that no one has before is rewarded. The high-status people in such a community are the ones who come up with and disseminate many new insights.
 
 On the face of it, this is good! New insights are how we get penicillin and flight and Pad Thai burritos. But there's one itty bitty little problem with building a culture around it.
@@ -34,7 +35,7 @@ At the start, we had a 1 in 250 chance of finding a gene. Now that we have a gen
 
 There's actually an equation to figure it out. It's called Bayes Rule and statisticians and scientists use it to update probabilities in response to new information. It goes like this:
 
-<img class="size-full wp-image-881 aligncenter" src="https://socratic-form-microscopy.com/wp-content/uploads/bayes_theorem.png" alt="" width="211" height="48" />
+<img class="size-full wp-image-881 aligncenter" src="/wp-content/uploads/bayes_theorem.png" alt="" width="211" height="48" />
 
 (You can sing this to the tune of <em>Hallelujah</em>; take P of A when given B / times P of A a priori / divide the whole thing by B's expectation / new evidence you may soon find / but you will not be in a bind / for you can add it to your calculation.)
 
@@ -76,4 +77,8 @@ Therefore, I suggest caution. We do not know how many true insights we should ex
 
 We might not be able to change novelty culture, but we can do our best to guard against it.
 
-<em>[Special thanks to <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> for coming up with most of the lyrics to Bayesian Hallelujah.]</em>
+---
+
+<p class="post-meta">
+[Special thanks to <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> for coming up with most of the lyrics to Bayesian Hallelujah.]
+</p>

@@ -15,6 +15,7 @@ tags:
   - someone else probably came up with this first
   - tradeoffs are hard
 ---
+
 [3 minute read]
 
 Most of us are familiar with what it looks like when someone we know is living beyond their means. Expensive vacations, meals, or possessions pile up, accompanied by a veritable mountain of credit card debt. People fall into the horrible habit of paying one credit card off with another and get punished by punitive credit card interest rates.
@@ -44,3 +45,5 @@ And when you're living beyond your time means, you so rarely get the feeling tha
 Just as some people get a lot of net benefit from living beyond their financial means, some people find living beyond their time means to be net good. They love moving fast and doing interesting things and they're quite happy to get that in exchange for a chaotic living situation and the nagging feeling that they've left basic tasks undone.
 
 The purpose of this post isn't to moralize at people who are living beyond their time means. Just because the thought of trying to do it stresses <em>me</em> out doesn't mean that it isn't really good for some people. But I do worry that there are people who are accidentally living beyond their time means and feeling very stressed out about that. If that describes you, consider this your wakeup call. I promise you that your life can still be interesting and your friends will still like you if you cut back on the activities a bit.
+
+<hr class="post-end" />

@@ -18,6 +18,7 @@ tags:
   - book review
   - reading
 ---
+
 <a href="https://www.goodreads.com/review/show/1917510971?book_show_action=false&amp;from_review_page=1">I just finished Pump Six</a>, a collection of short stories by <a href="http://windupstories.com/">Paolo Bacigalupi</a>. A few weeks prior to this, I read <a href="https://www.goodreads.com/review/show/1858807711?book_show_action=false&amp;from_review_page=1">Ted Chiang's short story collection, Stories of Your Life and Others</a> and I couldn't help but be struck by the contrast between them. Ted Chiang writes stories about different ways the world could work. Paolo Bacigalupi writes stories about different ways the future could happen.
 
 These are two very different sorts of speculation. The first requires extreme attention to detail in order to make the setting plausible, but once you clear that bar, you can get away with anything. Ted Chiang is clearly a master at this. I couldn't find any inconsistencies to pick at in any of his stories.
@@ -57,6 +58,7 @@ I wish more of the stories had been like that, instead of infected with the myop
 Disregard for economics and a changing world intersect when Bacigalupi talks about peak oil. Peak oil was in vogue among environmentalists in the 2000s as oil prices rose and rose, but it was never taken seriously by the oil industry. As per <a href="https://en.wikipedia.org/wiki/Peak_oil">Wikipedia</a>, peak oil (as talked about by environmentalists in the '00s, not as originally formulated) ignored the effects of price on supply and demand, especially in regard to unconventional oil, like the bitumen in the Albertan Oil Sands.
 
 Price is really important when it comes to supply. Allow me to quote from <a href="https://priceonomics.com/how-the-hunt-brothers-cornered-the-silver-market/">one of my favourite economics stories</a>. It's about a pair of Texan brothers who (maybe) tried to corner the global market for silver and in the process made silver so unaffordable that Tiffany's ran an advertisement denouncing them in the third page of the New York Times. The problems the Texans ran into as silver prices rose are relevant here:
+
 <blockquote>But as the high prices persisted, new silver began to come out of the woodwork.
 
 “In the U.S., people rifled their dresser drawers and sofa cushions to find dimes and quarters with silver content and had them melted down,” says Pirrong, from the University of Houston. “Silver is a classic part of a bride’s trousseau in India, and when prices got high, women sold silver out of their trousseaus.”
@@ -74,4 +76,7 @@ Another example: almost all science fiction before the late 00s drastically unde
 
 Writing is hard and the critic will always have an easier time than the author. I don't mean to be so hard on Bacigalupi, I really did enjoy Pump Six and it's caused me to do no end of thinking and discussing since I finished reading it. In this regard, it was an immensely successful book.
 
-Epistemic Status: <a href="/about-me">The math is Falsifiable, the rest is a Model</a>.
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">The math is Falsifiable, the rest is a Model</a>.</p>
+
+<hr class="post-end" />

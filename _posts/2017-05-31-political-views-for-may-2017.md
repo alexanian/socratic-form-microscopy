@@ -15,6 +15,7 @@ tags:
   - my biases
   - predictions
 ---
+
 Like many others who are a bit, um, <em>obsessive</em> when it comes to politics, I've long been a fan of the <a href="https://www.politicalcompass.org/test">Political Compass</a>. Most people are familiar with the differences between left wing redistributive and right wing capitalist politics. The observation underlying the Political Compass is that these aren't the only salient axes of political disagreement.
 
 In addition to the standard left-right economic disagreement, the Political Compass looks at the disagreements between libertarians and authoritarians. This second axis deals with the amount of social restrictions (or, from the other point of view, mandated social cohesiveness) a government imposes on its citizens.
@@ -30,14 +31,16 @@ Libertarians are also occasionally referred to as extremely right. In this case,
 I've been a fan of the Political Compass for a long time. Recently I wondered how my political views (as measured by a political compass score) have changed over the past few years. Unfortunately, I don't have any good records of where exactly the political compass put me in the past. All of I have to go on are my somewhat fuzzy memories, which I think put me on the extreme left-libertarian side of things (I believe the score was approximately -7/-7, far into the left-libertarian quadrant).
 
 One of my great joys this past year has been reading year-old journal entries; this is the first time I've kept a regular journal, so having a written record of what exactly I did a year ago is still novel to me. Because of my journal, I've gained a lot of insight into how the past year has (and hasn't) changed me. When I retook the Political Compass test recently, I was sad that I didn't know for sure how I'd done in the past. With this in mind, I've decided to publish my results (and just as importantly, why I think I got them) yearly.
+
 <h3>The Results</h3>
 I scored -3.25 on the economic axis (this puts me firmly left of centre) and -6.56 on the authority axis (putting me deep in the social libertarian camp). Here's how I stack up against the Canadian political parties <a href="https://www.politicalcompass.org/canada2015">(as assessed in 2015 by the Political Compass</a>).
 
-<img class="alignnone wp-image-403 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/Polical-Compass-cdnpoli-768x706.png" alt="" width="768" height="706" />
+<img class="alignnone wp-image-403 size-medium_large" src="/wp-content/uploads/Polical-Compass-cdnpoli-768x706.png" alt="" width="768" height="706" />
 
 These results put me to the left of all Canadian political parties economically and very, very far from all of the Canadian political parties on civil liberties. The new score is in the same quadrant as my previous score, but is somewhat less extreme (especially economically).
 
 Much more interesting (to my imagined version of a future me at least) than the fact of my score is the political reasoning that caused me to receive it.
+
 <h3>Economics</h3>
 I'm not surprised that the Political Compass put me more or less in the centre-left, because centre-left policies feel very much like part of my identity. Drawing on <a href="http://induecourse.ca/on-the-disappearance-of-the-centre-right-in-canada/">Joseph Heath's definition</a>, I would say that the centre-left is united by a belief that the government should primarily focus its economic interventions on solving collective action problems and fixing market failures and that the government should do this in a redistributive manner.
 
@@ -51,7 +54,7 @@ The centre-left isn't entirely opposed to regressive taxation though. I support 
 
 My disagreements with the hard-left are rarely about morality. In general, I am liable to agree with your average communist, anarcho-communist, anarcho-syndicalist, socialist, etc. about the moral necessity of reducing poverty. I disagree with the hard-left merely about what is practical or expedient. I oppose setting prices (whether it's for <a href="http://www.econlib.org/library/Enc/RentControl.html">rent</a>, <a href="http://slatestarcodex.com/2016/09/07/reverse-voxsplaining-brand-name-drugs/">pharmaceuticals</a>, or <a href="http://documents.worldbank.org/curated/en/332991468739452719/World-fossil-fuel-subsidies-and-global-carbon-emissions">fossil fuels</a>) because the "cure" of setting prices is so often worse than the disease the price-setting is supposed to fix. I do genuinely believe that a rising tide can lift all boats and worry that hard-left policies would sabotage the engine of growth that has <a href="http://www.economist.com/news/leaders/21578665-nearly-1-billion-people-have-been-taken-out-extreme-poverty-20-years-world-should-aim">lifted over billion people out of absolute poverty</a> in the past few decades.
 
-The main role I see for the government is offering insurance. There are a variety of insurance products that suffer from adverse selection – the tendency for only the highest risk individuals or companies to purchase insurance against for certain risks. We see adverse selection in deposit insurance <a id="top-m17-1" href="#m17-1">[1]</a>, health insurance, unemployment insurance, welfare (which is basically poverty insurance), and pensions (which are best modelled as insurance against outliving your savings). In these areas, the government can easily address a market failure by mandating that everyone must buy insurance against the risk. This lowers prices the average price considerably, making it feasable for the average person to protect against rare events in a way that isn't possible in a market with adverse selection.
+The main role I see for the government is offering insurance. There are a variety of insurance products that suffer from adverse selection – the tendency for only the highest risk individuals or companies to purchase insurance against for certain risks. We see adverse selection in deposit insurance[^1], health insurance, unemployment insurance, welfare (which is basically poverty insurance), and pensions (which are best modelled as insurance against outliving your savings). In these areas, the government can easily address a market failure by mandating that everyone must buy insurance against the risk. This lowers prices the average price considerably, making it feasable for the average person to protect against rare events in a way that isn't possible in a market with adverse selection.
 
 I also believe that the government should be involved in correcting for negative externalities. Without some central body forcing market participants to pay for negative externalities, we see them become distressingly common. If companies and individuals had always had to pay for the carbon they dumped into the atmosphere, we would expect global warming to be far less advanced by now. Where the externality doesn't compete too strongly with human health and flourishing (e.g. small amounts of pollution, carbon dioxide, etc.), I think it makes sense to price it rather than ban it completely.
 
@@ -68,6 +71,7 @@ I don't know if we can convince many people to make do with less. I know that re
 Given my skepticism about radical redistribution, I've become convinced that the only way to eradicate poverty is to create such a plenty that everyone can be guaranteed a decent living. This is why I worry about the slow and steady European approach to growth. Extreme poverty is the greatest stain on our collective morality I can see, an unconscionable and despicable ender of lives. We can't afford to wait a single extra day to destroy it.
 
 (In the absence of the eschaton, there is a community of people dedicated to doing what they can to reduce the impact of poverty. I encourage everyone to check out the moral case for <a href="unconscionable">Giving What We Can</a>, an initiative that encourages those who can afford it to donate 10% of their income to the charities that are able to use that money to most effectively save lives).
+
 <h3>Authority</h3>
 I view the government as having little business legislating morality. I'm happy to accept economic legislation. I'm happy for the government to make activities associated with poor outcomes (e.g. alcohol consumption) more expensive via taxes. I'm even happy to pay taxes, both of the regular and "vice" varieties. I accept that taxes are a coercive use of government violence and I don't care. I'm not a deontologist. I view violence as likely to be wrong, but I'm actually fine with the <em>threat</em> of violence being used to force society wide cooperation on the sorts of things that we'd mostly agree to from behind a Rawlsian veil of ignorance.
 
@@ -75,7 +79,7 @@ On the other hand, when we're dealing with private, consensual behaviour (betwee
 
 I even break with many other skeptics with my opposition to banning homeopathy or other widely accepted but empirically useless forms of placebo treatment. A friend has convinced me we'd likely see worse outcomes if we forced alternative medicines and their practitioners underground.
 
-I think Canada's free speech protections are inadequate and that we're at risk of becoming a forum for libel shopping. I've become increasingly convinced that the only proper response to most speech is more speech, not violence (even state sanctioned violence, like arrest and imprisonment). I make an exception here only for credible threats (in the context of internet discussion, a credible threat is something like: "I will be waiting at ______, the place you work tomorrow and I'll have a bullet with your name on it", not "fuck you, I'm going to kill you").
+I think Canada's free speech protections are inadequate and that we're at risk of becoming a forum for libel shopping. I've become increasingly convinced that the only proper response to most speech is more speech, not violence (even state sanctioned violence, like arrest and imprisonment). I make an exception here only for credible threats (in the context of internet discussion, a credible threat is something like: "I will be waiting at **\_\_**, the place you work tomorrow and I'll have a bullet with your name on it", not "fuck you, I'm going to kill you").
 
 I think violent or hateful speech clearly marks someone as an unpleasant person to be around. Freedom of speech is inextricably tied to freedom of association; free speech rights can't protect you from the social or reputational consequences of your speech. If you stop being invited to anything because of odious things you've said, you deserve it. No one has to offer you a platform for your speech. I see no responsibility to invite controversial speakers to events; doing so doesn't "stand up for free speech". Standing up for free speech merely requires we oppose violent responses to speech (including credible threats in response to speech) made by any actors, even the state.
 
@@ -88,16 +92,19 @@ My social libertarian streak comes from my belief in <a href="https://socratic-f
 I think that precedent utilitarianism looks favourable on human rights laws and I think Canada has an unusually good set of protected characteristics. I disagree with libertarians who find the human rights codes an unacceptable check on freedoms. I'm glad we have a set of protected characteristics that both protect vulnerable people from direct harm and protect society from tit-for-tat retaliation as various in-groups are threatened.
 
 I do sometimes find my support for protected characteristics hard to square with my firm belief that the government shouldn't enforce morality. I think that the precedent utilitarian argument for a government that doesn't legislate morality but does vigourously enforce rights, including protection from discrimination, is probably best summed up by Scott Alexander in the essay <a href="http://slatestarcodex.com/2014/02/23/in-favor-of-niceness-community-and-civilization/">In Favour of Niceness, Community, and Civilization</a>. When the government stands up for rights, it is reminding people that they will be much better off if they avoid negative sum exchanges (like reciprocal discrimination) and instead focus on positive sum exchanges.
+
 <h3>Delta</h3>
 The change since I last took this test (2-3 years ago) is about +4 on the economic axis and +0.5 on the libertarian axis.
 
 I think the change on the authoritarian/libertarian axis is driven by my increasing patriotism. All government is composed of trade-offs. I am such a product of the Canadian trade-offs that I could not countenance living long term (or raising children) in a country other than Canada.
 
 Changes on the economic axis were driven by my changing opinions about socialism. A few years ago my thoughts were: "maybe this could work". My current thoughts are more: "socialism: the correct answer for the post-scarcity future, where its propensity for famines will no longer be a problem". A combination of <a href="http://induecourse.ca/">In Due Course</a> and <a href="http://slatestarcodex.com/">Slate Star Codex</a> convinced me that capitalism is our best bet for getting to that post-scarcity future.
+
 <h3>Predictions</h3>
 Looking directly at my current positions themselves, I don't expect them to change much over the next year. Given that I recall feeling that way last time I took this test, I'm inherently skeptical of that intuition.
 
 Taking just the past into account, I should expect my positions to change regardless of how I feel about them. Taking everything into account, here's where I think I will be at the end of May 2018:
+
 <ol>
  	<li>I will have an economic score &gt; -2.25: 50%</li>
  	<li>I will have an economic score &gt; -4.25: 80%</li>
@@ -106,5 +113,7 @@ Taking just the past into account, I should expect my positions to change regard
  	<li>I will have an authority score &lt; -5.56: 90%</li>
  	<li>My top level social identity will still be "libertarian": 90%</li>
 </ol>
-<h3>Footnotes:</h3>
-<strong id="m17-1">[1]</strong> Bank runs used to be a fact of life. Whenever anyone got hint of any trouble at a bank, they'd rush to it and pull all of their money out, to protect against losing it in the event the bank failed. Unfortunately, this often caused banks to fail, because everyone had an incentive to try and pull all their money out at the slightest hint of insecurity. If they didn't, they'd risk losing it when other people ran to the bank to do the same. Old banks are imposing to give people a sense that their money is safe there. Ever wondered why bank runs just stopped happening in developed countries? Turns out it's because the government started to insure deposits. Once you know that your money will be safe no matter what, you no longer have any incentive to withdraw it at the first sign of trouble. <a href="#top-m17-1">^</a>
+
+<hr class="post-end" />
+
+[^1]: Bank runs used to be a fact of life. Whenever anyone got hint of any trouble at a bank, they'd rush to it and pull all of their money out, to protect against losing it in the event the bank failed. Unfortunately, this often caused banks to fail, because everyone had an incentive to try and pull all their money out at the slightest hint of insecurity. If they didn't, they'd risk losing it when other people ran to the bank to do the same. Old banks are imposing to give people a sense that their money is safe there. Ever wondered why bank runs just stopped happening in developed countries? Turns out it's because the government started to insure deposits. Once you know that your money will be safe no matter what, you no longer have any incentive to withdraw it at the first sign of trouble.

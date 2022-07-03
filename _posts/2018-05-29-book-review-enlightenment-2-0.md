@@ -1,6 +1,6 @@
 ---
 id: 760
-title: 'Book Review: Enlightenment 2.0'
+title: "Book Review: Enlightenment 2.0"
 date: 2018-05-29T22:59:43-04:00
 author: Zach
 layout: post
@@ -17,6 +17,7 @@ tags:
   - political philosophy
   - tradeoffs are hard
 ---
+
 It is a truth universally acknowledged that an academic over the age of forty must be prepared to write a book talking about how everything is going to hell these days. Despite literally no time in history featuring fewer people dying of malaria, dying in childbirth, dying of vaccine preventable illnesses, etc., it is very much in vogue to criticise the foibles of modern life. Heck, Ross Douthat makes a full-time <a href="https://www.nytimes.com/column/ross-douthat">job out of it over at the New York Times</a>.
 
 <a href="https://www.harpercollins.com/9781443422536/enlightenment-2-0">Enlightenment 2.0</a> is Canadian academic <a href="http://utoronto.academia.edu/JosephHeath">Joseph Heath's</a> contribution to the genre. If the name sounds familiar, it's probably because I've referenced him <a href="https://socratic-form-microscopy.com/?s=joseph+heath">a bunch of times</a> on this blog. I'm very much a fan of his book <a href="https://en.wikipedia.org/wiki/Filthy_Lucre:_Economics_for_People_Who_Hate_Capitalism">Filthy Lucre</a> and his shared blog, <a href="http://induecourse.ca/">induecourse.ca</a>. Because of this, I decided to give his book (and only his book) decrying the modern age a try.
@@ -33,11 +34,14 @@ His explanation goes like this: imagine that once every ten years politicians co
 
 We have some evidence of a similar process occurring in advertising. If you ever look at an old ad, you'll see people trying to convince you that their product is the best. Modern readers will probably note a lot of "mistakes" in old ads. For example, they often admit to flaws in the general class of product they're selling. They always talk about how their product fixes these flaws, but we now know that talking up the negative can leave people with negative affect. Advertising rarely mentions flaws these days.
 
-[caption id="attachment_767" align="aligncenter" width="768"]<img class="wp-image-767 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/ThothGodofKnowledgeWatchAd-768x1149.jpg" alt="" width="768" height="1149" /> Can you imagine an ad like this being printed today? Image credit: "<a href="https://www.flickr.com/photos/thoth-god/4179614841/">Thoth God of Knowledge" on Flickr</a>.[/caption]
+{% capture caption %}
+Can you imagine an ad like this being printed today? Image credit: "<a href="https://www.flickr.com/photos/thoth-god/4179614841/">Thoth God of Knowledge" on Flickr</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/ThothGodofKnowledgeWatchAd-768x1149.jpg" alt="" caption=caption %}
 
 Modern ads are much more likely to try and associate a product with an image, mood, or imagined future life. Cleaning products go with happy families and spotless houses. Cars with excitement or attractive potential mates.
 
-[caption id="attachment_761" align="aligncenter" width="768"]<img class="wp-image-761 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/placido-domingo-rolex-day-date-ii-768x1086.jpg" alt="" width="768" height="1086" /> Look at this Rolex ad. It screams: "This man is successful! Wear a Rolex so everyone knows you're that successful/so that you become that successful." The goal is to get people to believe that Rolex=success. Rolex's marketing is so successful that Rolex's watches are seen as a status marker and luxury good the world over, even though quite frankly they're kind of ugly. Image copyright Rolex, used here for purposes of criticism.[/caption]
+{% include image.html src="/wp-content/uploads/placido-domingo-rolex-day-date-ii-768x1086.jpg" alt="" caption="Look at this Rolex ad. It screams: \"This man is successful! Wear a Rolex so everyone knows you're that successful/so that you become that successful.\" The goal is to get people to believe that Rolex=success. Rolex's marketing is so successful that Rolex's watches are seen as a status marker and luxury good the world over, even though quite frankly they're kind of ugly. Image copyright Rolex, used here for purposes of criticism." %}
 
 In Heath's view, one negative consequence of globalism is that all of the most un-reasonable inventions from around the world get to flourish everywhere and accumulate, in the same way that globalism has allowed all of the worst diseases of the world to flourish.
 
@@ -104,3 +108,5 @@ Enlightenment 2.0 is going to be one of those books that, on a fundamental level
 (This is why I'm not too sad about Trudeau's broken electoral reform promises. Mixed member proportional elections actually encourage fragmentation and give <a href="https://en.wikipedia.org/wiki/Geert_Wilders">extremists an incentive to be loud</a>. First past the post gives parties a strong incentive to <a href="http://induecourse.ca/trump-and-electoral-reform-connecting-the-dots/">squash their extremist wings</a> and I value this in society.)
 
 For that (as well as its truly excellent overview of all the weird ways our brains evolved), I heartily recommend Enlightenment 2.0.
+
+<hr class="post-end" />

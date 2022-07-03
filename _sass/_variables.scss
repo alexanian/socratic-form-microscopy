@@ -1,7 +1,7 @@
 // Font family
-$body-font-family: "Helvetica Neue", Arial, sans-serif;
+$body-font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
 $body-font-size: 16px;
-$prose-font-size: 20px;
+$prose-font-size: 19px;
 
 // Type scale
 $h0-mobile: 40px;
@@ -15,7 +15,7 @@ $h5-size: 16px !default;
 $h6-size: 12px !default;
 
 // Default border color
-$color-border: #ddd !default;
+$color-border: #000 !default;
 
 // Container width
 $container-width: 64em;
@@ -24,7 +24,7 @@ $container-width: 64em;
 $breakpoint-lg: 52em;
 
 // Spacing unit
-$spacer: 8px !default;
+$spacer: 6px !default;
 
 // Spacing scale
 $spacer-1: $spacer !default; // 8px

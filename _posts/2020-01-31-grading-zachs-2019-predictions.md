@@ -1,6 +1,6 @@
 ---
 id: 1018
-title: 'Grading Zach''s 2019 Predictions'
+title: "Grading Zach's 2019 Predictions"
 date: 2020-01-31T10:00:11-05:00
 author: Tessa Alexanian
 layout: post
@@ -13,7 +13,12 @@ categories:
 tags:
   - predictions
 ---
-Let’s look at how accurately Zach <a href="https://socratic-form-microscopy.com/2019/01/06/2019-predictions/">predicted 2019</a>. As usual (<a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">2017 results</a>, <a href="https://socratic-form-microscopy.com/2019/01/01/grading-my-2018-predictions/">2018 results</a>), the predictions are broken down by region.
+
+# <<<<<<< HEAD
+
+> > > > > > > main
+> > > > > > > Let’s look at how accurately Zach <a href="https://socratic-form-microscopy.com/2019/01/06/2019-predictions/">predicted 2019</a>. As usual (<a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">2017 results</a>, <a href="https://socratic-form-microscopy.com/2019/01/01/grading-my-2018-predictions/">2018 results</a>), the predictions are broken down by region.
+
 <h2><b>Canada</b></h2>
 <ol>
  	<li>Liberals win the next Canadian election – 60%</li>
@@ -153,8 +158,11 @@ The whole point of having predictions with binned probabilities (here, 51%, 60%,
 </ul>
 Represented graphically (along with previous years) this looks like:
 
-<img class="alignnone wp-image-1024 size-full" src="https://socratic-form-microscopy.com/wp-content/uploads/2019predictions-1.gif" alt="Line graph comparing the percentage of correct predictions to perfect calibration. An animation contrasts 2019 scores with 2017 and 2018 scores." width="600" height="371" />
+<img class="alignnone wp-image-1024 size-full" src="/wp-content/uploads/2019predictions-1.gif" alt="Line graph comparing the percentage of correct predictions to perfect calibration. An animation contrasts 2019 scores with 2017 and 2018 scores." width="600" height="371" />
 
 The worsened calibration for 2019 is likely a reflection of the fact that Zach didn’t grade these predictions. My best interpretation of the predictions (and of the available evidence) is almost certainly less accurate than Zach’s would have been.
+
 <h2><b>A Final Note</b></h2>
 You may wonder why I graded these predictions. I am sorry to say that Zach could not; they passed away suddenly last August. (You can read <a href="https://www.dignitymemorial.com/obituaries/brantford-on/zachary-jacobi-8815357">the obituary</a> here, if you’d like.) I wish, with all the sharp vehemence of recent grief, that I could still eavesdrop as Zach honed their beliefs about the world. I hope my years of doing so will inspire me to cultivate truer (and better-calibrated) beliefs on my own.
+
+<hr class="post-end" />

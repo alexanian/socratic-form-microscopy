@@ -15,13 +15,16 @@ tags:
   - nuclear weapons
   - x-risk
 ---
-<em>[10 minute read]</em>
+
+<p class="caption pre-post-meta">
+[10 minute read]
+</p>
 
 <em>The following is the annotated speakers notes for a talk I gave on nuclear weapons today. I'd like to claim that it was a transcript, but after practicing from these notes for almost a week, I ended up giving the talk mostly ex tempore. Like I always do. </em>
 
 <em>Note:</em> <em>The uncredited photos were created by the US government and therefore have no copyright attached. All other images are either original (and therefore covered by the same license as the rest of the blog) or are credited and subject to the original license (normally CC-BY of some sort).</em>
 
-<img class="alignnone size-full wp-image-544" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide01.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-544" src="/wp-content/uploads/Slide01.png" alt="" width="720" height="405" />
 
 Hi I'm Zach.
 
@@ -31,21 +34,21 @@ Let’s actually do this thing like you’re a bunch of kids; I'm going to assum
 
 Why am I doing this?
 
-<img class="alignnone wp-image-545 size-full" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide02.png" alt="This got the laughs I was hoping for" width="720" height="405" />
+<img class="alignnone wp-image-545 size-full" src="/wp-content/uploads/Slide02.png" alt="This got the laughs I was hoping for" width="720" height="405" />
 
 Like maybe a lot of you, I've been worried about nuclear weapons of late. My worrying actually started in September 2016. I don't know if you remember, but that was the first time it seemed like Trump might really win. And then I think a lot of us had to grapple with what that meant.
 
 And the biggest question there was "could this mean the end of the world?"
 
-<img class="alignnone size-full wp-image-546" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide03.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-546" src="/wp-content/uploads/Slide03.png" alt="" width="720" height="405" />
 
 I was worried about the end of the world because I knew Trump might end up with the nuclear launch codes and all I really knew about nuclear weapons was that they were really dangerous. At this point I was very much in the pop culture mode of "these are the things that end the world in blockbuster movies".
 
 Of course before I could really take this fear seriously, I had to think about why Trump might actually use nuclear weapons. Like I was pretty sure he wasn't going to nuke Tuvalu just for fun.
 
-<img class="alignnone size-full wp-image-548" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide05.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-548" src="/wp-content/uploads/Slide05.png" alt="" width="720" height="405" />
 
-Here's what the payoff matrix looks like for nuclear war between major powers. Everyone is pretty happy doing nothing, although they'd be happier if they could wipe out their pesky rivals <a id="talk-top-1" href="#talk-bot-1">[1]</a>. Unfortunately, their rivals want to avenge themselves if they're going to die.
+Here's what the payoff matrix looks like for nuclear war between major powers. Everyone is pretty happy doing nothing, although they'd be happier if they could wipe out their pesky rivals[^1]. Unfortunately, their rivals want to avenge themselves if they're going to die.
 
 The decision-making algorithm that tells us we're going to stick to doing nothing is General Metarationality. We know how our opponents will act in response to our actions and we avoid actions that will cause strong sanctioning. And I don't know of any sanctions stronger than getting nuked.
 
@@ -53,13 +56,13 @@ This whole thing works because everyone understands it. The logic is so inescapa
 
 But this is just theory. How do you ensure mutually assured destruction in practice?
 
-<img class="alignnone size-full wp-image-549" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide06.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-549" src="/wp-content/uploads/Slide06.png" alt="" width="720" height="405" />
 
 That’s a question people have been asking since the 1950s. By now everyone's agreed that there's a right way to do it and a wrong way to do it. The wrong way is to stick a bunch of missiles in a desert and call it a day. The right way is to come up with three separate ways of delivering your warheads, spend billions and billions of dollars on them, and call it a day.
 
-Here we have the three methods that everyone's chosen – and I want to make it clear that this is arbitrary; three others would work just as well <a id="talk-top-2" href="#talk-bot-2">[2]</a>. As it stands though, the conventional nuclear triad is Nuclear armed bombers, like the US B-52 or B-2, Intercontinental Ballistic Missiles (ICBMs) like the US Minuteman III, and submarine launched ballistic missiles (SLBMs), like the US Trident II. The idea with this triad is that it's impossible for an enemy to launch a first strike so devastating that they take out your whole ability to respond.
+Here we have the three methods that everyone's chosen – and I want to make it clear that this is arbitrary; three others would work just as well[^2]. As it stands though, the conventional nuclear triad is Nuclear armed bombers, like the US B-52 or B-2, Intercontinental Ballistic Missiles (ICBMs) like the US Minuteman III, and submarine launched ballistic missiles (SLBMs), like the US Trident II. The idea with this triad is that it's impossible for an enemy to launch a first strike so devastating that they take out your whole ability to respond.
 
-<img class="alignnone size-full wp-image-550" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide07.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-550" src="/wp-content/uploads/Slide07.png" alt="" width="720" height="405" />
 
 Planners are always vaguely trying to build up their capacity for a "first strike" (remember the payoff matrix before; all nuclear powers would like it best if they could win a nuclear war). The first strike idea is this pernicious thought that maybe if you nuke someone else hard enough, you'll take out all their nukes and just win. No one has ever felt confident in their ability to pull off a first strike, which is good because if someone ever was, nuclear war would become inevitable.
 
@@ -67,13 +70,13 @@ But why do we care about first strikes and MAD?
 
 Because MAD has made civilization destroying nuclear war the default form of nuclear war, at least as far as all of the non-regional nuclear powers are concerned. With respect to Trump, it means that any nuclear war he starts with China or Russia, America’s traditional nuclear adversaries, would be really bad.
 
-<img class="alignnone size-full wp-image-551" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide08.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-551" src="/wp-content/uploads/Slide08.png" alt="" width="720" height="405" />
 
 Now we all know that Trump is basically in Putin's pocket. Because of this, I wasn't very worried about a nuclear war with Russia; I always figured that if things got heated with Russia, Trump would fold.
 
 At the time I first did this research – remember, this was September 2016, before we found out that Xi Jinping was more than a match for Trump – I thought nuclear war with China would become a lot more likely if Trump was president. So I looked into the Chinese nuclear arsenal and there I found the question that unlocked my understanding of nuclear weapons.
 
-<img class="alignnone size-full wp-image-552" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide09.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-552" src="/wp-content/uploads/Slide09.png" alt="" width="720" height="405" />
 
 China's premier missile is the silo-based Dongfeng 5. It has a range of about 12,000km and is tipped with a 5 Mt warhead.
 
@@ -85,7 +88,7 @@ And this was confusing, because we generally think of the US as more advanced th
 
 That's our key question right there.
 
-<img class="alignnone size-full wp-image-553" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide10.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-553" src="/wp-content/uploads/Slide10.png" alt="" width="720" height="405" />
 
 So I just told you I hate the Hiroshima comparison. Here's why: it assumes that nuclear weapons scale linearly. Get twice the yield and you should get twice the destruction, right? But very few things in the real world are linear. Nuclear weapons certainly aren't.
 
@@ -95,7 +98,7 @@ Each of these scales differently, but all of them are sublinear. This means that
 
 Some of these scaling effects are really complicated because of interactions with the ground or the air, but two are simple enough that I can give you a quick explanation of how to calculate them.
 
-<img class="alignnone size-full wp-image-554" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide11.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-554" src="/wp-content/uploads/Slide11.png" alt="" width="720" height="405" />
 
 When it comes to shockwave, I want you to imagine a sphere. The amount of stuff in that sphere is proportional to the radius of that sphere, r, to the third power. Energy is just the capacity to do work, in this case, move stuff. If you want to figure out the amount of stuff energy can move – say move in a city destroying shockwave – you move this equation around a bit and you end up with the cube root of energy. To double the range of the shockwave, you need eight times as much energy.
 
@@ -103,7 +106,7 @@ For thermal radiation, I want you to think about the surface of a sphere. The si
 
 In both these cases, this means you're facing severe diminishing returns. The 5 Mt Chinese warhead isn't 10x as powerful as the 475kt American bomb. It's between 2 and 3 times more powerful.
 
-<img class="alignnone size-full wp-image-555" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide12.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-555" src="/wp-content/uploads/Slide12.png" alt="" width="720" height="405" />
 
 It gets worse for the Chinese warhead. It's error radius is 800m, about 10x the 70m error radius of the Trident II. When aimed at a specific hardened target, like say a silo or a fortification, a target that needs to be hit with a certain amount of energy, the Chinese weapon is actually between 3x to 5x <i>less likely</i> to damage it than the American one, even though it's much bigger. That's not even to mention that there are <i>eight</i> American warheads on each missile.
 
@@ -113,7 +116,7 @@ The Chinese warhead is big because they haven't mastered accuracy or MIRVs. With
 
 24x or 40x or whatever is nice and all, but why doesn't America go for broke and pack their thing full of 5 Mt warheads too? Wouldn't that be best?
 
-<img class="alignnone size-full wp-image-556" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide13.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-556" src="/wp-content/uploads/Slide13.png" alt="" width="720" height="405" />
 
 Well that's because space and especially weight is at a premium on a rocket. The heavier it is, the shorter its range. There's this whole laborious process called "miniaturization" that all nuclear weapons programs have to master. You detonate your test bomb in a big fixed installation, but then you need to make it small enough that you can fit it on a missile. That's hard.
 
@@ -123,9 +126,10 @@ Not a triad. So, there's still time for a first strike. But they're working on S
 
 These probably won't work if push comes to shove, but that's a story for another day.
 
-<img class="alignnone size-full wp-image-557" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide14.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-557" src="/wp-content/uploads/Slide14.png" alt="" width="720" height="405" />
 
 So to summarize:
+
 <ul>
  	<li>The major nuclear powers are China, Russia, and the USA</li>
  	<li>Mutually Assured Destruction is guaranteed by a nuclear triad and has kept these powers from nuking each other.</li>
@@ -135,22 +139,20 @@ So to summarize:
  	<li>Don't use Hiroshima as a unit of measure, because people will assume that destruction is linear and overestimate how bad things will be</li>
  	<li>North Korea can't do anything until they miniaturize a nuke. It's unclear if they have yet.</li>
 </ul>
-<img class="alignnone size-full wp-image-558" src="https://socratic-form-microscopy.com/wp-content/uploads/Slide15.png" alt="" width="720" height="405" />
+<img class="alignnone size-full wp-image-558" src="/wp-content/uploads/Slide15.png" alt="" width="720" height="405" />
 
 If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0-introduction/">nuclear weapons in general</a> or <a href="/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korea's nuclear weapon program in particular</a>, you can go to my blog at socraticfm.com. Also Wikipedia exists.
+
 <h3>Questions</h3>
 <ul>
  	<li>In response to a question about the risk of Pakistani nuclear weapons falling into the wrong hands, I explained that this would be locally really bad, but drew the distinction between events that are bad for a localized group of people (like the Taliban nuking Karachi) and events that are bad for the human race (a MAD-level nuclear exchange between China and the US). If you're worrying about the <em>existential</em> risk posed by nuclear weapons, the first is really just noise, except insofar as it can make the second more likely by increasing tensions all around.</li>
  	<li>In response to a question about disarmament, I talked about the New START treaty and the need to distinguish between warheads that are stored (most of them, at least for Russia and America) and warheads ready to go (1,550 for both the US and Russia, if they're sticking to their treaty obligations). I stressed the need for further treaties like New START to slowly reduce the number of active (and therefore existentially dangerous) nuclear weapons in the arsenals of major powers.</li>
 </ul>
-<h3>Footnotes</h3>
-<strong id="talk-bot-1">[1]</strong> I was questioned pretty heavily on this pay-off matrix. Several people thought that <em>Do Nothing</em> should be preferred to <em>Attack</em>. I have two things to say to this:
-<ol>
- 	<li>In an iterated game with this sort of matrix, the highest payoff comes when people cooperate the most. So while at any given point in time attacking might be preferred, once you take into account that real life is iterated, doing nothing is a better long term strategy.</li>
- 	<li>All of us born after the Cold War, or even born after the 60s, cannot adequately understand what it was like to live in a world where it really did seem like the Soviets might "bury us". Faced with that kind of existential threat, a first strike seemed like an appealing option. In this globalist age, it does seem much worse to launch a first strike, especially because major powers do major mutual trade.</li>
-</ol>
-<a href="#talk-top-1">^</a>
 
-<strong id="talk-bot-2">[2]</strong> If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).  <a href="#talk-top-2">^</a>
 <h3>Using this presentation</h3>
 The slides are available <a href="https://www.dropbox.com/s/6ebxh6dbdhpz04w/Presentation.pptx?dl=0">here</a>. This content, like everything else original on my blog, is covered by the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA v4 International</a> license. If you present this, please reference this blog and include a link. If you are a student and using this presentation is against the academic policies of your institution, I'd ask that you please refrain from plagiarizing it.
+
+<hr class="post-end" />
+
+[^1]: I was questioned pretty heavily on this pay-off matrix. Several people thought that <em>Do Nothing</em> should be preferred to <em>Attack</em>. I have two things to say to this:<br />First, in an iterated game with this sort of matrix, the highest payoff comes when people cooperate the most. So while at any given point in time attacking might be preferred, once you take into account that real life is iterated, doing nothing is a better long term strategy.<br/>Second, all of us born after the Cold War, or even born after the 60s, cannot adequately understand what it was like to live in a world where it really did seem like the Soviets might "bury us". Faced with that kind of existential threat, a first strike seemed like an appealing option. In this globalist age, it does seem much worse to launch a first strike, especially because major powers do major mutual trade.
+[^2]: If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).

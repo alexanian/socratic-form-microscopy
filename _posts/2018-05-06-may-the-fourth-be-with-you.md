@@ -13,11 +13,14 @@ categories:
 tags:
   - silly
 ---
+
+<p class="caption pre-post-meta">
 (The following is the text of the prepared puns I delivered at the 30th <a href="https://worldwidepuns.com/">Bay Area pun off</a>. If you're ever in the Bay for one, I really recommend it. They have the nicest crowd in the world.)
+</p>
 
 First: May the Fourth be with you ("and also with you" is how you respond if like me, you grew up Catholic). As you might be able to tell from this shirt, I am <em>religiously</em> devoted to Star Wars. I know a lot about Star Wars, but I'm more of an <strong>orthodox</strong> fan- I was all about the Expanded Universe, not this reverend-ing stream of Disney sequels.
 
-[caption id="attachment_751" align="aligncenter" width="189"]<img class="wp-image-751 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/2018-05-04-09.41.00-1-189x300.jpg" alt="" width="189" height="300" /> Pictured: the outfit I wore[/caption]
+{% include image.html src="/wp-content/uploads/2018-05-04-09.41.00-1-189x300.jpg" alt="" caption="Pictured: the outfit I wore" %}
 
 They might be popepular, but it seems like all Disney wants is to turn a <strong>prophet</strong> - just get big <strong>fatwa</strong>s of cash. They don't care about <strong>Allah</strong> the history that happened in the books. Just <strong>mo-hamme(r)</strong>ed out scripts with flashy set piece battles full of <strong>Mecca</strong> and characters we <strong>med-in-a</strong> earlier film.
 
@@ -28,3 +31,5 @@ There were so many <strong>convert</strong>-sations between the two of them, lik
 What else? Luke trains under a clone of Emperor <strong>Pulpit</strong>-een. Leia is like, "<strong>bish, op</strong>en your eyes, dude's dark" but Luke justifies it with "well, there's some things <strong>vatican</strong> teach me".
 Eventually after Leia asks "how could you <strong>Judas</strong> to us", Luke snaps out of it and decides he's having <strong>nun</strong> of Palpatine's evil deeds. He <strong>con-vent</strong> his anger somewhere else. He comes back to the light side and everyone's pretty willing to ex-<strong>schism</strong> for everything he did.
 Anyway, I'm really sad that the books aren't canon anymore. I know there are a lot of <strong>ram, a dan</strong>ting number, but I hope I have <strong>Eid</strong>ed you in appreciating them.
+
+<hr class="post-end" />

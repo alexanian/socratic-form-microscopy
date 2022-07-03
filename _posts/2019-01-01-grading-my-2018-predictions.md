@@ -13,7 +13,9 @@ categories:
 tags:
   - predictions
 ---
+
 In what is becoming a New Year's tradition, let's look at how accurately I predicted the future <a href="https://socratic-form-microscopy.com/2018/01/03/2018-predictions/">a year ago</a>.
+
 <h2>Canada</h2>
 <ol>
  	<li>Liberals remain ahead in <a href="http://www.cbc.ca/news/politics/poll-tracker-federal-poll-averages-and-seat-projections-1.4171977">the CBC Poll Tracker seat projection</a> – 70%</li>
@@ -150,7 +152,7 @@ The whole point of having predictions with binned probabilities (here, 51%, 60%,
 </ul>
 Some people prefer to look at this graphically. Here I've plotted my answers versus what you'd expect if I was perfectly calibrated (something I say is 70% likely to happen happens 70% of the time). Whenever the blue line labelled "Mine" is below the red line labelled "Perfect", I was overconfident. Whenever it's above the red line, I was under-confident.
 
-<img class="alignleft wp-image-906 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/Calibration2018Updated-768x650.png" alt="" width="768" height="650" />
+<img class="alignleft wp-image-906 size-medium_large" src="/wp-content/uploads/Calibration2018Updated-768x650.png" alt="" width="768" height="650" />
 
 Like last year, I'm pleased with these results. Most of my probability bins were very well calibrated, although I seem to have become rather overconfident at the 60% level. I was under-confident at that level last year by a significant amount, so this might just be normal variance. I'll keep an eye on this for next year.
 

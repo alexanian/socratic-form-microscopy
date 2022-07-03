@@ -17,6 +17,7 @@ tags:
   - tech
   - zach does analysis
 ---
+
 The Cambridge Analytica scandal has put tech companies front and centre. If the thinkpieces along the lines of "are the big tech companies good or bad for society" were coming out any faster, I might have to doubt even Google's ability to make sense of them all.
 
 This isn't another one of those thinkpieces. Instead it's an attempt at an analysis. I want to understand in monetary terms how much one tech company – Google – puts into or takes out of everyone's pockets. This analysis is going to act as a template for some of the more detailed analyses of inequality I'd like to do later, so if you have a comment about methodology, I'm eager to hear it.
@@ -62,3 +63,5 @@ Even if this was lower than historical bounds, it wouldn't necessarily prove Goo
 The change in advertising spending during the years Google is growing could be driven by Google and similar advertising services. But it also could be normal year to year variation, driven by trends similar to what have driven it in the past. If I had a Ph. D. in advertising history, I might be able to tell you what those trends are, but from my present position, all I can say is that the current movement doesn't seem that weird, from a historical perspective.
 
 In summary, it looks like the expected value for the average person from Google products is close to $0, but leaning towards positive. It's likely to be positive for you personally if you need a word processor or use Android phones, but the error bounds on advertising mean that it's hard to tell. Furthermore, we can confidently say that the current disruption in the advertising space is probably less severe than the historical disruption to the field during World War II. There's also a chance that more targeted advertising has led to less advertising spending (and this does feel more likely than it leading to more spending), but the historical variations in data are large enough that we can't say for sure.
+
+<hr class="post-end" />

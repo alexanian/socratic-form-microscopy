@@ -22,6 +22,7 @@ tags:
   - regulation
   - tradeoffs are hard
 ---
+
 Last week I explained how poor decisions by central bankers (specifically failing to spur inflation) <a href="https://socratic-form-microscopy.com/2018/07/01/you-might-want-to-blame-central-banks-for-poor-wage-growth/">can make recessions much worse</a> and lead to slower wage growth during recovery.
 
 (Briefly: inflation during recessions reduces the real cost of payroll, cutting business expenses and making firing people unnecessary. During a recovery, it makes hiring new workers cheaper and so leads to more being hired. Because central bankers failed to create inflation during and after the great recession, many businesses are scared of raising salaries. They believe (correctly) that this will increase their payroll expenses to the point where they'll have to lay many people off if another recession strikes. Until memories of the last recession fade or central bankers clean up their act, we shouldn't expect wages to rise.)
@@ -59,3 +60,5 @@ Minimum wages are one example of a tradeoff we make <a href="https://socratic-fo
 <a href="https://socratic-form-microscopy.com/2018/02/09/cities-are-weird-and-minimum-wages-can-help/">Minimum wages</a> are just one way we can do this. <a href="https://socratic-form-microscopy.com/2017/08/27/why-dont-we-subsidize-higher-wages-or-public-policy-is-expensive/">Wage subsidies</a> or a <a href="http://slatestarcodex.com/2018/05/16/basic-income-not-basic-jobs-against-hijacking-utopia/">Universal Basic Income</a> are both being discussed with increasing frequency these days.
 
 But when we're making these kind of compassionate decisions, we need to look at the risks of whatever systems we choose. Proponents of indexing the minimum wage to inflation haven't done a good job of understanding the grave risk it poses to the health of our economy and perhaps most of all, to the very people they seek to help. In places like Ontario, where the minimum wage is already indexed to inflation, we're going to pay for their lack of foresight next time an economic disaster strikes.
+
+<hr class="post-end" />

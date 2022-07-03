@@ -1,6 +1,6 @@
 ---
 id: 816
-title: 'Sanderson&#8217;s Law Applies To Cultures Too'
+title: "Sanderson’s Law Applies To Cultures Too"
 date: 2018-07-22T09:00:19-04:00
 author: Zach
 layout: post
@@ -17,9 +17,11 @@ tags:
   - reading
   - someone else probably came up with this first
 ---
-[Warning: Contains spoilers for The Sunset Mantle, Vorkosigan Saga (Memory and subsequent), Dune, and Chronicles of the Kencyrath]
+
+<p class="caption pre-post-meta">[Warning: Contains spoilers for The Sunset Mantle, Vorkosigan Saga (Memory and subsequent), Dune, and Chronicles of the Kencyrath]</p>
 
 For the uninitiated, Sanderson's Law (technically, Sanderson's First Law of Magic) is:
+
 <blockquote>An author's ability to solve conflict with magic is DIRECTLY PROPORTIONAL to how well the reader understands said magic.</blockquote>
 Brandon Sanderson wrote this law to help new writers come up with satisfying magical systems. But I think it's applicable beyond magic. A recent experience has taught me that it's especially applicable to fantasy cultures.
 
@@ -36,6 +38,7 @@ Many of the key plot points in <em>Sunset Mantle</em> hinge on obscure rules in 
 These actually fit together surprising well! Reiss pulled off an entertaining book. But I think many of the plot points fell flat because they were almost impossible to anticipate. The lack of any sort of consistent real-world analogue to the invented culture meant that I never really had an intuition of what it would demand in a given situation. This meant that all of the problems in the story that were solved via obscure points of culture weren't at all satisfying to me. There was build up, but then no excitement during the resolution. This was common enough that several chunks of the story didn't really work for me.
 
 Here's one example:
+
 <blockquote>“But what,” asked Lemist, “is a congregation? The Ayarith school teaches that it is ten men, and the ancient school of Baern says seven. But among the Irimin school there is a tradition that even three men, if they are drawn in together into the same act, by the same person, that is a congregation, and a man who has led three men into the same wicked act shall be put to death by the axe, and also his family shall bear the sin.”
 
 All the crowd in the church was silent. Perhaps there were some who did not know against whom this study of law was aimed, but they knew better than to ask questions, when they saw the frozen faces of those who heard what was being said.
@@ -52,6 +55,7 @@ The job is that of Imperial Auditor – a high powered investigator who reports 
 Imperial Auditors are given broad discretion to resolve problems as they see fit. The main rule is: make sure the emperor would approve. We later see Miles using the awesome authority of this office to make sure a widow gets the pension she deserves. The letter of the law wasn't on her side, but the spirit was, and Miles, as the Auditor on the spot, was empowered to make the spirit speak louder than the letter.
 
 Wandering around my bookshelves, I was able to grab a couple more examples of satisfying resolutions to conflicts that hinged on guessable cultural traits:
+
 <ul>
  	<li>In <em>Dune</em>, Fremen settle challenges to leadership via combat. Paul Maud'dib spends several years as their de facto leader, while another man, Stilgar, holds the actual title. This situation is considered culturally untenable and Paul is expected to fight Stilgar so that he can lead properly. Paul is able to avoid this unwanted fight to the death (he likes Stilgar) by appealing to the only thing Fremen value more than their leadership traditions: their well-established pragmatism. He says that killing Stilgar before the final battle would be little better than cutting off his own arm right before it. If Frank Herbert hadn't mentioned the extreme pragmatism of the Fremen (to the point that they render down their dead for water) several times, this might have felt like a cop-out.</li>
  	<li>In <em>The Chronicles of the Kencyrath</em>, it looks like convoluted politics will force protagonist Jame out of the military academy of Tentir. But it's mentioned several times that the NCOs who run the place have their own streak of honour that allows them to subvert their traditionally required oaths to their lords. When Jame redeems a stain on the Tentir's collective honour, this oath to the college gives them an opening to keep her there and keep their oaths to their lords. If PC Hodgell hadn't spent so long building up the internal culture of Tentir, this might have felt forced.</li>
@@ -63,6 +67,7 @@ If the other inhabitants of a fantasy world are telling off-colour jokes about t
 (Even if you've never played Mass Effect, you now know something about Turians.)
 
 At the same time as I started writing this, I started re-reading PC Hodgell's <em>The Chronicles of the Kencyrath,</em> which provided a handy example of someone doing everything right. The first three things we learn about the eponymous Kencyr are:
+
 <ol>
  	<li>They heal very quickly</li>
  	<li>They dislike their God</li>
@@ -77,6 +82,7 @@ God Stalk is not a long book, so that fact that PC Hodgell was able to set all o
 If you don't come up with a similar distillation and convey it to your readers quickly, there will be a period where you can't use culture as a satisfying source of plot resolution. It's probably no coincidence that I noticed this in <em>Sunset Mantle</em>, which is a long(-ish) novella. Unlike Hodgell, Reiss isn't able to develop a culture in such a limited space, perhaps because his culture has fewer obvious touchstones.
 
 Sanderson's Second Law of Magic can be your friend here too. As he stated it, the law is:
+
 <blockquote>The limitations of a magic system are more interesting than its capabilities. What the magic can't do is more interesting than what it can.</blockquote>
 Similarly, the taboos and strictures of a culture are much more interesting than what it permits. Had Reiss built up a quick sketch of complicated rules around commanding and preaching (with maybe a reference that there could be surprisingly little theological difference between military command and being behind a pulpit), the rule about leading a congregation astray would have fit neatly into place with what else we knew of the culture.
 
@@ -85,3 +91,5 @@ Having tight constraints imposed by culture doesn't just allow for plot resoluti
 It is perhaps no accident that the only thing we learn initially about the Kencyr that isn't a descriptive fact (like their healing and their fraught theological state) is that honour binds them and can break them. This constraint, that all Kencyr characters must be honourable, does a lot of work driving the plot.
 
 This then would be my advice: when you wish to invent a fantasy culture, start simple, with a few stereotypes that everyone else in the world can be expected to know. Make sure at least one of them is an interesting constraint on behaviour. Then add in depth that people can get to know gradually. When you're using the culture as a plot device, make sure to stick to the simple stereotypes <em>or</em> whatever other information you've directly given your reader. If you do this, you'll develop rich cultures that drive interesting conflicts <em>and</em> you'll be able to use cultural rules to consistently resolve conflict in a way that will feel satisfying to your readers.
+
+<hr class="post-end" />

@@ -1,6 +1,6 @@
 ---
 id: 34
-title: 'Precedent Utilitarianism: A Primer'
+title: "Precedent Utilitarianism: A Primer"
 date: 2016-10-16T20:50:06-04:00
 author: Zach
 layout: post
@@ -15,6 +15,7 @@ tags:
   - ethics
   - utilitarianism
 ---
+
 <h3><strong>Preamble</strong></h3>
 When I first heard about deontology, I was intrigued. Here was an ethical system that could break you, if you weren't careful. I was young and hadn't really systematized my morality yet, but I dearly wanted to. I'd just learned about the stages of moral development and I felt a keen need to be at <a href="https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development">Kohlberg VI</a>.
 
@@ -27,6 +28,7 @@ Arendt had shown the weaknesses in deontology, shown how <a href="https://headbi
 I filled up the whole last page of Eichmann in Jerusalem with a cramped response to Arendt. I felt like her conception of justice was little better that vengeance and that justice <em>couldn't exist</em> without the procedures she just disparaged.
 
 Eichmann in Jerusalem left me with nagging questions and an empty space I yearned to fill. It would be a while before I had my answers.
+
 <h3 id="2nd-order"><strong>First and Second Order Utilitarianism</strong></h3>
 The summer after reading Eichmann in Jerusalem, I flirted with utilitarianism. I wasn't entirely satisfied with it. It's not that I <em>mind</em> debating <a href="http://lesswrong.com/lw/kn/torture_vs_dust_specks/">torture vs. dust specks</a> or trying to select a value function. My problems were partially caused by the fact that I'm a romantic and utilitarianism is cold and <em>utilitarian</em>. But it's also that I continue to worry about systems and precedents. For me, too many discussions about utilitarianism stick to the object level. I wanted to talk about the ripple effects of every decision and found often there was no room to.
 
@@ -35,6 +37,7 @@ One day, I found myself looking for high value books to read. One option was <a 
 <a href="/2016/09/30/utilitarianism-an-overview/">I've previously written an overview of several types of utilitarianism</a>. At the end, I mention that they're all what I call "first-order utilitarianism".
 
 Precedent Utilitarianism is a form of second-order utilitarianism. It doesn't just look at first-order consequences of an action. It looks at the precedents an action sets.
+
 <h3><strong>Precedents</strong></h3>
 <a href="/justice/">I wrote an essay about justice that focused on precedents</a>. In it, I make the claim that "precedent is what changes actions from unprecedented to normal". This may sound facile or even tautological. But there is a deeper point I'm driving at. For every action now considered normal, there was someone who was the first to do it. In Eichmann in Jerusalem, Hannah Arendt mentions something similar in passing. She believes that that the recurrence of any crime is more likely than its invention.
 
@@ -45,6 +48,7 @@ What makes Manson's actions different than Sulla's? It isn't just that murder is
 Why some crimes and not others? I think the answer to this question lies in part with the influence or charisma of the person setting the precedent. Hitler committed his grievous crimes at the helm of a country. Sulla was surrounded by patricians who wished that it had been them who seized Rome. Charles Manson has been influential in certain underground scenes. But he never led a country or commanded more than thirty people.
 
 So what we currently know about precedents is: they can be set by any action and are more likely to be set by people who command a significant following. Oh and one final thing. In <a href="https://en.wikipedia.org/wiki/Common_law">common law jurisdictions</a>, every single judicial ruling sets a <em>legal precedent</em>, which is enforceable on all lower courts within the same jurisdiction. This is the most literal manifestation of a precedent, an action that is inscribed in law as allowed or disallowed, all because someone asked a judge to rule on it.
+
 <h3><strong>Precedent Utilitarianism</strong></h3>
 With the information we just gathered about precedents, we can create a second-order utilitarianism that incorporates them.
 
@@ -59,6 +63,7 @@ Given all the people affected by the precedent, their chances of using it for va
 Simple, right?
 
 You may have noticed the problem. Utility function calculations beyond simple <a href="https://en.wikipedia.org/wiki/Quality-adjusted_life_year">QALY</a> evaluations are <em>really</em> hard. Adding in a bunch of hypothetical actions from a bunch of hypothetical people just makes it harder. And if the calculations are already impossible, it doesn't do you much good to have an even harder set of calculations that you're supposed to somehow pull off.
+
 <h3><strong>Heuristics</strong></h3>
 Precedent utilitarians (or utilitarians in general) would point out that the correct solution to calculations that literally take forever isn't to spend forever doing them. There's an opportunity cost to spending all your time thinking and none of it doing and this cost is considerable. The common solution is to do the best action you can see after a reasonable period of reflection and estimation of utility.
 
@@ -77,6 +82,7 @@ In general, the goal here is to consider ways that others acting along the same 
 The second heuristic deals with how your precedent can be used against you. The third heuristic with how likely this is to happen.
 
 <em>Fourth:</em> Add this all up. If the precedent you set is safe (very difficult to use to decrease the utility of the world), your power is secure (the precedent is unlikely to be used in ways that you think will decrease utility), you're unimportant (the precedent isn't going to be used by anyone else), and your public support is non-fragile (you can survive hypocrisy or special pleading) then you can decide on first-order grounds. If a few of these aren't true but you stand to gain a lot of utility, it remains safe to decide on first-order grounds. But if none of the conditions are met then it may very well be possible that you'd stand to lose net utility from second order effects. In this case, it probably makes sense to put your plan on hold while you spend more time calculating possible outcomes.
+
 <h3><strong>Other Ethical Systems</strong></h3>
 It's a safe bet that most people aren't utilitarians. It's also true that you will eventually have to interact with people who are both not utilitarians and have different axioms<a href="http://store-xkcd-com.myshopify.com/products/citation-needed-sticker-pack"><sup>[citation needed]</sup></a>. In both of these cases (but especially the second), it can be hard to productively express and argue about views. Some people avoid this problem entirely by embracing the comforting lie that those who disagree with them do so out of lack of education or stupidity. Alas, this uncharitable explanation is far too often just not the case. Sometimes you're stuck arguing with someone who has beliefs <em>that are just as internally consistent, logical, and evidence based as yours.</em>
 
@@ -89,6 +95,7 @@ On a smaller scale, precedent utilitarianism is useful when you need to convince
 Avoiding special pleading makes you look principled. Someone can respect you arguing against one of their proposed plans of action (and give your arguments much more credence) if they've also seen you argue against other actions (especially ones they would expect you to support given your axioms) using the same general principle.
 
 For example, if you're a Catholic and are arguing against having Buddhist prayers at a town hall meeting you'll have much more credibility if you have previously opposed having Catholic prayers read at town hall meetings (perhaps because you're worried that it sets a precedent that could lead to other prayers being read, which might lead to less utility in terms of saved Catholic souls). If instead you'd previously argued in favour of Catholic prayers but are now arguing that separation of church and state preclude prayers in meetings, thein no one will take you seriously. Worse, they will probably have assorted ill feelings towards you, making you less effective at convincing them even in unrelated matters.
+
 <h3><strong>Practical Examples</strong></h3>
 I want to give examples of the heuristics I discussed earlier in action. To make this essay interesting to people with a variety of axioms, I've picked two examples of legislative interventions proposed by different groups and argued against each intervention using the axioms (as best I understand them) of the people who I've observed suggesting it. First I'll use activist left axioms. Then I'll try and pass an <a href="https://en.wikipedia.org/wiki/Ideological_Turing_Test">ideological Turing test</a> and pull off small government religious conservative axioms.
 <h5> <em>Activist Left</em></h5>
@@ -115,6 +122,7 @@ Looking at all of this, we're looking at a potential for an increase in utility 
 From a precedent utilitarian point of view, it seems unlikely that abolishing police unions will actually lead to any increase in utility. Instead, precedent utilitarians might focus on the outcomes they wish to see (increased use of body cameras, better use of force policies, more restrictions on discriminatory policing, funds for hiring more police officers from diverse backgrounds and diverse communities) and try to legislate them individually.
 
 Of these, <a href="http://www.rasmussenreports.com/public_content/politics/current_events/social_issues/support_for_body_cameras_up_police_expected_to_benefit_most">body cameras</a> and hiring police officers from more diverse backgrounds (which can be spun to constituents as simply as "hiring more police officers") seem the most likely to be easy to pass with broad support and probably represent the easiest starting place for a quick utility gain.
+
 <h5><em>Small Government Religious Conservative</em></h5>
 Several conservative controlled <a href="https://mic.com/articles/155487/mike-pence-and-the-indiana-religious-freedom-law-here-s-what-you-need-to-know#.XwLMfJjpw">legislatures</a> in America have <a href="https://en.wikipedia.org/wiki/Religious_Freedom_Restoration_Act_(Indiana)">begun</a> to <a href="https://en.wikipedia.org/wiki/Conscience_Protection_Act">pass</a> (<a href="http://www.nbcnews.com/storyline/arizona-bill-controversy/arizona-governor-jan-brewer-vetoes-anti-gay-bill-n39666">or attempt to pass</a>) so called "<a href="https://en.wikipedia.org/wiki/State_Religious_Freedom_Restoration_Acts">religious freedom restoration acts</a>" or <a href="https://en.wikipedia.org/wiki/Public_Facilities_Privacy_%26_Security_Act">similar bills</a>. These bills are largely designed to pre-empt local non-discrimination ordinances that conservatives feel place individuals into a conflict between their deeply held private beliefs and the law.
 
@@ -135,6 +143,7 @@ Looking at all of this, we're looking at an increase in utility from state laws 
 From a precedent utilitarian point of view, it seems unlikely that overriding local non-discrimination ordinances will lead to any increase in utility. Instead, precedent utilitarians with these axioms should focus on increasing tax breaks for religious schools or other social institutions they believe will push society in the direction they think it should go.
 
 Back to myself: one principle of small government conservatism that I find laudable is the belief that local governments are best placed to fix problems. All too often central planners come up with ridiculous, unworkable ideas out of ignorance of the conditions on the ground. In addition to my grave concerns about the content of "religious freedom ordinances" or "bathroom bills", I've been shocked to see conservatives suddenly advocating for solutions at the state level and liberals claiming that local people know best. <a href="http://www.theatlantic.com/politics/archive/2015/09/north-carolinas-failed-attempt-to-preempt-its-cities/408196/">And I'm not the only one.</a>
+
 <h3><strong>Downsides</strong></h3>
 I chose one of my examples very deliberately: to emphasize one of the weaknesses of precedent utilitarianism. People who are already privileged (like me!) are going to find it easiest to demand that potential changes must be considered and interrogated for bad precedents and abandoned if there is a chance that they <em>might</em> lead to enough disutility in the future.
 
@@ -155,4 +164,6 @@ And this is all circular. People like me in positions of privilege tend to have 
 Here's what I have to try and convince you, even if there's a huge gap between our axioms. <a href="http://slatestarcodex.com/about/">Scott</a> and <a href="https://thingofthings.wordpress.com/about/">Ozy</a> often talk about ethical systems that fail gracefully. Imagine that you thought something or someone was bad and did everything permitted by your ethical system to stop it or them. Now imagine that you were wrong. How badly have you fucked up?
 
 Precedent utilitarianism fails gracefully. Does your ethical system?
-<p class="p1">Epistemic Status: <a href="/about-me/">Ethics</a></p>
+
+<hr class="post-end" />
+<p class="epistemic-status">Epistemic Status:  <a href="/about-me/">Ethics</a></p>
