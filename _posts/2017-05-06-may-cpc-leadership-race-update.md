@@ -19,11 +19,13 @@ tags:
   - predictions
   - scheer
 ---
+
 <a href="https://medium.com/@seanaubin">A friend</a> asked me what I thought about the candidates in the <a href="https://en.wikipedia.org/wiki/Conservative_Party_of_Canada_leadership_election,_2017#Opinion_polling">leadership race</a> for the Conservative Party of Canada. I found I had more to say than was strictly reasonable to post in a Facebook comment. I posted it anyway – because I'm sometimes unreasonable – but I found I also wanted to record my thoughts in a more organized manner that's easier to link to.
 
 Right now, I think there are a few meaningful ways to split up the candidates. You can split them up based on what block of the party they represent.
 
 The way I see it, you have:
+
 <ul>
  	<li>Michael Chong representing the wonkish Progressive Conservatives</li>
  	<li>Maxine Bernier and Rick Peterson representing the wonkish libertarians</li>
@@ -50,6 +52,7 @@ Leitch (8%) has her own <em>very dedicated</em> cadre of um, "very patriotic" (r
 Given all this I'd order the candidates from most to least likely to win thusly: Scheer, Bernier, O'Toole, Leitch, Chong, Raitt.
 
 I diverge slightly from the polls of first round intentions because:
+
 <ul>
  	<li>I think Bernier lacks second and third round support in a serious way. I especially expect him to suffer in rural ridings, where I'm given to understand supply management is popular.</li>
  	<li>I have Raitt below Chong because I think she is the weakest member of her bloc. If someone else in her bloc isn't winning, I think it would signal a serious weakness in the bloc itself, such that she shouldn't be in a position to be beating anyone.</li>
@@ -57,3 +60,5 @@ I diverge slightly from the polls of first round intentions because:
 When it comes to my personal ballot, I plan to rank nine candidates in the following order: Chong, Raitt, O'Toole, Scheer, Obhrai, Bernier, Saxton, Alexander, Peterson. I'm ranking each candidate based on their respect for the environment, their votes on <a href="http://www.parl.gc.ca/HouseChamberBusiness/ChamberVoteDetail.aspx?FltrParl=41&amp;FltrSes=1&amp;Vote=645&amp;Language=E&amp;Mode=1">Bill C-279</a> (protecting gender identity) and the <a href="http://www.parl.gc.ca/HouseChamberBusiness/ChamberVoteDetail.aspx?Language=E&amp;Mode=1&amp;Parl=42&amp;Ses=1&amp;FltrParl=41&amp;FltrSes=1&amp;Vote=466">Woodworth Committee</a> (redefining when life starts), any relevant experience they have in politics or adjacent fields, the tone they've struck, their overall level of wonkishness, how much policy information they have on their websites, and their level of bilingualism
 
 I've sprinkled this post with betting odds. I'm willing to risk up to $100 on bets about have-not candidates winning and $100 on bets about the other candidates. The only requirements I have for betting are that you must have access to Interac or PayPal (for fund transfers) and you must be willing to post publicly that you're betting with me (preferably including the odds you'd have put on the event we're betting on). I'll add details about any takers in the comments of this post.
+
+<hr class="post-end" />

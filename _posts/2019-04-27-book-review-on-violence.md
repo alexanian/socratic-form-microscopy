@@ -1,6 +1,6 @@
 ---
 id: 981
-title: 'Book Review: On Violence'
+title: "Book Review: On Violence"
 date: 2019-04-27T08:30:32-04:00
 author: Zach
 layout: post
@@ -20,6 +20,7 @@ tags:
   - reading
   - violence
 ---
+
 Many, <a href="https://socratic-form-microscopy.com/2017/01/08/what-use-a-monopoly-on-violence/">including me</a>, have relied on Max Weber's definition of a state as "the rule of men over men based on the means of legitimate, that is allegedly legitimate violence". I thought that violence was synonymous with power and that the best we could hope for was a legitimate exercise of violence, one that was proportionate and used only as a last resort.
 
 I have a blog post about state monopolies on violence because of Hannah Arendt. Her book <em>Eichmann in Jerusalem: A Report on the Banality of Evil</em> was my re-introduction to moral philosophy. It, more than any other book, <a href="https://socratic-form-microscopy.com/justice/">has informed this blog</a>. To Arendt, thinking and judging are paramount. It is not so much, to her, that the unexamined life is not worth living. It is instead that the unexamined life exists in a state of mortal peril, separated only by circumstances from becoming one of the "good Germans" who did nothing as their neighbours were murdered.
@@ -97,6 +98,7 @@ To be honest, I'm not sure many people are arguing that scientists should remove
 But Arendt does find many justifications of violence to be foolish. She cautions against "natural" metaphors for power, those that associate it with outward growth and fecundity. Once you accept these, she believes, you also accept that violence has the power of renewal. Violence clears away the bounds on power and breathes new life into it by allowing it to expand again (imagine the analogy to forest fire, which clears away dead wood and lets a new forest grow). Given all of the follies and pains of empire, it is clear that even if this were true (and she is not convinced that it is), it is not <em>recommended</em>. Power, to Arendt, is perfectly content without expansion (and indeed, violent expansion, to her, always erodes power and replaces it with violence).
 
 Nowhere does she find violence more dangerous then with respect to racism. On racist ideologies, she says:
+
 <blockquote>Racism, as distinguished from race, is not a fact of life, but an ideology, and the deeds it leads to are not reflex actions, but deliberate acts based on pseudo-scientific theories. Violence in interracial struggle is always murderous, but it is not "irrational"; it is the logical and rational consequence of racism, by which I do not mean some rather vague prejudices on either side, but an explicit ideological system.</blockquote>
 (To make it perfectly clear, she means "rational" here to read only as internal consistency, not external consistency.)
 
@@ -117,3 +119,5 @@ To this conundrum, she offers no answer. This, I think, is very characteristic o
 As it is, all I'm left with are fears. The trends she laid out – the dangers of our means overshadowing our ends and the ossification that comes with bureaucracy – have not gone away. If anything, they've intensified. And while this book gave me a new model of power and violence, I'm not quite sure what to <em>do with it</em>.
 
 But then, Arendt would probably say there's no point in trying to do something with it alone. Power can only come in groups. And her students are probably supposed to talk with others, to share our concerns, and to think about what we can do together, to keep the world running a little longer.
+
+<hr class="post-end" />

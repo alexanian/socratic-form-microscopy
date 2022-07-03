@@ -1,6 +1,6 @@
 ---
 id: 124
-title: 'Nuclear Weapons: 2.0 Basic Science'
+title: "Nuclear Weapons: 2.0 Basic Science"
 date: 2017-01-23T19:28:05-05:00
 author: Zach
 layout: post
@@ -14,6 +14,7 @@ tags:
   - nuclear weapons
   - x-risk
 ---
+
 For this to all make sense, we should start with a brief review of atomic theory.
 
 All matter is made up of <strong>atoms</strong>. Atoms have an outer shell of negatively charged <strong>electrons</strong> (more accurate descriptions exist, but I'm not going to delve into them; throughout this section I'm going to use simplified models wherever they'll do the topic justice) and an inner core containing uncharged <strong>neutrons</strong> and positively charged <strong>protons</strong>.
@@ -54,8 +55,11 @@ Criticality can occur with smaller amounts of isotopes than the critical mass in
 
 There is one other type of nuclear weapon. <strong>Fusion</strong> weapons push atomic nuclei together to form new, heavier nuclei. Fission/fusion weapons aren't an either/or proposition though. Many nuclear weapon designs incorporate multiple stages. For example, some designs will use the energy from fission to start a fusion reaction and get most of their power from this. Other designs make use of a small amount of fusion to release extra neutrons, which allows more of their fuel to be consumed.
 
+<hr class="post-end" />
+
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>, <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>, <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>, <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>, and <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>
 <br>
+
 <table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
   <tr style="border:0px solid;background:transparent;">
     <td style="border:0px solid;background:transparent;"><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">&lt; previous</a></th>
@@ -63,4 +67,3 @@ Additional Reading: <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>, <
     <td style="border:0px solid;background:transparent;text-align:right;""><a href="/2017/01/24/nuclear-weapons-3-0-proliferation/">next &gt;</a></th>
   </tr>
 </table>
-    

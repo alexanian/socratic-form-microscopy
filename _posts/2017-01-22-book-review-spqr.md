@@ -1,6 +1,6 @@
 ---
 id: 116
-title: 'Book Review: SPQR'
+title: "Book Review: SPQR"
 date: 2017-01-22T11:56:49-05:00
 author: Zach
 layout: post
@@ -13,6 +13,7 @@ tags:
   - book review
   - rome
 ---
+
 I just finished reading <a href="http://books.wwnorton.com/books/978-1-63149-222-8/">SPQR</a>, by <a href="http://timesonline.typepad.com/dons_life/">Professor Mary Beard</a>. As a history of Rome, it's the opposite of what I expected. It spends little time on individual deeds; there is no great man history here. More shocking, there is very little military history. As part of an audience taught to expect the history of Rome to be synonymous with the history of its military, I was shocked.
 
 This book is perhaps best understood as a conversation with Romans masquerading as a political and social history of Rome. Prof. Beard sums this up in her epilogue: "I no longer think, as I once naively did, that we have much to learn directly <em>from</em> the Romans… but I am more and more convinced that we have an enormous amount to learn – as much about ourselves as about the past – by <em>engaging with</em> the history of the Romans."
@@ -50,3 +51,5 @@ Even if this isn't true, Prof. Beard has one final beef with the theory of good 
 To the common people in Rome it wouldn't matter if the emperor was a saint or a psychopath, because they would never interact with him. This was doubly true for the people in the provinces. The plight of the poor was just as bad under Marcus Aurelius as it was under Nero.
 
 Had you told me at the start that the author believed we had nothing to learn directly from the Romans, I probably wouldn't have started this book. That would have been a grave mistake. I'm left with a deeper understanding of Roman history, the challenges posed in constructing it, and the challenges Roman history poses to us in the present day. I am left prepared to more readily question the beatification of leaders and foundational myths. I am left more alert to the nuances of people power in populism. And I'm left with a colossal respect for Professor Beard's skill both as a historian and as a popularizer of history.
+
+<hr class="post-end" />

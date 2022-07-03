@@ -1,6 +1,6 @@
 ---
 id: 713
-title: 'Not Just Zoning: Housing Prices Driven By Beauty Contests'
+title: "Not Just Zoning: Housing Prices Driven By Beauty Contests"
 date: 2018-02-25T23:10:09-05:00
 author: Zach
 layout: post
@@ -18,6 +18,7 @@ tags:
   - regulation
   - tradeoffs are hard
 ---
+
 No, this isn't a post about very pretty houses or positional goods. It's about the type of beauty contest described by John Maynard Keynes.
 
 Imagine a newspaper that publishes one hundred pictures of strapping young men. It asks everyone to send in the names of the five that they think are most attractive. They offer a prize: if your selection matches the five men most often appearing in everyone else's selections, you'll win $500.
@@ -45,3 +46,5 @@ This might imply that the smart thing is to buy into the collective notion that 
 Which would be entirely convincing, except, I'm pretty sure people believed that in 2007 and we all know how that ended. Unfortunately, it looks like there's no safe answer here. Maybe the collective mania will abate and home prices will stop being buoyed ever upwards. Or maybe they won't and the prices we currently see in Toronto and Vancouver will be reckoned cheap in twenty years.
 
 Better zoning laws can help make houses cheaper. But it really isn't just zoning. The beauty contest is an important aspect of the current unaffordability.
+
+<hr class="post-end" />

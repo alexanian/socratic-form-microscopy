@@ -17,6 +17,7 @@ tags:
   - elections
   - political philosophy
 ---
+
 Richard Nixon would likely have gone down in history as one of America's greatest presidents, if not for Watergate.
 
 To my mind, his greatest successes were détente with China and the end of the convertibility of dollars into gold, but he also deserves kudos for ending the war in Vietnam, continuing the process of desegregation, establishing the EPA, and signing the <a href="https://socratic-form-microscopy.com/2017/01/28/nuclear-weapons-7-0-strategy/#3">anti-ballistic missile treaty</a>.
@@ -60,3 +61,5 @@ This, I think, is the biggest mistake people like Peter Thiel made when backing 
 But they didn't stop and think how far that attitude would extend.
 
 Whenever someone tells you that a bold outsider is just what a system needs, remember that a Nixon who never did Watergate couldn't have gone to China. If you back a new Nixon, you better be willing for a reprise.
+
+<hr class="post-end" />
