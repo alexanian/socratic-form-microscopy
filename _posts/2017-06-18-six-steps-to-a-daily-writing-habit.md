@@ -41,7 +41,7 @@ When learning a new skill or acquiring a new habit, it's <em>really </em>temptin
 
 It isn't enough to set things up so that you'll be fine if everything goes as planned. A good starting level is something that won't be hard even if life gets in the way. Is your starting goal achievable even if you had to work overtime for the next two weeks? If not, consider toning it down a bit.
 
-You should set a measurable, achievable, and <em>atomic</em> goal. In practice, measurable means numeric, so I'd recommend committing to a specific number of words each day or a specific amount of daily time writing. Here[^2].
+You should set a measurable, achievable, and <em>atomic</em> goal. In practice, measurable means numeric, so I'd recommend committing to a specific number of words each day or a specific amount of daily time writing. Here <a href="https://www.beeminder.com/">Beeminder</a> will be your best friend[^2].
 
 Beeminder is a service that helps you bind your future self to your current goals. You set up a goal (like writing 100,000 words) and a desired daily progress (say, 200 words each day) towards that goal. Each day, Beeminder will make sure you've made enough progress towards your desired end-state. If you haven't, Beeminder charges your credit card (you can choose to pay anywhere from $5 to $2430). Fail again and it charges you more (up to a point; you can set your own maximum). In this way, Beeminder can "sting" you into completing your goals.
 
@@ -51,7 +51,7 @@ Beeminder only works for numeric goals, so there's the first of the triad I ment
 
 Next, your goal should be achievable; something you have no doubt <em>you</em> can do. Not something some idealized, better, or perfect version of you could do. Something you, with all your constraints and flaws are sure you can achieve. Don't worry about making this too small. Fifty or one hundred words per day is a perfectly adequate starter goal.
 
-Lastly, atomic. Atomic goals can't be broken down any further. Don't start by Beeminding blog posts or gods forfend, <em>novels</em>! Pick the smallest unit of writing you can, probably either[^3]. It's much better to spend a week writing detailed journals of every day (or even a detailed description of your bedroom) than it is to spend a week not writing because you can't think of what to write.
+Lastly, atomic. Atomic goals can't be broken down any further. Don't start by Beeminding blog posts or gods forfend, <em>novels</em>! Pick the smallest unit of writing you can, probably either <a href="https://www.beeminder.com/zacharyjacobi/writingtime">time</a> or <a href="https://www.beeminder.com/zacharyjacobi/writing">word count</a>, and make your goal about this. When you're Beeminding words or time, you can't fail and get discouraged for lack of ideas or "writer's block"[^3]. It's much better to spend a week writing detailed journals of every day (or even a detailed description of your bedroom) than it is to spend a week not writing because you can't think of what to write.
 
 My recommended starter goals are either: write 150 words each day or write 15 minutes each day. Both of these are easy to Beeminder and should be easy for most people to achieve.
 
@@ -129,7 +129,7 @@ For more about the perils of guilt as a motivational tool (and some suggestions 
 <h3>Step 6: Success Spiral</h3>
 This is the part where everything starts to come together. When you get here, guilt based motivation is but a dim memory. You write because you want to. Beeminder helps keep you on track, but you're more likely to spend a bit of extra time writing to see the spike in your graphs than you are because you'll derail otherwise.
 
-When you get to this point (or earlier, depending on how you like to work), something like[^4]. And it shows you how much work you've done in the past, allowing you to use the "<a href="https://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/">don't break the chain</a>" productivity hack if it works for you (it works for me).
+When you get to this point (or earlier, depending on how you like to work), something like <a href="https://complice.co/">Complice</a> can really help you make the most of all your motivation. Complice helps you tie your daily actions into the set long- and medium-term goals you've set. It has a kickass Beeminder integration that makes Beeminding as easy checking off a box. It has integrated Pomodoro timers for tracking how much time you work (and can send the results to Beeminder). It allows you and a friend to sign up as accountability buddies and see what each other get done[^4]. And it shows you how much work you've done in the past, allowing you to use the "<a href="https://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/">don't break the chain</a>" productivity hack if it works for you (it works for me).
 
 {% include image.html src="/wp-content/uploads/complice-timeline-768x49.png" alt="" caption="The last few weeks of my writing goal in Complice. For two of the days in the pictured period, I only wrote because I couldn't bear to lose my streak of days where I'd hit my writing goal." %}
 

@@ -38,15 +38,15 @@ I can see one way how this plan might affect normal workers – decreased purcha
 
 <a href="https://socratic-form-microscopy.com/2017/03/29/international-trade-explained-with-jellybeans/">As I've previously explained when talking about trade</a>, many countries will sell goods to America without expecting any goods in return. Instead, they take the American dollars they get from the sale and invest them right back in America. Colloquially, we call this the "trade deficit", but it really isn't a deficit at all. It's (for many people) a really sweet deal.
 
-Anything that makes American finance more profitable (like say a[^2].
+Anything that makes American finance more profitable (like say a <a href="https://krugman.blogs.nytimes.com/2017/11/14/tax-cuts-and-the-trade-deficit">corporate tax cut</a>) is liable to increase this effect, with the long-run consequence of making the US dollar more valuable and imports cheaper[^2].
 
-It's these cheap imports that have enabled the[^3]. Spend some time visiting middle class and wealthy people in Europe and you'll quickly realize that everything is smaller and cheaper there. Wealthy Europeans own cars, houses, kitchen appliances and TVs that are all much more modest than what even middle class North Americans are used to.
+It's these cheap imports that have enabled the <a href="https://socratic-form-microscopy.com/2018/05/01/the-scale-of-inequality/">incredibly wealthy North American lifestyle</a>[^3]. Spend some time visiting middle class and wealthy people in Europe and you'll quickly realize that everything is smaller and cheaper there. Wealthy Europeans own cars, houses, kitchen appliances and TVs that are all much more modest than what even middle class North Americans are used to.
 
 Weakening shareholder rights and slashing the value of the stock market would make the American financial market generally less attractive. This would (especially if combined with Trump or Sanders style tariffs) lead to increased domestic inflation in the United States – inflation that would specifically target goods that have been getting cheaper as long as anyone can remember.
 
 {% include image.html src="/wp-content/uploads/151016-Tech-cheaper-electronic-goods-BI-768x576.png" alt="" caption="This is just since 1997! Very basic colour TVs cost more than $1000 (unadjusted for inflation) when first introduced. Today I would expect to pay less than $600 for a 40\" 4k TV." %}
 
-This is hard to talk about to Warren supporters as a downside, because many of them[^4]. Suffice to say that many North Americans still derive pleasure and self-worth from the consumer goods they acquire and that making these goods more expensive is likely to cause a politically expensive backlash, of the sort that America has recently become acquainted with and progressive America terrified of.
+This is hard to talk about to Warren supporters as a downside, because many of them <a href="http://induecourse.ca/naomi-klein-postscript-no-1/">believe that we need to learn to make do with less</a> – a position that is most common among <a href="http://induecourse.ca/the-age-of-anti-consumerism-has-passed/">a progressive class that conspicuously consumes experiences</a>, not material goods[^4]. Suffice to say that many North Americans still derive pleasure and self-worth from the consumer goods they acquire and that making these goods more expensive is likely to cause a politically expensive backlash, of the sort that America has recently become acquainted with and progressive America terrified of.
 
 (There's of course also the fact that making appliances and cars more expensive would be devastating to anyone experiencing poverty in America.)
 

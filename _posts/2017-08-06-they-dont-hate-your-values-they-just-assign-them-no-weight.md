@@ -25,9 +25,9 @@ Content Warning: Extensive discussion of the morality of abortion
 
 </p>
 
-Previously, I talked about akrasia as[^1].
+Previously, I talked about akrasia as <a href="/2017/07/30/socially-conservative-legislation-as-akrasia-managment/">one motive for socially conservative legislation</a>. I think the akrasia model is useful when explaining certain classes of seemingly hypocritical behaviour, but it's far from the only reason for social conservatives to push for legislation that liberals oppose. At least <em>some</em> legislation comes from a desire to force socially conservative values on everyone[^1].
 
-Liberals are <em>terrible</em> at understanding the values underlying conservative legislation. When[^2].
+Liberals are <em>terrible</em> at understanding the values underlying conservative legislation. When <a href="http://thefederalist.com/2017/05/25/5-things-right-can-learn-abortion-supporters-yale-law/">an anti-abortion single issue voter took a reproductive rights seminar at Yale</a>, he was surprised to hear that many of his classmates believed that anti-abortion laws were aimed entirely at controlling women's sexuality, rather than stopping the (to his eyes) moral crime of abortion[^2].
 
 This is an easy mistake to make. It's true that limiting abortion also limits women's financial and sexual freedom. In the vast majority of cases it's false to claim that this is a plus for the most vociferous opponents of abortion. To their detriment it also isn't a <em>minus</em>. For many of the staunchest opponents of abortion, the financial or sexual freedom of women plays no role at all in their position. Held against the life of a fetus, these freedoms are (morally) worthless.
 

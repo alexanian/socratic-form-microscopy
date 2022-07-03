@@ -34,7 +34,7 @@ Basic economics tell us that as we approach a perfect market, profits should fal
 
 It is relatively cheap to start a fast-food restaurant (compared to say opening a factory). The <a href="http://www.businessinsider.com/what-it-costs-to-open-a-mcdonalds-2014-11">start-up costs</a> for a McDonalds, KFC, or Wendy's are $1,000,000 to $2.3 million, while a Subway costs about $100,000 to $250,000 to start. This means that whenever someone sees fast-food restaurants making large profits in an area, they can open their own and take a fraction of the business, driving everyone's profits down.
 
-They're probably driven down much lower than you think. If you had to guess, what would you say the profit margins for a fast-food restaurant are? If you're anything like people in[^1].
+They're probably driven down much lower than you think. If you had to guess, what would you say the profit margins for a fast-food restaurant are? If you're anything like people in <a href="http://www.aei.org/publication/the-public-thinks-the-average-company-makes-a-36-profit-margin-which-is-about-5x-too-high/">this study</a>, you probably think something like 35%. <a href="http://smallbusiness.chron.com/average-profit-margin-restaurant-13477.html">The actual answer is 6%</a>[^1].
 
 In addition to telling me that the average fast food restaurant has a 6% profit margin, that link helpfully told me that 29% of operating expenses in a fast-food restaurant come from labour costs. Raising those labour costs by 20% by increasing wages 20% increases total costs by 6%[^2]. The minimum wage isn't making fast-food restaurant owners make do with a little less in the way of profits. It's entirely wiping out profits.
 
@@ -64,7 +64,7 @@ There are two ways to decrease your labour costs. You can "increase productivity
 
 Given that the minimum wage was just raised and it is illegal to pay any less than it, Tim Hortons franchisees cannot cut wages. So, if they're against firing their employees and want to keep making literally any money, they have to cut benefits.
 
-This might make it seem like corporate Tim Hortons is the bad guy here. They aren't. The executives at Tim Hortons labour under what is called a[^3].
+This might make it seem like corporate Tim Hortons is the bad guy here. They aren't. The executives at Tim Hortons labour under what is called a <a href="https://en.wikipedia.org/wiki/Fiduciary#Fiduciary_duty_in_Canadian_corporate_law">fiduciary duty</a>. They have a legal obligation to protect shareholder interests from harm and to act for the good of the corporation, not their own private good <em>or for their private moral beliefs</em>. They are responding to the minimum wage hike the way the government has told them to respond[^3].
 
 Minimum wage jobs suck. For all that economists claim there is no moral judgement implied in a wage, that it merely shows the intersection of the amount of supply of a certain type of labour and the demand for that labour, it can be hard to believe that there is no moral dimension to this when people making one wage struggle to make ends meet, while those earning another can buy fancy cars they don't even need.
 

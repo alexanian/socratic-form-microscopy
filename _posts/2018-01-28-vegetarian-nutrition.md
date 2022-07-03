@@ -22,7 +22,7 @@ tags:
 
 The first time I tried vegetarianism, I ended up deficient in B12. Since then, I've realized just <em>how bad</em> vitamin B12 deficiency is (hint: it can cause irreversible neural damage) and resolved to get it right this time.
 
-I'm currently eating no meat, very little milk, almost no eggs, and a fair amount of cheese. I consider clams, oysters, and mussels to be[^1] until I found a recent article arguing for a vegan diet, then <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662288/">independently checked their nutritional recommendations</a>.
+I'm currently eating no meat, very little milk, almost no eggs, and a fair amount of cheese. I consider clams, oysters, and mussels to be <a href="http://archdruidmirror.blogspot.ca/2017/06/retrotopia-public-utilities-private.html">morally (if not taxonomically) vegetables</a>, but am too lazy to eat them regularly. To figure out what this diet put me at risk for, I trolled PubMed[^1] until I found a recent article arguing for a vegan diet, then <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662288/">independently checked their nutritional recommendations</a>.
 
 Based on this, I've made a number of changes to my diet. I now take two vitamins in the morning and a slew of supplements in sugar-free fruit juice when I get home from work[^2]. I hope the combined effect of this will be to protect me from any nutritional problems.
 
@@ -81,7 +81,7 @@ From what I read, the absolute level of these is less important that the ratio o
 As far as I could tell, there was once controversy as to whether non-animal sources of Omega-3 fatty acids could be adequate, <a href="https://www.sciencedirect.com/science/article/pii/S0163782709000307">but that looks to be cleared up in favour of the vegetarian sources</a>. This is good, because it means that I can follow the recommendations in <a href="http://ajcn.nutrition.org/content/78/3/640S.long">this paper</a> and consume about 6g of unheated flaxseed oil daily to meet my Omega-3 needs. This goes pretty easily into my fruit juice mixture with my protein powder and creatine.
 
 <h1>Creatine</h1>
-There's some evidence (although no meta-analyses that I could find) that[^3]). I've decided to take 5g a day because it seems to be <a href="https://en.wikipedia.org/wiki/Creatine#Health_effects">largely risk free</a> and it also makes exercise feel somewhat easier.
+There's some evidence (although no meta-analyses that I could find) that <a href="http://rspb.royalsocietypublishing.org/content/270/1529/2147.short">creatine improves</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/21118604">cognitive performance in vegetarians</a> (although not in omnivores, probably because it is present in meat[^3]). I've decided to take 5g a day because it seems to be <a href="https://en.wikipedia.org/wiki/Creatine#Health_effects">largely risk free</a> and it also makes exercise feel somewhat easier.
 
 ---
 

@@ -36,7 +36,7 @@ It's also much easier to remove the head of government in the Westminster system
 This feature is at risk from open nominating contests and especially rules that don't allow MPs to pick the interim leader during a leadership race. In this regard, Australia is doing a much better job at exemplifying the virtues of the Westminster system than Canada or the UK (where Corbyn's vote share is all the more surprising for how much internal strife his election caused)[^4].
 
 <h3>2. Confidence</h3>
-To the Commonwealth, one of the most confusing features of American democracy is its (semi-)regular government shut downs, like[^5]. On the other side, Americans are baffled at the seemingly random elections that Commonwealth countries have.
+To the Commonwealth, one of the most confusing features of American democracy is its (semi-)regular government shut downs, like <a href="http://www.cnn.com/2017/08/23/politics/trump-wall-mexico-government-shutdown/index.html">the one Trump had planned for September[^5]. On the other side, Americans are baffled at the seemingly random elections that Commonwealth countries have.
 
 Her Majesty's Prime Minister governs only so long as they have the confidence of the house. A government is only sworn in after they can prove they have confidence (via a vote of all newly elected and returning MPs). When no party has an absolute majority, things can get tense – or can go right back to the polls. We've observed two tense confidence votes this year, <a href="http://www.macleans.ca/news/canada/christy-clarks-b-c-liberals-fall-on-confidence-vote/">one in BC</a>, <a href="http://www.france24.com/en/20170629-british-pm-theresa-may-narrowly-wins-confidence-vote-parliament">the other in the UK</a>.
 

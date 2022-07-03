@@ -19,7 +19,7 @@ tags:
 
 The 2019 Budget introduced by the Liberal government includes one of the worst policies I've ever seen.
 
-The[^1] is ineligible for this program. The government will recoup its 5-10% stake when the home is sold.
+The <a href="https://globalnews.ca/news/5069183/budget-2019-canada-housing-affordability/">CMHC First-Time Home Buyer Incentive</a> provides up to 10% of the purchase price of a house (5% for existing homes, 10% for new homes) to any household buying a home for the first time with an annual income up to $120,000. To qualify, the total mortgage must be less than four times the household's yearly income and the mortgage must be insured, which means that any house costing more than $590,000[^1] is ineligible for this program. The government will recoup its 5-10% stake when the home is sold.
 
 The cap on eligible house price is this program's only saving grace. Everything else about it is awful.
 
@@ -31,7 +31,7 @@ This plan, like many other aspects of our society, is predicated on the idea tha
 
 I'm not even sure this incentive will help anyone in the short term though, because with constrained housing supply (as it is in urban areas, where zoning prevents much new housing from being built), housing costs are determined based on what people can afford. As long as there are more people that would like to live in a city than houses for them to live in, people are in competition for the limited supply of housing. If you were willing to spend some amount of your salary on a house before this incentive, you can just afford to pay more money after the incentive. You don't end up any better off as the money is passed on to someone else. Really, this benefit is a regressive transfer of money to already-wealthy homeowners, or a subsidy to the construction industry.
 
-The worst part is that buying a house at an inflated valuation isn't even irrational! The fact of the matter is that as long as everyone knows that governments at all levels are committed to maintaining the status quo – where housing prices cannot be allowed to drop – the longer[^2]?
+The worst part is that buying a house at an inflated valuation isn't even irrational! The fact of the matter is that as long as everyone knows that governments at all levels are committed to maintaining the status quo – where housing prices cannot be allowed to drop – the longer <a href="https://socratic-form-microscopy.com/2018/02/25/not-just-zoning-housing-prices-driven-by-beauty-contests/">housing costs will continue to rise</a>. Why shouldn't anyone who can afford to stick all their savings into a home do so, when they know it's the only investment they can make that the government will protect from failing[^2]?
 
 That's what's truly pernicious about this plan: it locks up government money in a speculative bet on housing. Any future decline in housing costs won't just hurt homeowners. With this incentive, it will hurt the government too[^3]. This gives the federal government a strong incentive to keep housing prices high (read: unaffordable), even after some inevitable future round of austerity removes this credit. This is the opposite of what we want the federal government to be doing!
 

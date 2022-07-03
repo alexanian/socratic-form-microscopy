@@ -70,7 +70,7 @@ Switching to bonuses was a calculated move for businesses, because they have los
 
 More inflation may feel like the exact opposite of what's needed to increase wages. But we're talking about targeted inflation here. If we could trust humans to do the rational thing and bargain for less pay now in exchange for more pay in the future whenever times are tight, then we wouldn't have this problem and wages probably would have recovered better. But humans are humans, not automatons, so we need to make the best with what we have.
 
-One of the purposes of institutions is[^3], or enough time passes that everyone forgets the great recession.
+One of the purposes of institutions is <a href="https://socratic-form-microscopy.com/2018/05/29/book-review-enlightenment-2-0/">to build a framework within which we can make good decisions</a>. From this point of view, the Federal Reserve (and other central banks; the Bank of Japan is <a href="https://equilibriabook.com/inadequacy-and-modesty/">arguably far worse</a>) have failed. Institutions failing when confronted with new circumstances isn't as pithy as "it's all the fault of those greedy capitalists" or "people need to grow backbones and negotiate for higher wages", but I think it's ultimately a more correct explanation for our current period of slow wage growth. This suggests that we'll only see wage growth recover when the Fed commits to better monetary policy[^3], or enough time passes that everyone forgets the great recession.
 
 In either case, I'm not holding my breath.
 

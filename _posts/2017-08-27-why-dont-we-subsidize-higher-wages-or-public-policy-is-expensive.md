@@ -52,7 +52,7 @@ There would obviously need to be some pretty strict rules in place here. What co
 
 We still don't know if the minimum wage hike will result in lost jobs. It's also an open question how much we should (at a policy level) be aiming for full employment. But raising the minimum wage is a massive, $9 billion undertaking. Who pays for it (and if it happens at all) is deeply tied into questions about fairness, dignity, good governance and regressiveness. The least regressive way to do it is probably via subsidies; unfortunately, subsidies are the most corruptible of all options.
 
-I previously mentioned the guaranteed basic income. My crude calculations give a (no doubt slightly high) estimate of $37 billion[^7] for a GBI in Ontario,[^8], another example of a treadmill effect.
+I previously mentioned the guaranteed basic income. My crude calculations give a (no doubt slightly high) estimate of $37 billion[^7] for a GBI in Ontario, <a href="http://www.huffingtonpost.ca/2017/06/06/basic-income-canada_n_16971060.html">much higher than I've seen in the estimates from proponents</a>. I'm personally worried that a GBI would be absorbed into raised rents[^8], another example of a treadmill effect.
 
 Economics policy is difficult enough as a scientific discipline. But tied up in ancillary questions (like "what is fair?") as it is, it is uniquely susceptible to corruption by what people wish, rather than what is true[^9]. When it can't be corrupted, it is often ignored. Public policy has a cost. Resources are still limited. For every dollar spent, there must be a dollar raised (if not now, then eventually).
 

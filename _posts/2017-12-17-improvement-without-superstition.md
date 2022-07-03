@@ -38,7 +38,7 @@ But randomized controlled trials showed that there was no benefit to those invas
 
 The simplest way to avoid superstition is to wait for large scale trials. But from both Gawande articles, I get a sense that matches with anecdotal evidence from my own life and that of my friends. It's the sense that if you want to do something, anything, important – if you want to increase your productivity or manage your depression/anxiety, or keep CF patients alive – you're likely to do much better if you take the large scale empirical results and use them as a springboard (or ignore them entirely if they don't seem to work for you).
 
-For people interested in nootropics, melatonin, or vitamins, there's[^1].
+For people interested in nootropics, melatonin, or vitamins, there's <a href="https://www.gwern.net/zeo/Vitamin-D#setup">self-blinding trials</a>, which provide many of the benefits of larger trials without the wait. But for other interventions, it's very hard to effectively blind yourself. If you want to see if meditation improves your focus, for example, then you can't really hide the fact that you meditated on certain days from yourself[^1].
 
 When I think about how far from the established evidence I've gone to increase my productivity, I worry about the chance I could become superstitious.
 
@@ -54,7 +54,7 @@ And it's not just uselessness that I'm worried about, but also harm; it's possib
 
 From the perspective of avoiding superstition: even if you believe that medicine cannot wait for placebo controlled trials to try new, potentially life-saving treatments, surely you must admit that placebo controlled trials are good for determining which things aren't worth it (take as an example the very common knee surgery, <a href="http://ard.bmj.com/content/early/2017/05/18/annrheumdis-2017-211172">arthroscopic partial meniscectomy</a>, which has repeatedly performed no better than sham surgery when subjected to controlled trials).
 
-Scott Alexander recently wrote about[^2]?
+Scott Alexander recently wrote about t <a href="http://slatestarcodex.com/2017/12/08/what-to-make-of-new-positive-nsi-189-results/">an exciting new antidepressant failing in Stage I trials</a>. When the drug was first announced, a few brave souls managed to synthesize some. When they tried it, they reported amazing results, results that we now know to have been placebo. Look. You aren't getting an experimental drug synthesized and trying it unless you're pretty familiar with nootropics. Is the state of self-experimentation really that poor among the nootropics community? Or is it really hard to figure out if something works on you or not[^2]?
 
 Still, reflection isn't the same thing as abandoning the <a href="http://www.overcomingbias.com/2007/07/beware-the-insi.html">inside view</a> entirely. I've been thinking up heuristics since I read Dr. Gawande's articles; armed with these, I expect to have a reasonable shot at knowing when I'm at risk of becoming superstitious. They are:
 

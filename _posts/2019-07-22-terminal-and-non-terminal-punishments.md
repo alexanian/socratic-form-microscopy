@@ -35,7 +35,7 @@ You don't go to jail out of fear of something worse. You go to jail because that
 
 Community service, fines, and house arrest are all enforced with the threat of jail. If a judge gives you community service, you do it even if you hate it, because jail is very much worth avoiding.
 
-In Canada, jail is the only terminal punishment. There is no other final threat that the government has against you. Of the Western democracies,[^2].
+In Canada, jail is the only terminal punishment. There is no other final threat that the government has against you. Of the Western democracies, <a href="https://en.wikipedia.org/wiki/Capital_punishment#/media/File:Capital_punishment_in_the_world.svg">only America</a> has another terminal punishment: execution [^2].
 
 But while execution is terminal (in all senses of the word), it's not really used as a terminal punishment to encourage paying of fines or completion of community service. To my knowledge, no one has been executed in America because of taxes in arrears, and I hope that will always be the case. Execution lacks this coercive character because it is primarily a punishment used for retribution. This means that execution has little practical bearing on the theory of terminal punishments, and can be safely ignored in our discussion.
 
@@ -55,7 +55,7 @@ There are lots of people who aren't very interested in paying duly determined sp
 
 But none of these options are perfect. One problem is that it is possible to just refuse to work. If you don't have any wages, they can't be garnished. If you declare bankruptcy, old judgements cannot be enforced. This state of affairs leaves everyone worse off, but it's one way that things can escalate.
 
-All of this has led to another terminal punishment:[^6].
+All of this has led to another terminal punishment: <a href="https://www.cbc.ca/news/canada/toronto/ontario-website-features-first-batch-of-parents-who-don-t-pay-child-support-1.686229">public shaming</a>. Publicly shaming parents who don't pay child support seems like the sort of terminal punishment that can be effective on people who desire the good opinion of their community. Targeted public shaming (e.g. telling your neighbours of your misdeeds) is not currently a punishment, but it seems like it could be similarly effective[^6].
 
 There is certainly historical precedent. Prison is a relatively recent invention and many early punishments amounted to some form of public shaming, which could be brief (e.g. pillory) or protracted (e.g. amputation of a prominent body part, like the nose or ear; branding[^7]).
 

@@ -75,7 +75,7 @@ At first blush, this is a silly question. Money is one of those things we know w
 
 Money isn't a binary category. Things can have varying amounts of "moneyness", which is to say, can be varyingly good at accomplishing the three functions of money. These three functions are: a store of value (something that can be exchanged for goods in the future), a unit of account (something that you can use to keep track of how many goods you could buy), and a medium of exchange (something that you can give to someone in exchange for goods).
 
-While bank deposits and cash are obviously money, there are also a variety of financial products that we tend to consider money even though they have less moneyness than cash. For example,[^4]. What makes them have less moneyness than cash is only apparent when you look under the hood and realize they contain a mixture of stocks and loans.
+While bank deposits and cash are obviously money, there are also a variety of financial products that we tend to consider money even though they have less moneyness than cash. For example, <a href="https://www.wealthsimple.com/en-ca/investing-101/roboadvisor">robo-investment accounts</a> (of the sort that my generation uses) often given the illusion of containing cash by being denominated in dollars and allowing withdrawals[^4]. What makes them have less moneyness than cash is only apparent when you look under the hood and realize they contain a mixture of stocks and loans.
 
 In a monetary context, when we say "money", we aren't referring to investment accounts or any other instrument that pretends to be cash[^5]. Instead, we're referring to the "money supply", which is made up of instruments with very high moneyness and is determined by three factors:
 
@@ -101,7 +101,7 @@ But it isn't just the banks that get a vote in the money supply under a fraction
 
 Holding the deposit-reserve ratio constant, the money supply increases when the deposit-currency ratio increases and decreases when the deposit-currency ratio decreases. This is because every dollar in the bank becomes, via the magic of fractional reserve banking, more than a single dollar in the money supply. Your deposit remains available to you, but most of it is also lend out to someone else.
 
-While we cannot in practice hold any ratio constant, there do exist real constraints on the deposit-reserve ratio. In the US,[^7].
+While we cannot in practice hold any ratio constant, there do exist real constraints on the deposit-reserve ratio. In the US, <a href="https://en.wikipedia.org/wiki/Reserve_requirement#United_States">there are laws</a> that require banks above a certain size to keep liquid reserves equal to at least 10% of their deposits. Many other countries lack reserve requirements per se, but do require banks to limit how leveraged they become, which acts as a de facto limit on their deposit-reserve ratio[^7].
 
 It isn't just the government that provides restraints. Banks may have internal policies that require them to have lower (safer) deposit-reserve ratios the government demands.
 
@@ -164,7 +164,7 @@ Here's what the stickers look like in Canada. According to the <a href="https://
 
 It's good that we've stopped bank runs, because they're incredibly deflationary (they are very good at shrinking the money supply). This is due to the deposit-currency ratio being a key determinant of the total money supply. When people stop using banks, the deposit-currency ratio falls and the money supply decreases.
 
-Since bank failures can occur quite suddenly and can spread throughout the financial system quickly, a financial crisis can cause a deflation that is too rapid for the central bank to react too. This is especially true because modern central banks have a general tendency to[^16]. This is really unfortunate! A slow response to a decrease in the growth of the money supply (whether caused by a financial crisis or something else) can easily turn into a recession or depression, with all the attendant misery.
+Since bank failures can occur quite suddenly and can spread throughout the financial system quickly, a financial crisis can cause a deflation that is too rapid for the central bank to react too. This is especially true because modern central banks have a general tendency to <a href="https://www.lesswrong.com/posts/tAThqgpJwSueqhvKM/frequently-asked-questions-for-central-banks-undershooting">fear inflation much more than many monetarists believe they should</a>[^16]. This is really unfortunate! A slow response to a decrease in the growth of the money supply (whether caused by a financial crisis or something else) can easily turn into a recession or depression, with all the attendant misery.
 
 <h2>Okay, but can you explain how this happens?</h2>
 Many individuals and companies like to keep a certain amount of money on hand, if at all possible. When they have less money than this, they economize, until they feel comfortable with the amount of money they have. When they have more money, the tend to invest it or spend it.
@@ -185,7 +185,7 @@ This person (bank, corporation) will find themself having less cash on hand then
 
 Instead, money becomes relatively more valuable as everyone scrambles for it. This looks like prices going down.
 
-The price of labour (wages), might, in theory be expected to go down,[^19].
+The price of labour (wages), might, in theory be expected to go down, <a href="https://www.nber.org/papers/w7236">but in practice</a> it doesn't. It's very emotionally taxing to try and convince many employees to accept pay cuts (in addition to being bad for morale), so firms tend to prefer pay freezes, cutting back on contract labour, switching some workers to part-time, and firings to pay cuts[^19].
 
 Decreased growth in the rate of money affects more than just workers. Factories close or sit idle. Economic capacity diminishes. Ultimately, the whole economy can spend less, if some of the economy is gone.
 

@@ -17,7 +17,7 @@ tags:
   - money throughout history
 ---
 
-A friend of mine recently linked to[^1]. Stamp scrip currencies are an interesting monetary technology. They're bank notes that require weekly or monthly stamps in order to be valid. These stamps cost money (normally a few percent of the face value of the note), which imposes a cost on holding the currency. This is supposed to encourage spending and spur economic activity.
+A friend of mine recently linked to <a href="http://www.lietaer.com/2010/03/the-worgl-experiment/?fbclid=IwAR3GHNpaerTEd2z5lOqPdRnpzdrxMbACwBNImg-1G9LWcvspC03sqkKNTsI">a story about stamp scrip currencies</a> in a discussion about <a href="https://initiativeq.com/">Initiative Q</a>[^1]. Stamp scrip currencies are an interesting monetary technology. They're bank notes that require weekly or monthly stamps in order to be valid. These stamps cost money (normally a few percent of the face value of the note), which imposes a cost on holding the currency. This is supposed to encourage spending and spur economic activity.
 
 This isn't just theory. It actually happened. In the Austrian town of Wörgl, a scrip currency was used to great effect for several months during the Great Depression, leading to a sudden increase in employment, money for necessary public works, and a general reversal of fortunes that had, until that point, been quite dismal. Several other towns copied the experiment and saw similar gains, until the central bank stepped in and put a stop to the whole thing.
 

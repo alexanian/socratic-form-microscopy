@@ -58,7 +58,7 @@ I do genuinely worry that in some places, large increases in the minimum wage wi
 
 So, I think we should fix zoning, certainly. And I think we need to fix how Ontario's minimum wage functions in a recession so that it doesn't destroy our whole economy during the next one. But at the same time, I think we need to explore differential minimum wages for our largest cities and the rest of the province/country. I mean this even in a world where the current minimum $14/hour wage isn't rolled back. Would even $15/hour cut it in Toronto and Vancouver[^4]?
 
-If we can't make a minimum wage work without increased unemployment, then maybe we'll have to turn to[^5].
+If we can't make a minimum wage work without increased unemployment, then maybe we'll have to turn to <a href="https://socratic-form-microscopy.com/2017/08/27/why-dont-we-subsidize-higher-wages-or-public-policy-is-expensive/">wage subsidies</a>. This is actually the method that "conservative" economist Scott Sumner favours[^5].
 
 What's clear to me is that what we're currently doing isn't working.
 
