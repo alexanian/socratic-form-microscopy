@@ -1,6 +1,6 @@
 ---
 id: 269
-title: 'Special Topics in Nuclear Weapons: Laser Enrichment'
+title: "Special Topics in Nuclear Weapons: Laser Enrichment"
 date: 2017-02-12T14:15:49-05:00
 author: Zach
 layout: post
@@ -13,6 +13,7 @@ tags:
   - nuclear weapons
   - x-risk
 ---
+
 In an effort to make my nuclear weapons post series a one stop resource for anyone interested in getting up to speed on nuclear weapons, I've decided to add supplementary materials filling any gaps that are pointed out to me. This supplementary post is on laser enrichment.
 
 Enrichment is one of the more difficult steps in the building of certain nuclear weapons. Currently, enrichment is accomplished through banks of hundreds or thousands of centrifuges, feeding their products forward towards higher and higher enrichment percentages.
@@ -20,6 +21,7 @@ Enrichment is one of the more difficult steps in the building of certain nuclear
 Significant centrifuge plants are relatively big (the Natanz plant in Iran covers 100,000m<sup>2</sup>, for example) and require a large and consistent supply of energy, which often <a href="https://www.google.ca/maps/place/Natanz+nuclear+plant/@33.7237908,51.7255067,1591m/data=!3m1!1e3!4m5!3m4!1s0x3f96419eff1700dd:0xfa1cc67ac8db241!8m2!3d33.7217884!4d51.7228483">makes it possible spot them in satellite imagery</a>. The centrifuges themselves require a recognizable combination of components, <a href="http://www.nuclearsuppliersgroup.org/en/news/148-update-of-nsg-control-lists">which are carefully monitored</a>. If a nation were to suddenly buy up components implicated in centrifuge design, it would clearly signal its intention to increase its enrichment capacity.
 
 Recently, laser enrichment has emerged as an additional vector for proliferation. Properly called SILEX (separation of isotopes by laser excitation), this new technology has the potential to make enrichment (and therefore proliferation easier). This post discusses how laser enrichment works and puts the threat it represents in context. It's both a summarization (and simplification) of the <a href="http://scienceandglobalsecurity.org/archive/sgs24snyder.pdf">recent paper</a> on laser enrichment in published in <a href="https://www.researchgate.net/journal/0892-9882_Science_and_Global_Security">Science &amp; Global Security</a> by <a href="http://scholar.princeton.edu/rasnyder/publications">Ryan Snyder</a> and the product of my extensive background reading on nuclear weapons.
+
 <h3 id="how">How It Works</h3>
 Like gas centrifugation, laser enrichment requires gaseous uranium hexafluoride (Hex). While the preparation of uranium hexafluoride doesn't represent a significant technical challenge (compared to all of the rest of the work of building a nuclear weapon), it's still the sort of work that most reasonable chemists try to avoid. "Requires work with a poisonous, corrosive, radioactive gas" will never be a selling feature of enrichment work.
 
@@ -31,7 +33,10 @@ Finally, if you want to make this maximally efficient, you're going to need a mi
 
 The whole setup looks like this:
 
-[caption id="attachment_270" align="alignnone" width="300"]<img class="size-medium wp-image-270" src="http://socratic-form-microscopy.com/wp-content/uploads/enrichment-cell-300x163.png" alt="" width="300" height="163" /> Image Credit: <a href="http://scienceandglobalsecurity.org/archive/sgs24snyder.pdf">A Proliferation Assessment of Third Generation Laser</a><br />Uranium Enrichment Technology[/caption]
+{% capture caption %}
+Schematic of a third generation laser isotope separation unit for uranium enrichment. Image Credit: <a href="https://scienceandglobalsecurity.org/archive/sgs24snyder.pdf">A Proliferation Assessment of Third Generation Laser Uranium Enrichment Technology</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/enrichment-cell-600x340.png" alt="" caption=caption %}
 
 Once you've assembled all of this, you're good to start enriching.
 
@@ -48,6 +53,7 @@ When you put Hex in a carrier gas like SF<sub>6</sub>, you're going to see the f
 This recoil tends to push <sup>235</sup>UF<sub>6</sub> to the edges of the stream. A skimmer positioned around the outlet collects this enriched product. Note that it won't be entirely enriched; the outside edges of the jet will have plenty of <sup>238</sup>UF<sub>6</sub> because the jet is going to be mostly <sup>238</sup>UF<sub>6</sub> – or at least, it will be when natural or lightly enriched uranium is the input.
 
 If you were doing this on an industrial scale, you'd set a bunch of these cells up in series, with the enriched product of each cell being the feed for the next. In this way, you'd get the same sort of cascade towards higher enrichment as you would with centrifuges.
+
 <h3 id="pro">Proliferation</h3>
 Laser enrichment might be more space and energy efficient than centrifuge arrays.
 

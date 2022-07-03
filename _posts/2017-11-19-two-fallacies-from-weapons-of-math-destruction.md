@@ -27,11 +27,17 @@ I recently read <a href="https://www.goodreads.com/book/show/28186015-weapons-of
 <h1 id="ought-is">Ought-Is Fallacy</h1>
 It's a commonly repeated truism that "correlation doesn't imply causation". People who've been around the statistics block a bit longer might <a href="https://xkcd.com/552/">echo Randall Monroe</a> and retort that "correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'". Understanding why a graph like this:
 
-[caption id="attachment_602" align="alignnone" width="768"]<img class="wp-image-602 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/obviously_anchoring_OMFG-768x580.png" alt="In addition to this graph obviously being anchored, using it is obviously fair use." width="768" height="580" /> Image Copyright <a href="https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html">The New York Times, 2017</a>. Used here for purposes of commentary and criticism.[/caption]
+{% capture caption %}
+Image Copyright <a href="https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html">The New York Times, 2017</a>. Used here for purposes of commentary and criticism.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/obviously_anchoring_OMFG-768x580.png" alt="In addition to this graph obviously being anchored, using it is obviously fair use." caption=caption %}
 
 Is utter horsecrap <a id="wtf-top-1" href="#wtf-bot-1">[1]</a>, despite how suggestive it looks is the work of a decent education in statistics. Here correlation doesn't imply causation. On the other hand, it's not hard to find excellent examples where correlation really does mean causation:
 
-[caption id="attachment_601" align="alignnone" width="768"]<img class="wp-image-601 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/global-temp-and-co2-us-gov-768x582.gif" alt="This would be a risky graph to use if echo chambers didn't mean that I know literally no one who doesn't believe in global warming" width="768" height="582" /> Source: <a href="https://www.ncdc.noaa.gov/monitoring-references/faq/indicators.php">The National Centers for Environmental Administration</a>. Having to spell "centre" wrong and use inferior units is a small price to pay for the fact that the American government immediately releases everything it creates into the public domain.[/caption]
+{% capture caption %}
+Source: <a href="https://www.ncdc.noaa.gov/monitoring-references/faq/indicators.php">The National Centers for Environmental Administration</a>. Having to spell "centre" wrong and use inferior units is a small price to pay for the fact that the American government immediately releases everything it creates into the public domain.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/global-temp-and-co2-us-gov-768x582.gif" alt="This would be a risky graph to use if echo chambers didn't mean that I know literally no one who doesn't believe in global warming" caption=caption %}
 
 When trying to understand the ground truth, it's important that you don't confuse correlation with causation. But not every human endeavour is aimed at determining the ground truth. Some endeavours really do just need to understand which activities and results are correlated. Principal among these is insurance.
 
@@ -88,15 +94,15 @@ If you want to give your readers an accurate snapshot of the ground truth, your 
 
 Here's a toy example:
 
-<img class="alignnone wp-image-600 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/anchored-300x288.png" alt="" width="300" height="288" /> <img class="alignnone wp-image-599 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/not-anchored-300x288.png" alt="" width="300" height="288" />
+<img class="alignnone wp-image-600 size-medium" src="/wp-content/uploads/anchored-300x288.png" alt="" width="300" height="288" /> <img class="alignnone wp-image-599 size-medium" src="/wp-content/uploads/not-anchored-300x288.png" alt="" width="300" height="288" />
 
 Note that the thing that makes me suspicious of anchoring here is that we have a big hole with no data and no way of knowing what sort of data goes there (it's not likely we can randomly generate a bunch of new countries and plot their gun ownership and rate of mass shootings). If we did some more readings (ignoring the fact that in this case <em>we can't</em>) and got something like this:
 
-<img class="alignnone wp-image-598 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/also-not-anchored-300x288.png" alt="" width="300" height="288" />
+<img class="alignnone wp-image-598 size-medium" src="/wp-content/uploads/also-not-anchored-300x288.png" alt="" width="300" height="288" />
 
 I would no longer be worried about anchoring. It really isn't enough just to look at the correlation coefficient either. The image labelled "Also Not Anchored" has a marginally lower correlation coefficient than the anchored image, even though (I would argue) it is FAR more likely to represent a true positive correlation. Note also we have no way to tell that more data will necessarily give us a graph like the third. We could also get something like this:
 
-<img class="alignnone wp-image-597 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/outlier-300x288.png" alt="" width="300" height="288" />
+<img class="alignnone wp-image-597 size-medium" src="/wp-content/uploads/outlier-300x288.png" alt="" width="300" height="288" />
 
 In which we have a fairly clear trend of noisy data with an average of 2.5 irrespective of our x-value and a pair of outliers driving a slight positive correlation.
 

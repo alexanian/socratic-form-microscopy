@@ -36,7 +36,10 @@ I also don't think preparation for a coup is the only reason to ignore court ord
 
 All this is to say, if Trump is planning a coup, he isn't being very strategic about it. That said, if he found some way to ditch General Mattis for someone more compliant, I would take the possibility of a coup much more seriously.
 
-[caption id="attachment_214" align="alignnone" width="217"]<img class="size-medium wp-image-214" src="/wp-content/uploads/13271386043_0518877251_b-1-217x300.jpg" alt="[Image Credit: Carole Raddato]" width="217" height="300" /> <a href="https://www.flickr.com/photos/carolemage/13271386043/in/photolist-D1Vayv-DQ4GbH-mdKjGK-D1VawX">Supposed bust of Gauis Marius. Image Credit: Carole Raddato</a>[/caption]Instead of viewing Trump as a Caesar-in-waiting, we should think of him as analogous to <a href="https://en.wikipedia.org/wiki/Gaius_Marius">Gaius Marius</a>. Marius never seized power, but he did violate basically every conventional norm of Roman government (he held an unprecedented 7 consulships and began the privatization of the legions). Gaius Marius made the rise of dictators almost inevitable, but he was not himself a dictator.
+{% capture caption %}
+Supposed bust of Gauis Marius. Image Credit: <a href="https://www.flickr.com/photos/carolemage/13271386043/in/photolist-D1Vayv-DQ4GbH-mdKjGK-D1VawX">Carole Raddato</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/13271386043_0518877251_b-1-217x300.jpg" alt="[Image Credit: Carole Raddato]" caption=caption %}
 
 Like America, Rome in the 1st century BCE found itself overextended, governing and protecting a large network of tributary states and outright colonies. The Roman constitutional framework couldn't really handle administration on this scale. While year long terms are a sensible way to run a city state, they don't work with a continent-spanning empire.
 
@@ -44,13 +47,19 @@ In addition to the short institutional memory and lack of institutional expertis
 
 Today, America is running up against an archaic system of checks and balances <em id="b3"><a href="#3">[3]</a></em>. America has fallen to "<a href="http://www.nationalaffairs.com/publications/detail/kludgeocracy-in-america">government by kluge</a>", a state of affairs that has seriously degraded <a href="http://induecourse.ca/thoughts-on-president-trump/">output legitimacy</a>. From Prof. Joseph Heath on Donald Trump:
 
-<blockquote>In response to the impossibility of reform, the American system has slowly evolved into what Steven Teles calls a kludgeocracy. Rather than enacting reforms, people have found “work-arounds” to the existing system, ways of getting things done that twist the rules a bit, but that everyone accepts because it’s easier than trying to change the rules. (This is why, incidentally, those who hope that the “separation of powers” will constrain President Trump are kidding themselves – the separation of powers in the U.S. is severely degraded, as an accumulated effect of decades of “work arounds” or kludges that violate it.)
-
+<blockquote>
+<p>In response to the impossibility of reform, the American system has slowly evolved into what Steven Teles calls a kludgeocracy. Rather than enacting reforms, people have found “work-arounds” to the existing system, ways of getting things done that twist the rules a bit, but that everyone accepts because it’s easier than trying to change the rules. (This is why, incidentally, those who hope that the “separation of powers” will constrain President Trump are kidding themselves – the separation of powers in the U.S. is severely degraded, as an accumulated effect of decades of “work arounds” or kludges that violate it.)</p>
+<p>
 Because of this, the U.S. government suffers a massive shortfall in “output legitimacy,” in that it consistently fails to deliver anything like the levels of competent performance than people in wealthy, advanced societies expect from government. (Anyone who has ever dealt with the U.S. government knows that it is uniquely horrible experience, unlike anything suffered by citizens of other Western democracies.) Furthermore, because of the dysfunctional legislative branch, nothing ever gets “solved” to anyone’s satisfaction. All that Americans ever get is a slow accumulation of more kludges (e.g. the Affordable Care Act, the Clean Power Plan).
-
+</p>
+<p>
 Most people, however, do not think institutionally. When they see bad performance from government, they blame the actors that they see readily at hand. And their response then is to send in new people, committed to changing things. For decades they’ve been doing this, and yet nothing ever changes. Why? Because the problems are institutional, outside the control of individual legislators. But how do people interpret this lack of change? Many come to the conclusion that the person they sent in to fix things got coopted, or wasn’t tough enough, or wasn’t up to the job. And so they send in someone tougher, more radical, more vociferous in his or her commitment to changing things. When that doesn’t work out, they send in someone even more radical.
+</p>
+<p>
+A vote for Donald Trump is a natural end-point of this process.
+</p>
+</blockquote>
 
-A vote for Donald Trump is a natural end-point of this process.</blockquote>
 For Rome, Marius was the end-point. He held more power, for longer, than anyone who came before. The crucial distinction between him and those who came after, however, was that he acquired this power through legitimate means. Still, in order to govern effectively, he was forced to apply more kluges to the already disintegrating Roman constitution. It couldn't hold up.
 
 The end result of Marius was Sulla, who tried to bring Rome back to its "old ways" and repair the damage to the constitution. Interestingly, he did this almost entirely through extra-constitutional means. His reforms failed, although not just because of how he did them. Sulla tried to remove the kluges from the underlying system, but the result was an even more unworkable system.

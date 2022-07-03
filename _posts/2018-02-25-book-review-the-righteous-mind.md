@@ -138,9 +138,7 @@ You may have heard that psychology is currently in the midst of a "<a href="http
 
 Here's what the summary of Chapter 3 looks like with the offending evidence removed:
 
-[caption id="attachment_711" align="alignleft" width="768"]<img class="size-medium_large wp-image-711" src="https://socratic-form-microscopy.com/wp-content/uploads/dnr-1-768x1028.png" alt="" width="768" height="1028" /> Pictured: Page 82 of my edition of The Righteous Mind, after some "minor" corrections. Text is © 2012 Jonathon Haidt. Used here for purposes of commentary and criticism.[/caption]
-
-&nbsp;
+{% include image.html src="/wp-content/uploads/dnr-1-768x1028.png" alt="" caption="Pictured: Page 82 of my edition of The Righteous Mind, after some \"minor\" corrections. Text is © 2012 Jonathon Haidt. Used here for purposes of commentary and criticism." %}
 
 Here's an incomplete list of claims that didn't replicate:
 

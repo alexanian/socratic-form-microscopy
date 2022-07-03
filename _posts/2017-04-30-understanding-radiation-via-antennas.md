@@ -25,7 +25,10 @@ These oscillations take a certain amount of time to complete, a time which is ca
 
 EM radiation has another nifty property: it always travels at the same speed, a speed commonly called "the speed of light" <a id="anttop1" href="#ant1">[1]</a> (even when applied to EM radiation that isn't light). When you know the speed of an oscillating wave and the amount of time it takes for the wave to oscillate, you can calculate the wavelength. Scientists like to do this because the wavelength gives us a lot of information about how radiation will interact with world. It is common practice to represent wavelength with the Greek letter Lambda (λ).
 
-[caption id="attachment_372" align="alignnone" width="300"]<img class="wp-image-372 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/lambda_shuttle-1-300x200.jpg" alt="lambda class shuttle from star wars" width="300" height="200" /> Not that type of lambda. Image Credit: <a href="https://www.flickr.com/photos/marshal-banana/32922111470/">Marshal Banana on Flickr</a>[/caption]
+{% capture caption %}
+Not that type of lambda. Image Credit: <a href="https://www.flickr.com/photos/marshal-banana/32922111470/">Marshal Banana on Flickr</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/lambda_shuttle-1-300x200.jpg" alt="lambda class shuttle from star wars" caption=caption %}
 
 Put in a more mathy way: if you have an event that occurs with frequency <em>f</em> to something travelling at velocity <em>v</em>, the event will have a spatial periodicity λ (our trusty wavelength) equal to <em>v / f.</em> For example, if you have a sound that oscillates 34Hz (this frequency is equivalent to the lowest C♯ on a standard piano) travelling at 340m/s (the speed of sound in air), it will have a wavelength of (340 m/s)/(34 s<sup>-1</sup>) = 10m. I'm using sound here so we can use reasonably sized numbers, but the results are equally applicable to light or other forms of EM radiation.
 
@@ -33,15 +36,23 @@ Wavelength and frequency are inversely related to each other. The higher the fre
 
 With all that background out of the way, we can actually "look" at electromagnetic radiation and understand what we're seeing.
 
-[caption id="attachment_368" align="alignnone" width="300"]<img class="wp-image-368 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/Electromagneticwave3D-300x298.gif" alt="animated gif showing oscillating magnetic and electric fields orthogonal to direction of travel" width="300" height="298" /> Here wavelength is labeled with "λ", the electric field is red and labelled with "E" and the magnetic field is blue and labelled with "B". "B" is the standard symbol for magnetic fields, for reasons I have never understood. Image Credit: <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation#/media/File:Electromagneticwave3D.gif">Lookang on Wikimedia Commons</a>.[/caption]
+{% capture caption %}
+Here wavelength is labeled with "λ", the electric field is red and labelled with "E" and the magnetic field is blue and labelled with "B". "B" is the standard symbol for magnetic fields, for reasons I have never understood. Image Credit: <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation#/media/File:Electromagneticwave3D.gif">Lookang on Wikimedia Commons</a>.{% endcapture %}
+{% include image.html src="/wp-content/uploads/Electromagneticwave3D-300x298.gif" alt="animated gif showing oscillating magnetic and electric fields orthogonal to direction of travel" caption=caption %}
 
 Wavelength is very important. You know those big TV antennas houses used to have?
 
-[caption id="attachment_370" align="alignnone" width="300"]<img class="wp-image-370 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/antenna_house-300x225.jpg" alt="picture of house with old fashioned aerial antenna" width="300" height="225" /> Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Multiple_Antenna.JPG">B137 on Wikimedia Commons</a>[/caption]
+{% capture caption %}
+Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Multiple_Antenna.JPG">B137 on Wikimedia Commons</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/antenna_house-300x225.jpg" alt="picture of house with old fashioned aerial antenna" caption=caption %}
 
 Turns out that they're about the same size as the wavelength of television signals. The antenna on a car? About the same size as the radio waves it picks up. Those big radio telescopes in the desert? Same size as the extrasolar radio waves <em>they</em> hope to pick up.
 
-[caption id="attachment_369" align="alignnone" width="300"]<img class="size-medium wp-image-369" src="https://socratic-form-microscopy.com/wp-content/uploads/VLA-300x225.jpg" alt="image of the VLA radio telescopes" width="300" height="225" /> Fun fact: these dishes together make up a very large radio telescope, unimaginatively called the "Very Large Array". Image Credit: <a href="https://en.wikipedia.org/wiki/Karl_G._Jansky_Very_Large_Array#/media/File:USA.NM.VeryLargeArray.02.jpg">Hajor on Wikimedia Commons</a>[/caption]
+{% capture caption %}
+Fun fact: these dishes together make up a very large radio telescope, unimaginatively called the "Very Large Array". Image Credit: <a href="https://en.wikipedia.org/wiki/Karl_G._Jansky_Very_Large_Array#/media/File:USA.NM.VeryLargeArray.02.jpg">Hajor on Wikimedia Commons</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/VLA-300x225.jpg" alt="image of the VLA radio telescopes" caption=caption %}
 
 Even things we don't normally think of as antennas can act like them. The rod and cone cells in your eyes act as antennas for the light of this very blog post <a id="anttop2" href="#ant2">[2]</a>. Chains of protein or water molecules act as antennas for microwave radiation, often with delicious results. The bases in your DNA act as antennas for UV light, often with disastrous results.
 
@@ -72,7 +83,7 @@ When you're worried about a certain type of EM radiation causing cancer, all you
 
 <em id="ant3"><strong>[3]</strong></em> The smaller the wavelength, the easier it is to find an appropriately sized system of electrons. When your wavelength is the size of a double bond (0.133nm), you'll be able to interact with anything that has a double bond. Even smaller wavelengths have even more options for interactions – a wavelength that is well sized for an electron will interact with anything that has an electron (approximately everything). <a href="#anttop3">^</a>
 
-<em id="ant4"><strong>[4]</strong></em> This interaction is actually governed by quantum mechanical tunneling. Whenever a form of EM radiation "tries" to cross a barrier larger than its wavelength, it will be attenuated by the barrier. The equation that describes the probability distribution of a particle (the photons that make up EM radiation are both waves and particles, so we can use particle equations for them) is approximately <img class="alignnone wp-image-367 " src="https://socratic-form-microscopy.com/wp-content/uploads/Antennas-Eq-1.png" alt="" width="160" height="27" /> (I say approximately because I've simplified all the constants into a single term, <em>k</em>), which becomes <img class="alignnone wp-image-366" src="https://socratic-form-microscopy.com/wp-content/uploads/Antennas-Eq-2.png" alt="" width="132" height="27" /> (here I'm using <em>k<sub>1</sub></em> to imply that the constant will be different), the equation for exponential decay, when the energy (to a first approximation, length) of the substance is higher than the energy (read size of wavelength) of the light.
+<em id="ant4"><strong>[4]</strong></em> This interaction is actually governed by quantum mechanical tunneling. Whenever a form of EM radiation "tries" to cross a barrier larger than its wavelength, it will be attenuated by the barrier. The equation that describes the probability distribution of a particle (the photons that make up EM radiation are both waves and particles, so we can use particle equations for them) is approximately <img class="alignnone wp-image-367 " src="/wp-content/uploads/Antennas-Eq-1.png" alt="" width="160" height="27" /> (I say approximately because I've simplified all the constants into a single term, <em>k</em>), which becomes <img class="alignnone wp-image-366" src="/wp-content/uploads/Antennas-Eq-2.png" alt="" width="132" height="27" /> (here I'm using <em>k<sub>1</sub></em> to imply that the constant will be different), the equation for exponential decay, when the energy (to a first approximation, length) of the substance is higher than the energy (read size of wavelength) of the light.
 
 This equation shows that there can be some probability – occasionally even a high probability – of the particle existing on the other side of a barrier.  All you need for a particle to traverse a barrier is an appropriately small barrier. <a href="#anttop4">^</a>
 

@@ -23,7 +23,10 @@ Since the minimum wage increase took effect on January 1<sup>st</sup>, Tim Horto
 
 TVO just put out a piece about this ongoing saga by the Christian socialist Michael Coren. It loudly declares that "<a href="https://tvo.org/article/current-affairs/shared-values/why-tim-hortons-doesnt-deserve-your-sympathy">Tim Hortons doesn't deserve your sympathy</a>". Unfortunately, Mr. Coren is incorrect. Everyone involved here (Tim Hortons the corporation, Tim Hortons franchisees, and Tim Hortons workers) is caught between a rock and a hard place. They <em>all</em> deserve your sympathy.
 
-[caption id="attachment_660" align="alignnone" width="768"]<img class="size-medium_large wp-image-660" src="https://socratic-form-microscopy.com/wp-content/uploads/Tim_Hortons-768x512.jpg" alt="" width="768" height="512" /> This Tim Hortons could be literally anywhere in suburban or rural Canada. Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Tim_Hortons.jpg">Marek Ślusarczyk via Wikipedia Commons</a>[/caption]
+{% capture caption %}
+This Tim Hortons could be literally anywhere in suburban or rural Canada. Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Tim_Hortons.jpg">Marek Ślusarczyk via Wikipedia Commons</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Tim_Hortons-768x512.jpg" alt="" caption=caption %}
 
 It is a truism that a minimum wage increase must result in either declining profits, cuts to other costs, or rising prices. While supporters of the minimum wage increase would love to see it all come out of profits, that isn't reasonable.
 

@@ -152,7 +152,10 @@ Smart tried to short-circuit arguments like this by pointing out that he wasn't 
 
 I have the pleasure of reading the blogs and Facebook posts of many prominent (for certain unusual values of prominent) utilitarians. They all seem to be enjoying what they do. These are people who enjoy research, or organizing, or presenting, or thought experiments and have found ways to put these vocations to use in the general utilitarian project. Or people who find that they get along well with utilitarians and therefore steer their career to be surrounded by them. This is basically finding ikigai within the context of utilitarian responsibilities.
 
-[caption id="attachment_449" align="alignnone" width="509"]<img class="wp-image-449 size-full" src="/wp-content/uploads/Ikigai-EN-optimized-PNG.png" alt="" width="509" height="509" /> Image Credit: Emmy van Deurzen via <a href="https://commons.wikimedia.org/wiki/File:Ikigai-EN-optimized-PNG.png">Wikimedia Commons</a>[/caption]
+{% capture caption %}
+Image Credit: Emmy van Deurzen via <a href="https://commons.wikimedia.org/wiki/File:Ikigai-EN-optimized-PNG.png">Wikimedia Commons</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Ikigai-EN-optimized-PNG.png" alt="" caption=caption %}
 
 Saying that utilitarianism will never be popular outside of those suited for it means accepting we don't have a universal ethical solution. This is, I think, very pragmatic. It also doesn't rule out utilitarians looking for ways we can encourage people to be <em>more</em> utilitarian. To slightly modify a phrase that utilitarian animal rights activists use: the best utilitarianism is the type you can stick with; it's better to be utilitarian 95% of the time then it is to be utilitarian 100% of the time – until you get burnt out and give it up forever.
 
@@ -166,6 +169,7 @@ To get to the meat of Williams points, I had to wade through what at times felt 
  	<li>All utilities should be assessed in terms of acts. If we're talking about rules, governments, or dispositions, their utility stems from the acts they either engender or prevent.</li>
  	<li>To say that a rule (as an example) has any effect at all, we must say that it results in some change in acts. In Williams' words: "the total utility effect of a rule's obtaining must be cashable in terms of the effects of acts.</li>
 </ol>
+
 Together, (1) and (2) make up what Williams calls the "act-adequacy" premise. If the premise is true, there must be no surplus source of utility outside of acts and, as Smart said, rule utilitarianism should (if it is truly concerned with optimific outcomes) collapse to act utilitarianism. This is all well and good when comparing systems as tools of total assessment (e.g. when we take the universe wide view that I criticized Smart for hiding in), but Williams is first interested in how this causes rule and act utilitarianism to relate with actions
 
 If you asked an act-utilitarian and a rule utilitarian "what makes that action right", they would give different answers. The act utilitarian would say that it is right if it maximizes utility, but the rule utilitarian would say it is right if it is in accordance with rules that tend to maximize utility. Interestingly, if the act-adequacy premise is true, then both act and rule utilitarians would agree as to why certain rules or dispositions are desirable, namely, that actions that results from those rules or dispositions tends to maximize utility.
@@ -251,6 +255,7 @@ In addition to all that, there is the problem of calculating how to satisfy peop
  	<li>To what extent is welfare comparative?</li>
  	<li>How do you develop the aggregate social preference given the answer to the proceeding two questions?</li>
 </ol>
+
 Williams seems to suggest that a naïve utilitarian approach involves what I've think is best summed up in a sick parody of Marx: <em>from each according to how little they'll miss it, to each according to how much they desire it</em>. Surely there cannot be a worse incentive structure imaginable than the one naïve utilitarianism suggests?
 
 When dealing with preferences, it is also the case that utilitarianism makes no distinction between fixing inequitable distributions that cause discontent or – as observed in America – convincing those affected by inequitable distributions not to feel discontent.

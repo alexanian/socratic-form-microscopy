@@ -17,6 +17,7 @@ tags:
   - scientism and proud
   - skepticism
 ---
+
 A while back, I was linked to this Tweet:
 
 https://twitter.com/ColdWarScience/status/1017211382176059392
@@ -51,9 +52,10 @@ I start to feel that someone is being at least a bit disingenuous when they only
 
 This sort of bait and switch pops up enough in post-modernist "all knowledge is human and constructed by existing hierarchies" places that someone got annoyed enough to coin a name for it: <a href="https://philpapers.org/archive/SHATVO-2.pdf">the motte and bailey fallacy</a>.
 
-[caption id="attachment_863" align="alignleft" width="768"]<img class="size-medium_large wp-image-863" src="https://socratic-form-microscopy.com/wp-content/uploads/800px-Motte_and_bailey_at_olivet_a_grimbosq-768x290.jpg" alt="" width="768" height="290" /> Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Motte_and_bailey_at_olivet_a_grimbosq.jpg?uselang=fr">Hchc2009, Wikimedia Commons.</a>[/caption]
-
-&nbsp;
+{% capture caption %}
+Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Motte_and_bailey_at_olivet_a_grimbosq.jpg?uselang=fr">Hchc2009, Wikimedia Commons</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/800px-Motte_and_bailey_at_olivet_a_grimbosq-768x290.jpg" alt="" caption=caption %}
 
 It's named after the early-medieval form of castle, pictured above. The motte is the outer wall and the bailey is the inner bit. This mirrors the two parts of the motte and bailey fallacy. The "motte" is the easily defensible statement (science is political because all human group activities are political) and the bailey is the more controversial belief actually held by the speaker (something like "we can't trust science because of the number of men in it" or "we can't trust science because it's dominated by liberals").
 

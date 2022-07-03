@@ -1,6 +1,6 @@
 ---
 id: 313
-title: 'Cutting the Gordian Knot: Bad Solutions to Good Paradoxes'
+title: "Cutting the Gordian Knot: Bad Solutions to Good Paradoxes"
 date: 2017-03-15T21:39:41-04:00
 author: Zach
 layout: post
@@ -12,16 +12,20 @@ tags:
   - silly
   - someone else probably came up with this first
 ---
-<h3>Russel's Paradox</h3>
-[caption id="attachment_319" align="alignnone" width="300"]<img class="size-medium wp-image-319" src="http://socratic-form-microscopy.com/wp-content/uploads/3800995334_46985dde96_z-300x200.jpg" alt="" width="300" height="200" /> Image Credit: Donald on Flickr[/caption]
+
+<h3>Russell's Paradox</h3>
+
+{% include image.html src="/wp-content/uploads/3800995334_46985dde96_z-300x200.jpg" alt="" caption="Image Credit: Donald on Flickr" %}
 
 <em>In a village, the barber shaves everyone who does not shave himself, but no one else. Who shaves the barber.</em>
 
 Imagine <strong>The Barber</strong> as similar to <strong>The Pope</strong>. When he is in his shop, cutting hair, he is <strong>The Barber </strong>and has all of the powers that entails, just as <strong>The Pope </strong>only possesses the full power of papacy when speaking "from the chair". When <strong>The Barber</strong> isn't manifesting this mantle, he's just Glen, the nice fellow down the lane. Glen shaves his own beard. <strong>The Barber</strong> therefore doesn't have to.
 
 Alternatively, the barber is a woman.
+
 <h3>Omnipotence Paradox</h3>
-[caption id="attachment_318" align="alignnone" width="300"]<img class="size-medium wp-image-318" src="http://socratic-form-microscopy.com/wp-content/uploads/4602413834_c6c0d406ca_o-300x199.jpg" alt="" width="300" height="199" /> Image Credit: Tim Green on Flickr[/caption]
+
+{% include image.html src="/wp-content/uploads/4602413834_c6c0d406ca_o-300x199.jpg" alt="" caption="Image Credit: Tim Green on Flickr" %}
 
 <em>Can God create a rock so large that he himself cannot lift it?</em>
 
@@ -38,22 +42,28 @@ If God is not all-knowing but is all-loving, then the question will only be answ
 If God is neither all-knowing nor all-loving and has at least a bit of curiosity, then we should be able to eventually observe him trying to create a boulder large enough that he cannot lift it. This God won't know the answer and wouldn't necessarily care that finding out requires abandoning all of his other duties.
 
 Given that this question was first posed right before the crusades, I believe that we're experiencing the third scenario. The mere act of raising this paradox caused God to turn his face away from the world and worry about more interesting problems than those caused by a bunch of jumped up apes.
+
 <h3>Zeno's Paradox</h3>
-[caption id="attachment_315" align="alignnone" width="300"]<img class="size-medium wp-image-315" src="http://socratic-form-microscopy.com/wp-content/uploads/Zeno_Dichotomy_Paradox_alt-300x143.png" alt="" width="300" height="143" /> Image Credit: Miranche on Wikimedia Commons[/caption]
+
+{% include image.html src="/wp-content/uploads/Zeno_Dichotomy_Paradox_alt-300x143.png" alt="" caption="Image Credit: Miranche on Wikimedia Commons" %}
 
 <em>If you want to go somewhere, you first have to get halfway there. But to get to the midpoint, you have to go a quarter of the way. But to get to a quarter… When you subdivide like this, you'll see that there are an infinite number of steps you must take to go anywhere. You cannot accomplish an infinite number of tasks in a finite time, therefore, movement is impossible. </em><em> </em>
 
 It's a common mistake that space is infinitely sub-dividable. In fact, there is a limit to how finely you can cut space. You cannot cut the universe more finely than 1.61x 10<sup>-35</sup>m, a length called the <em>Planck Length</em>. The Planck length is to the width of a hair as the width of a hair is to the whole universe. It's an unimaginably tiny length.
 
 An important property of halving things: you get really small numbers very quickly. If you halve a distance of 1m a mere 116 times, you'll have cut the distance as finely as it is possible to cut anything. At this point, you can halve the distance no more and you can proceed to your destination, one Planck length at a time.
+
 <h3>Sorites Paradox</h3>
-[caption id="attachment_316" align="alignnone" width="300"]<img class="size-medium wp-image-316" src="http://socratic-form-microscopy.com/wp-content/uploads/5282834545_4af6228485_o-300x225.jpg" alt="" width="300" height="225" /> Image Credit: David Stanley on Flickr[/caption]
+
+{% include image.html src="/wp-content/uploads/5282834545_4af6228485_o-300x225.jpg" alt="" caption="Image Credit: David Stanley on Flickr" %}
 
 <em>There is a pile of sand in front of you. If you remove a grain of sand from it, it will still be a pile. If you remove another, it will still be a pile. But if you keep removing them, eventually it won't be. When does it stop being a pile?</em>
 
 I'm emailing <a href="https://www.iso.org/home.html">ISO</a> and the <a href="https://www.nist.gov/">NIST</a> about this one. I expect to have an answer after ten years and three hundred committee meetings.
+
 <h3>The Ship of Theseus</h3>
-[caption id="attachment_320" align="alignnone" width="300"]<img class="size-medium wp-image-320" src="http://socratic-form-microscopy.com/wp-content/uploads/18043251370_b9454ef3cb_o-1-300x224.jpg" alt="" width="300" height="224" /> Image Credit: Verity Cridland on Flickr[/caption]
+
+{% include image.html src="/wp-content/uploads/18043251370_b9454ef3cb_o-1-300x224.jpg" alt="" caption="Image Credit: Verity Cridland on Flickr" %}
 
 <em>The Athenian Theseus bequeathed his ship to the city. As the ship aged, the Athenians kept it in perfect condition by replacing any planks and fittings that rotted away. Eventually, the entire ship had been replaced. This caused all of the philosophers in Athens to wonder: was it still Theseus's Ship.</em>
 
@@ -66,8 +76,10 @@ Treating boats with a similar logic, we can see that as long as the Athenians we
 If we take this and assume that Theseus had a solid grounding in trademark law – which would allow us to assume that he made his ship a protected brand like Harris Tweed, Kobe beef, Navaho, and Scotch – then we can see that the ship would still fall under the Theseus's Ship™ brand. Most protected brands require a certain geographic origin, but we've already been over that in this case.
 
 Even when philosophers argue that the boat is no longer Theseus's Ship, they have to admit it is Theseus's Ship™.
+
 <h3>Unexpected Hanging Paradox</h3>
-[caption id="attachment_314" align="alignnone" width="300"]<img class="size-medium wp-image-314" src="http://socratic-form-microscopy.com/wp-content/uploads/409315924_19c9846b7c_o-300x225.jpg" alt="" width="300" height="225" /> Image Credit: Adam Clarke on Flickr[/caption]
+
+{% include image.html src="/wp-content/uploads/409315924_19c9846b7c_o-300x225.jpg" alt="" caption="Image Credit: Adam Clarke on Flickr" %}
 
 <em>A prisoner is sentenced to hanging by a judge. The judge stipulates that the sentence will be carried out on one of the days in the next week, that it will be carried out before noon, and that it must be a surprise to the prisoner. </em>
 

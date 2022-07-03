@@ -17,7 +17,8 @@ tags:
   - democracy
   - political philosophy
 ---
-<img class="size-full wp-image-941 aligncenter" src="https://socratic-form-microscopy.com/wp-content/uploads/shambolic.png" alt="" width="682" height="440" />
+
+<img class="size-full wp-image-941 aligncenter" src="/wp-content/uploads/shambolic.png" alt="" width="682" height="440" />
 
 Brexit was always destined to be a shambles.
 
@@ -26,6 +27,7 @@ I haven't written much about Brexit. It's always been a bit of a case of "not my
 That said, I do think Brexit is useful for illustrating the pitfalls of this sort of referendum, something I've taken to calling "The 50% Problem".
 
 To see where this problem arises from, let's take a look at the text of several political referendums:
+
 <blockquote>Should the United Kingdom remain a member of the European Union or leave the European Union? – 2016 UK Brexit Referendum</blockquote>
 <blockquote>Do you agree that Québec should become sovereign after having made a formal offer to Canada for a new economic and political partnership within the scope of the bill respecting the future of Quebec and of the agreement signed on June 12, 1995? – 1995 Québec Independence Referendum</blockquote>
 <blockquote>Should Scotland be an independent country? – 2014 Scottish Independence Referendum

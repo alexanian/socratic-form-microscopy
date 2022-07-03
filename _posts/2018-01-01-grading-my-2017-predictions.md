@@ -13,7 +13,9 @@ categories:
 tags:
   - predictions
 ---
+
 Now is the big reveal. Just how did I do in <a href="https://socratic-form-microscopy.com/2017/01/01/2017-predictions/">2017</a>?
+
 <h2>Canada</h2>
 <ol>
  	<li>Trudeau ends the year with a lower approval rating than he started – 60%</li>
@@ -160,7 +162,7 @@ Of my predictions at a <strong>90%</strong> confidence level, I got <strong>17</
 
 If you prefer graphs, here's the results on a graph. The red line shows what I would get if I was a perfect judge of probability. The blue line is actual me. Whenever the red line is below my results, I was under-confident. Whenever it's above them, I was overconfident.
 
-<img class="size-medium_large wp-image-652 aligncenter" src="https://socratic-form-microscopy.com/wp-content/uploads/Calibration-1-768x768.png" alt="" width="768" height="768" />
+<img class="size-medium_large wp-image-652 aligncenter" src="/wp-content/uploads/Calibration-1-768x768.png" alt="" width="768" height="768" />
 
 I'm pleased that in general (excepting 70% vs. 80%), things I thought were more likely were in fact more likely. I appear to be fairly under-confident at lower probability levels (50% through 70%), and fairly good at higher confidence levels (80% and 90%), although of course this is just one year and some of this could be due to chance and luck.
 

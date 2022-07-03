@@ -35,7 +35,7 @@ One of my great joys this past year has been reading year-old journal entries; t
 <h3>The Results</h3>
 I scored -3.25 on the economic axis (this puts me firmly left of centre) and -6.56 on the authority axis (putting me deep in the social libertarian camp). Here's how I stack up against the Canadian political parties <a href="https://www.politicalcompass.org/canada2015">(as assessed in 2015 by the Political Compass</a>).
 
-<img class="alignnone wp-image-403 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/Polical-Compass-cdnpoli-768x706.png" alt="" width="768" height="706" />
+<img class="alignnone wp-image-403 size-medium_large" src="/wp-content/uploads/Polical-Compass-cdnpoli-768x706.png" alt="" width="768" height="706" />
 
 These results put me to the left of all Canadian political parties economically and very, very far from all of the Canadian political parties on civil liberties. The new score is in the same quadrant as my previous score, but is somewhat less extreme (especially economically).
 

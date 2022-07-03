@@ -70,7 +70,7 @@ There was only a very brief recession after the dot com crash because it did not
 
 <strong id="scr-bot-5">[5]</strong> Here's an interesting exercise. Look at this graph of US yearly inflation. Notice how inflation is noticeably higher in the years immediately preceding the Great Recession than it is in the years afterwards. Monetarist economists believe that the recession wouldn't have lasted as long if it there hadn't been such a long period of relatively low inflation.
 
-[caption id="attachment_867" align="aligncenter" width="768"]<img class="size-medium_large wp-image-867" src="https://socratic-form-microscopy.com/wp-content/uploads/fredgraph_inf_1997to2017-768x309.png" alt="" width="768" height="309" /> As always, I'm a huge fan of the total lack of copyright on anything produced by the US government.[/caption]
+{% include image.html src="/wp-content/uploads/fredgraph_inf_1997to2017-768x309.png" alt="" caption="As always, I'm a huge fan of the total lack of copyright on anything produced by the US government." %}
 
 <a href="#scr-top-5">^</a>
 

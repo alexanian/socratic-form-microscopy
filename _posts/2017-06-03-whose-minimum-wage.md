@@ -22,8 +22,7 @@ tags:
 [Epistemic Status: I am not an economist, but…]
 </p>
 
-<em><strong>ETA (October 2018): <a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Preliminary studies from Seattle</a> make me much more pessimistic about the effects of the Ontario minimum wage hike. I'd also like to highlight the <a href="https://socratic-form-microscopy.com/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">potential for problems</a> when linking a minimum wage to inflation.
-</strong></em>
+<em><strong>ETA (October 2018)</strong>: <a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Preliminary studies from Seattle</a> make me much more pessimistic about the effects of the Ontario minimum wage hike. I'd also like to highlight the <a href="https://socratic-form-microscopy.com/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">potential for problems</a> when linking a minimum wage to inflation.</em>
 
 There's something missing from the discussion about the $15/hour minimum wage in Ontario, something basically every news organization has failed to pick up on. I'd have missed it too, except that a chance connection to a recent blog post I'd read sent me down the right rabbit hole. I've climbed out on the back of a mound of government statistics and I <em>really</em> want to share what I've found.
 
@@ -36,7 +35,10 @@ The problem with the CPI is that it's just an average; when you look at what goe
 
 Here's the last few years of the CPI, with some of the categories broken out:
 
-[caption id="attachment_410" align="alignnone" width="1000"]<a href="https://docs.google.com/spreadsheets/d/1sfEaeIijzcWtRNToPN0klWpnXrChyTyXn_TaxNq4Gbs/edit?usp=sharing"><img class="wp-image-410 size-large" src="https://socratic-form-microscopy.com/wp-content/uploads/CPI-Chart-1024x607.png" alt="" width="1000" height="593" /></a> Table Source: <a href="http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=62-553-X&amp;ObjType=2&amp;lang=en&amp;Limit=0">The Canadian Consumer Price Index Reference Paper &gt; Summary Tables</a>; click the table to view the data in Google Sheets.[/caption]
+{% capture caption %}
+Table Source: <a href="http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=62-553-X&amp;ObjType=2&amp;lang=en&amp;Limit=0">The Canadian Consumer Price Index Reference Paper &gt; Summary Tables</a>; click <a href="https://docs.google.com/spreadsheets/d/1sfEaeIijzcWtRNToPN0klWpnXrChyTyXn_TaxNq4Gbs/edit?usp=sharing">here</a> to view the data in Google Sheets.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/CPI-Chart-1024x607.png" alt="" caption=caption %}
 
 Every row in this table that is shaded green has decreased in price since 2002. Rows that are shaded blue have increased in price, but have increased slower than the rate of inflation. Economists would say that they've increased in price in nominal (unadjusted for inflation) terms, but they've decreased in price in real (adjusted for inflation) terms. Real prices are important, because they show how prices are changing relative to other goods on the market. As the real value of goods and services change, so too does the fraction of each paycheque that people spend on them.
 

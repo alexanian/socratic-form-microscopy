@@ -385,15 +385,22 @@ a.slide-menu-nav-item:focus {
 }
 
 // Custom typography
-p {
-  &.caption {
-    font-size: $body-font-size;
-    color: gray;
-    font-style: italic;
-  }
+figcaption, p.caption {
+  color: gray;
+  font-style: italic;
+}
 
-  &.pre-post-meta {
-    padding: 0px 20px;
-    margin: -20px 0px 40px;
+p.pre-post-meta {
+  padding: 0px 20px;
+  margin: -20px 0px 40px;
+}
+
+figure.image {
+  margin: $spacer-2 0;
+  max-width: 80%;
+
+  @media (min-width: $breakpoint-lg) {
+    padding-left: $spacer-3;
+    margin: $spacer-4 0;
   }
 }

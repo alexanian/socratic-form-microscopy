@@ -44,9 +44,7 @@ It's these cheap imports that have enabled the <a href="https://socratic-form-mi
 
 Weakening shareholder rights and slashing the value of the stock market would make the American financial market generally less attractive. This would (especially if combined with Trump or Sanders style tariffs) lead to increased domestic inflation in the United States – inflation that would specifically target goods that have been getting cheaper as long as anyone can remember.
 
-[caption id="attachment_851" align="alignleft" width="768"]<img class="size-medium_large wp-image-851" src="https://socratic-form-microscopy.com/wp-content/uploads/151016-Tech-cheaper-electronic-goods-BI-768x576.png" alt="" width="768" height="576" /> This is just since 1997! Very basic colour TVs cost more than $1000 (unadjusted for inflation) when first introduced. Today I would expect to pay less than $600 for a 40" 4k TV.[/caption]
-
-&nbsp;
+{% include image.html src="/wp-content/uploads/151016-Tech-cheaper-electronic-goods-BI-768x576.png" alt="" caption="This is just since 1997! Very basic colour TVs cost more than $1000 (unadjusted for inflation) when first introduced. Today I would expect to pay less than $600 for a 40\" 4k TV." %}
 
 This is hard to talk about to Warren supporters as a downside, because many of them <a href="http://induecourse.ca/naomi-klein-postscript-no-1/">believe that we need to learn to make do with less</a> – a position that is most common among <a href="http://induecourse.ca/the-age-of-anti-consumerism-has-passed/">a progressive class that conspicuously consumes experiences</a>, not material goods <a id="wwp-top-4" href="#wwp-bot-4">[4]</a>. Suffice to say that many North Americans still derive pleasure and self-worth from the consumer goods they acquire and that making these goods more expensive is likely to cause a politically expensive backlash, of the sort that America has recently become acquainted with and progressive America terrified of.
 

@@ -13,11 +13,14 @@ categories:
 tags:
   - silly
 ---
+
+<p class="caption pre-post-meta">
 (The following is the text of the prepared puns I delivered at the 30th <a href="https://worldwidepuns.com/">Bay Area pun off</a>. If you're ever in the Bay for one, I really recommend it. They have the nicest crowd in the world.)
+</p>
 
 First: May the Fourth be with you ("and also with you" is how you respond if like me, you grew up Catholic). As you might be able to tell from this shirt, I am <em>religiously</em> devoted to Star Wars. I know a lot about Star Wars, but I'm more of an <strong>orthodox</strong> fan- I was all about the Expanded Universe, not this reverend-ing stream of Disney sequels.
 
-[caption id="attachment_751" align="aligncenter" width="189"]<img class="wp-image-751 size-medium" src="https://socratic-form-microscopy.com/wp-content/uploads/2018-05-04-09.41.00-1-189x300.jpg" alt="" width="189" height="300" /> Pictured: the outfit I wore[/caption]
+{% include image.html src="/wp-content/uploads/2018-05-04-09.41.00-1-189x300.jpg" alt="" caption="Pictured: the outfit I wore" %}
 
 They might be popepular, but it seems like all Disney wants is to turn a <strong>prophet</strong> - just get big <strong>fatwa</strong>s of cash. They don't care about <strong>Allah</strong> the history that happened in the books. Just <strong>mo-hamme(r)</strong>ed out scripts with flashy set piece battles full of <strong>Mecca</strong> and characters we <strong>med-in-a</strong> earlier film.
 

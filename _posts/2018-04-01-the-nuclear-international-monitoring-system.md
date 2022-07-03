@@ -13,7 +13,7 @@ enclosure:
     https://www.ctbto.org/fileadmin/user_upload/public_information/2012/WhaleOohAhOohH03N2008154.wav
     53248
     audio/wav
-    
+
 categories:
   - Falsifiable
   - Physics
@@ -23,11 +23,13 @@ tags:
   - overview
   - x-risk
 ---
+
 Under the <a href="https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty">Partial Test Ban Treaty</a> (PTBT), all nuclear tests except for those underground are banned. Under the <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">Non-Proliferation Treaty</a> (NPT), only the permanent members of the UN Security Council are legally allowed to possess nuclear weapons. Given the public outcry over fallout that led to the PTBT and the worries over widespread nuclear proliferation that led to the NPT, it's clear that we require something beyond pinky promises to verify that countries are meeting the terms of these treaties.
 
 But how do we do so? How can you tell when a country tests an atomic bomb? How can you tell who did it? And how can one differentiate a bomb on the surface from a bomb in the atmosphere from a bomb in space from a bomb underwater from a bomb underground?
 
 I'm going to focus on two efforts to monitor nuclear weapons: the national security apparatus of the United States and the Comprehensive Test Ban Treaty Organization (CTBTO) Preparatory Commission's International Monitoring System (IMS). Monitoring falls into five categories: Atmospheric Radionuclide Monitoring, Seismic Monitoring, Space-based Monitoring, Hydroacoustic Monitoring, and Infrasound Monitoring.
+
 <h2>Atmospheric Radionuclide Monitoring</h2>
 Nuclear explosions generate <a href="/2017/01/23/nuclear-weapons-2-0-basic-science/">radionuclides</a>, either by dispersing unreacted fuel, as direct products of fission, or by interactions between <a href="/2017/01/26/nuclear-weapons-5-0-effects/#3">neutrons and particles in the air or ground</a>. These radionuclides are widely dispersed from any surface testing, while only a few fission products (mainly various radionuclides of the noble gas xenon) can escape from properly conducted underground tests.
 
@@ -44,6 +46,7 @@ Once xenon is collected, isotope analysis must be done to determine which (if an
 There are some background xenon radionuclides from nuclear reactors and even more from medical isotope production (where we create unstable nuclides in nuclear reactors for use in medical procedures). Looking at <a href="https://elliott.gwu.edu/sites/g/files/zaxdzs2141/f/downloads/events/2.2%20Bowyer.pdf">global background data</a> you can see the medical isotope production in Ontario, Europe, Argentina, Australia and South Africa. I wonder if this background effect makes world powers cautious about new medical isotope production facilities in countries that are at risk of pursuing nuclear weapons. Could Iran's planned medical isotope complex have been used to mask nuclear tests?
 
 Not content merely to host several monitoring stations and be party to the data of the whole global network of IMS stations, the United States also has the <a href="https://en.wikipedia.org/wiki/Boeing_WC-135_Constant_Phoenix">WC-135 "Constant Phoenix"</a> plane, a Boeing C-135 equipped with mobile versions of particulate and xenon detectors. The two WC-135s can be scrambled anywhere a nuclear explosion is suspected to look for evidence. A WC-135 gave us the first confirmation that the blast from the 2006 North Korean nuclear test <a href="http://www.cnn.com/2006/WORLD/asiapcf/10/14/nkorea.test.sample/index.html">was indeed nuclear</a>, several days before the IMS station in Yellowknife, Canada confirmed a spike in radioactive xenon and wind modelling pinpointed the probable location as inside North Korea.
+
 <h2>Seismic Monitoring</h2>
 Given that fewer monitoring stations are equipped with xenon radionuclide detectors and that the background "noise" from isotope production can make radioactive xenon from nuclear tests hard to positively identify, it might seem like nuclear tests are easy to hide underground.
 
@@ -63,15 +66,17 @@ The second type of wave can be made by moving your arm forward and backwards, li
 
 These are analogous to the two main types of body waves in seismology. The first (the s-shaped one) is called an <a href="https://en.wikipedia.org/wiki/S-wave">S-wave</a> (although the "S" here stands for "shear" or "secondary" and only indicates the shape by coincidence), while the second is called a <a href="https://en.wikipedia.org/wiki/P-wave">P-wave</a> (for "pressure" or "primary").
 
-[caption id="attachment_735" align="alignleft" width="768"]<img class="size-medium_large wp-image-735" src="/wp-content/uploads/waves-768x461.png" alt="" width="768" height="461" /> I couldn't find a good free version of this, so I had to make it myself. Licensed (like everything I create for my blog) <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA v4.0</a>.[/caption]
-
-&nbsp;
+{% capture caption %}
+I couldn't find a good free version of this, so I had to make it myself. Licensed (like everything I create for my blog) <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA v4.0</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/waves-768x461.png" alt="" caption=caption %}
 
 Earthquakes normally have a mix of P-waves and S-waves, as well as surface waves created by interference between the two. This is because earthquakes are caused by slipping tectonic plates. This slipping gives some lateral motion to the resulting waves. Nuclear explosions lack this side to side motion. The single, sharp impact from them on the surrounding rocks is equivalent to the wave you'd get if you thrust your arm forward while holding a slinky. It's almost all P-wave and almost no S-wave. This is very distinctive against a background of earthquakes. The CTBTO is kind enough to show what this difference looks like; in <a href="https://www.ctbto.org/uploads/pics/IDC_page5.gif">this image</a>, the top event is a nuclear test and the bottom event is an earthquake of a similar magnitude in a similar location (I apologize for making you click through to see the image, but I don't host copyrighted images here).
 
 There's one further way that the waves from nuclear explosions stand out. They're caused by a single point source, rather than kilometers of rock. This means that when many seismic stations work together to find the cause of a particular wave, they're actually able to pinpoint the source of any explosion, rather than finding a broad front like they would for an earthquake.
 
 The fifty IMS stations automatically provide a continuous stream of data to the CTBTO, which sifts through this data for any events that are overwhelmingly P-Waves and have a point source. Further confirmation then comes from the 120 auxiliary stations, which provide data on request. Various national and university seismometer programs get in on this too (probably because it's good for public relations and therefore helps to justify their budgets), which is why it's not uncommon to see several estimates of yield soon after seismographs pick up on nuclear tests.
+
 <h2>Space Based Monitoring</h2>
 This is the only type of monitoring that isn't done by the CTBTO Preparatory Commission, which means that it is handled by state actors – whose interests necessarily veer more towards intelligence gathering than monitoring treaty obligations per se.
 
@@ -92,12 +97,14 @@ By the time of this (possible) false positive, the bhangmeters had also detected
 The Vela satellites are no longer in service, but the key technology they carried (bhangmeters, x-ray detectors, and EMP detectors) lives on in the US GPS satellite constellation, which does double duty as its space-based nuclear sentinels.
 
 One last note of historical errata: when looking into unexplained gamma-ray readings produced by the Vela satellites, US scientists discovered <a href="https://en.wikipedia.org/wiki/Gamma-ray_burst">gamma-ray bursts</a>, an energetic astronomical phenomenon associated with supernovas and merging binary stars.
+
 <h2>Hydroacoustic Monitoring</h2>
 Undersea explosions don't have a double flash, because steam and turbulence quickly obscure the central fireball and don't clear until well after the fireball has subsided. It's true that radionuclide detection should eventually turn up evidence of any undersea nuclear tests, but it's still useful to have a more immediate detection mechanism. That's where hydroacoustic monitoring comes in.
 
 There are actually two types of hydroacoustic monitoring. There's six stations that use true underwater monitoring with triplets of hydrophones (so that signal direction can be determined via <a href="https://en.wikipedia.org/wiki/Triangulation">triangulation</a>) which are very sensitive, but also very expensive (as hydrophones must be installed at a depth of approximately one kilometer, where sound transmission is best). There's also five land based stations, which use seismographs on steeply sloped islands to detect the seismic waves underwater sounds make when they hit land. Land based monitoring is less accurate, but requires little in the way of specialized hardware, making it much cheaper.
 
 In either case, data is streamed directly to CTBTO headquarters in Vienna, where it is analyzed and forwarded to states that are party to the CTB. At the CTBTO, <a href="https://www.ctbto.org/verification-regime/the-international-data-centre/waveform-data-processing-and-analysis/">the signal is split into different channels based on a known library of undersea sounds</a> and explosions are  separated from natural phenomena (like volcanos, tsunamis, and <a href="https://www.ctbto.org/fileadmin/user_upload/public_information/2012/WhaleOohAhOohH03N2008154.wav">whales</a>) and man-made noises (like gas exploration, commercial shipping, and military drills). Signal processing and analysis – especially of hydrophone data – is a very mature field, so the CTBTO doesn't lacks for techniques to refine its estimates of events.
+
 <h2>Infrasound Monitoring</h2>
 Infrasound monitoring stations are the last part of the global monitoring system and represent the best way for the CTBTO (rather than national governments with the resources to launch satellites) to detect atmospheric nuclear tests. Infrasound stations try to pick up the very low frequency sound waves created by nuclear explosions – and a host of other things, like volcanos, planes, and mining.
 
@@ -105,11 +112,10 @@ A key consideration with infrasound stations is reducing background noise. For t
 
 The components of the infrasound arrays look very weird.
 
-[caption id="attachment_734" align="alignleft" width="768"]<img class="size-medium_large wp-image-734" src="/wp-content/uploads/View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream-768x576.jpg" alt="" width="768" height="576" /> Specifically, they look like a bunker that tried to eat four Ferris wheels. Each array actually contains three to eight of these monstrosities. From the <a href="https://commons.wikimedia.org/wiki/File:View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream.jpg">CTBTO via Wikimedia Commons</a>.[/caption]
-
-&nbsp;
-
-&nbsp;
+{% capture caption %}
+Specifically, they look like a bunker that tried to eat four Ferris wheels. Each array actually contains three to eight of these monstrosities. From the <a href="https://commons.wikimedia.org/wiki/File:View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream.jpg">CTBTO via Wikimedia Commons</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream-768x576.jpg" alt="" caption=caption %}
 
 What you see here are a bunch of pipes that all feed through to a central microbarometer, which is what actually measures the infrasound by detecting slight changes in air pressure. This setup filters out a lot of the wind noise and mostly just lets infrasound through.
 

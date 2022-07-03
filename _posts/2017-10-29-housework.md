@@ -23,7 +23,12 @@ tags:
 
 So, you've seen the <a href="https://www.theguardian.com/world/2017/may/26/gender-wars-household-chores-comic">comic by Emma</a>, or read <a href="https://socratic-form-microscopy.com/2017/09/17/book-review-the-second-shift/">The Second Shift</a> (which also happens to be my favourite term for the chores and childcare that happens after or before work), or maybe someone has linked you here with a pointed note. In any case, I'm going to assume you're reading this because you've realized that you don't help your partner with much around the house, don't share much of the management of household chores with your partner, or aren't very good at household chores and want to get better.
 
-[caption id="attachment_538" align="alignnone" width="512"]<img class="wp-image-538" src="https://socratic-form-microscopy.com/wp-content/uploads/you-shouldve-asked_008_used_with_permission-768x768.png" alt="" width="512" height="512" /> This is what you're trying to avoid. Image Copyright: <a href="https://english.emmaclit.com/a-propos/">Emmaclit</a> <a href="https://english.emmaclit.com/2017/05/20/you-shouldve-asked/">[SOURCE]</a>, used here with the permission of the artist.[/caption]There are three main things you need to work on if you want to be able to split both the act of doing chores and the mental load of keeping track of them with your partner <a id="hw-top-1" href="#hw-bot-1">[1]</a>. These are: general skills, noticing things, and keeping track of what needs to happen. It's difficult to work on any of these in isolation. Getting better at chores will help you feel empowered to notice when they need to be done or keep track of the schedule of doing them. Doing chores whenever you notice they need to be done will give you the practice you need to get better at them.
+{% capture caption %}
+This is what you're trying to avoid. Image Copyright: <a href="https://english.emmaclit.com/a-propos/">Emmaclit</a>, <a href="https://english.emmaclit.com/2017/05/20/you-shouldve-asked/">[SOURCE]</a>, used here with the permission of the artist.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/you-shouldve-asked_008_used_with_permission-768x768.png" alt="" caption=caption %}
+
+There are three main things you need to work on if you want to be able to split both the act of doing chores and the mental load of keeping track of them with your partner <a id="hw-top-1" href="#hw-bot-1">[1]</a>. These are: general skills, noticing things, and keeping track of what needs to happen. It's difficult to work on any of these in isolation. Getting better at chores will help you feel empowered to notice when they need to be done or keep track of the schedule of doing them. Doing chores whenever you notice they need to be done will give you the practice you need to get better at them.
 
 I think it would be a confusing guide if I laid it all out as holistically as you'll be working on everything. In the interest of making this digestible, I've given each of the key areas their own subsection, with an additional final section the talks about dealing with some of the issues that may arise as you and your partner negotiate and re-negotiate the second shift.
 
@@ -71,11 +76,17 @@ I've found that people give me an inordinate amount of credit (relative to the w
 
 People are very cavalier about food. Food spills rarely get cleaned up properly, leading to stickiness or mold in the kitchen. Kitchen sinks are often a disaster of old food, soggy vegetables, and clogged drains. I find it impossible to clean a kitchen without retching at least once from some food that's gone off.
 
-[caption id="attachment_535" align="alignnone" width="667"]<img class="wp-image-535" src="https://socratic-form-microscopy.com/wp-content/uploads/worse_than_hell-768x576.jpg" alt="" width="667" height="500" /> In all likelihood, this smells worse than the 3rd Circle of Hell. Image Credit: <a href="https://www.flickr.com/photos/stevendepolo/22709181293">Steven Depolo on Flickr</a>[/caption]
+{% capture caption %}
+In all likelihood, this smells worse than the 3rd Circle of Hell. Image Credit: <a href="https://www.flickr.com/photos/stevendepolo/22709181293">Steven Depolo on Flickr</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/worse_than_hell-768x576.jpg" alt="" caption=caption %}
 
 Bathrooms, on the other hand, rarely smell all that bad (and when they do, it's more of a faint lingering odour, as opposed to the concentrated wretchedness you might find at the back of the fridge). People are incredibly embarrassed by any <em>spills</em> they cause in the bathroom and try to completely clean them up. If you wear gloves and wash your hands regularly, you should rarely be grossed out cleaning the bathroom (with the exception of the shower drain, which becomes a yawning abyss as soon as anyone in the house has hair past shoulder length).
 
-[caption id="attachment_537" align="alignnone" width="384"]<img class="wp-image-537" src="https://socratic-form-microscopy.com/wp-content/uploads/pictured-actually-just-dust-768x1024.jpg" alt="" width="384" height="512" /> Pictured: Actually just dust; one good wipe and this will be squeaky clean. Image credit: <a href="https://www.flickr.com/photos/editor/66303086">Bart Everson on Flickr</a>[/caption]
+{% capture caption %}
+Pictured: Actually just dust; one good wipe and this will be squeaky clean. Image credit: <a href="https://www.flickr.com/photos/editor/66303086">Bart Everson on Flickr</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/pictured-actually-just-dust-768x1024.jpg" alt="" caption=caption %}
 
 Most people (especially people in their twenties) don't realize all this and treat cleaning the bathroom as only marginally less heroic than cleaning up nuclear waste.
 

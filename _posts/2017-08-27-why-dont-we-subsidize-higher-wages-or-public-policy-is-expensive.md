@@ -79,13 +79,13 @@ Disturb it at your own peril.
 
 <strong id="wage-bot-6">[6]</strong> Here's my calculations, based on the really excellent Statistics Canada data available <a href="http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/famil105g-eng.htm">here</a>. I've made some simplifying assumptions (e.g. that everyone in each bracket makes the exact centre value of the bracket, that higher taxes won't make people look for more ways to avoid them), but this should be broadly accurate. If you want to play around with the workbook, leave a comment with your email address and I'll send it your way.
 
-<img class="alignnone size-medium_large wp-image-486" src="https://socratic-form-microscopy.com/wp-content/uploads/Ontario-Tax-768x153.png" alt="" width="768" height="153" />
+<img class="alignnone size-medium_large wp-image-486" src="/wp-content/uploads/Ontario-Tax-768x153.png" alt="" width="768" height="153" />
 
 Note that "Total Revenue", "Total Tax", and "Tax as percent of income" are calculated by adding the "Tax at Midpoint" value to the "Taxes For Entire Bracket" values for all previous brackets. This is how the taxman does it. <a href="#wage-top-6">^</a>
 
 <strong id="wage-bot-7">[7]</strong> Calculations:
 
-<img class="alignnone size-medium_large wp-image-485" src="https://socratic-form-microscopy.com/wp-content/uploads/Mincome-Cost-768x271.png" alt="" width="768" height="271" />
+<img class="alignnone size-medium_large wp-image-485" src="/wp-content/uploads/Mincome-Cost-768x271.png" alt="" width="768" height="271" />
 
 Not pictured: any adjustment for the percent of people who are married. The simplest approach (50% of Ontarians are married and couples receive 30% less, so the cost should be 15% lower) brings the cost down to a "mere" $37 billion. This is the cost I quote above. <a href="#wage-top-7">^</a>
 

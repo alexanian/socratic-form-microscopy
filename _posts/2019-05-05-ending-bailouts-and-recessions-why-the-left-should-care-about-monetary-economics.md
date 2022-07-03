@@ -30,7 +30,10 @@ In general, during both periods of growth and recessions, the supply of money in
 
 When I first read those dates, I got chills. Those are the dates of every single serious contraction in the covered years.
 
-[caption id="attachment_989" align="aligncenter" width="768"]<img class="wp-image-989 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone_02-1931_-_NARA_-_541927-768x630.jpg" alt="Men queueing for free soup during the Great Depression" width="768" height="630" /> The Great Depression appears twice! Image courtesy <a href="https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg">Wikimedia Commons</a>.[/caption]
+{% capture caption %}
+The Great Depression appears twice! Image courtesy <a href="https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg">Wikimedia Commons</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone_02-1931_-_NARA_-_541927-768x630.jpg" alt="Men queueing for free soup during the Great Depression" caption=caption %}
 
 Furthermore, while minor recessions aren't characterized by a decrease in the supply of money, they <em>are</em> characterized by a decrease in the rate of the growth of the money supply. That is to saw, the money supply is still increasing, but by less than it normally does.
 
@@ -58,7 +61,10 @@ Third, money is much better positioned to explain recessions and depressions tha
 
 Fourth, we do not need to be a priori skeptical of money as a key determinant of the business cycle. Money is clearly linked to the economy; it literally permeates it. The business cycle of growth followed by recession is observed only in economies that use money <a id="mon-top-3" href="#mon-bot-3">[3]</a>. While it would make sense to be inherently skeptical of a theory that holds that recessions occur when not enough sewing needles are produced, we need to be much less reflexively skeptical of money. Claiming money causes the business cycle isn't like claiming Nicholas Cage movies cause accidental drowning.
 
-[caption id="attachment_990" align="aligncenter" width="768"]<img class="wp-image-990 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/nic-cage-768x505.png" alt="" width="768" height="505" /> The correlation in this graph is obviously false because there's no plausible mechanism connecting the two! This graph would be much more plausible if "Nicholas Cage films" was replaced with "New pool installations". While our hypothetical graph of fatalities vs. installations wouldn't be conclusive, it would be highly suggestive, in a way this graph just isn't. Graph concept courtesy of <a href="http://tylervigen.com/view_correlation?id=359">Tyler Vigen</a>, who is kind enough to make all of his spurious correlation graphs free of Copyright.[/caption]
+{% capture caption %}
+The correlation in this graph is obviously false because there's no plausible mechanism connecting the two! This graph would be much more plausible if "Nicholas Cage films" was replaced with "New pool installations". While our hypothetical graph of fatalities vs. installations wouldn't be conclusive, it would be highly suggestive, in a way this graph just isn't. Graph concept courtesy of <a href="http://tylervigen.com/view_correlation?id=359">Tyler Vigen</a>, who is kind enough to make all of his spurious correlation graphs free of Copyright.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/nic-cage-768x505.png" alt="" caption=caption %}
 
 These arguments are necessarily summaries; this blog post isn't the best place to put all of the graphs and regression analyses that Schwartz and Friedman did when first formulating their theory of monetary economics. I've read through the analysis several times and I believe it to be sound. If you wish to pore over regressions yourself, I recommend the paper <em>Money and Business Cycle (1963)</em>.
 
@@ -106,7 +112,10 @@ If assets banks have bought to act as their reserves lose value, they can find t
 <h2>If people and banks have so much control over the money supply, what do central banks do?</h2>
 What central banks do depends on their <em>mandate</em>; what the government has told them to do. The US Federal Reserve Bank has a <em><a href="https://www.chicagofed.org/research/dual-mandate/dual-mandate">dual mandate</a></em>: to maintain a stable price level (here defined as inflation of approximately 2%) and to ensure full employment (defined as an unemployment rate of around 4.5% <a id="mon-top-9" href="#mon-bot-9">[9]</a>). The Fed is actually a bit of an aberration here. Many central banks (like <a href="https://www.bankofcanada.ca/core-functions/monetary-policy/">Canada's</a>) have a single mandate: "to keep inflation low, predictable, and stable".
 
-[caption id="attachment_988" align="aligncenter" width="768"]<img class="wp-image-988 size-medium_large" src="https://socratic-form-microscopy.com/wp-content/uploads/Marriner_S._Eccles_Federal_Reserve_Board_Building-768x426.jpg" alt="The Federal Reserve building in Washington" width="768" height="426" /> All central banks also have an unofficial mandate: have really cool looking headquarters. Image courtesy of <a href="https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg">Wikimedia Commons</a>.[/caption]
+{% capture caption %}
+All central banks also have an unofficial mandate: have really cool looking headquarters. Image courtesy of <a href="https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg">Wikimedia Commons</a>.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Marriner_S._Eccles_Federal_Reserve_Board_Building-768x426.jpg" alt="The Federal Reserve building in Washington" caption=caption %}
 
 Currently, central banks achieve their mandate by manipulating interest rates. They do this with a "target rate" and "open market operations". The target rate is the thing you hear about on TV and in the news. It's where the central bank would like interest rates to be (here, interest rates really means "the rate at which banks lend each other money"; consumers can <em>generally</em> expect to make less interest on their savings and pay more when they take out loans <a id="mon-top-10" href="#mon-bot-10">[10]</a>).
 
@@ -137,9 +146,10 @@ First, I want to make it clear that short-term failures are <em>bad</em>. While 
 
 Central banks most commonly fail in the short-run because of some sort of unexpected shock. Most commonly, shocks that lead to long recessions originate in the financial sector. The 2001 dot-com crash, for example, didn't technically lead to a recession in the United States, despite the huge stock market losses <a id="mon-top-11" href="#mon-bot-11">[11]</a>.
 
-[caption id="attachment_987" align="aligncenter" width="768"]<img class="size-medium_large wp-image-987" src="https://socratic-form-microscopy.com/wp-content/uploads/1000px-Nasdaq_Composite_dot-com_bubble.svg-768x430.png" alt="" width="768" height="430" /> This graph, from <a href="https://commons.wikimedia.org/wiki/File:Nasdaq_Composite_dot-com_bubble.svg">Wikimedia Commons</a>, shows the scale of the losses in the NASDAQ Composite during the dot-com crash.[/caption]
-
-&nbsp;
+{% capture caption %}
+This graph, from <a href="https://commons.wikimedia.org/wiki/File:Nasdaq_Composite_dot-com_bubble.svg">Wikimedia Commons</a>, shows the scale of the losses in the NASDAQ Composite during the dot-com crash.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/1000px-Nasdaq_Composite_dot-com_bubble.svg-768x430.png" alt="" caption=caption %}
 
 Shocks to the financial sector are unusually likely to cause recessions because of the key role that the financial sector plays in determining the monetary supply (via the deposit-reserve ratio we discussed above), as well as the key role that <em>confidence </em>in the financial sector plays (via the deposit-currency ratio).
 
@@ -147,7 +157,10 @@ When financial institutions run into trouble, they have to scramble for liquidit
 
 Things can get even worse when the public loses faith in the banking system. If you suspect that a bank might fail, you will want to get your money out while you still can. Unfortunately, if everyone comes to believe this, then the bank <em>will</em> fail <a id="mon-top-13" href="#mon-bot-13">[13]</a>. By design, it doesn't have enough cash on hand to pay everyone back <a id="mon-top-14" href="#mon-bot-14">[14]</a>. When this happens, it is called a "run" on the banks or a "bank run" and they're thankfully becoming more and more rare. Many developed countries have ended them entirely with a program of deposit insurance. That's the stickers you see on the door of your bank that promises your deposits will be returned to you, even if the bank fails <a id="mon-top-15" href="#mon-bot-15">[15]</a>.
 
-[caption id="attachment_996" align="aligncenter" width="690"]<img class="size-full wp-image-996" src="https://socratic-form-microscopy.com/wp-content/uploads/door-decal-imgs-en.jpeg" alt="This is one of the few images on my blog that isn't under some sort of Creative Commons license. I'm using it here under fair use, for the purpose of comment on the institution of deposit insurance. While we're here and talking about this, I think the prominent display requirement, while now not very useful, probably was once very important. When deposit insurance was new, you did really want people to see that their banks had insurance and feel secure. It's part of how deposit insurance makes itself less necessary. The very fact it exists prevents most of the bank runs it would pay out for." width="690" height="430" /> Here's what the stickers look like in Canada. According to the <a href="https://www.cdic.ca/financial-community/cdic-display-requirements/membership-sign-for-display-at-entrances/">CDIC website</a> (which is where I got this image), they must be prominently displayed.[/caption]
+{% capture caption %}
+Here's what the stickers look like in Canada. According to the <a href="https://www.cdic.ca/financial-community/cdic-display-requirements/membership-sign-for-display-at-entrances/">CDIC website</a> (which is where I got this image), they must be prominently displayed.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/door-decal-imgs-en.jpeg" alt="This is one of the few images on my blog that isn't under some sort of Creative Commons license. I'm using it here under fair use, for the purpose of comment on the institution of deposit insurance. While we're here and talking about this, I think the prominent display requirement, while now not very useful, probably was once very important. When deposit insurance was new, you did really want people to see that their banks had insurance and feel secure. It's part of how deposit insurance makes itself less necessary. The very fact it exists prevents most of the bank runs it would pay out for." caption=caption %}
 
 It's good that we've stopped bank runs, because they're incredibly deflationary (they are very good at shrinking the money supply). This is due to the deposit-currency ratio being a key determinant of the total money supply. When people stop using banks, the deposit-currency ratio falls and the money supply decreases.
 
