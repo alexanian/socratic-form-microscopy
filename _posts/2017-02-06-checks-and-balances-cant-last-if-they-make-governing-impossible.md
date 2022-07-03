@@ -54,4 +54,4 @@ If 51% of the population want something, they will probably eventually get somet
 My overriding desire is for checks and balances that are reasonably effective over the lifetime of a nation. I support limited checks and balances because I truly believe that in the long run, this leads to governments being most constrained in their actions.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a>
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>

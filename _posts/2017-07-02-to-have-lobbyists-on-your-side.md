@@ -71,7 +71,7 @@ A lottery isn't my preferred solutions. Wealthy people who put their name in and
 If you take just one thing from this post, I want it to be "it's really important to have good public systems, so that lobbying effort is focused on improving those systems". If you have room in your mind for another, it should be "having a public embryo selection and genetic engineering program in place is very important if we don't want to social stratification to become much more permanent".
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a>
+<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
 
 [^1]: In this post, I'm talking about industries where there is either a clear need to serve the public good, a market failure, or both. In these cases, "use markets to lower prices and increase services" is an unappealing alternative.
 [^2]:

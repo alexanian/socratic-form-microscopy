@@ -104,6 +104,6 @@ As citizens of a free and democratic society, we should continue to pressure our
 We should fight for a society where the government holds only <a href="http://www.usip.org/guiding-principles-stabilization-and-reconstruction-the-web-version/6-safe-and-secure-environment/le">a legitimate monopoly</a> on the means of violence. Where violence is used only when truly necessary and not a moment sooner. Where security forces are truly subservient to civilian leaders. Where police shootings of unarmed civilians are an aberration, not a regular occurrence. We aren't there yet. But we could be.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a>
+<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a></p>
 
 [^1]: Trade-offs between different rights are the proper territory of legislation and acknowledging this is separate from the harmful moral relativism that has infected leftist rhetoric on international relations. There is a distinct difference between trade-offs among competing rights and a fearful refusal to acknowledge universal and inalienable human rights.
