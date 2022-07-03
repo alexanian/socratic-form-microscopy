@@ -156,7 +156,7 @@ a.category-head {
 
 /* Sidebar from Zach's original CSS (the Satellite WordPress theme) */
 .sidebar-nav {
-  background-color: $grey;
+  background-color: $color-text-accent;
   position: fixed;
   left: 0;
   top: 0;
@@ -307,7 +307,7 @@ a.slide-menu-nav-item:focus {
   display: flex;
   align-items: center;
   padding: 0.25rem 0.75rem;
-  color: $color-secondary;
+  color: $black;
   border-radius: 0.25rem;
   cursor: pointer;
 }
