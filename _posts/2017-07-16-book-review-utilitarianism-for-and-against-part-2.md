@@ -287,3 +287,5 @@ In many ways, Williams did shake my faith in utilitarianism – making this an e
 But by their actions you shall know the righteous. Utilitarians are currently at the forefront of global poverty reduction, disease eradication, animal suffering alleviation, and existential risk mitigation. What complexities of the world has every other ethical system missed to leave these critical tasks largely to utilitarians?
 
 Williams gave me no answer to this. For all his beliefs that utilitarianism will have dire consequences when implemented, he has no proof to hand. And ultimately, consequences are what you need to convince a consequentialist.
+
+<hr class="post-end" />

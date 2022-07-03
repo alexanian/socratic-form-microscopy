@@ -67,3 +67,5 @@ I'm very glad I posed the question to my friends before figuring out the answer.
 I will try and remember this next time I think someone's preferred government policy is a terrible idea. It's probably much more productive to try and figure out why they believe their policy objectives will lead to the best outcomes and arguing about that, rather than slipping into clichéd insults.
 
 I was also reminded that it's fun and rewarding to spend a few hours doing data analysis (especially when you get the same results as studies that get reported on in the WSJ).
+
+<hr class="post-end" />

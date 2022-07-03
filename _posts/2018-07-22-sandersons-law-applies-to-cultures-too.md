@@ -91,3 +91,5 @@ Having tight constraints imposed by culture doesn't just allow for plot resoluti
 It is perhaps no accident that the only thing we learn initially about the Kencyr that isn't a descriptive fact (like their healing and their fraught theological state) is that honour binds them and can break them. This constraint, that all Kencyr characters must be honourable, does a lot of work driving the plot.
 
 This then would be my advice: when you wish to invent a fantasy culture, start simple, with a few stereotypes that everyone else in the world can be expected to know. Make sure at least one of them is an interesting constraint on behaviour. Then add in depth that people can get to know gradually. When you're using the culture as a plot device, make sure to stick to the simple stereotypes <em>or</em> whatever other information you've directly given your reader. If you do this, you'll develop rich cultures that drive interesting conflicts <em>and</em> you'll be able to use cultural rules to consistently resolve conflict in a way that will feel satisfying to your readers.
+
+<hr class="post-end" />

@@ -58,3 +58,5 @@ By ignoring and changing so many parliamentary conventions, the UK has stripped 
 <img class="size-medium_large wp-image-963 aligncenter" src="/wp-content/uploads/Screen-Shot-2019-03-26-at-11.10.19-PM-768x440.png" alt="" width="768" height="440" />
 
 I hope that parliament comes to its senses and that this is the last thing I'll feel compelled to write about Brexit. Unfortunately, I doubt that will be the case.
+
+<hr class="post-end" />

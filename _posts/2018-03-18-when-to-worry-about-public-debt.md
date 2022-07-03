@@ -120,3 +120,5 @@ I plan to take this threat seriously and vote for a party with a credible plan t
 If one even exists. Contrary to his protestations, Doug Ford isn't leading a party committed to reducing the deficit. He's publically pledged himself to scrapping the carbon tax. Absent it, but present the rest of his platform, <a href="http://www.macleans.ca/opinion/scrapping-carbon-taxes-leaves-a-gaping-hole-in-the-ontario-pc-platform/">the deficit spending is going to continue</a> (<a href="http://marginalrevolution.com/marginalrevolution/2018/02/fiscal-policy-might-make-matters-worse.html">during a period of sustained growth, no less!</a>). Doug Ford is either lying about what he's going to cut, or he's lying about ending the debt. That's not a gamble I particularly want to play.
 
 I do hope that someone campaigns on a fully costed plan to restore fiscal order to Ontario. Because we are currently on the path to looking a lot like Greece.
+
+<hr class="post-end" />

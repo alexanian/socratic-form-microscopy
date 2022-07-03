@@ -47,3 +47,5 @@ Maybe I will turn back to fiction. There are concepts and ideas that can be best
 The present seems momentous from inside the waves of history. It’s hindsight that allows us to tell the truly significant breakers from those that held only a false fury. I may look back on this in a year and laugh. Or this may be a turning point in my writing, however accidental.
 
 One thing is certain. Expect me to write less until I get this damn cast off.
+
+<hr class="post-end" />

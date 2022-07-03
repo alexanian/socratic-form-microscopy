@@ -150,3 +150,5 @@ If you want to better understand emotion, I recommend this book. If you want to 
 Really, I think that my view of The Managed Heart illustrates a common problem, known to anyone who goes back and reads the earlier (and less polished) work of a beloved author. People grow, change, and develop. I can see some of the things I loved about Professor Hochschild's later work here, but many other parts were missing.
 
 Luckily Professor Hochschild has written several other books and they undoubtedly have more of what I like most about her. My ambivalence for the style (although not the contents) of this book have not at all dulled my resolution to read more of her work. Expect to see more reviews of Professor Hochschild's books here in the future.
+
+<hr class="post-end" />

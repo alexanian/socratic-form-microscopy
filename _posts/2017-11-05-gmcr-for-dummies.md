@@ -202,3 +202,5 @@ In future posts, I plan to show how these can all be taken into account, using t
 Even without those additions, the GMCR is a powerful tool. I encourage you to try it out for other conflicts and see what the results are. I certainly found that the best way to really understand it was to run it a few times.
 
 <em>Note: </em>I know it's hard to play around with the charts when they're embedded as images. You can see copyable versions of them <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#">here</a>.
+
+<hr class="post-end" />

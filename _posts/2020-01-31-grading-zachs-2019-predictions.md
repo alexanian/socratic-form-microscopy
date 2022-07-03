@@ -161,3 +161,5 @@ The worsened calibration for 2019 is likely a reflection of the fact that Zach d
 
 <h2><b>A Final Note</b></h2>
 You may wonder why I graded these predictions. I am sorry to say that Zach could not; they passed away suddenly last August. (You can read <a href="https://www.dignitymemorial.com/obituaries/brantford-on/zachary-jacobi-8815357">the obituary</a> here, if you’d like.) I wish, with all the sharp vehemence of recent grief, that I could still eavesdrop as Zach honed their beliefs about the world. I hope my years of doing so will inspire me to cultivate truer (and better-calibrated) beliefs on my own.
+
+<hr class="post-end" />

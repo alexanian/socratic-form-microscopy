@@ -108,3 +108,5 @@ Enlightenment 2.0 is going to be one of those books that, on a fundamental level
 (This is why I'm not too sad about Trudeau's broken electoral reform promises. Mixed member proportional elections actually encourage fragmentation and give <a href="https://en.wikipedia.org/wiki/Geert_Wilders">extremists an incentive to be loud</a>. First past the post gives parties a strong incentive to <a href="http://induecourse.ca/trump-and-electoral-reform-connecting-the-dots/">squash their extremist wings</a> and I value this in society.)
 
 For that (as well as its truly excellent overview of all the weird ways our brains evolved), I heartily recommend Enlightenment 2.0.
+
+<hr class="post-end" />

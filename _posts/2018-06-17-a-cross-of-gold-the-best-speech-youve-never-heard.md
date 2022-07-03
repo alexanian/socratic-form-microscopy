@@ -113,3 +113,5 @@ If you lower speed limits, you make roads safer for law abiding citizens and les
 Even the best intentioned or best researched public policy can hurt people. Even if you (like me) believe in the greatest good for the greatest number of people, you have to remember that. You can't ever let hurting people be easy or unthinking.
 
 Even though it failed in its original aim and even though the cause it promotes is dead, I want people to remember Bryan's speech. I especially want people who hold power to remember Bryan's speech. Bryan chose oratory as his vehicle, his way of standing up for people who were hurt by well-intentioned public policy. In 1896, I might have stood against Bryan. But that doesn't mean I want his speech and the lessons it teaches to be forgotten. Instead, I view it as a call to action, a call to never turn away from the people you hurt, even when you know you are doing right. A call to not forget them. A call to try and help them too.
+
+<hr class="post-end" />

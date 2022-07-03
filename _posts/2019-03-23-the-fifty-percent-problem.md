@@ -62,3 +62,5 @@ The second means of avoiding the 50% problem is to use a higher threshold for su
 This is likely how any future referendum on Québec's independence <a href="https://en.wikipedia.org/wiki/Clarity_Act#Key_points">will be decided</a>, acknowledging the reality that many sovereignist don't want full independence, but might vote for it as a negotiating tactic. Requiring a supermajority would prevent Québec from falling into the same pit the UK is currently in.
 
 As the first successful major referendum in a developed country in quite some time, Brexit has demonstrated clearly the danger of referendums decided so narrowly. Hopefully other countries sit up and take notice before condemning their own nation to the sort of paralysis that has gripped Britain for the past three years.
+
+<hr class="post-end" />

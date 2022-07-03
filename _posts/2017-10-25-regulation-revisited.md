@@ -35,3 +35,5 @@ But discounting all that, I think what this boils down to is: when you're paying
 Or the regulatory agency catches a fatal flaw and averts a catastrophe. I'm not saying that <em>never</em> happens. Just that I think it's much rarer than many people might believe. Seeing the grinding wheels of regulation firsthand has cured me of all my youthful idealistic approval for it. Sometimes consumers need to be protected from out of control profit-seeking, sure. But once you've been forced to actually do some regulatory compliance, you start to understand just how much regulation exists to prevent established companies from having to compete against new entrants. This makes everything more expensive and everyone but a few well-connected shareholders worse off.
 
 Regulations has real trade-offs; there are definite goods, but also definite downsides. And now I think the downsides are even worse than I first predicted.
+
+<hr class="post-end" />

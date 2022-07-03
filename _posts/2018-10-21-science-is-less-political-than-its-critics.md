@@ -70,3 +70,5 @@ But there are real and present dangers to uncritically <em>not</em> believing sc
 When anyone says science is political and then goes on to emphasize all of the negatives of this statement, they're giving people permission to believe their political views (like "gas should be cheap" or "vaccines are unnatural") over the hard truths of science. And that has real consequences.
 
 Saying that "science is political" is <em>also</em> political. And it's one of those political things that is more likely than not to be driven by partisan politics. No one trumpets this unless they feel one of their political positions is endangered by empirical evidence. When talking with someone making this claim, it's always good to keep sight of that.
+
+<hr class="post-end" />

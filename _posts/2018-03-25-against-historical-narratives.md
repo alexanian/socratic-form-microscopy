@@ -73,3 +73,5 @@ So much of narrative history is like this! Authors take the possibilities they l
 Of course, I have an agenda too. We all do. It's just that my agenda is literally <a href="https://www.youtube.com/watch?v=ZH28G0_vTpg">"the truth resists simplicity</a>". I like the messiness of history. It fits my aesthetic sense well. It's because of this sense, that I'd like to encourage everyone to make their next foray into history free of narratives. Use Wikipedia or a textbook instead of a bestselling book. Read something by Mary Beard, who writes as much about historiography as she writes about history. Whatever you do, avoid books with blurbs praising the author for their "controversial" or "insightful" new theory.
 
 Leave, just once, behind those famous narrative works like "Guns, Germs, and Steel" or "The History of the Decline and Fall of the Roman Empire" and pick up something that embraces ambiguity and doesn't bury messiness behind a simple agenda.
+
+<hr class="post-end" />

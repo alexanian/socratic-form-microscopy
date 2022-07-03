@@ -31,3 +31,5 @@ There were so many <strong>convert</strong>-sations between the two of them, lik
 What else? Luke trains under a clone of Emperor <strong>Pulpit</strong>-een. Leia is like, "<strong>bish, op</strong>en your eyes, dude's dark" but Luke justifies it with "well, there's some things <strong>vatican</strong> teach me".
 Eventually after Leia asks "how could you <strong>Judas</strong> to us", Luke snaps out of it and decides he's having <strong>nun</strong> of Palpatine's evil deeds. He <strong>con-vent</strong> his anger somewhere else. He comes back to the light side and everyone's pretty willing to ex-<strong>schism</strong> for everything he did.
 Anyway, I'm really sad that the books aren't canon anymore. I know there are a lot of <strong>ram, a dan</strong>ting number, but I hope I have <strong>Eid</strong>ed you in appreciating them.
+
+<hr class="post-end" />

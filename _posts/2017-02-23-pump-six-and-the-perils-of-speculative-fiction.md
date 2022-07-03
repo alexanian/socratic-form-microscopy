@@ -78,3 +78,5 @@ Writing is hard and the critic will always have an easier time than the author. 
 
 <hr class="post-end" />
 <p class="epistemic-status">Epistemic Status: <a href="/about-me">The math is Falsifiable, the rest is a Model</a>.
+
+<hr class="post-end" />

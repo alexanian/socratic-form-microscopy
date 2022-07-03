@@ -391,7 +391,6 @@ figcaption, p.caption {
 }
 
 p.pre-post-meta {
-  padding: 0px 20px;
   margin: -20px 0px 40px;
 }
 
@@ -407,4 +406,5 @@ figure.image {
 
 hr.post-end {
   margin-top: $spacer-4;
+  border-color: $color-dot-accent;
 }

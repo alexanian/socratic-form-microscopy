@@ -130,3 +130,5 @@ The CTBTO <a href="https://www.ctbto.org/verification-regime/">has a truly great
 This post, like many of the posts in my nuclear weapon series came about because someone asked me a question about nuclear weapons and I found I couldn't answer quite as authoritatively as I would have liked. Consequently, I'd like to thank <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> and <a href="http://tessa.fyi/">Tessa Alexanian</a> for giving me the impetus to write this.
 
 This post is part of a series on special topics in nuclear weapons. The index for all of my writing on nuclear weapons can be found <a href="/2017/01/22/nuclear-weapons-1-0-introduction/">here</a>. Previous special topics posts include <a href="/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a> and the <a href="/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korean nuclear program</a>.
+
+<hr class="post-end" />

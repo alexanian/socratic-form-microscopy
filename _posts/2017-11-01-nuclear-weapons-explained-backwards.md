@@ -160,3 +160,5 @@ If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0
 
 <h3>Using this presentation</h3>
 The slides are available <a href="https://www.dropbox.com/s/6ebxh6dbdhpz04w/Presentation.pptx?dl=0">here</a>. This content, like everything else original on my blog, is covered by the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA v4 International</a> license. If you present this, please reference this blog and include a link. If you are a student and using this presentation is against the academic policies of your institution, I'd ask that you please refrain from plagiarizing it.
+
+<hr class="post-end" />

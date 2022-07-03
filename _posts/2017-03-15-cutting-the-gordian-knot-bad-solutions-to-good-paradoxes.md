@@ -88,3 +88,5 @@ Even when philosophers argue that the boat is no longer Theseus's Ship, they hav
 This is indeed a problem if the judge is as good at logic as the prisoner. But if the judge remains blissfully unaware of logical induction, there is no paradox here. The judge will assume that by picking a day at random she can surprise the prisoner. The prisoner will no doubt be quite surprised when he is hung.
 
 This becomes more likely if we set the problem in America, where some judges are elected and therefore aren't governed by anything so limiting as <em>qualifications</em>.
+
+<hr class="post-end" />

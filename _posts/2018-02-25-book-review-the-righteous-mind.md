@@ -245,3 +245,5 @@ At the start of the Righteous Mind, Haidt approvingly mentions those scientists 
 But science can only ever tell us what <em>is</em>, never what <em>ought to be.</em> As a book about science, The Righteous Mind is a success. But as a work on ethics, as an expression of how we ought to behave, it is an abysmal failure.
 
 In this area, the philosophers deserve to keep their monopoly a little longer.
+
+<hr class="post-end" />

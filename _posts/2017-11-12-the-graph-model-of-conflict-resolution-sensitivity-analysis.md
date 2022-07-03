@@ -265,3 +265,5 @@ Of the five that showed up more than once, four showed up more than half the tim
 Note "most robust" is not necessarily equivalent to "most likely". To get actual probabilities on outcomes, we'd have to put probabilities on the initial conditions. Even then, the Graph Model of Conflict Resolution as we've currently talked about it does little to explain how decision makers move between equilibria; because this scenario starts in equilibrium, it's hard to see how it makes it to any of the other equilibria.
 
 Hopefully I'll be able to explain one way we can model changes in states in my next post, which will cover Hypergame Analysis – the tool we use when actors lack a perfect understanding of one another's preferences.
+
+<hr class="post-end" />

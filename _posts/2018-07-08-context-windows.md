@@ -68,3 +68,5 @@ Other people feel incredibly difficult to argue with. These are the people who a
 What I've started to realize is that people I find particularly finicky to argue with may just have a fairly narrow strike zone. For them, it's simultaneously easy for arguments to feel devoid of substance or devoid of context.
 
 I think one way that you can make arguments with friends more productive is explicitly lay out the window in which you like to be convinced. Sentences like: "I understand what you just said might convince many people, but I find arguments about the effects of beliefs intensely unsatisfying" or "I understand that you're focused on what studies say, but I think it's important to talk about the process of knowledge creation and I'm very unlikely to believe something without first analyzing what power hierarchies created it" are the guideposts by which you can show people your context window.
+
+<hr class="post-end" />

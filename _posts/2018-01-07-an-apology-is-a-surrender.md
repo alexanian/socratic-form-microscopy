@@ -110,3 +110,5 @@ It isn't worth it.
 <hr />
 
 In the examples at the start, it seemed the only thing anyone regretted was getting caught. Remember that these are the examples that our culture provides; it's no wonder that it's easy to learn the wrong lessons about apologies! When apologizing to our loved ones, it's natural to let these lessons seep in and make us defensive when we should be open. Apologizing better requires a conscious act, one that I'm still learning how to do. This post is my attempt to chronicle these tentative efforts in a way that might be useful to others who are also struggling.
+
+<hr class="post-end" />

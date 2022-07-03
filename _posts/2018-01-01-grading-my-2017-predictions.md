@@ -167,3 +167,5 @@ If you prefer graphs, here's the results on a graph. The red line shows what I w
 I'm pleased that in general (excepting 70% vs. 80%), things I thought were more likely were in fact more likely. I appear to be fairly under-confident at lower probability levels (50% through 70%), and fairly good at higher confidence levels (80% and 90%), although of course this is just one year and some of this could be due to chance and luck.
 
 My meta-calibration was quite poor. I was never more than 10% off from perfect calibration, despite my worries that I would frequently be up to 15% from it.
+
+<hr class="post-end" />
