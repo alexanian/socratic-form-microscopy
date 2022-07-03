@@ -21,5 +21,3 @@ format: aside
 ---
 
 I predict that within five years of the implementation of the new $15/hour  Ontario minimum wage, we'll see an increase in the labour participation rates of women and a decrease in the labour participation rates of people with disabilities or developmental delays.
-
-<hr class="post-end" />
