@@ -149,18 +149,10 @@ If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0
  	<li>In response to a question about disarmament, I talked about the New START treaty and the need to distinguish between warheads that are stored (most of them, at least for Russia and America) and warheads ready to go (1,550 for both the US and Russia, if they're sticking to their treaty obligations). I stressed the need for further treaties like New START to slowly reduce the number of active (and therefore existentially dangerous) nuclear weapons in the arsenals of major powers.</li>
 </ul>
 
-<hr class="post-end" />
-
-[^1]: I was questioned pretty heavily on this pay-off matrix. Several people thought that <em>Do Nothing</em> should be preferred to <em>Attack</em>. I have two things to say to this:
-
-<ol>
- 	<li>In an iterated game with this sort of matrix, the highest payoff comes when people cooperate the most. So while at any given point in time attacking might be preferred, once you take into account that real life is iterated, doing nothing is a better long term strategy.</li>
- 	<li>All of us born after the Cold War, or even born after the 60s, cannot adequately understand what it was like to live in a world where it really did seem like the Soviets might "bury us". Faced with that kind of existential threat, a first strike seemed like an appealing option. In this globalist age, it does seem much worse to launch a first strike, especially because major powers do major mutual trade.</li>
-</ol>
-
-[^2]: If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).
-
 <h3>Using this presentation</h3>
 The slides are available <a href="https://www.dropbox.com/s/6ebxh6dbdhpz04w/Presentation.pptx?dl=0">here</a>. This content, like everything else original on my blog, is covered by the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA v4 International</a> license. If you present this, please reference this blog and include a link. If you are a student and using this presentation is against the academic policies of your institution, I'd ask that you please refrain from plagiarizing it.
 
 <hr class="post-end" />
+
+[^1]: I was questioned pretty heavily on this pay-off matrix. Several people thought that <em>Do Nothing</em> should be preferred to <em>Attack</em>. I have two things to say to this:<br />First, in an iterated game with this sort of matrix, the highest payoff comes when people cooperate the most. So while at any given point in time attacking might be preferred, once you take into account that real life is iterated, doing nothing is a better long term strategy.<br/>Second, all of us born after the Cold War, or even born after the 60s, cannot adequately understand what it was like to live in a world where it really did seem like the Soviets might "bury us". Faced with that kind of existential threat, a first strike seemed like an appealing option. In this globalist age, it does seem much worse to launch a first strike, especially because major powers do major mutual trade.
+[^2]: If questioned here, I was going to mention carrier based bombers (France tried this for a while) and nuclear tipped cruise missiles (the US may move in this direction).

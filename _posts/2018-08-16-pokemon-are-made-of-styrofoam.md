@@ -68,66 +68,15 @@ There are 1000 kilograms in a ton. If we divide our density by a thousand we can
 
 How does this fit in with common materials, like wood, Styrofoam, water, stone, and metal?
 
-<table id="pkm-table-1">
-<tbody>
-<tr>
-<td width="77">
-<p style="text-align: center;"><strong>Material</strong></p>
-</td>
-<td style="text-align: center;" width="94"><strong>Density (t/m<sup>3</sup>)</strong></td>
-</tr>
-<tr>
-<td width="77">
-<p style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Polystyrene#Extruded_polystyrene_foam">Styrofoam</a></p>
-</td>
-<td width="94">
-<p style="text-align: center;">0.028</p>
-</td>
-</tr>
-<tr>
-<td width="77">
-<p style="text-align: center;">Onix</p>
-</td>
-<td width="94">
-<p style="text-align: center;">0.03</p>
-</td>
-</tr>
-<tr>
-<td width="77">
-<p style="text-align: center;"><a href="http://www.wolframalpha.com/input/?i=density+of+balsa+wood">Balsa</a></p>
-</td>
-<td style="text-align: center;" width="94">
-<p style="text-align: center;">0.16</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="77"><a href="http://www.wolframalpha.com/input/?i=density+of+oak">Oak</a>[^1]</td>
-<td width="94">
-<p style="text-align: center;">0.65</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="77">Water</td>
-<td width="94">
-<p style="text-align: center;">1</p>
-</td>
-</tr>
-<tr>
-<td width="77">
-<p style="text-align: center;"><a href="http://www.wolframalpha.com/input/?i=density+of+granite">Granite</a></p>
-</td>
-<td width="94">
-<p style="text-align: center;">2.6</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="77"><a href="http://www.wolframalpha.com/input/?i=density+of+steel">Steel</a></td>
-<td width="94">
-<p style="text-align: center;">7.9</p>
-</td>
-</tr>
-</tbody>
-</table>
+| Material                                                                                    | Density |
+| ------------------------------------------------------------------------------------------- | ------- |
+| <a href="https://en.wikipedia.org/wiki/Polystyrene#Extruded_polystyrene_foam">Styrofoam</a> | 0.028   |
+| Onix                                                                                        | 0.03    |
+| <a href="http://www.wolframalpha.com/input/?i=density+of+balsa+wood">Balsa</a>              | 0.16    |
+| <a href="http://www.wolframalpha.com/input/?i=density+of+oak">Oak</a>[^1]                   | 0.65    |
+| Water                                                                                       | 1       |
+| <a href="http://www.wolframalpha.com/input/?i=density+of+granite">Granite</a>               | 2.6     |
+| <a href="http://www.wolframalpha.com/input/?i=density+of+steel">Steel</a>                   | 7.9     |
 
 From this chart, you can see that Onix's density is eerily close to Styrofoam. Even the notoriously light balsa wood is five times denser than him. Actual rock is about 85 times denser. If Onix was made of granite, it would weigh 18 tonnes, much heavier than even Snorlax (the heaviest of the original Pokémon at 460kg).
 

@@ -26,7 +26,8 @@ tags:
 
 There's something missing from the discussion about the $15/hour minimum wage in Ontario, something basically every news organization has failed to pick up on. I'd have missed it too, except that a chance connection to a recent blog post I'd read sent me down the right rabbit hole. I've climbed out on the back of a mound of government statistics and I <em>really</em> want to share what I've found.
 
-<p style="text-align: center;"><strong>I</strong></p>
+### <strong>I</strong>
+
 Reading through the coverage of the proposed $15/hour minimum wage, I was reminded that the Ontario minimum wage is currently <a href="https://www.thestar.com/news/queenspark/2014/01/30/ontario_minimum_wage_goes_up_june_1_to_11.html">indexed to inflation</a>. Before #FightFor15 really took off, indexing the minimum wage to inflation was the standard progressive minimum wage platform (<a href="http://www.nytimes.com/2013/02/13/us/politics/obama-pushes-for-increase-in-federal-minimum-wage.html">as evidenced by Obama calling for it in 2013</a>). Ontario is actually aiming for the best of both worlds; the new $15/hour minimum wage will be indexed to inflation. The hope is that it will continue to have the same purchasing power long into the future.
 
 In Canada, inflation is also called the "consumer price index" or CPI. The CPI is based on a standard basket of goods (i.e. a list that includes such things as "children's sneakers" and "French fries, curly"), which Statistics Canada assesses the price of every few months. These prices are averaged, weighted, and compared to the previous year's prices to get a single number. This number is periodically reset to 100 (most recently in 2002). The CPI for 2016 is 128.4; in 2016, it cost $128.40 to buy a basket of goods that cost $100.00 in 2002.
@@ -52,7 +53,8 @@ On the other hand, you have education, which has become 60.8% more expensive in 
 
 Three of the four categories with the biggest increases in prices rely on the labour of responsible people. The fourth is tobacco; prices increases there are probably driven by increased taxation and its position is a bit of a red herring. It's potentially worrying that the categories where things are getting cheaper (e.g. electronics, clothes) are in the industries that are most amenable to automation. This <em>might</em> imply that tasks that cannot be automated are doomed to become increasingly expensive[^1].
 
-<p style="text-align: center;"><strong>II</strong></p>
+### II
+
 I'm certainly not the first person to make the observation that "inflation" isn't a single number. Economists have presumably known this forever, related as it is to the important economics concept of "<a href="https://en.wikipedia.org/wiki/Baumol%27s_cost_disease">cost disease</a>". More recently, you can see this point made from two different directions in Scott Alexander's "<a href="http://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/">Considerations on Cost Disease</a>" (which tries to get to the bottom of the price increases in healthcare and education) and Andrew Potter's "<a href="http://induecourse.ca/the-age-of-anti-consumerism-has-passed/">The age of anti-consumerism has passed</a>" (which looks at the societal changes wrought by many consumer goods becoming much cheaper). As far as I know, no one has yet tied this observation to the discussion surrounding the new Ontario minimum wage.
 
 Like I said above, the new minimum wage will still be indexed to inflation; the "$15/hour" minimum wage won't stay at $15/hour. If inflation follows current trends (this is a terrible assumption but it's all I've got), it will rise by about 1.5% per year. In 2020 it will be (again, bad extrapolation alert) $15.25 and in 2021 it will be $15.50.
@@ -61,7 +63,8 @@ Extrapolating backwards, the current Ontario minimum wage ($11.40/hour) was equi
 
 This won't last of course. The divergence in prices shows no signs of decreasing. The CPI will continue to climb upwards at a steady rate (the target is 2%, last year it only rose 1.4%), buoyed up by large increases in education costs (2.8% last year) and held down by steady decreases in the price of electronics (-1.6% last year). Imagine that the $15/hour minimum wage allows a student to pay a year's tuition with a summer's worth of work. If current trends continue, in 15 years, it would only cover 75% of tuition. Fifteen years after that it would cover about 60%.
 
-<p style="text-align: center;"><strong>III</strong></p>
+### III
+
 There's a funny thing about these numbers. The stuff that's getting more expensive more quickly is largely stuff that younger people have to pay for. If you're 50, have more or less raised your kids, and own a house, then you're golden even if you're working a minimum wage job (although by this point, you probably aren't). Assuming your wage has increased with inflation over your working lifetime, a lot of the things you're looking to buy (travel, electronics, medical devices) will be getting cheaper relative to what you make. Healthcare service costs (e.g. the cost of seeing a doctor) might be increasing for you in theory, but in practice OHIP has you covered for all your doctor's visits[^2].
 
 It's younger people who are really shafted. First, they're more likely to be earning minimum wage, with <a href="http://www.huffingtonpost.ca/2016/05/31/minimum-wage-canada-ontario_n_10223826.html">nearly 60%</a> of minimum wage earners in Canada in the 15 to 24 age bracket. Second, the sorts of things that younger people need or aspire to (education, childcare, home ownership) are big ticket items that are increasing in cost above the rate of inflation. Like with the tuition example above, childcare and home ownership are going to slip out of the grasp of young workers <em>even if you index their wage to inflation</em>.
