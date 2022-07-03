@@ -1,6 +1,6 @@
 ---
 id: 473
-title: "They don&#8217;t hate your values; they just assign them no weight"
+title: "They don’t hate your values; they just assign them no weight"
 date: 2017-08-06T10:30:54-04:00
 author: Zach
 layout: post

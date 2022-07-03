@@ -1,6 +1,6 @@
 ---
 id: 675
-title: "You&#8217;re Doing Taxes Wrong: Consumptive vs. Wealth Inequality"
+title: "You’re Doing Taxes Wrong: Consumptive vs. Wealth Inequality"
 date: 2018-01-22T19:37:52-05:00
 author: Zach
 layout: post

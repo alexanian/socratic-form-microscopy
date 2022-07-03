@@ -1,6 +1,6 @@
 ---
 id: 66
-title: "Why I Don&#8217;t Want Kellie Leitch to Lead the Conservative Party (and how to Stop her)"
+title: "Why I Don’t Want Kellie Leitch to Lead the Conservative Party (and how to Stop her)"
 date: 2016-11-22T23:03:10-05:00
 author: Zach
 layout: post
@@ -16,13 +16,16 @@ tags:
   - kellie leitch
 ---
 
-<em>Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did. </em>
+<p class="pre-post-meta">Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did.</p>
 
-<h5>Why I Don't Want Kellie Leitch to Lead the Conservative Party</h5>
 A couple months ago, <a href="/2016/09/03/kellie-leitch-and-liberal-democracy/">I wrote of Kellie Leitch</a>:
-<p style="padding-left: 30px;">I remain genuinely unsure what Kellie Leitch’s goal is. I went into this blog convinced she was another hypocrite who was only using queer Canadians when it suited her racists agenda. And yet, she voted yea to Bill 279 (to treat gender identity as a protected class) despite almost every single one of her cabinet colleagues opposing it. She does appear to have a principled and reasonably long standing support for queer rights. She voted the party line on whipped bills (as does basically every MP in Canada), but when she’s allowed to vote her conscience, we see that it is rather different than many of the other Conservatives. She may be a political opportunist who can sense which way the wind blows. Or she may be trying to change the conservatives from within.</p>
+
+<blockquote>I remain genuinely unsure what Kellie Leitch’s goal is. I went into this blog convinced she was another hypocrite who was only using queer Canadians when it suited her racists agenda. And yet, she voted yea to Bill 279 (to treat gender identity as a protected class) despite almost every single one of her cabinet colleagues opposing it. She does appear to have a principled and reasonably long standing support for queer rights. She voted the party line on whipped bills (as does basically every MP in Canada), but when she’s allowed to vote her conscience, we see that it is rather different than many of the other Conservatives. She may be a political opportunist who can sense which way the wind blows. Or she may be trying to change the conservatives from within.</blockquote>
+
 I spent weeks wondering: is Dr. Leitch just a political opportunist, or is she driven by real (albeit misguided) principles? This week, she provided me with an answer [1]:
-<p style="padding-left: 30px;">“Tonight, our American cousins threw out the elites and elected Donald Trump as their next president. It’s an exciting message and one that we need delivered in Canada as well. It’s the message I’m bringing with my campaign to be the next Prime Minister of Canada.”</p>
+
+<blockquote>Tonight, our American cousins threw out the elites and elected Donald Trump as their next president. It’s an exciting message and one that we need delivered in Canada as well. It’s the message I’m bringing with my campaign to be the next Prime Minister of Canada.</blockquote>
+
 So political opportunist it is then.
 
 Let's be clear, Kellie Leitch isn't Donald Trump. She's calculating and clever. She isn't going to get embroiled in pointless feuds. People are genuinely worried that Trump might declare a literal shooting war if a foreign leader tweets the wrong thing at him. No one is seriously concerned Kellie Leitch would do the same.

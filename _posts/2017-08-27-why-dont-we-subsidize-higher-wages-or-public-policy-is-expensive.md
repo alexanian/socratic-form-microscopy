@@ -1,6 +1,6 @@
 ---
 id: 484
-title: "Why Don&#8217;t we Subsidize Higher Wages? Or: Public Policy is Expensive"
+title: "Why Don’t we Subsidize Higher Wages? Or: Public Policy is Expensive"
 date: 2017-08-27T13:53:56-04:00
 author: Zach
 layout: post

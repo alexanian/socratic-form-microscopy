@@ -1,6 +1,6 @@
 ---
 id: 850
-title: "Good Intentions Meet A Messy Reality In Elizabeth Warren&#8217;s Corporate Citizenship Push"
+title: "Good Intentions Meet A Messy Reality In Elizabeth Warren’s Corporate Citizenship Push"
 date: 2018-09-29T08:30:10-04:00
 author: Zach
 layout: post

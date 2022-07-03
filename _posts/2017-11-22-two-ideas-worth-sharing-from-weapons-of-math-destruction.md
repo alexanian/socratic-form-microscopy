@@ -1,6 +1,6 @@
 ---
 id: 605
-title: "Two Ideas Worth Sharing From &#8216;Weapons of Math Destruction&#8217;"
+title: "Two Ideas Worth Sharing From &#8216;Weapons of Math Destruction’"
 date: 2017-11-22T20:29:34-05:00
 author: Zach
 layout: post

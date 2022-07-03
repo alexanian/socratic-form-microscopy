@@ -1,6 +1,6 @@
 ---
 id: 866
-title: "Scrip Stamp Currencies Aren&#8217;t A Miracle"
+title: "Scrip Stamp Currencies Aren’t A Miracle"
 date: 2018-10-30T08:30:29-04:00
 author: Zach
 layout: post

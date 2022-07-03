@@ -1,6 +1,6 @@
 ---
 id: 842
-title: "You Shouldn&#8217;t Believe In Technological Unemployment Without Believing In Killer AI"
+title: "You Shouldn’t Believe In Technological Unemployment Without Believing In Killer AI"
 date: 2018-08-26T08:45:50-04:00
 author: Zach
 layout: post

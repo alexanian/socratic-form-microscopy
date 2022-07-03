@@ -1,6 +1,6 @@
 ---
 id: 263
-title: "Checks and balances can&#8217;t last if they make governing impossible"
+title: "Checks and balances can’t last if they make governing impossible"
 date: 2017-02-06T21:29:24-05:00
 author: Zach
 layout: post

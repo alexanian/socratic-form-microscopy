@@ -1,6 +1,6 @@
 ---
 id: 419
-title: "Science Isn&#8217;t Your Cudgel"
+title: "Science Isn’t Your Cudgel"
 date: 2017-06-11T12:34:59-04:00
 author: Zach
 layout: post
