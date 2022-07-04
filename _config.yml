@@ -6,7 +6,8 @@
 title: Socratic Form Microscopy
 name: Socratic Form Microscopy
 description: "The writing of Zachary Jacobi."
-baseurl: "" # the subpath of your site, e.g. /blog
+# TODO: revise when no longer hosted on github pages
+baseurl: "socratic-form-microscopy" # the subpath of your site, e.g. /blog
 url: https://socratic-form-microscopy.com/
 
 remote_theme: broccolini/swiss
