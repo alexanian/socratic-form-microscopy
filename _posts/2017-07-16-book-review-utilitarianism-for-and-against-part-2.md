@@ -155,7 +155,7 @@ I have the pleasure of reading the blogs and Facebook posts of many prominent (f
 {% capture caption %}
 Image Credit: Emmy van Deurzen via <a href="https://commons.wikimedia.org/wiki/File:Ikigai-EN-optimized-PNG.png">Wikimedia Commons</a>
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Ikigai-EN-optimized-PNG.png" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/Ikigai-EN-optimized-PNG.png" alt="" caption=caption %}
 
 Saying that utilitarianism will never be popular outside of those suited for it means accepting we don't have a universal ethical solution. This is, I think, very pragmatic. It also doesn't rule out utilitarians looking for ways we can encourage people to be <em>more</em> utilitarian. To slightly modify a phrase that utilitarian animal rights activists use: the best utilitarianism is the type you can stick with; it's better to be utilitarian 95% of the time then it is to be utilitarian 100% of the time – until you get burnt out and give it up forever.
 

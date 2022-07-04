@@ -53,11 +53,11 @@ But practically no one has tastes that broad. Most people accept a narrower rang
 
 We should expect to see some correlation between the minimum and maximum amount of context people want to get. Windows may vary in size, but in general, feeling put-off by lots of decoupling should correlate with enjoying context.
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/4_context_windows-768x268.png" alt="" caption="Here we see people with varyingly sized strike zones, but with their dislike of context correlated with their appreciation for substance." %}
+{% include image.html src="/wp-content/uploads/4_context_windows-768x268.png" alt="" caption="Here we see people with varyingly sized strike zones, but with their dislike of context correlated with their appreciation for substance." %}
 
 Klein and Harris disagreed so unproductively not just because they give first billing to different things, but because their world views are different enough that there is absolutely no overlap between how they think and talk about things.
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/klein_harris_stick-768x314.png" alt="" caption="One plausible graph of how Klein and Harris like to think about problems (quotes come from the transcript of their podcast). From this, it makes sense that they couldn't have a productive conversation. There's no overlap in how they model the world." %}
+{% include image.html src="/wp-content/uploads/klein_harris_stick-768x314.png" alt="" caption="One plausible graph of how Klein and Harris like to think about problems (quotes come from the transcript of their podcast). From this, it makes sense that they couldn't have a productive conversation. There's no overlap in how they model the world." %}
 
 I've found thinking about windows of context and substance, rather than just the dichotomous categories, very useful for analyzing how me and my friends tend to agree and disagree.
 

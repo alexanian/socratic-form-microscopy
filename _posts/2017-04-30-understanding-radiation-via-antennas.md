@@ -28,7 +28,7 @@ EM radiation has another nifty property: it always travels at the same speed, a 
 {% capture caption %}
 Not that type of lambda. Image Credit: <a href="https://www.flickr.com/photos/marshal-banana/32922111470/">Marshal Banana on Flickr</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/lambda_shuttle-1-300x200.jpg" alt="lambda class shuttle from star wars" caption=caption %}
+{% include image.html src="/wp-content/uploads/lambda_shuttle-1-300x200.jpg" alt="lambda class shuttle from star wars" caption=caption %}
 
 Put in a more mathy way: if you have an event that occurs with frequency <em>f</em> to something travelling at velocity <em>v</em>, the event will have a spatial periodicity λ (our trusty wavelength) equal to <em>v / f.</em> For example, if you have a sound that oscillates 34Hz (this frequency is equivalent to the lowest C♯ on a standard piano) travelling at 340m/s (the speed of sound in air), it will have a wavelength of (340 m/s)/(34 s<sup>-1</sup>) = 10m. I'm using sound here so we can use reasonably sized numbers, but the results are equally applicable to light or other forms of EM radiation.
 
@@ -38,21 +38,21 @@ With all that background out of the way, we can actually "look" at electromagnet
 
 {% capture caption %}
 Here wavelength is labeled with "λ", the electric field is red and labelled with "E" and the magnetic field is blue and labelled with "B". "B" is the standard symbol for magnetic fields, for reasons I have never understood. Image Credit: <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation#/media/File:Electromagneticwave3D.gif">Lookang on Wikimedia Commons</a>.{% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Electromagneticwave3D-300x298.gif" alt="animated gif showing oscillating magnetic and electric fields orthogonal to direction of travel" caption=caption %}
+{% include image.html src="/wp-content/uploads/Electromagneticwave3D-300x298.gif" alt="animated gif showing oscillating magnetic and electric fields orthogonal to direction of travel" caption=caption %}
 
 Wavelength is very important. You know those big TV antennas houses used to have?
 
 {% capture caption %}
 Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Multiple_Antenna.JPG">B137 on Wikimedia Commons</a>
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/antenna_house-300x225.jpg" alt="picture of house with old fashioned aerial antenna" caption=caption %}
+{% include image.html src="/wp-content/uploads/antenna_house-300x225.jpg" alt="picture of house with old fashioned aerial antenna" caption=caption %}
 
 Turns out that they're about the same size as the wavelength of television signals. The antenna on a car? About the same size as the radio waves it picks up. Those big radio telescopes in the desert? Same size as the extrasolar radio waves <em>they</em> hope to pick up.
 
 {% capture caption %}
 Fun fact: these dishes together make up a very large radio telescope, unimaginatively called the "Very Large Array". Image Credit: <a href="https://en.wikipedia.org/wiki/Karl_G._Jansky_Very_Large_Array#/media/File:USA.NM.VeryLargeArray.02.jpg">Hajor on Wikimedia Commons</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/VLA-300x225.jpg" alt="image of the VLA radio telescopes" caption=caption %}
+{% include image.html src="/wp-content/uploads/VLA-300x225.jpg" alt="image of the VLA radio telescopes" caption=caption %}
 
 Even things we don't normally think of as antennas can act like them. The rod and cone cells in your eyes act as antennas for the light of this very blog post[^2]. Chains of protein or water molecules act as antennas for microwave radiation, often with delicious results. The bases in your DNA act as antennas for UV light, often with disastrous results.
 

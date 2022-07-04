@@ -20,7 +20,7 @@ tags:
 
 First: May the Fourth be with you ("and also with you" is how you respond if like me, you grew up Catholic). As you might be able to tell from this shirt, I am <em>religiously</em> devoted to Star Wars. I know a lot about Star Wars, but I'm more of an <strong>orthodox</strong> fan- I was all about the Expanded Universe, not this reverend-ing stream of Disney sequels.
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/2018-05-04-09.41.00-1-189x300.jpg" alt="" caption="Pictured: the outfit I wore" %}
+{% include image.html src="/wp-content/uploads/2018-05-04-09.41.00-1-189x300.jpg" alt="" caption="Pictured: the outfit I wore" %}
 
 They might be popepular, but it seems like all Disney wants is to turn a <strong>prophet</strong> - just get big <strong>fatwa</strong>s of cash. They don't care about <strong>Allah</strong> the history that happened in the books. Just <strong>mo-hamme(r)</strong>ed out scripts with flashy set piece battles full of <strong>Mecca</strong> and characters we <strong>med-in-a</strong> earlier film.
 

@@ -39,7 +39,7 @@ Countries have to grapple with neither of these responsibilities. While it is tr
 {% capture caption %}
 After seeing this graph, I realized how hyperbolic it was to talk about Japan's aging population. Source: <a href="https://data.oecd.org/pop/working-age-population.htm#indicator-chart">OECD</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/working_age-768x500.png" alt="Graph showing % of working age population in 4 OECD countries: Japan, Canada, USA, Italy."  caption=caption %}
+{% include image.html src="/wp-content/uploads/working_age-768x500.png" alt="Graph showing % of working age population in 4 OECD countries: Japan, Canada, USA, Italy."  caption=caption %}
 
 Even in Japan, where this is "dire", the percentage of the population that is working age is equivalent to the percentage of the population that was working age in Canada or America in 1970. As lifespans increase, we may have to expand our definition of working age. But some combination of immigration, better support for parents, and better support for older citizens who wish to keep working will prevent us from ever getting to a point where it's sensible to talk about a country "retiring".
 

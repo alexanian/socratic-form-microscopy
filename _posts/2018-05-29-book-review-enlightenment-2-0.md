@@ -37,11 +37,11 @@ We have some evidence of a similar process occurring in advertising. If you ever
 {% capture caption %}
 Can you imagine an ad like this being printed today? Image credit: "<a href="https://www.flickr.com/photos/thoth-god/4179614841/">Thoth God of Knowledge" on Flickr</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/ThothGodofKnowledgeWatchAd-768x1149.jpg" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/ThothGodofKnowledgeWatchAd-768x1149.jpg" alt="" caption=caption %}
 
 Modern ads are much more likely to try and associate a product with an image, mood, or imagined future life. Cleaning products go with happy families and spotless houses. Cars with excitement or attractive potential mates.
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/placido-domingo-rolex-day-date-ii-768x1086.jpg" alt="" caption="Look at this Rolex ad. It screams: \"This man is successful! Wear a Rolex so everyone knows you're that successful/so that you become that successful.\" The goal is to get people to believe that Rolex=success. Rolex's marketing is so successful that Rolex's watches are seen as a status marker and luxury good the world over, even though quite frankly they're kind of ugly. Image copyright Rolex, used here for purposes of criticism." %}
+{% include image.html src="/wp-content/uploads/placido-domingo-rolex-day-date-ii-768x1086.jpg" alt="" caption="Look at this Rolex ad. It screams: \"This man is successful! Wear a Rolex so everyone knows you're that successful/so that you become that successful.\" The goal is to get people to believe that Rolex=success. Rolex's marketing is so successful that Rolex's watches are seen as a status marker and luxury good the world over, even though quite frankly they're kind of ugly. Image copyright Rolex, used here for purposes of criticism." %}
 
 In Heath's view, one negative consequence of globalism is that all of the most un-reasonable inventions from around the world get to flourish everywhere and accumulate, in the same way that globalism has allowed all of the worst diseases of the world to flourish.
 

@@ -29,7 +29,7 @@ Takes Onix. Onix is a rock/ground Pokémon renowned for its large size and sturd
 {% capture caption %}
 Onix, being tough. I don't own the copyright to this image, but I'm claiming fair use for purpose of criticism. <a href="https://giphy.com/gifs/team-rocket-onix-see-you-in-the-next-episode-Hw3Txd9N17uxi">Source</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/blasting_off.gif" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/blasting_off.gif" alt="" caption=caption %}
 
 Surely such a large and tough Pokémon should be very, very dense, right? Density is such an important tactile cue for us. Don't believe me? Pick up a large piece of solid medal. Its surprising weight will make you take it seriously.
 
@@ -48,7 +48,7 @@ Given that we know Onix's height, we just need its diameter. Luckily the Pokémo
 {% capture caption %}
 Here's a picture of Onix. Note the kid next to it for scale. I don't own the copyright to this image, but I'm claiming fair use for purpose of criticism. <a href="http://pokemon.wikia.com/wiki/Roark%27s_Onix_(anime)?file=Roark_Onix.png">Source</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Roark_Onix-768x576.png" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/Roark_Onix-768x576.png" alt="" caption=caption %}
 
 Judging by the image, Onix probably has an average diameter somewhere around a metre (3 feet for the Americans). This means Onix has a radius of 0.5 metres and a height of 8.8 metres. When we put these into our equation, we get:
 
@@ -87,7 +87,7 @@ While most people wouldn't be able to pick Onix up (it may not be dense, but it 
 {% capture caption %}
 This picture is unrealistic. Because of its density, no more than 3% of Onix can be below the water. I don't own the copyright to this image, but I'm claiming fair use for purpose of criticism. <a href="https://giphy.com/gifs/pokemon-origins-dYzPR633vUW2c">Source</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/onix_float.gif" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/onix_float.gif" alt="" caption=caption %}
 
 How did the creators of Pokémon accidently bestow one of the most famous of their creations with a hilariously unrealistic density?
 

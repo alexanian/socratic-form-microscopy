@@ -29,14 +29,14 @@ It's a commonly repeated truism that "correlation doesn't imply causation". Peop
 {% capture caption %}
 Image Copyright <a href="https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html">The New York Times, 2017</a>. Used here for purposes of commentary and criticism.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/obviously_anchoring_OMFG-768x580.png" alt="In addition to this graph obviously being anchored, using it is obviously fair use." caption=caption %}
+{% include image.html src="/wp-content/uploads/obviously_anchoring_OMFG-768x580.png" alt="In addition to this graph obviously being anchored, using it is obviously fair use." caption=caption %}
 
 Is utter horsecrap[^1], despite how suggestive it looks is the work of a decent education in statistics. Here correlation doesn't imply causation. On the other hand, it's not hard to find excellent examples where correlation really does mean causation:
 
 {% capture caption %}
 Source: <a href="https://www.ncdc.noaa.gov/monitoring-references/faq/indicators.php">The National Centers for Environmental Administration</a>. Having to spell "centre" wrong and use inferior units is a small price to pay for the fact that the American government immediately releases everything it creates into the public domain.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/global-temp-and-co2-us-gov-768x582.gif" alt="This would be a risky graph to use if echo chambers didn't mean that I know literally no one who doesn't believe in global warming" caption=caption %}
+{% include image.html src="/wp-content/uploads/global-temp-and-co2-us-gov-768x582.gif" alt="This would be a risky graph to use if echo chambers didn't mean that I know literally no one who doesn't believe in global warming" caption=caption %}
 
 When trying to understand the ground truth, it's important that you don't confuse correlation with causation. But not every human endeavour is aimed at determining the ground truth. Some endeavours really do just need to understand which activities and results are correlated. Principal among these is insurance.
 

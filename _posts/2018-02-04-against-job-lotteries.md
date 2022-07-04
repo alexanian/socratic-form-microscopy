@@ -51,7 +51,7 @@ It is not 80%. It's not even 50%. It's 31%. This is probably best illustrated vi
 {% capture caption %}
 <a href="http://craftdesignonline.com/pattern-grid/">Craft Design Online</a> has inadvertently created a great probability visualization tool.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/conditional_probability-768x764.png" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/conditional_probability-768x764.png" alt="" caption=caption %}
 
 There are four things that can happen here (I'm going to conflate tenure track job offers with tenure out of a desire to stop typing "tenure track job offers").
 

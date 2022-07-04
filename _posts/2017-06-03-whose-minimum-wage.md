@@ -39,7 +39,7 @@ Here's the last few years of the CPI, with some of the categories broken out:
 {% capture caption %}
 Table Source: <a href="http://www5.statcan.gc.ca/olc-cel/olc.action?ObjId=62-553-X&amp;ObjType=2&amp;lang=en&amp;Limit=0">The Canadian Consumer Price Index Reference Paper &gt; Summary Tables</a>; click <a href="https://docs.google.com/spreadsheets/d/1sfEaeIijzcWtRNToPN0klWpnXrChyTyXn_TaxNq4Gbs/edit?usp=sharing">here</a> to view the data in Google Sheets.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/CPI-Chart-1024x607.png" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/CPI-Chart-1024x607.png" alt="" caption=caption %}
 
 Every row in this table that is shaded green has decreased in price since 2002. Rows that are shaded blue have increased in price, but have increased slower than the rate of inflation. Economists would say that they've increased in price in nominal (unadjusted for inflation) terms, but they've decreased in price in real (adjusted for inflation) terms. Real prices are important, because they show how prices are changing relative to other goods on the market. As the real value of goods and services change, so too does the fraction of each paycheque that people spend on them.
 

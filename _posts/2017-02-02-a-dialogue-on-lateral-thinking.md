@@ -32,7 +32,7 @@ The Hare snorts in amusement.</em>
 {% capture caption %}
 Image Credit: <a href="http://maxpixel.freegreatpicture.com/Pet-Garden-Bunny-Rabbit-Spring-717855" target="_blank">MaxPixel</a>
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/hare-300x200.jpg" alt="A photograph of a hare" caption=caption %}
+{% include image.html src="/wp-content/uploads/hare-300x200.jpg" alt="A photograph of a hare" caption=caption %}
 
 **Tortoise**: As I was saying, the jumpsuits that firefighters wear often have nametags on them. So they arrest him because he's wearing a jumpsuit that says "John"?
 
@@ -77,7 +77,7 @@ Coyote snickers nervously.</em>
 {% capture caption %}
 Image Credit: <a href="https://www.flickr.com/photos/jitze1942/1751241022" target="_blank">Jitze Couperus</a>
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/coyote-300x240.jpg" alt="A photograph of a coyote" caption=caption %}
+{% include image.html src="/wp-content/uploads/coyote-300x240.jpg" alt="A photograph of a coyote" caption=caption %}
 
 **Coyote**: Um… Well, one last question: Assume there are approximately 7,000,000,000 (7 billion) people on Earth. What would you estimate to be the result, if you multiply together the number of fingers on every person's left-hands?
 
@@ -90,7 +90,7 @@ Image Credit: <a href="https://www.flickr.com/photos/jitze1942/1751241022" targe
 {% capture caption %}
 Image Credit: <a href="https://www.flickr.com/photos/ekilby/1464834963" target="_blank">Eric Kilby</a>
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/tortoise-300x201.jpg" alt="A photograph of a tortoise" caption=caption %}
+{% include image.html src="/wp-content/uploads/tortoise-300x201.jpg" alt="A photograph of a tortoise" caption=caption %}
 
 **Hare**: Actually, that brings up an interesting point. Are puns a form of lateral thinking?
 

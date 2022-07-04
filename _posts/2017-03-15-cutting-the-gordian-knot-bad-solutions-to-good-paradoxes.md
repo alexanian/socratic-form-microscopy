@@ -15,7 +15,7 @@ tags:
 
 <h3>Russell's Paradox</h3>
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/3800995334_46985dde96_z-300x200.jpg" alt="" caption="Image Credit: Donald on Flickr" %}
+{% include image.html src="/wp-content/uploads/3800995334_46985dde96_z-300x200.jpg" alt="" caption="Image Credit: Donald on Flickr" %}
 
 <em>In a village, the barber shaves everyone who does not shave himself, but no one else. Who shaves the barber.</em>
 
@@ -25,7 +25,7 @@ Alternatively, the barber is a woman.
 
 <h3>Omnipotence Paradox</h3>
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/4602413834_c6c0d406ca_o-300x199.jpg" alt="" caption="Image Credit: Tim Green on Flickr" %}
+{% include image.html src="/wp-content/uploads/4602413834_c6c0d406ca_o-300x199.jpg" alt="" caption="Image Credit: Tim Green on Flickr" %}
 
 <em>Can God create a rock so large that he himself cannot lift it?</em>
 
@@ -45,7 +45,7 @@ Given that this question was first posed right before the crusades, I believe th
 
 <h3>Zeno's Paradox</h3>
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Zeno_Dichotomy_Paradox_alt-300x143.png" alt="" caption="Image Credit: Miranche on Wikimedia Commons" %}
+{% include image.html src="/wp-content/uploads/Zeno_Dichotomy_Paradox_alt-300x143.png" alt="" caption="Image Credit: Miranche on Wikimedia Commons" %}
 
 <em>If you want to go somewhere, you first have to get halfway there. But to get to the midpoint, you have to go a quarter of the way. But to get to a quarter… When you subdivide like this, you'll see that there are an infinite number of steps you must take to go anywhere. You cannot accomplish an infinite number of tasks in a finite time, therefore, movement is impossible. </em><em> </em>
 
@@ -55,7 +55,7 @@ An important property of halving things: you get really small numbers very quick
 
 <h3>Sorites Paradox</h3>
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/5282834545_4af6228485_o-300x225.jpg" alt="" caption="Image Credit: David Stanley on Flickr" %}
+{% include image.html src="/wp-content/uploads/5282834545_4af6228485_o-300x225.jpg" alt="" caption="Image Credit: David Stanley on Flickr" %}
 
 <em>There is a pile of sand in front of you. If you remove a grain of sand from it, it will still be a pile. If you remove another, it will still be a pile. But if you keep removing them, eventually it won't be. When does it stop being a pile?</em>
 
@@ -63,7 +63,7 @@ I'm emailing <a href="https://www.iso.org/home.html">ISO</a> and the <a href="ht
 
 <h3>The Ship of Theseus</h3>
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/18043251370_b9454ef3cb_o-1-300x224.jpg" alt="" caption="Image Credit: Verity Cridland on Flickr" %}
+{% include image.html src="/wp-content/uploads/18043251370_b9454ef3cb_o-1-300x224.jpg" alt="" caption="Image Credit: Verity Cridland on Flickr" %}
 
 <em>The Athenian Theseus bequeathed his ship to the city. As the ship aged, the Athenians kept it in perfect condition by replacing any planks and fittings that rotted away. Eventually, the entire ship had been replaced. This caused all of the philosophers in Athens to wonder: was it still Theseus's Ship.</em>
 
@@ -79,7 +79,7 @@ Even when philosophers argue that the boat is no longer Theseus's Ship, they hav
 
 <h3>Unexpected Hanging Paradox</h3>
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/409315924_19c9846b7c_o-300x225.jpg" alt="" caption="Image Credit: Adam Clarke on Flickr" %}
+{% include image.html src="/wp-content/uploads/409315924_19c9846b7c_o-300x225.jpg" alt="" caption="Image Credit: Adam Clarke on Flickr" %}
 
 <em>A prisoner is sentenced to hanging by a judge. The judge stipulates that the sentence will be carried out on one of the days in the next week, that it will be carried out before noon, and that it must be a surprise to the prisoner. </em>
 

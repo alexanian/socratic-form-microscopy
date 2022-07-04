@@ -17,7 +17,7 @@ tags:
 
 Imagine that you're a young teenager who really loves red jellybeans. You love them so much that you unabashedly call them your favourite food. It's only the red ones though – you find all other jellybeans disgusting. For the purposes of this extended metaphor, you will have a sister. Like you, she loves one colour of jellybeans, but unlike you she only loves the green ones.
 
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/jellybeans-225x300.jpg" alt="" caption="Image Credit: Larry Jacobsen on Flickr" %}
+{% include image.html src="/wp-content/uploads/jellybeans-225x300.jpg" alt="" caption="Image Credit: Larry Jacobsen on Flickr" %}
 
 Your parents are stingy. They long ago realized that they could save a lot of money by paying you for your chores in jellybeans, instead of with an allowance. To prop up this system, they've forbidden both you and your sister from buying jellybeans in any store. Both of you can only get jellybeans from your parents. You each get a few jellybeans of your preferred colour each time you complete a chore.
 

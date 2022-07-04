@@ -69,7 +69,7 @@ These are analogous to the two main types of body waves in seismology. The first
 {% capture caption %}
 I couldn't find a good free version of this, so I had to make it myself. Licensed (like everything I create for my blog) <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA v4.0</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/waves-768x461.png" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/waves-768x461.png" alt="" caption=caption %}
 
 Earthquakes normally have a mix of P-waves and S-waves, as well as surface waves created by interference between the two. This is because earthquakes are caused by slipping tectonic plates. This slipping gives some lateral motion to the resulting waves. Nuclear explosions lack this side to side motion. The single, sharp impact from them on the surrounding rocks is equivalent to the wave you'd get if you thrust your arm forward while holding a slinky. It's almost all P-wave and almost no S-wave. This is very distinctive against a background of earthquakes. The CTBTO is kind enough to show what this difference looks like; in <a href="https://www.ctbto.org/uploads/pics/IDC_page5.gif">this image</a>, the top event is a nuclear test and the bottom event is an earthquake of a similar magnitude in a similar location (I apologize for making you click through to see the image, but I don't host copyrighted images here).
 
@@ -115,7 +115,7 @@ The components of the infrasound arrays look very weird.
 {% capture caption %}
 Specifically, they look like a bunker that tried to eat four Ferris wheels. Each array actually contains three to eight of these monstrosities. From the <a href="https://commons.wikimedia.org/wiki/File:View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream.jpg">CTBTO via Wikimedia Commons</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream-768x576.jpg" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/View_of_Infrasound_Station_Array_-_Flickr_-_The_Official_CTBTO_Photostream-768x576.jpg" alt="" caption=caption %}
 
 What you see here are a bunch of pipes that all feed through to a central microbarometer, which is what actually measures the infrasound by detecting slight changes in air pressure. This setup filters out a lot of the wind noise and mostly just lets infrasound through.
 

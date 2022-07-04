@@ -55,7 +55,7 @@ This sort of bait and switch pops up enough in post-modernist "all knowledge is 
 {% capture caption %}
 Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Motte_and_bailey_at_olivet_a_grimbosq.jpg?uselang=fr">Hchc2009, Wikimedia Commons</a>.
 {% endcapture %}
-{% include image.html src="{{ site.baseurl }}/wp-content/uploads/800px-Motte_and_bailey_at_olivet_a_grimbosq-768x290.jpg" alt="" caption=caption %}
+{% include image.html src="/wp-content/uploads/800px-Motte_and_bailey_at_olivet_a_grimbosq-768x290.jpg" alt="" caption=caption %}
 
 It's named after the early-medieval form of castle, pictured above. The motte is the outer wall and the bailey is the inner bit. This mirrors the two parts of the motte and bailey fallacy. The "motte" is the easily defensible statement (science is political because all human group activities are political) and the bailey is the more controversial belief actually held by the speaker (something like "we can't trust science because of the number of men in it" or "we can't trust science because it's dominated by liberals").
 
