@@ -26,7 +26,7 @@ So, you've seen the <a href="https://www.theguardian.com/world/2017/may/26/gende
 {% capture caption %}
 This is what you're trying to avoid. Image Copyright: <a href="https://english.emmaclit.com/a-propos/">Emmaclit</a>, <a href="https://english.emmaclit.com/2017/05/20/you-shouldve-asked/">[SOURCE]</a>, used here with the permission of the artist.
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/you-shouldve-asked_008_used_with_permission-768x768.png" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/you-shouldve-asked_008_used_with_permission-768x768.png" alt="" caption=caption %}
 
 There are three main things you need to work on if you want to be able to split both the act of doing chores and the mental load of keeping track of them with your partner[^1]. These are: general skills, noticing things, and keeping track of what needs to happen. It's difficult to work on any of these in isolation. Getting better at chores will help you feel empowered to notice when they need to be done or keep track of the schedule of doing them. Doing chores whenever you notice they need to be done will give you the practice you need to get better at them.
 
@@ -79,14 +79,14 @@ People are very cavalier about food. Food spills rarely get cleaned up properly,
 {% capture caption %}
 In all likelihood, this smells worse than the 3rd Circle of Hell. Image Credit: <a href="https://www.flickr.com/photos/stevendepolo/22709181293">Steven Depolo on Flickr</a>
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/worse_than_hell-768x576.jpg" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/worse_than_hell-768x576.jpg" alt="" caption=caption %}
 
 Bathrooms, on the other hand, rarely smell all that bad (and when they do, it's more of a faint lingering odour, as opposed to the concentrated wretchedness you might find at the back of the fridge). People are incredibly embarrassed by any <em>spills</em> they cause in the bathroom and try to completely clean them up. If you wear gloves and wash your hands regularly, you should rarely be grossed out cleaning the bathroom (with the exception of the shower drain, which becomes a yawning abyss as soon as anyone in the house has hair past shoulder length).
 
 {% capture caption %}
 Pictured: Actually just dust; one good wipe and this will be squeaky clean. Image credit: <a href="https://www.flickr.com/photos/editor/66303086">Bart Everson on Flickr</a>
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/pictured-actually-just-dust-768x1024.jpg" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/pictured-actually-just-dust-768x1024.jpg" alt="" caption=caption %}
 
 Most people (especially people in their twenties) don't realize all this and treat cleaning the bathroom as only marginally less heroic than cleaning up nuclear waste.
 

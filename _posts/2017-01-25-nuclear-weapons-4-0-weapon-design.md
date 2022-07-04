@@ -24,7 +24,7 @@ All nuclear weapon design ultimately starts with this problem of assembling a cr
 The first atomic bombs used one of two methods: <em>gun assembly</em> or <em>implosion</em>. These methods are still used to this day in fission weapons or in the fission first stage of multiple stage weapons.
 
 <h3 id="gun">4.1 Gun Assembly Design</h3>
-<img class="alignnone size-medium wp-image-150" src="/wp-content/uploads/gun-300x145.png" alt="" width="300" height="145" />
+<img class="alignnone size-medium wp-image-150" src="{{ site.baseurl }}/wp-content/uploads/gun-300x145.png" alt="" width="300" height="145" />
 
 [Image Credit: <a href="https://en.wikipedia.org/wiki/Nuclear_weapon">Wikipedia/Nuclear Weapon</a>]
 
@@ -39,7 +39,7 @@ Due to these problems, this method has mostly fallen out of use, except in appli
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Little_Boy">Little Boy</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_artillery">Nuclear Artillery</a>, <a href="https://en.wikipedia.org/wiki/Fizzle_(nuclear_test)">Fizzle</a>, and <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Gun-type_assembly_weapon">Gun-type assembly weapon</a>
 
 <h3 id="imp">4.2 Implosion Design</h3>
-<img class="alignnone size-medium wp-image-151" src="/wp-content/uploads/implosion-300x203.png" alt="implosion assembly design" width="300" height="203" />
+<img class="alignnone size-medium wp-image-151" src="{{ site.baseurl }}/wp-content/uploads/implosion-300x203.png" alt="implosion assembly design" width="300" height="203" />
 
 [Image Credit: <a href="https://en.wikipedia.org/wiki/Nuclear_weapon">Wikipedia/Nuclear Weapon</a>]
 
@@ -95,7 +95,7 @@ Additional Reading: <a href="https://en.wikipedia.org/wiki/Joe_4">Joe 4</a> and 
 <h3 id="tu">4.6 Teller-Ulam Design</h3>
 The Teller-Ulam design is necessary to economically achieve multi-megaton yields with devices small enough to be delivered intercontinentally. Teller-Ulam weapons (also known as thermonuclear bombs or H-bombs) use multiple stages of fission and fusion and incorporate concepts previously seen in boosted, implosion, and Sloika weapons. Here's what the design looks like:
 
-<img class="alignnone size-medium wp-image-152" src="/wp-content/uploads/teller-ulam-166x300.png" alt="" width="166" height="300" />
+<img class="alignnone size-medium wp-image-152" src="{{ site.baseurl }}/wp-content/uploads/teller-ulam-166x300.png" alt="" width="166" height="300" />
 
 [Image Credit: <a href="https://en.wikipedia.org/wiki/Thermonuclear_weapon">Wikipedia/Thermonuclear Weapon</a>]
 

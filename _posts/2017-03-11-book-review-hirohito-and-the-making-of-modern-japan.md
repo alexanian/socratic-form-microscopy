@@ -20,7 +20,7 @@ Aside from the prologue, which takes place just after Hirohito's (arguably) extr
 
 I think Dr. Bix is right to spend as much time on Hirohito's childhood as he does. Lois McMaster Bujold once criticized authors who write characters that pop out of a box at 22, fully formed. It's even more lamentable when historians do this.
 
-{% include image.html src="/wp-content/uploads/Michi-no-miya_Hirohito_1902-231x300.jpg" caption="The baby Hirohito" %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Michi-no-miya_Hirohito_1902-231x300.jpg" caption="The baby Hirohito" %}
 
 Had Dr. Bix skipped this part, we'd have no explanation for why Hirohito failed so completely at demonstrating any moral fibre throughout the war. In order to understand Hirohito's moral failings, we had to see the failings in Hirohito's moral education. Dr. Bix does an excellent job here, showing how fatuous and sophistic the moral truths Hirohito was raised with were. His instructors lectured him on the moral and temporal superiority of the Imperial House over the people of Japan and the superiority of the people of Japan over the people of the world. Japan, Hirohito was taught, had to steward the rest of Asia towards prosperity – violently if need be.
 
@@ -50,7 +50,7 @@ Requiring active duty military officers in the cabinet probably seemed like a go
 
 In 1926, the Taisho emperor died. Hirohito ascended to throne. His era name was Shōwa – enlightened peace.
 
-{% include image.html src="/wp-content/uploads/Emperor_Showa-231x300.jpg" caption="Hirohito after his enthronement ceremony" %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Emperor_Showa-231x300.jpg" caption="Hirohito after his enthronement ceremony" %}
 
 As might be expected, the court group didn't wait long after Hirohito's ascension to the throne to begin actively meddling with the government. Shortly after becoming emperor, Hirohito leaned on the prime minister to commute the death sentence of a married couple who allegedly planned to assassinate him. For all that this was a benevolent action, it wreaked political havoc, with the prime minister attacked in the Diet for falling to show proper concern for the safety of the emperor.
 
@@ -90,7 +90,7 @@ The problem with all this is that Hull cared nothing for Manchuria, probably did
 
 Foreign Minister Tōgō's lie about Manchuria was required to convince the "moderates" to give their blessing to war.
 
-{% include image.html src="/wp-content/uploads/Imperial_general_headquaters_meeting-300x216.jpg" caption="Hirohito presides over a similar meeting in 1943" %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Imperial_general_headquaters_meeting-300x216.jpg" caption="Hirohito presides over a similar meeting in 1943" %}
 
 A word on Japanese "moderates". Dr. Bix is repeatedly scornful of the term and I can't help feeling sympathetic to his point of view. He believes that many of the moderates were only moderate by the standards of the far-right extremists and terrorists who surrounded them. It was quite possible to have an international reputation as a moderate in one of the pre-war cabinets and believe that Japan had a right to occupy Chinese territory seized without even a declaration of war.
 
@@ -112,7 +112,7 @@ In this regard, the atomic bombs were actually a godsend to the Japanese leaders
 
 Regardless of why exactly it came about, the end of the war brought with it the problem of trying war criminals. Dr. Bix alleges that there was a large-scale conspiracy amongst Japan's civilian and military leadership to hide all evidence of Hirohito's war responsibility, a conspiracy aided and abetted by General Douglas McArthur.
 
-{% include image.html src="/wp-content/uploads/Macarthur_hirohito-243x300.jpg" caption="Hirohito and MacArthur" %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Macarthur_hirohito-243x300.jpg" caption="Hirohito and MacArthur" %}
 
 The general was supreme commander of the allied occupation forces and had broad powers to govern Japan as he saw fit. Dr. Bix believes that in Hirohito, McArthur saw a symbol he could use to govern more effectively. I'm not sure if I was entirely convinced of a conspiracy – a very good conspiracy leaves the same evidence as no conspiracy at all – but it is undeniable that the defenses of the "Class A" war criminals (the civilian and military leadership charged with crimes against peace) were different from the defenses offered at Nuremburg, in a way that was both curious and most convenient for Hirohito.
 

@@ -26,7 +26,7 @@ I'm currently eating no meat, very little milk, almost no eggs, and a fair amoun
 
 Based on this, I've made a number of changes to my diet. I now take two vitamins in the morning and a slew of supplements in sugar-free fruit juice when I get home from work[^2]. I hope the combined effect of this will be to protect me from any nutritional problems.
 
-{% include image.html src="/wp-content/uploads/TheSlew-1-768x552.jpg" alt="" caption="Pictured: the slew. Next: The science!" %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/TheSlew-1-768x552.jpg" alt="" caption="Pictured: the slew. Next: The science!" %}
 
 Once I went to all the work of collecting information and reading through paper abstracts, I realized that other people the same situation might find this research helpful. I've chosen to present everything as <em>my diet</em>, not <em>my recommendations</em>. This is what is currently working for me, not necessarily what is "correct" or what would work for anyone else. Diet is very personal and I'm no expert, so I've taken great pains to avoid the word "should" here.
 

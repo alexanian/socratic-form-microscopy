@@ -61,7 +61,7 @@ I went through a few iterations here. I originally wrote the US option "Nuclear 
 
 It's pretty easy to make a chart of all these states:
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone wp-image-569 size-medium_large" src="/wp-content/uploads/all_options_v1-768x233.png" alt="Click for a copyable version" width="768" height="233" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone wp-image-569 size-medium_large" src="{{ site.baseurl }}/wp-content/uploads/all_options_v1-768x233.png" alt="Click for a copyable version" width="768" height="233" /></a>
 
 If you treat each action that the belligerents can make as a binary variable (yes=1 or no=0), the states will have a natural ordering based off of the binary sum of the actions taken and not taken. This specific ordering isn't mandatory – you can use any ordering scheme you want – but I find it useful.
 
@@ -75,7 +75,7 @@ On the other hand, I don't think it's necessarily impossible for North Korea to 
 
 Here's the revised state-space, with the twelve remaining states:
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone size-medium_large wp-image-568" src="/wp-content/uploads/final_options_v1-768x285.png" alt="Click for a copyable version" width="768" height="285" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone size-medium_large wp-image-568" src="{{ site.baseurl }}/wp-content/uploads/final_options_v1-768x285.png" alt="Click for a copyable version" width="768" height="285" /></a>
 
 The next step is to figure out how each decision maker prioritizes the states. I've found it's helpful at this point to tag each state with a short plain language explanation.
 
@@ -173,7 +173,7 @@ The choice of stability metrics will determine which states are stable. If you o
 
 Here's the stability analysis for this conflict (using Nash Stability and Sequential Stability):
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone wp-image-578 size-medium_large" src="/wp-content/uploads/overall_stability_v5-768x316.png" alt="Click for copyable version" width="768" height="316" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#"><img class="alignnone wp-image-578 size-medium_large" src="{{ site.baseurl }}/wp-content/uploads/overall_stability_v5-768x316.png" alt="Click for copyable version" width="768" height="316" /></a>
 
 Before talking about the outcome, I want to mention a few things.
 

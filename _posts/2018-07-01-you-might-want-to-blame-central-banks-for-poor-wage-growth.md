@@ -26,7 +26,7 @@ But after reading <a href="http://www.themoneyillusion.com/">monetary policy</a>
 {% capture caption %}
 Image courtesy of the <a href="https://fred.stlouisfed.org/series/LES1252881600Q">St. Louis Federal Reserve Bank</a>. Units are 1982-1984 CPI-adjusted dollars. Isn't it rad how the US government doesn't copyright anything it produces?
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/fredgraph_real_wages-768x309.png" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/fredgraph_real_wages-768x309.png" alt="" caption=caption %}
 
 When people talk about stagnant wage growth, this is what they mean. Average weekly wages have increased from $335 a week in 1979 to $350/week in 2018 (all values are 1982 CPI-adjusted US dollars). This is a 4.5% increase, representing $780/year more (1982 dollars) in wages <em>over the whole period</em>. This is not a big change.
 
@@ -48,7 +48,7 @@ Normally the economy gets around sticky wages with inflation. This steadily erod
 
 But what we saw during the last recession was persistently low inflation rates. Throughout the whole the thing, the Federal Reserve Bank kept saying, in effect, "wow, really hard to up inflation; we just can't manage to do it".
 
-{% include image.html src="/wp-content/uploads/inflation-768x309.png" alt="" caption="Look at how inflation hovers just above zero for the whole great recession and associated recovery. It would have been better had it been hovering around 2%." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/inflation-768x309.png" alt="" caption="Look at how inflation hovers just above zero for the whole great recession and associated recovery. It would have been better had it been hovering around 2%." %}
 
 It's obviously false that the Fed couldn't trigger inflation if it wanted to. As a thought experiment, imagine that they had printed enough money to give everyone in the country $1,000,000 and then mailed it out. That would obviously cause inflation. So it is (theoretically) just a manner of scaling that back to the point where we'd only see inflation, not hyper-inflation. Why then did the Fed fail to do something that should be so easy?
 

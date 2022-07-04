@@ -42,7 +42,7 @@ Before we see how this new metric changes things, let's review our states, prefe
 
 The states are:
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml"><img class="alignnone wp-image-568 size-medium_large" src="/wp-content/uploads/final_options_v1-768x285.png" alt="Click for a copyable version" width="768" height="285" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml"><img class="alignnone wp-image-568 size-medium_large" src="{{ site.baseurl }}/wp-content/uploads/final_options_v1-768x285.png" alt="Click for a copyable version" width="768" height="285" /></a>
 
 Or in plain English:
 
@@ -104,10 +104,10 @@ Or in plain English:
 </table>
 From these states, we saw the following equilibria and unilateral improvements:
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-578 size-medium_large" src="/wp-content/uploads/overall_stability_v5-768x316.png" alt="Click for copyable version" width="768" height="316" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-578 size-medium_large" src="{{ site.baseurl }}/wp-content/uploads/overall_stability_v5-768x316.png" alt="Click for copyable version" width="768" height="316" /></a>
 
 When dealing with Symmetric Metarationality, I find it very helpful to modify the chart above so that it also includes unilateral <em>moves</em>. After we make this change and blank out our results, we get the following:
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-594 size-full" src="/wp-content/uploads/original_vector_expanded_blank.png" alt="Click for copyable version" width="567" height="334" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-594 size-full" src="{{ site.baseurl }}/wp-content/uploads/original_vector_expanded_blank.png" alt="Click for copyable version" width="567" height="334" /></a>
 
 From here, we use a simple algorithm. First, all states without unilateral improvements are Nash Stable. Next, we check each unilateral improvement in the remaining states against the opponent's unilateral actions, then against the original actors best unilateral action from each of the resulting states. If there are no results lower than the original actor started, the move is unstable. Otherwise it's stable by Symmetric Metarationality (and we'll mark it with "S"). Like Sequential Stability, you can't truly call this done until you check for states that are simultaneously sanctioned (this is often easy because simultaneous sanctioning is only a risk when both sides are unstable).
 
@@ -115,7 +115,7 @@ An example: There exist a unilateral improvement for America from s. 4 to s. 5. 
 
 Once we repeat this for all states across both sides, we get the following:
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-593 size-full" src="/wp-content/uploads/original_vector_smr.png" alt="Click for copyable version" width="569" height="335" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-593 size-full" src="{{ site.baseurl }}/wp-content/uploads/original_vector_smr.png" alt="Click for copyable version" width="569" height="335" /></a>
 
 We've kept all of our old equilibria and gained a new one in s. 12: "NK invasion after abandoning nuclear weapons; conventional US response".
 
@@ -130,7 +130,7 @@ Previously we modelled invasions as reversible. But is this a realistic assumpti
 
 In practical terms, modelling an invasion as irreversible costs North Korea one unilateral improvement, from s. 4 to s. 0. Let's see if this changes the results at all (we're back to sequential stability):
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-592 size-full" src="/wp-content/uploads/original_vector_invasions_irreversible.png" alt="Click for copyable version" width="566" height="237" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-592 size-full" src="{{ site.baseurl }}/wp-content/uploads/original_vector_invasions_irreversible.png" alt="Click for copyable version" width="566" height="237" /></a>
 
 We end up losing the simultaneous sanctioning that made s. 4 a stable state, leaving us with only three stable states: the status quo, a trade of American withdrawal for the North Korean nuclear program, and all out nuclear war on the Korean Peninsula.
 
@@ -148,15 +148,15 @@ Since we're modelling the actors as more belligerent, let's also assume for the 
 
 Here are the preferences vectors we'll use to find equilibria:
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-591 size-full" src="/wp-content/uploads/bloodthirsty_expanded_blank.png" alt="Click for copyable version" width="570" height="312" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-591 size-full" src="{{ site.baseurl }}/wp-content/uploads/bloodthirsty_expanded_blank.png" alt="Click for copyable version" width="570" height="312" /></a>
 
 <h4>Sequential Stability</h4>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-590 size-full" src="/wp-content/uploads/bloodthirsty_seq.png" alt="Click for copyable version" width="564" height="229" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-590 size-full" src="{{ site.baseurl }}/wp-content/uploads/bloodthirsty_seq.png" alt="Click for copyable version" width="564" height="229" /></a>
 
 Here we have only two stable states, s. 5 and 12. Both of these involve war on the Korean Peninsula; not even the status quo is stable. State 2 is at risk of simultaneous sanctioning, but the resulting states (4, 12, 5, 13) aren't dispreferred, to s. 2 for either actor, so no simultaneous sanctioning occurs. There really are just two equilibria.
 
 <h4>Symmetric Metarationality</h4>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-589 size-full" src="/wp-content/uploads/bloodthirsty_smr.png" alt="Click for copyable version" width="566" height="318" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-589 size-full" src="{{ site.baseurl }}/wp-content/uploads/bloodthirsty_smr.png" alt="Click for copyable version" width="566" height="318" /></a>
 
 Symmetric Metarationality gives us the exact same result. Only s. 5 and s. 12 are stable. This is suspicious, as the conflict has managed to stay in s. 0 for quite some time. If these preferences were correct, North Korea would have already invaded South Korea and been met with a nuclear response.
 
@@ -170,15 +170,15 @@ If we're assuming that North Korea has broadly similar preferences to our last v
 
 Here are the annotated preferences vectors we'll use to assess stability with Sequential Stability and Symmetric Metarationality. Since we're leaving the belligerency of the United States the same, we'll continue to view invading as an irreversible action.
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-588 size-full" src="/wp-content/uploads/deterence_expanded_blank.png" alt="Click for copyable version" width="568" height="325" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-588 size-full" src="{{ site.baseurl }}/wp-content/uploads/deterence_expanded_blank.png" alt="Click for copyable version" width="568" height="325" /></a>
 
 <h4>Sequential Stability</h4>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-586 size-full" src="/wp-content/uploads/deterence_seq.png" alt="Click for copyable version" width="574" height="234" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-586 size-full" src="{{ site.baseurl }}/wp-content/uploads/deterence_seq.png" alt="Click for copyable version" width="574" height="234" /></a>
 
 One "minor" change – deciding that North Korea really doesn't want to be nuked – and we again have the status quo and a negotiated settlement (in addition to two types of war) as stable equilibria. Does this hold when we're using Symmetric Metarationality?
 
 <h4>Symmetric Metarationality</h4>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-587 size-full" src="/wp-content/uploads/deterence_smr.png" alt="Click for copyable version" width="570" height="313" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-587 size-full" src="{{ site.baseurl }}/wp-content/uploads/deterence_smr.png" alt="Click for copyable version" width="570" height="313" /></a>
 
 Again, we have s. 0, 5, 10, and 12 as our equilibria.
 
@@ -194,16 +194,16 @@ What instead of underestimating the bloodthirstiness of our belligerents, we've 
 
 There are fewer unilateral improvements in this array than in many of the previous ones.
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone size-full wp-image-585" src="/wp-content/uploads/pacifists_blank.png" alt="Click for copyable version" width="564" height="322" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone size-full wp-image-585" src="{{ site.baseurl }}/wp-content/uploads/pacifists_blank.png" alt="Click for copyable version" width="564" height="322" /></a>
 
 <h4></h4>
 <h4>Sequential Stability</h4>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone size-full wp-image-584" src="/wp-content/uploads/pacifist_seq.png" alt="Click for copyable version" width="567" height="233" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone size-full wp-image-584" src="{{ site.baseurl }}/wp-content/uploads/pacifist_seq.png" alt="Click for copyable version" width="567" height="233" /></a>
 
 This is perhaps the most surprising result we've seen so far. If both powers are all talk with nothing behind it <em>and both powers know and understand this</em>, then they'll stick in the current high-tension equilibria or fight a war. The only stable states here are s. 0, 4, and 5. State 10, the "negotiated settlement" state is entirely absent. We'll revisit this scenario with hypergame analysis later, to see what happens if the bluff is believed.
 
 <h4>Symmetric Metarationality</h4>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-583 size-full" src="/wp-content/uploads/pacifist_smr.png" alt="Click for copyable version" width="563" height="317" /></a>
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-583 size-full" src="{{ site.baseurl }}/wp-content/uploads/pacifist_smr.png" alt="Click for copyable version" width="563" height="317" /></a>
 
 Here we see more equilibria than we've seen in any of the other examples. States 2 (unilateral US withdrawal) and 8 (North Korea unilaterally abandoning its nuclear weapons program) make their debut and s. 0, 4, 5, 10, and 12 appear again.
 

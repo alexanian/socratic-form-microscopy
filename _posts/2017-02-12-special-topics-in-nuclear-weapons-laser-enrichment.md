@@ -36,7 +36,7 @@ The whole setup looks like this:
 {% capture caption %}
 Schematic of a third generation laser isotope separation unit for uranium enrichment. Image Credit: <a href="https://scienceandglobalsecurity.org/archive/sgs24snyder.pdf">A Proliferation Assessment of Third Generation Laser Uranium Enrichment Technology</a>
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/enrichment-cell-600x340.png" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/enrichment-cell-600x340.png" alt="" caption=caption %}
 
 Once you've assembled all of this, you're good to start enriching.
 

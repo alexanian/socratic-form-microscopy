@@ -60,15 +60,15 @@ Even with goals that easy, your first few days or weeks may very well be spent j
 
 Here's the start of my very first Beeminder writing goal. You'll notice that I started slowly, panicked and wrote a lot, then ran into trouble and realized that I needed to tone things down a bit. It wasn't until almost four months in that I finally hit my stride and started to regularly exceed my goal.
 
-{% include image.html src="/wp-content/uploads/zacharyjacobi_writing_20150430_2015_09_15.png" alt="" caption="Dip below the yellow and orange line and you pay up. Green data points mean I had at least three safe days before paying Beeminder. Blue data points are two days. Orange is one." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/zacharyjacobi_writing_20150430_2015_09_15.png" alt="" caption="Dip below the yellow and orange line and you pay up. Green data points mean I had at least three safe days before paying Beeminder. Blue data points are two days. Orange is one." %}
 
 You can see a similar pattern when I started Beeminding fiction:
 
-{% include image.html src="/wp-content/uploads/zacharyjacobi-fiction.png" alt="" caption="The trouble at the beginning is growing pains. The trouble around the end of October came from dropping out of graduate school, moving back home, and beginning a job search." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/zacharyjacobi-fiction.png" alt="" caption="The trouble at the beginning is growing pains. The trouble around the end of October came from dropping out of graduate school, moving back home, and beginning a job search." %}
 
 And when I started Beeminding time spent writing:
 
-{% include image.html src="/wp-content/uploads/zacharyjacobi_writingtime_201607-201610.png" alt="" caption="" %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/zacharyjacobi_writingtime_201607-201610.png" alt="" caption="" %}
 
 Those little spurs three data points into the time graph and seven into the fiction one? That's where I failed to keep up and ended up giving Beeminder money. They call this "derailing".
 
@@ -76,7 +76,7 @@ It may take a few derailments, but you should eventually find yourself routinely
 
 The number of days before you derail on a goal in Beeminder is called "safety buffer". For outputs you intend to Beemind daily, I recommend setting yourself up so that you can have no more than two days of safety buffer. This lets you save up some writing for a busy day or two, but doesn't let you skip a whole week. If you have a premium plan, Beeminder allows you to automatically cap your safety buffer, but you can also do it manually if you're disciplined (I did this for many months until I could afford a premium plan).
 
-{% include image.html  src="/wp-content/uploads/trim-safety-buffer-768x190.png" alt="" caption="The set-up on my daily writing time goal." %}
+{% include image.html  src="{{ site.baseurl }}/wp-content/uploads/trim-safety-buffer-768x190.png" alt="" caption="The set-up on my daily writing time goal." %}
 
 When you get to the point of regularly trimming your safety buffer you're almost ready to move on up. Once you're really, <em>really</em> sure you can handle more (i.e. exceeded your minimum every day for two weeks), slowly increase your commitment. You don't want to get too cocky here. If you're currently aiming for 150 words/day and 9 days out of 10 you write 250, set your new goal to 200, not 250. You want to feel like you're successfully and competently meeting your goal, not like you're scrapping by by the skin of your teeth.
 
@@ -99,11 +99,11 @@ Tuning down the publishing goal didn't even cause me to write <em>less</em>. I d
 
 Here's what my original goal looked like:
 
-{% include image.html src="/wp-content/uploads/original_blog_goal.png"  alt="" caption="It's hard to see, but I derailed five times between the end of December 2015 and the start of May 2016. I wasn't derailing much in March in April, but I also wasn't writing anything I was proud of. It was a terrible dilemma. Do I write thoughtful posts and lose money? Or do I churn out work I'm not proud of to save me the costs of a derailment? I think now I'd rather the derailments. At least I liked what I was writing when I was derailing." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/original_blog_goal.png"  alt="" caption="It's hard to see, but I derailed five times between the end of December 2015 and the start of May 2016. I wasn't derailing much in March in April, but I also wasn't writing anything I was proud of. It was a terrible dilemma. Do I write thoughtful posts and lose money? Or do I churn out work I'm not proud of to save me the costs of a derailment? I think now I'd rather the derailments. At least I liked what I was writing when I was derailing." %}
 
 Here's my new blogging goal:
 
-{% include image.html src="/wp-content/uploads/blog_posts.png" alt="" caption="No derailments here! I started this at the rate of one post per month and only increased the slope at the end of March after I'd proved to myself that I wouldn't have any problems keeping up the pace. It was a near thing at the start of May after two weeks of vacation where I'd had less chance to write than I hoped, but it turned out okay. In retrospect, it probably would have been smarter to increase the rate after my vacation, not before." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/blog_posts.png" alt="" caption="No derailments here! I started this at the rate of one post per month and only increased the slope at the end of March after I'd proved to myself that I wouldn't have any problems keeping up the pace. It was a near thing at the start of May after two weeks of vacation where I'd had less chance to write than I hoped, but it turned out okay. In retrospect, it probably would have been smarter to increase the rate after my vacation, not before." %}
 
 As you can see, I learned my lesson about over-ambition.
 
@@ -114,7 +114,7 @@ Guilt can be a useful motivator to do the bare minimum on a project; guilt (and 
 
 I recommend looking at Beeminder not as a tool to effectively guilt yourself into writing, but as a <em>reminder of what writing is worth to you</em>. You value consistently writing at $X. You know that every time you skip writing for a day or a week, there is a Y% chance that you might lose the habit. Multiply those two together and you get your ideal maximum Beeminder pledge.
 
-{% include image.html src="/wp-content/uploads/pledge-escalation.png" alt="" caption="$0 pledges are another fancy premium Beeminder feature. It's only $0 once though. Every time I derail, it goes up to the next highest pledge level. It takes a full week to lower your pledge by one level, so bee careful." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/pledge-escalation.png" alt="" caption="$0 pledges are another fancy premium Beeminder feature. It's only $0 once though. Every time I derail, it goes up to the next highest pledge level. It takes a full week to lower your pledge by one level, so bee careful." %}
 
 It's entirely rational to choose to derail on Beeminder if you value something else more than you value writing just then Here Beeminder is helping you make this trade-off explicit. You may know that not writing tonight costs you $Z of estimated future utility (this doesn't necessarily mean future earnings; it could also represent the how much writing is worth to you as an entertainment), but without Beeminder you wouldn't be facing it head on. When you can directly compare the utility of two ways to spend your time, you can make better decisions and trade-offs.
 
@@ -131,7 +131,7 @@ This is the part where everything starts to come together. When you get here, gu
 
 When you get to this point (or earlier, depending on how you like to work), something like <a href="https://complice.co/">Complice</a> can really help you make the most of all your motivation. Complice helps you tie your daily actions into the set long- and medium-term goals you've set. It has a kickass Beeminder integration that makes Beeminding as easy checking off a box. It has integrated Pomodoro timers for tracking how much time you work (and can send the results to Beeminder). It allows you and a friend to sign up as accountability buddies and see what each other get done[^4]. And it shows you how much work you've done in the past, allowing you to use the "<a href="https://www.writersstore.com/dont-break-the-chain-jerry-seinfeld/">don't break the chain</a>" productivity hack if it works for you (it works for me).
 
-{% include image.html src="/wp-content/uploads/complice-timeline-768x49.png" alt="" caption="The last few weeks of my writing goal in Complice. For two of the days in the pictured period, I only wrote because I couldn't bear to lose my streak of days where I'd hit my writing goal." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/complice-timeline-768x49.png" alt="" caption="The last few weeks of my writing goal in Complice. For two of the days in the pictured period, I only wrote because I couldn't bear to lose my streak of days where I'd hit my writing goal." %}
 
 As I finish off this piece, I find myself tired and lethargic. It's not that I particularly <em>want</em> to be writing (although some of the tiredness fell away as soon as I started to type). It's that writing every night feels like the default option of my life. As weird as it sounds, it feels like it would take me more effort to skip writing than to do it.
 

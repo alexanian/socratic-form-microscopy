@@ -39,7 +39,7 @@ All this is to say, if Trump is planning a coup, he isn't being very strategic a
 {% capture caption %}
 Supposed bust of Gauis Marius. Image Credit: <a href="https://www.flickr.com/photos/carolemage/13271386043/in/photolist-D1Vayv-DQ4GbH-mdKjGK-D1VawX">Carole Raddato</a>
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/13271386043_0518877251_b-1-217x300.jpg" alt="[Image Credit: Carole Raddato]" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/13271386043_0518877251_b-1-217x300.jpg" alt="[Image Credit: Carole Raddato]" caption=caption %}
 
 Like America, Rome in the 1st century BCE found itself overextended, governing and protecting a large network of tributary states and outright colonies. The Roman constitutional framework couldn't really handle administration on this scale. While year long terms are a sensible way to run a city state, they don't work with a continent-spanning empire.
 

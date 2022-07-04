@@ -55,7 +55,7 @@ An increase in rent-seeking would explain a whole bunch of the malaise of the cu
 
 Economists have been surprised by the slow productivity growth since the last recession. If there was significantly more rent-seeking now than in the past, then we would expect productivity growth to slow.
 
-{% include image.html src="/wp-content/uploads/fredgraph-768x309.png" alt="" caption="Image courtesy of the St. Louis Fed. I continue to appreciate that all US Government media has no copyright." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/fredgraph-768x309.png" alt="" caption="Image courtesy of the St. Louis Fed. I continue to appreciate that all US Government media has no copyright." %}
 
 In a properly functioning economy, productivity growth is largely buoyed up by new entrants to a field. The most productive new entrants thrive, while less productive new entrants (and some of the least productive existing players) fail. Over time, this gradually improves the overall productivity of an industry. This is the <em>creative destruction</em> you might hear economists talking glowingly about.
 
@@ -183,7 +183,7 @@ Out of all of these examples of rent-seeking, the one I feel least optimistic ab
 
 Until we figure out how to do that, I'm going to continue to fight back tears every time I see a sign like this one:
 
-{% include image.html src="/wp-content/uploads/20180621_191020_HDR-768x1094.jpg" alt="" caption="Why should I get a say in whether a local commercial landlord provides the businesses in their building slightly smaller parking spots? Shouldn't we be aiming for a walkable, decarbonized downtown where parking is irrelevant? That's what all the plans call for. Of course, the whole thing makes sense if it isn't about what size parking spots should be and is about making it impossible for anyone to build anything in my downtown neighbourhood." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/20180621_191020_HDR-768x1094.jpg" alt="" caption="Why should I get a say in whether a local commercial landlord provides the businesses in their building slightly smaller parking spots? Shouldn't we be aiming for a walkable, decarbonized downtown where parking is irrelevant? That's what all the plans call for. Of course, the whole thing makes sense if it isn't about what size parking spots should be and is about making it impossible for anyone to build anything in my downtown neighbourhood." %}
 
 <h3>How do we fight rent-seeking?</h3>
 Surprisingly, most of the suggestions Lindsey and Teles put forth are minor, pro-democratic, and pro-government. There isn't a single call in here to restrict democracy, shrink the size of the government, or completely overhaul anything major. They're incrementalist, pragmatic, and give me a tiny bit of hope we might one day even be able to conquer zoning.

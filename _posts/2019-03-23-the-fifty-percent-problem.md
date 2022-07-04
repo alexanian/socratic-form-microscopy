@@ -18,7 +18,7 @@ tags:
   - political philosophy
 ---
 
-<img class="size-full wp-image-941 aligncenter" src="/wp-content/uploads/shambolic.png" alt="" width="682" height="440" />
+<img class="size-full wp-image-941 aligncenter" src="{{ site.baseurl }}/wp-content/uploads/shambolic.png" alt="" width="682" height="440" />
 
 Brexit was always destined to be a shambles.
 

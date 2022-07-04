@@ -36,7 +36,7 @@ But cities like Toronto, Vancouver, and San Francisco confuse the hell out of me
 {% capture caption %}
 Not pictured: Selling your organs to afford a one-bedroom condo. Image Credit: <a href="https://www.flickr.com/photos/choudhrysaab/3450268808/in/photolist-6fTwHf-8wyADj-aPtUS2-mnVwT-4xUwZ-p2eF99-pDyCD-8RW1PT-8Mdsqq-UiMeWQ-ZYKtd3-2YXcS-5gvfxo-27NDEp-2Xr4y-5b6D3P-6Jaz4t-2YXhX-p7SBL3-brCkU4-d3gHS-UpUknT-UWBhdY-7QrT1b-d3gHT-a2bex4-VxgnDL-fZDCwH-8Cx8or-5Tacp-2YSXZ-6yjGe-UEeWrL-8pGrBf-PhQU6-az9DEu-8ezStY-4ucdKT-bUTTsN-oWJiYu-S7kk5m-4RJcZG-eXg2Wv-2mgTVD-cRUP4h-fELZJb-54mu8-73JzAt-8fnLUJ-quuwzo">Abi K on Flickr</a>.
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/3450268808_3a674d8283_o-768x512.jpg" alt="Toronto Skyline" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/3450268808_3a674d8283_o-768x512.jpg" alt="Toronto Skyline" caption=caption %}
 
 If people were perfectly rational and only cared about money (the mythical <em>homo economicus</em>), fewer people would move to cities, which would bid up wages (to increase the supply of workers) or drive down prices (because fewer people would be competing for the same apartments), which would make cities more affordable. But people <em>do</em> care about things other than money and the network effects of cities are hard to beat (put simply: the bigger the city, the more options for a <em>not-boring</em> life you have). So, people move – in droves – to the most expensive and dynamic cities and wages don't go up (because the supply of workers never falls) and the cost of living does (because the number of people competing for housing does) and low wage workers get ground up.
 

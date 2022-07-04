@@ -155,7 +155,7 @@ The whole point of having predictions with binned probabilities (here, 51%, 60%,
 </ul>
 Represented graphically (along with previous years) this looks like:
 
-<img class="alignnone wp-image-1024 size-full" src="/wp-content/uploads/2019predictions-1.gif" alt="Line graph comparing the percentage of correct predictions to perfect calibration. An animation contrasts 2019 scores with 2017 and 2018 scores." width="600" height="371" />
+<img class="alignnone wp-image-1024 size-full" src="{{ site.baseurl }}/wp-content/uploads/2019predictions-1.gif" alt="Line graph comparing the percentage of correct predictions to perfect calibration. An animation contrasts 2019 scores with 2017 and 2018 scores." width="600" height="371" />
 
 The worsened calibration for 2019 is likely a reflection of the fact that Zach didn’t grade these predictions. My best interpretation of the predictions (and of the available evidence) is almost certainly less accurate than Zach’s would have been.
 

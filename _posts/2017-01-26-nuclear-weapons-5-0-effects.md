@@ -30,7 +30,7 @@ Intensity is incredibly important. It's what drives the differences in climate b
 
 Since energy is constant, intensity will depend only on the area the energy is spread out over. Luckily, it's pretty easy for us to calculate this area as a function of distance from the bomb. Dividing the total energy by the surface area of a sphere of a certain radius, we get the following equation for intensity:
 
-<img class="alignnone size-full wp-image-171" src="/wp-content/uploads/intensity-equation.png" alt="" width="82" height="37" />
+<img class="alignnone size-full wp-image-171" src="{{ site.baseurl }}/wp-content/uploads/intensity-equation.png" alt="" width="82" height="37" />
 
 Where E<span style="font-size: 12px;">0</span> is the initial energy of the bomb and <em>d</em> is the distance from the epicentre of the explosion.
 
@@ -79,16 +79,16 @@ There isn't as much clear, well-curated information on this topic as I'd like, b
  	<li>This hot air begins to rise, pulling up debris from the ground (at this point, there will be plenty) into the vacuum its rising creates. The hot air also expands and the outside edges cool, which causes rotating internal air currents that help to draw in more air from below. This forms the characteristic mushroom cloud of a nuclear explosion.</li>
  	<li>Between the vacuum caused by the rising mushroom cloud and the vacuum caused by the initial shockwave, a steady wind will blow back towards ground zero until equilibrium is reached. This wind will further toss around debris and can help to fan the flames of any fires that have started.</li>
 </ol>
-<img class="alignnone size-medium wp-image-170" src="/wp-content/uploads/mushroom-cloud-300x275.png" alt="" width="300" height="275" />
+<img class="alignnone size-medium wp-image-170" src="{{ site.baseurl }}/wp-content/uploads/mushroom-cloud-300x275.png" alt="" width="300" height="275" />
 
 [Image Credit:<a href="https://en.wikipedia.org/wiki/Mushroom_cloud#/media/File:Mushroom_cloud.svg"> Wikipedia/Mushroom Cloud</a>]
 
 <h5 id="21"> 5.2.1 Fireball</h5>
 The nearby detonation of an atomic bomb is utterly devastating to infrastructure. Everything within the central fireball will be annihilated. The size of the fireball varies: 150m for a 10kt blast (slightly smaller than Hiroshima), 720m for the modern 475kt W-88 favoured by America, and 4.62km for the monstrous 50Mt Tsar Bomba. Ideally, fireball effects would scale as the square root of the yield. In actuality, they scale a bit worse than this, as the fifth root of the square of the radius (i.e. the 2.5<sup>th</sup> root). I'm not sure exactly what causes this, possibly some weird property of plasma, or just general fluid dynamics oddness.
 
-<img class="alignnone wp-image-169" style="height: 66%;" src="/wp-content/uploads/Fireball-Radius.png" width="600" height="310" />
+<img class="alignnone wp-image-169" style="height: 66%;" src="{{ site.baseurl }}/wp-content/uploads/Fireball-Radius.png" width="600" height="310" />
 
-[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] Trend line has equation <img class="alignnone size-full wp-image-168" src="/wp-content/uploads/fireball-r-equation.png" alt="" width="103" height="19" />.
+[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] Trend line has equation <img class="alignnone size-full wp-image-168" src="{{ site.baseurl }}/wp-content/uploads/fireball-r-equation.png" alt="" width="103" height="19" />.
 
 <h5 id="22">5.2.2 Shockwave</h5>
 As deadly as the fireball is, most of the damage from a nuclear explosion comes from the shockwave. Weapon designers carefully model the shockwave and use these insights to come up with an optimal detonation height for various effects – like levelling reinforced buildings or destroying residential areas. Models take into account the "Mach stem", the angle at which some of the wave will be reflected off the ground and constructively interfere with the rest of it, leading to increased destruction.
@@ -99,9 +99,9 @@ Unlike radiation effects, blast pressure increases with cube root of the yield. 
 
 This means that for every 1000-fold increase in bomb power, you'll see a 10-fold increase in destructive radius. In terms of overpressure effects, the W88 is about 4.7 times less destructive than the Tsar Bomba, while being 75 times lighter. This trade-off comes up even better than for radiation.
 
-<img class="alignnone wp-image-167" style="height: 66%;" src="/wp-content/uploads/Overpressure-Radius.png" width="600" height="369" />
+<img class="alignnone wp-image-167" style="height: 66%;" src="{{ site.baseurl }}/wp-content/uploads/Overpressure-Radius.png" width="600" height="369" />
 
-[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] 5 psi trend line has equation <img class="alignnone size-full wp-image-166" src="/wp-content/uploads/5-psi-overpressure-eq.png" alt="" width="99" height="21" />, 20 psi trend line has equation <img src="/wp-content/uploads/20psi-overpressure-eq.png" alt="" width="101" height="20" class="alignnone size-full wp-image-165" />.
+[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] 5 psi trend line has equation <img class="alignnone size-full wp-image-166" src="{{ site.baseurl }}/wp-content/uploads/5-psi-overpressure-eq.png" alt="" width="99" height="21" />, 20 psi trend line has equation <img src="{{ site.baseurl }}/wp-content/uploads/20psi-overpressure-eq.png" alt="" width="101" height="20" class="alignnone size-full wp-image-165" />.
 
 <h5 id="23">5.2.3 Direct Radiation</h5>
 Nuclear weapons produce two types of damaging radiation (they're both photons, just at different energy levels): thermal and ionizing. Ionization radiation (mainly gamma rays) is responsible for causing acute radiation poisoning and later cancers. Thermal radiation (light, from IR to UV) is responsible for the horrendous burns nuclear weapons survivors often bear.
@@ -112,9 +112,9 @@ As blasts become larger, fewer and fewer people are affected by direct radiation
 
 IR, visible, and UV light are much less affected by the atmosphere. If the atmosphere absorbed light at the same rate it absorbs gamma rays, the sun would appear 717 billion billion times brighter on an airplane at cruising altitude as it does at sea level. This obviously isn't the case – the sun is approximately as bright in both cases. This difference in absorption means that the radius at which nuclear weapons cause burns scales with close to the square root of the yield (the small amount of energy absorbed by the air does mean that it scales slightly slower in atmosphere than in vacuum).
 
-<img class="alignnone wp-image-164" style="height: 66%;" src="/wp-content/uploads/Radiation-Radius.png" width="600" height="340" />
+<img class="alignnone wp-image-164" style="height: 66%;" src="{{ site.baseurl }}/wp-content/uploads/Radiation-Radius.png" width="600" height="340" />
 
-[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] 50% Deaths trend line has equation <img class="alignnone size-full wp-image-175" src="/wp-content/uploads/50-deaths-equation.png" alt="" width="124" height="19" />, 3<sup>rd</sup> Degree burns trend line has equation <img class="alignnone size-full wp-image-162" src="/wp-content/uploads/3rd-degree-burn-eq.png" alt="" width="117" height="22" />.
+[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] 50% Deaths trend line has equation <img class="alignnone size-full wp-image-175" src="{{ site.baseurl }}/wp-content/uploads/50-deaths-equation.png" alt="" width="124" height="19" />, 3<sup>rd</sup> Degree burns trend line has equation <img class="alignnone size-full wp-image-162" src="{{ site.baseurl }}/wp-content/uploads/3rd-degree-burn-eq.png" alt="" width="117" height="22" />.
 
 Additional Reading: <a href="https://en.wikipedia.org/wiki/Effects_of_nuclear_explosions">Effects of Nuclear Explosions</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Fission">Nuclear Weapon Design: Fission</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Fusion">Nuclear Weapon Design: Fusion</a>, <a href="https://en.wikipedia.org/wiki/Mushroom_cloud">Mushroom Cloud</a>, <a href="http://nuclearsecrecy.com/nukemap/">Nukemap</a> and <a href="http://wordpress.mrreid.org/2015/04/18/the-nuclear-double-flash/">The Nuclear Double Flash</a>.
 
@@ -135,7 +135,7 @@ The danger of the fallout varies with local atmospheric conditions, the size of 
 
 Because of the potential variance in conditions, there are few general rules about fallout. I've seen something called the "Seven Ten" rule bandied about. The rule claims that every sevenfold increase in time after the detonation leads to a tenfold decrease in radiation from fallout. So after seven hours there will be ten times less radiation compared to the first hour and after forty-nine hours (approximately 2 days) there will be one hundred times less radiation.
 
-I spent a lot of time confused by this. Remember half-lives from earlier? Instead of a fixed ratio of times (i.e. seven times) producing a fractional drop in radioactivity (i.e. ten times), I thought there should be fixed <em>period</em> of time that produces a fractional drop in radioactivity. If there really is a tenfold drop in radiation after seven hours, then it means that the half-life of the isotopes in the fallout would average out to 2.1 hours. Which should predict there would be a one-hundred hold decrease in fallout after fourteen hours (The equation is <img class="alignnone size-full wp-image-161" src="/wp-content/uploads/half-life-eq.png" alt="" width="54" height="38" /> which gives approximately 1/100). This definitely isn't the case, which was the cause of my confusion.
+I spent a lot of time confused by this. Remember half-lives from earlier? Instead of a fixed ratio of times (i.e. seven times) producing a fractional drop in radioactivity (i.e. ten times), I thought there should be fixed <em>period</em> of time that produces a fractional drop in radioactivity. If there really is a tenfold drop in radiation after seven hours, then it means that the half-life of the isotopes in the fallout would average out to 2.1 hours. Which should predict there would be a one-hundred hold decrease in fallout after fourteen hours (The equation is <img class="alignnone size-full wp-image-161" src="{{ site.baseurl }}/wp-content/uploads/half-life-eq.png" alt="" width="54" height="38" /> which gives approximately 1/100). This definitely isn't the case, which was the cause of my confusion.
 
 I think the 7-10 rule is correct because of the mixture of isotopes we see in fallout. The most common isotopes in fallout (and their half-lives are): neptunium-240 (61.9 minutes), neptunium-239 (2.1 days), uranium-237 (6.75 days), iodine-131 (8 days), tritium (12 years), caesium-134 (20 years), strontium-90 (28.8 years), caesium-137 (30 years), technetium-99 (211,000 years), and zirconium-93 (over 1,000,000 years). The widely disparate half-lives lead to a variety of zones, each of which is dominated by a different half-life.
 

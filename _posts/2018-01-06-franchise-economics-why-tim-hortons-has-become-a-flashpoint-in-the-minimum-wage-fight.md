@@ -26,7 +26,7 @@ TVO just put out a piece about this ongoing saga by the Christian socialist Mich
 {% capture caption %}
 This Tim Hortons could be literally anywhere in suburban or rural Canada. Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Tim_Hortons.jpg">Marek Ślusarczyk via Wikipedia Commons</a>
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/Tim_Hortons-768x512.jpg" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Tim_Hortons-768x512.jpg" alt="" caption=caption %}
 
 It is a truism that a minimum wage increase must result in either declining profits, cuts to other costs, or rising prices. While supporters of the minimum wage increase would love to see it all come out of profits, that isn't reasonable.
 

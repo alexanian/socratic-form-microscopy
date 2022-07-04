@@ -32,7 +32,7 @@ And when the person in charge of compliance is highly skilled, the loss is worse
 
 When it comes to the stairs, regulations don't stop with our hypothetical city worker. The construction firm they hire is also governed by regulations. They have to track how much everyone works, make sure the appropriate taxes go to the appropriate parties, ensure compliance with workplace health and safety standards and probably take care of a dozen minor annoyances that I don't know about. When you aren't the person doing these things, they just blend into the background and you forget that someone has to spend a decent part of their time filling out incredibly boring government forms – forms that demand accuracy under pain of perjury.
 
-{% include image.html src="/wp-content/uploads/Pain-of-Perjury-768x377.png" alt="No source needed, because I stole this from a US government form and no documents produced by the US government can be copyrighted" caption="What, you never noticed how fond government documents were of waving the p-word around? This basically says \"fill this out right, or one of the state's armed enforcers will use violence to bring you to a small room that you won't be allowed to leave for a very long time\"." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Pain-of-Perjury-768x377.png" alt="No source needed, because I stole this from a US government form and no documents produced by the US government can be copyrighted" caption="What, you never noticed how fond government documents were of waving the p-word around? This basically says \"fill this out right, or one of the state's armed enforcers will use violence to bring you to a small room that you won't be allowed to leave for a very long time\"." %}
 
 Hell, the very act of soliciting bids can inflate the cost, because each bid will require a bunch of supporting paperwork (you can't submit these things on a sticky note). As is becoming the common refrain, this takes time, which costs money. You better bet that whichever firm eventually gets hired will roll the cost of all its failed past bids (either directly or indirectly) into the cost the city ends up paying.
 
@@ -45,7 +45,7 @@ The point here is that regulation is expensive. It's expensive everywhere it exi
 {% capture caption %}
 The only thing that hates federal regulation more than libertarians is the bookshelf that has to hold it all. Image Credit: <a href="https://en.wikipedia.org/wiki/User:Coolcaesar">Coolcaesar</a> on Wikimedia Commons.
 {% endcapture %}
-{% include image.html src="/wp-content/uploads/Code_of_Federal_Regulations-1-768x576.jpg" alt="" caption=caption %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/Code_of_Federal_Regulations-1-768x576.jpg" alt="" caption=caption %}
 
 This isn't it for either country; after federal regulation, there's provincial/state and local regulations. Then there are the interactions between all three, with things becoming even worse when you want to do anything between different jurisdictions within a country or (and it's a miracle this can even happen at all) between countries.
 

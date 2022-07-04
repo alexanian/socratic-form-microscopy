@@ -35,7 +35,7 @@ At the start, we had a 1 in 250 chance of finding a gene. Now that we have a gen
 
 There's actually an equation to figure it out. It's called Bayes Rule and statisticians and scientists use it to update probabilities in response to new information. It goes like this:
 
-<img class="size-full wp-image-881 aligncenter" src="/wp-content/uploads/bayes_theorem.png" alt="" width="211" height="48" />
+<img class="size-full wp-image-881 aligncenter" src="{{ site.baseurl }}/wp-content/uploads/bayes_theorem.png" alt="" width="211" height="48" />
 
 (You can sing this to the tune of <em>Hallelujah</em>; take P of A when given B / times P of A a priori / divide the whole thing by B's expectation / new evidence you may soon find / but you will not be in a bind / for you can add it to your calculation.)
 

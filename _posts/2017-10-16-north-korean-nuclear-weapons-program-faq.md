@@ -66,7 +66,7 @@ The real experts are currently busy briefing politicians and making clipped stat
 <h2 id="1.3">1.3 Why is does North Korea have a nuclear program anyway?</h2>
 There are a lot of theories here. I'm going to walk you through my favourite. See these men?
 
-<img class="alignnone wp-image-507 size-medium" src="/wp-content/uploads/Muammar_al-Gaddafi_at_the_AU_summit-1-200x300.jpg" alt="" width="200" height="300" />   <img class="alignnone wp-image-506 size-medium" src="/wp-content/uploads/Saddam_Hussein_at_trial_July_2004-edit1-205x300.jpeg" alt="" width="205" height="300" />
+<img class="alignnone wp-image-507 size-medium" src="{{ site.baseurl }}/wp-content/uploads/Muammar_al-Gaddafi_at_the_AU_summit-1-200x300.jpg" alt="" width="200" height="300" />   <img class="alignnone wp-image-506 size-medium" src="{{ site.baseurl }}/wp-content/uploads/Saddam_Hussein_at_trial_July_2004-edit1-205x300.jpeg" alt="" width="205" height="300" />
 
 <em>Pictured: Muammar Gaddafi and Saddam Hussein. Images courtesy of Wikipedia Commons.</em>
 
@@ -137,7 +137,7 @@ But this is a propaganda shot. Literally anything could be inside the enclosure 
 
 Last year, North Korea claimed that a 10kt detonation was the successful test of a thermonuclear weapon <a href="http://www.breitbart.com/national-security/2016/01/13/north-korea-vows-to-wipe-out-entire-u-s-with-h-bombs/">capable of destroying the entire United States</a>. We can't trust official pronouncements about their nuclear weapons program. We can only trust the scarce scraps of hard evidence they leave.
 
-{% include image.html src="/wp-content/uploads/10KTvsContUSA-1-768x398.png" alt="" caption="Pictured: The scale of a 10kt explosion vs The United States of America. Not pictured: America being destroyed. Note that while the pin marking the centre of America is highly visible, the radius of destruction covers just 30­ pixels of the approximately 450,000 pixels making up America in this image." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/10KTvsContUSA-1-768x398.png" alt="" caption="Pictured: The scale of a 10kt explosion vs The United States of America. Not pictured: America being destroyed. Note that while the pin marking the centre of America is highly visible, the radius of destruction covers just 30­ pixels of the approximately 450,000 pixels making up America in this image." %}
 
 So, in this case, I think we're going to have to wait for more US intelligence leaks before we know either way.
 
@@ -215,23 +215,23 @@ Some experts seem to think that North Korea has much more access to enriched ura
 <h2 id="3.5">3.5 How bad would it be if North Korea used nuclear weapons?</h2>
 Bad.
 
-<img class="alignnone size-medium_large wp-image-513" src="/wp-content/uploads/LA-768x393.png" alt="" width="768" height="393" />
+<img class="alignnone size-medium_large wp-image-513" src="{{ site.baseurl }}/wp-content/uploads/LA-768x393.png" alt="" width="768" height="393" />
 
-<img class="alignnone size-medium_large wp-image-514" src="/wp-content/uploads/SF-768x393.png" alt="" width="768" height="393" />
+<img class="alignnone size-medium_large wp-image-514" src="{{ site.baseurl }}/wp-content/uploads/SF-768x393.png" alt="" width="768" height="393" />
 
-<img class="alignnone size-medium_large wp-image-518" src="/wp-content/uploads/Tokyo-1-768x397.png" alt="" width="768" height="397" />
+<img class="alignnone size-medium_large wp-image-518" src="{{ site.baseurl }}/wp-content/uploads/Tokyo-1-768x397.png" alt="" width="768" height="397" />
 
-<img class="alignnone size-medium_large wp-image-516" src="/wp-content/uploads/Seoul-768x392.png" alt="" width="768" height="392" />
+<img class="alignnone size-medium_large wp-image-516" src="{{ site.baseurl }}/wp-content/uploads/Seoul-768x392.png" alt="" width="768" height="392" />
 
 The latest North Korean weapon would (if it actually had a yield of 150kt and these casualty estimates are accurate) kill almost 300,000 people in LA, 270,000 people in SF, about 550,000 people in Tokyo, or 490,000 people in Seoul. If you want to get a sense of the destruction, you can play around with it on <a href="http://nuclearsecrecy.com/nukemap/">NukeMap</a>. For cities on the US West Coast or in Asia and Europe, use a ~150kt bomb. For the East Coast, a 5-20kt bomb is probably more realistic (<a href="http://www.38north.org/2017/08/jschilling080117/">if one can be delivered at all</a>)[^4].
 
-<img class="alignnone size-medium_large wp-image-512" src="/wp-content/uploads/NY-768x397.png" alt="" width="768" height="397" />
+<img class="alignnone size-medium_large wp-image-512" src="{{ site.baseurl }}/wp-content/uploads/NY-768x397.png" alt="" width="768" height="397" />
 
 The danger is greatest for South Korea and Japan. Their cities are much denser (so nuclear weapons are more devastating) and much closer to North Korea (making it easy for the North Koreans to deliver larger warheads on missiles). There is also less in the way of missile defenses protecting major Asian cities, making bombs aimed at them much more likely to succeed.
 
 That said, if North Korea ever used nuclear weapons, the greatest loss of life would be inside North Korea.
 
-{% include image.html src="/wp-content/uploads/NK-1-768x408.png" alt="" caption="Possible devastation in North Korea caused by a single American Trident II missile (assuming the MIRVed warheads can reach all these targets). View this is more of one sort of lower bound; I'm not targeting Pyongyang multiple times because the model on NukeMap cannot handle overlapping explosions (I instead targeted the eight most populous cities in North Korea). The approximately five million casualties here are almost a fifth of North Korea's population (25 million)." %}
+{% include image.html src="{{ site.baseurl }}/wp-content/uploads/NK-1-768x408.png" alt="" caption="Possible devastation in North Korea caused by a single American Trident II missile (assuming the MIRVed warheads can reach all these targets). View this is more of one sort of lower bound; I'm not targeting Pyongyang multiple times because the model on NukeMap cannot handle overlapping explosions (I instead targeted the eight most populous cities in North Korea). The approximately five million casualties here are almost a fifth of North Korea's population (25 million)." %}
 
 Right now, there should be at least one Ohio class submarine in an undisclosed location off of the Korean peninsula[^5]. Each Ohio class submarine is armed with 24 Trident II missiles, which are tipped with up to 8 W76 or W88 nuclear warheads (the yield of a W76 is 300kt, the yield of a W88 is 475kt)[^6]. These missiles have a range of 11,300 km. An Ohio class submarine can strike North Korea <a href="http://nuclearsecrecy.com/missilemap/?&amp;s=38.9986%2C134.4724&amp;t=39.0392%2C125.7625&amp;p=usa_trident_d-5&amp;sp=usa_ohio-class_submarine&amp;yp=psi20_ab&amp;kt=475&amp;c=90&amp;r=12000&amp;wr=1&amp;mc=39.0392%2C125.7625&amp;z=4&amp;hc=1">most quickly from the Sea of Japan or the East China Sea</a>. But in a pinch <a href="http://nuclearsecrecy.com/missilemap/?&amp;s=3.9146%2C-121.553&amp;t=39.0392%2C125.7625&amp;p=usa_trident_d-5&amp;sp=usa_ohio-class_submarine&amp;yp=psi20_ab&amp;kt=475&amp;c=90&amp;r=12000&amp;wr=1&amp;mc=42.919%2C56.4168&amp;z=2&amp;hc=1">anywhere in the Northern Pacific Ocean will do</a>.
 

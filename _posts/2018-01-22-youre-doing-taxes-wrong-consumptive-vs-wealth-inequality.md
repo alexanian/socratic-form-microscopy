@@ -24,7 +24,7 @@ I now know of two competing models for inequality, each of which has vastly diff
 
 In the first, called <a href="http://econlog.econlib.org/archives/2017/12/misconceptions.html">consumptive inequality</a>, inequality is embodied in differential consumption. Under this model, there is a huge gap between Oracle CEO Larry Ellison (<a href="https://en.wikipedia.org/wiki/Larry_Ellison">net worth: $60 billion</a>), with his private islands, his yacht, etc. and myself, with my cheap rented apartment, ten-year-old bike, and modest savings. In fact, under this model, there's even a huge gap between Larry Ellison with all of his luxury goods and Berkshire Hathaway CEO Warren Buffett (<a href="https://en.wikipedia.org/wiki/Warren_Buffett">net worth: $90.6 billion</a>), with his relatively cheap house and restrained tastes.
 
-<img class="wp-image-676 alignnone" src="/wp-content/uploads/976312844_6c5567ae07_z.jpg" alt="" width="266" height="200" /> <img class="wp-image-677 alignnone" src="/wp-content/uploads/Rising_Sun_yacht_2006-768x490.jpg" alt="" width="314" height="200" />
+<img class="wp-image-676 alignnone" src="{{ site.baseurl }}/wp-content/uploads/976312844_6c5567ae07_z.jpg" alt="" width="266" height="200" /> <img class="wp-image-677 alignnone" src="{{ site.baseurl }}/wp-content/uploads/Rising_Sun_yacht_2006-768x490.jpg" alt="" width="314" height="200" />
 
 <em>Pictured: Warren Buffett's house vs. Larry Ellison's yacht. The yacht is many, many times larger than the house. Image credits: <a href="https://www.flickr.com/photos/28143834@N00/976312844/in/photostream/">TEDizen</a> and <a href="https://www.flickr.com/photos/reivax/349438581/in/photostream/">reivax</a>.</em>
 

@@ -45,11 +45,11 @@ There was a weak correlation (I'm using a simple Pearson correlation, as impleme
 
 Here's the graphs. I've deliberately omitted trend lines because I'm a strong believer in <a href="https://xkcd.com/1725/">the constellation test</a>.
 
-<img class="alignnone size-full wp-image-287" src="/wp-content/uploads/income-tax.png" alt="" width="600" height="371" />
+<img class="alignnone size-full wp-image-287" src="{{ site.baseurl }}/wp-content/uploads/income-tax.png" alt="" width="600" height="371" />
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-286" src="/wp-content/uploads/sales-tax-and-charity.png" alt="" width="600" height="371" />
+<img class="alignnone size-full wp-image-286" src="{{ site.baseurl }}/wp-content/uploads/sales-tax-and-charity.png" alt="" width="600" height="371" />
 
 All the data available is in a <a href="https://docs.google.com/spreadsheets/d/16bouNaKvdREBWpNXoVSonBnpAdguuGT1oFqMjN_KKgw/edit?usp=sharing">publicly viewable Google Sheet</a>.
 
