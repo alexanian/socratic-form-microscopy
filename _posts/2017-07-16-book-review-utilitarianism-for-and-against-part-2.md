@@ -23,7 +23,7 @@ tags:
 [33 minute read]
 </p>
 
-<a href="/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">Three weeks ago, I reviewed the first half of <em>Utilitarianism for and against</em></a>. This week I'll be reviewing the second half, the <em>against</em> side. I should note that I'm a utilitarian and therefore likely to be biased against the arguments presented here. If my criticism is rather thicker than last week, it is not because the author of the second essay is any worse than the first.
+<a href="{{ site.baseurl }}/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">Three weeks ago, I reviewed the first half of <em>Utilitarianism for and against</em></a>. This week I'll be reviewing the second half, the <em>against</em> side. I should note that I'm a utilitarian and therefore likely to be biased against the arguments presented here. If my criticism is rather thicker than last week, it is not because the author of the second essay is any worse than the first.
 
 The author is one Sir Bernard Williams. According to his <a href="https://en.wikipedia.org/wiki/Bernard_Williams">Wikipedia</a>, he was a particularly humanistic philosopher in the old Greek mode. He was skeptical of attempts to build an analytical foundation for moral philosophy and of his own prowess in arguments. It seems that he had something pithy or cutting to say about everything, which made him notably cautious of pithy or clever answers. He's also described as a proto-feminist, although you wouldn't know it from his writing.
 
@@ -94,7 +94,7 @@ All of this is to say that utilitarians should judge actions on the margin, not 
 
 Williams either isn't familiar with this concept, or omitted it in the interest of time or space.
 
-Williams next topic is <em>remoter effects</em>. A remoter effect is any effect that your actions have on the decision making of other people. For example, if you're a politician and you lie horribly, are caught, and get re-elected by a large margin, a possible remoter effect is <a href="/2017/02/05/on-norms/">other politicians lying more often</a>.  With the concept of remoter effects, Williams is pointing at what <a href="/2016/10/16/precedent-utilitarianism-a-primer#2nd-order">I call second order utilitarianism</a>.
+Williams next topic is <em>remoter effects</em>. A remoter effect is any effect that your actions have on the decision making of other people. For example, if you're a politician and you lie horribly, are caught, and get re-elected by a large margin, a possible remoter effect is <a href="{{ site.baseurl }}/2017/02/05/on-norms/">other politicians lying more often</a>.  With the concept of remoter effects, Williams is pointing at what <a href="{{ site.baseurl }}/2016/10/16/precedent-utilitarianism-a-primer#2nd-order">I call second order utilitarianism</a>.
 
 Williams makes a valid point that many of the justifications from remoter effects that utilitarians make are very weak. For example, despite what some utilitarians claim, telling a white lie (or even telling any lie that is unpublicized) doesn't meaningfully reduce the propensity of everyone in the world to tell the truth.
 
@@ -108,7 +108,7 @@ The only way out that Williams sees fit to offer us is an obvious trap. What if 
 
 Furthermore, it is always a dangerous game to discount other people's feelings as irrational. The problem with the word <em>irrational </em>(in the vernacular, not utilitarian sense) is that no one really agrees on what is irrational. I have an intuitive sense of what is obviously irrational. But so, alas, do you. These senses may align in some regions (e.g. we both may view it as irrational to be angry because of a belief that the government is controlled by alien lizard-people), but not necessarily in others. For example, you may view my atheism as deeply irrational. I obviously do not.
 
-Williams continues this critique to point out that much of the discomfort that comes from considering – or actually doing – things the utilitarian way comes from our moral intuitions. While Smart and I are <a href="/2017/06/05/against-moral-intuitions/">content to discount these feelings</a>, Williams is horrified at the thought. To view discomfort from moral intuitions as something outside yourself, as an unpleasant and irrational emotion to be avoided, is – to Williams – akin to losing all sense of moral identity.
+Williams continues this critique to point out that much of the discomfort that comes from considering – or actually doing – things the utilitarian way comes from our moral intuitions. While Smart and I are <a href="{{ site.baseurl }}/2017/06/05/against-moral-intuitions/">content to discount these feelings</a>, Williams is horrified at the thought. To view discomfort from moral intuitions as something outside yourself, as an unpleasant and irrational emotion to be avoided, is – to Williams – akin to losing all sense of moral identity.
 
 This strikes me as more of a problem for rationalist philosophers. If you believe that morality can be rationally determined via the correct application of pure reason, then moral intuitions must be key to that task. From a materialist point of view though, moral intuitions are evolutionary baggage, not signifiers of something deeper.
 

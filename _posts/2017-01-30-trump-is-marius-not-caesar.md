@@ -80,5 +80,5 @@ If we didn't have Trump this year, we'd have someone like him in four years or e
 <hr class="post-end" />
 
 [^1]: I'm a Bayesian, so I'll quite happily bet with anyone who believes otherwise.
-[^2]: For more information on the transition of Rome into a dictatorship and the forces of empire that drove that transformation, I recommend <a href="/2017/01/22/book-review-spqr/">SPQR by Prof. Mary Beard</a>.
+[^2]: For more information on the transition of Rome into a dictatorship and the forces of empire that drove that transformation, I recommend <a href="{{ site.baseurl }}/2017/01/22/book-review-spqr/">SPQR by Prof. Mary Beard</a>.
 [^3]: I'm certainly not opposed to checks and balances, but they can end up doing more harm than good if they make the act of governing so difficult that they end up ignored.

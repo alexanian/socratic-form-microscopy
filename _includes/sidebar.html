@@ -1,7 +1,7 @@
 <input type="checkbox" class="slide-menu-checkbox" id="slide-menu-checkbox" />
 
 <div class="slide-menu" id="slide-menu">
-  <a href="/" class="site-logo-link" rel="home" itemprop="url">
+  <a href="{{ site.baseurl }}" class="site-logo-link" rel="home" itemprop="url">
     <img
       width="300"
       height="300"
@@ -29,17 +29,17 @@
     >
     <a
       class="slide-menu-nav-item{% if page.url == '/about-me.html' %} active{% endif %}"
-      href="/about-me"
+      href="{{ site.baseurl }}/about-me"
       >About Zach</a
     >
     <a
       class="slide-menu-nav-item{% if page.url == '/categories/' %} active{% endif %}"
-      href="/categories"
+      href="{{ site.baseurl }}/categories"
       >Categories</a
     >
     <a
       class="slide-menu-nav-item{% if page.url == '/all/' %} active{% endif %}"
-      href="/all"
+      href="{{ site.baseurl }}/all"
       >All Posts</a
     >
     <li class="inline-block right search-box">

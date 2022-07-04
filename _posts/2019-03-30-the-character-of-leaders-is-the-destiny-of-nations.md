@@ -91,7 +91,7 @@ It is the requirement for a good reputation that helps democracy stand against c
 
 (It is also worth noting that the demand for a sterling reputation rules out people who have tortured dissidents or ordered protestors shot. As long as autocrats are not revered, democracy can protect against many forms of repression.)
 
-There are three main ways the democracy can fail to live up to its promise. First, it can fail because corruption isn't appropriately sanctioned. If corruption becomes just the way things are done and <a href="https://socratic-form-microscopy.com/2017/02/05/on-norms/">scandals stop sticking</a>, then democracy becomes much weaker as a check on corruption.
+There are three main ways the democracy can fail to live up to its promise. First, it can fail because corruption isn't appropriately sanctioned. If corruption becomes just the way things are done and <a href="{{ site.baseurl }}/2017/02/05/on-norms/">scandals stop sticking</a>, then democracy becomes much weaker as a check on corruption.
 
 Second, democracy can be hijacked by individuals whose only skill is self-promotion. In a functioning democracy, the electorate demands that political resumes include real achievements. When this breaks down, democracy becomes a contest: who can disseminate their fake or exaggerated resume the furthest.
 

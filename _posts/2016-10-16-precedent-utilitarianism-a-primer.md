@@ -34,12 +34,12 @@ The summer after reading Eichmann in Jerusalem, I flirted with utilitarianism. I
 
 One day, I found myself looking for high value books to read. One option was <a href="http://www.abebooks.com/servlet/SearchResults?sts=t&amp;tn=utilitarianism+for+and+against">Utilitarianism: For and Against</a>, a book I didn't read until long after this post post was published. Luckily, even before I read it, it led me to the concept of precedent utilitarianism. Finally, I had a name to put to the nagging voice inside of my head. I read a <a href="http://cnx.org/contents/unckW8WW@1/Precedent-Utilitarianism">quick summary</a> of precedent utilitarianism and knew that I had the ethical system I was looking for.
 
-<a href="/2016/09/30/utilitarianism-an-overview/">I've previously written an overview of several types of utilitarianism</a>. At the end, I mention that they're all what I call "first-order utilitarianism".
+<a href="{{ site.baseurl }}/2016/09/30/utilitarianism-an-overview/">I've previously written an overview of several types of utilitarianism</a>. At the end, I mention that they're all what I call "first-order utilitarianism".
 
 Precedent Utilitarianism is a form of second-order utilitarianism. It doesn't just look at first-order consequences of an action. It looks at the precedents an action sets.
 
 <h3><strong>Precedents</strong></h3>
-<a href="/justice/">I wrote an essay about justice that focused on precedents</a>. In it, I make the claim that "precedent is what changes actions from unprecedented to normal". This may sound facile or even tautological. But there is a deeper point I'm driving at. For every action now considered normal, there was someone who was the first to do it. In Eichmann in Jerusalem, Hannah Arendt mentions something similar in passing. She believes that that the recurrence of any crime is more likely than its invention.
+<a href="{{ site.baseurl }}/justice/">I wrote an essay about justice that focused on precedents</a>. In it, I make the claim that "precedent is what changes actions from unprecedented to normal". This may sound facile or even tautological. But there is a deeper point I'm driving at. For every action now considered normal, there was someone who was the first to do it. In Eichmann in Jerusalem, Hannah Arendt mentions something similar in passing. She believes that that the recurrence of any crime is more likely than its invention.
 
 Many actions are done once, then never again. Or only a few times, by a few isolated groups. Others get repeated and copied until they become the new normal. The Manson family murders did not lead to a sudden outbreak of murderous cults. But the actions of <a href="https://writingandhistory.wordpress.com/2015/03/31/marius-sulla-and-the-fall-of-the-roman-republic/">Marius and Sulla</a> led almost directly to the Triumvirate and the unravelling of Roman democracy.
 
@@ -166,4 +166,4 @@ Here's what I have to try and convince you, even if there's a huge gap between o
 Precedent utilitarianism fails gracefully. Does your ethical system?
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status:  <a href="/about-me/">Ethics</a></p>
+<p class="epistemic-status">Epistemic Status:  <a href="{{ site.baseurl }}/about-me/">Ethics</a></p>

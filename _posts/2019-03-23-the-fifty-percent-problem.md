@@ -22,7 +22,7 @@ tags:
 
 Brexit was always destined to be a shambles.
 
-I haven't written much about Brexit. It's always been a bit of a case of "not my monkeys, not my circus". And we've had <a href="https://socratic-form-microscopy.com/2018/03/04/the-awkward-dynamics-of-the-conservative-leadership-debates/">plenty</a> <a href="https://socratic-form-microscopy.com/2017/02/05/on-norms/">of</a> <a href="https://socratic-form-microscopy.com/2017/01/30/trump-is-marius-not-caesar/">circuses</a> on this side of the Atlantic for me to write about.
+I haven't written much about Brexit. It's always been a bit of a case of "not my monkeys, not my circus". And we've had <a href="{{ site.baseurl }}/2018/03/04/the-awkward-dynamics-of-the-conservative-leadership-debates/">plenty</a> <a href="{{ site.baseurl }}/2017/02/05/on-norms/">of</a> <a href="{{ site.baseurl }}/2017/01/30/trump-is-marius-not-caesar/">circuses</a> on this side of the Atlantic for me to write about.
 
 That said, I do think Brexit is useful for illustrating the pitfalls of this sort of referendum, something I've taken to calling "The 50% Problem".
 

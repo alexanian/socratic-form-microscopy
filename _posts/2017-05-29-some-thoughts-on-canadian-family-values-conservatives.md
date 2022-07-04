@@ -20,7 +20,7 @@ tags:
   - social conservatism
 ---
 
-I'd like to expand on <a href="https://socratic-form-microscopy.com/2017/05/28/five-things-i-learned-from-the-conservative-leadership-race-that-all-canadians-should-take-note-of/">one of the points I raised yesterday</a> about Canadian social conservatives and the sorts of things they can expect from Andrew Scheer, because I think the Canadian approach to "family values" conservatism is desperately under-theorized.
+I'd like to expand on <a href="{{ site.baseurl }}/2017/05/28/five-things-i-learned-from-the-conservative-leadership-race-that-all-canadians-should-take-note-of/">one of the points I raised yesterday</a> about Canadian social conservatives and the sorts of things they can expect from Andrew Scheer, because I think the Canadian approach to "family values" conservatism is desperately under-theorized.
 
 Yesterday I claimed that the main way that Harper pushed so-called family values was through economic incentives to have a 1950s-style nuclear family. Both income splitting and the Universal Child Care Benefit were designed to make it more feasible to have a single income family.
 

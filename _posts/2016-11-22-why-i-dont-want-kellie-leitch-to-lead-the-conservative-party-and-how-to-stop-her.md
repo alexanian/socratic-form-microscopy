@@ -18,7 +18,7 @@ tags:
 
 <p class="caption pre-post-meta">Note: A previous version of this post referred to Kellie Leitch as "Ms. Leitch" instead of "Dr. Leitch". I don't know how I forgot she was a doctor, but I'm deeply sorry that I did.</p>
 
-A couple months ago, <a href="/2016/09/03/kellie-leitch-and-liberal-democracy/">I wrote of Kellie Leitch</a>:
+A couple months ago, <a href="{{ site.baseurl }}/2016/09/03/kellie-leitch-and-liberal-democracy/">I wrote of Kellie Leitch</a>:
 
 <blockquote>I remain genuinely unsure what Kellie Leitch’s goal is. I went into this blog convinced she was another hypocrite who was only using queer Canadians when it suited her racists agenda. And yet, she voted yea to Bill 279 (to treat gender identity as a protected class) despite almost every single one of her cabinet colleagues opposing it. She does appear to have a principled and reasonably long standing support for queer rights. She voted the party line on whipped bills (as does basically every MP in Canada), but when she’s allowed to vote her conscience, we see that it is rather different than many of the other Conservatives. She may be a political opportunist who can sense which way the wind blows. Or she may be trying to change the conservatives from within.</blockquote>
 
@@ -40,7 +40,7 @@ Unfortunately, there is a real risk that Kellie Leitch could become the next lea
 
 It's rich that Kellie Leitch, who received her bachelor's at Queens, holds an MD and an MBA, and has worked as a surgeon, professor, MP, and cabinet minister, can campaign on a message that the "elites" need to go. A politics without elites would by necessity be a politics without Dr. Leitch.
 
-But this only scratches the surface of my disagreements with Dr. Leitch; I oppose every policy in her platform. I think her plan to put an absolute cap on government spending is silly. The government needs the flexibility to meet any obstacles it faces. Prime ministers from Pierre Elliot Trudeau to Brian Mulroney to Steven Harper all understood this. I oppose her stance on marijuana – I think prohibition doesn't work and most <a href="http://www.ctvnews.ca/canada/7-in-10-canadians-support-marijuana-legalization-nanos-poll-1.2968953">Canadians agree with me</a>. <a href="/2016/09/03/kellie-leitch-and-liberal-democracy/">Myself</a> and <a href="http://induecourse.ca/kellie-leitch-on-anti-canadian-values/">others</a> think that her proposed screening for anti-Canadian values in immigrants is easily subverted and a solution in search of a problem.
+But this only scratches the surface of my disagreements with Dr. Leitch; I oppose every policy in her platform. I think her plan to put an absolute cap on government spending is silly. The government needs the flexibility to meet any obstacles it faces. Prime ministers from Pierre Elliot Trudeau to Brian Mulroney to Steven Harper all understood this. I oppose her stance on marijuana – I think prohibition doesn't work and most <a href="http://www.ctvnews.ca/canada/7-in-10-canadians-support-marijuana-legalization-nanos-poll-1.2968953">Canadians agree with me</a>. <a href="{{ site.baseurl }}/2016/09/03/kellie-leitch-and-liberal-democracy/">Myself</a> and <a href="http://induecourse.ca/kellie-leitch-on-anti-canadian-values/">others</a> think that her proposed screening for anti-Canadian values in immigrants is easily subverted and a solution in search of a problem.
 
 I encourage everyone else who opposes Dr. Leitch to focus on her policies and why they're bad for Canada. Insofar as our values differ from those of Dr. Leitch, we should take the time to explain why. We should seek dialogue with her supporters and seek to allay their fears. We should be proud defenders of globalization and immigration and all the benefits they have brought. We should not retreat into our filter bubbles and <a href="http://fredrikdeboer.com/2016/11/13/theyre-going-to-keep-losing/">dismiss the rest of Canada as the wrong kind of people</a>. That kind of retrenchment doesn't have the best track record right now.
 
@@ -63,7 +63,7 @@ Kellie Leitch has gained name recognition and a measure of popularity with her s
 Let the next Canadian election be about which policies will bring us peace, order, and good government. Let's not bring race and belonging into it.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Ethics?</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">Ethics?</a></p>
 
 <p>Kellie Leitch related links (don't visit without an ad-blocker):</p>
 

@@ -126,8 +126,8 @@ Additional Reading: <a href="https://en.wikipedia.org/wiki/Thermonuclear_weapon"
 
 <table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
   <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;"><a href="/2017/01/24/nuclear-weapons-3-0-proliferation/">&lt; previous</a></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></th>
-    <td style="border:0px solid;background:transparent;text-align:right;"><a href="/2017/01/26/nuclear-weapons-5-0-effects/">next &gt;</a></th>
+    <td style="border:0px solid;background:transparent;"><a href="{{ site.baseurl }}/2017/01/24/nuclear-weapons-3-0-proliferation/">&lt; previous</a></th>
+    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></th>
+    <td style="border:0px solid;background:transparent;text-align:right;"><a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects/">next &gt;</a></th>
   </tr>
 </table>

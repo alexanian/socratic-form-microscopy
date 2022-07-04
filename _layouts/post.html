@@ -21,7 +21,7 @@ layout: default
         >{{ page.date | date: "%b %-d, %Y" }}</time
       >
       {% if page.categories.size > 0 %} in {% for category in page.categories %}
-      <a href="/category/{{ category | slugify }}">{{ category }}</a>{% if
+      <a href="{{ site.baseurl }}/category/{{ category | slugify }}">{{ category }}</a>{% if
       forloop.last %}{% else %},{% endif %} {% endfor %} {% endif %}
     </p>
   </div>
@@ -30,7 +30,7 @@ layout: default
 
   <p class="h4">
     {% if page.tags.size > 0 %} Tags:{% for tag in page.tags %}
-    <a href="/tag/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last %}{% else
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last %}{% else
     %},{% endif %} {% endfor %} {% endif %}
   </p>
 </article>

@@ -16,15 +16,17 @@ tags:
   - kellie leitch
   - scheer
 ---
+
 Yesterday generic conservative Andrew Scheer was crowned leader of the Conservative Party of Canada in a nail-biting 14 ballot process. His margin of victory over the libertarian Maxime Bernier was less than 2%.
 
 <a href="https://www.reuters.com/article/us-canada-politics-conservatives-idUSKBN18N0J8">Reuters</a> managed to get pretty much everything about this story subtly wrong, from the number of votes political observers expected – by the final week, most of us remembered that there were so many low support candidates that it would probably go to the very final ballot – to Scheer's position in the party. Reuters has Scheer pegged as a social conservative, whereas people watching the race were much more likely to describe him as the compromise candidate.
 
 The Conservative Leadership race was one of the high points of my engagement in Canadian politics. I haven't been this engaged since the 2011 election (I was out of country for the 2015 election which limited my involvement to mailing in a ballot). Focusing so closely on this leadership race, I've was surprised (although I probably shouldn't have been) by just how much politics goes on under the surface and just how little actually filters up through the media.
 
-Sometimes the things that don't filter up are silly. The media never really mentioned that Steven Blaney sent out an email with the subject line: <a href="https://twitter.com/eglegate/status/845791636097417216">"Should Allah kill all the Jews?"</a>. This is understandable; Blaney never was a serious contender for the leadership and his ridiculous emails would have been a distraction. Many in the media also underestimated the number of votes for Erin O'Toole that would transfer to Andrew Scheer once O'Toole was eliminated. This was a harder mistake to make when you were getting emails from every candidate; from the emails that O'Toole and Scheer were sending me, it was obvious that their internal polling had picked up on this correlation. Paying attention to things like this are what <a href="https://socratic-form-microscopy.com/2017/05/06/may-cpc-leadership-race-update/">let me correctly predict Andrew Scheer would win</a>.
+Sometimes the things that don't filter up are silly. The media never really mentioned that Steven Blaney sent out an email with the subject line: <a href="https://twitter.com/eglegate/status/845791636097417216">"Should Allah kill all the Jews?"</a>. This is understandable; Blaney never was a serious contender for the leadership and his ridiculous emails would have been a distraction. Many in the media also underestimated the number of votes for Erin O'Toole that would transfer to Andrew Scheer once O'Toole was eliminated. This was a harder mistake to make when you were getting emails from every candidate; from the emails that O'Toole and Scheer were sending me, it was obvious that their internal polling had picked up on this correlation. Paying attention to things like this are what <a href="{{ site.baseurl }}/2017/05/06/may-cpc-leadership-race-update/">let me correctly predict Andrew Scheer would win</a>.
 
 With this in mind, I'd like to report some the things I learned watching this race and this convention. These are things that may or may not be reported, but I think they are deeply important for understanding Canadian politics going forward.
+
 <h3>1. No one knows what to do with ranked ballots</h3>
 In my last post on the leadership, I guessed that the race would last a few ballots. This was a very silly prediction to make, because it was obvious who the first six candidates to be eliminated would be. It was also obvious that together they had less than 5% of the total support. For the convention to be over after that few ballots, the front runner would have to have more than 45% support. Polling clearly showed Bernier (the front-runner for most of the race) at only 30%, so there was no way that the thing could have been decided that quickly.
 
@@ -39,6 +41,7 @@ In addition to talking heads used to other systems, ranked ballots also present 
 Kevin O'Leary claimed in the live convention coverage that he and Bernier had polled all the way down to the 10<sup>th</sup> choice (at ruinous expense). If this is true (and with Kevin, who knows), it's likely that some of the other top fundraisers did this as well. That's why I highlighted candidate's emails as a vital tool for understanding the race. From their exhortations, I could often get an idea of the information they were going on.
 
 If public polling can't adapt to ranked ballots, then it will probably become necessary (for anyone who wants to correctly predict an election outcome) to spend more time reading the messages campaigns send to supporters to try and indirectly get high quality proprietary polling numbers. Unfortunately, reading emails and trying to figure out the information that went into them is much more of a black art than polling and it's much harder to justify the information that comes out of it.
+
 <h3>2. Canadian Conservatives aren't Republicans</h3>
 In Rona Ambrose's farewell speech, she presented a narrative of Conservatives as defenders of the rights of women and girls. She pointed out that that first woman to serve in a cabinet was a member of the Conservative Party. She pointed out that the first (and only) female prime minister of Canada was a Conservative. She also talked about her work at the UN pushing for an International Day of the Girl and her work pressuring the government to admit Yazidi refugees fleeing religious persecution and sexual slavery at the hands of ISIL. When she mentioned that she'd forced the government to admit more refugees, she was given a rousing round of applause.
 
@@ -51,6 +54,7 @@ Canada and America are geographically and culturally proximate. It's easy to pre
 Canadian conservatism is different than American conservatism. In the Conservative Party of Canada, you'll get more votes calling for a carbon tax than you will if you call for increased screening of immigrants. Can you imagine that being true in America?
 
 I don't mean to claim that xenophobia and racism don't exist in the Conservative Party of Canada. Kellie Leitch did get 9% of the vote. But for now, the xenophobic wing of the party is perhaps the least powerful part of the Canadian conservative coalition.
+
 <h3>3. Social Conservatism is (kind of) alive and well</h3>
 Unlike the xenophobic candidates, who did much worse than anyone feared, the social conservative candidates ran significantly ahead of expectations. Pierre Lemieux and Brad Trost <a href="http://www.cbc.ca/news/politics/grenier-conservative-ballot-1.4125522">had combined polling numbers of 9.5% right before the election</a>. In the first round of voting, many of us were surprised to see that their actual support was a combined 15.7%. When Trost was eliminated in the 11<sup>th</sup> ballot, he had 14.3% of the remaining support (evidence that almost all of Lemieux's voters went to him).
 
@@ -65,6 +69,7 @@ In his <a href="http://www.huffingtonpost.ca/2017/05/27/conservative-leadership-
 Taken together, all of this signals that the Harper doctrine is alive and well. Social conservatives won't be getting action on abortion or gay marriage but they can expect Scheer to do his best to strengthen what they consider a traditional family structure. If Scheer is prime minister, expect to see policies like income splitting that blatantly favour married couples, especially couples where one parents stays home with children.
 
 Bernier wasn't willing to provide even this, which is probably why social conservatives broke for Scheer in the end, giving him the victory. Social conservatives ultimately didn't get everything they wanted, but it seems like they managed to get the best of their realistic options.
+
 <h3>4. Caucus Support</h3>
 Had Bernier won, I think his leadership would have looked a lot like Jeremy Corbyn's leadership of the UK Labour Party. Both men have excessive amounts of ideological purity and a limited amount of support among the MPs of their party. This has made trying to control his party <em>difficult</em> for Corbyn and I see no reason why Bernier would have had an easier time of it.
 
@@ -77,6 +82,7 @@ Well, just as Canada was supposedly immune to the "rising tide of illiberalism",
 This bodes well for Scheer's ability to actually <em>get shit done</em> (and therefore poorly for the Liberals). Scheer understands how parliament works. He understands how the conservative caucus thinks. He's young and energetic. He <em>will</em> hit the ground running and <em>won't</em> complain to the media in six months that the job was much harder than he thought it would be.
 
 Some of the above would have been true for Leitch or Bernier. None of it would have been true for O'Leary. Only time will tell if is better to be effective at managing a political party than it is to be "not a politician" or to have a clear ideology.
+
 <h3>5. The Conservative Party of Canada is still Harper's party</h3>
 Steven Harper has been almost entirely absent from Canadian politics since his election defeat in 2015. It's a startling change for the man who <em>was</em> the Conservative Party of Canada. For all of his flaws (and he has many), Harper was an ambitious and driven leader who decided on a goal and then moved heaven and earth to make it happen. He engineered the merger between the Progressive Conservative Party of Canada and the Reform Party, won control of the resulting party, and then led it into five elections. In four of those elections, the party came out better than it went in.
 

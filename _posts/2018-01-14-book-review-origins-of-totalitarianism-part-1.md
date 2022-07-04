@@ -25,7 +25,7 @@ tags:
 
 Hannah Arendt's massive study of totalitarianism, <em>The Origins of Totalitarianism</em>, is (at the time of writing), <a href="https://www.amazon.ca/gp/bestsellers/books/16037261/ref=pd_zg_hrsr_b_1_5_last">the fourth most popular political theory book on Amazon</a> (after two editions of The Prince, Plato's Republic, and a Rebecca Solnit book). It's also a densely written tome, not unsuitable for defending oneself from wild animals. Many of its paragraphs could productively be turned into whole books of their own.
 
-I'm not done it yet. But a review and summary of the whole thing would be far too large for a single blog post. Therefore, I'm going to review its three main sections as I finish them. Hannah Arendt's Eichmann in Jerusalem set my mind afire and spurred <a href="https://socratic-form-microscopy.com/justice/">my very first essay on political theory</a>, so I'm very excited to be reviewing the section on antisemitism today.
+I'm not done it yet. But a review and summary of the whole thing would be far too large for a single blog post. Therefore, I'm going to review its three main sections as I finish them. Hannah Arendt's Eichmann in Jerusalem set my mind afire and spurred <a href="{{ site.baseurl }}/justice/">my very first essay on political theory</a>, so I'm very excited to be reviewing the section on antisemitism today.
 
 (Reminder: unless I'm specifically claiming a viewpoint as my own, I am merely summarizing Arendt's views as I best understand them)
 

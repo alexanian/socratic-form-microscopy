@@ -21,7 +21,7 @@ tags:
 [10 minute read]
 </p>
 
-<a href="/2017/11/05/gmcr-for-dummies/">Last week</a>, I used the Graph Model of Conflict Resolution to find a set of stable equilibria in the present conflict between North Korea and the USA. They were:
+<a href="{{ site.baseurl }}/2017/11/05/gmcr-for-dummies/">Last week</a>, I used the Graph Model of Conflict Resolution to find a set of stable equilibria in the present conflict between North Korea and the USA. They were:
 
 <ul>
  	<li>The tense status quo (s. 0)</li>

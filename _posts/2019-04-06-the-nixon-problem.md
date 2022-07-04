@@ -20,7 +20,7 @@ tags:
 
 Richard Nixon would likely have gone down in history as one of America's greatest presidents, if not for Watergate.
 
-To my mind, his greatest successes were détente with China and the end of the convertibility of dollars into gold, but he also deserves kudos for ending the war in Vietnam, continuing the process of desegregation, establishing the EPA, and signing the <a href="https://socratic-form-microscopy.com/2017/01/28/nuclear-weapons-7-0-strategy/#3">anti-ballistic missile treaty</a>.
+To my mind, his greatest successes were détente with China and the end of the convertibility of dollars into gold, but he also deserves kudos for ending the war in Vietnam, continuing the process of desegregation, establishing the EPA, and signing the <a href="{{ site.baseurl }}/2017/01/28/nuclear-weapons-7-0-strategy/#3">anti-ballistic missile treaty</a>.
 
 Nixon was willing to try unconventional solutions and shake things up. He wasn't satisfied with leaving things as they were. This is, in some sense, a violation of political norms.
 
@@ -28,7 +28,7 @@ When talking about political norms, it's important to separate them into their t
 
 First, there are the norms of policy. These are the standard terms of the debate. In some countries, they may look like a (semi-)durable centrist consensus. In others they may require accepting single-party rule as a given.
 
-Second are the norms that constrain <a href="https://socratic-form-microscopy.com/2017/02/05/on-norms/">the behaviour of people within the political system</a>. They may forbid bribery, or self-dealing, or assassinating your political opponents.
+Second are the norms that constrain <a href="{{ site.baseurl }}/2017/02/05/on-norms/">the behaviour of people within the political system</a>. They may forbid bribery, or self-dealing, or assassinating your political opponents.
 
 I believe that the first set of political norms are somewhat less important than the second. The terms of the debate can be <em>wrong</em>, or stuck in a local maximum, such that no simple tinkering can improve the situation. Having someone willing to change the terms of the debate and try out bold new ideas can be good.
 
@@ -50,7 +50,7 @@ One could imagine a hypothetical Trump (perhaps a Trump that listened to Peter T
 
 The key realization about this hypothetical Trump is that, other than his particular policy positions, he'd be no different. He'd still idolize authoritarian thugs, threaten to lock up his political opponents, <a href="https://www.vanityfair.com/news/2017/07/department-of-energy-risks-michael-lewis">ignore important government departments</a>, and <a href="https://www.reuters.com/article/us-usa-trump-christie/grifters-weaklings-felons-christie-on-the-trump-white-house-idUSKCN1PB02L">surround himself with frauds and grifters</a>.
 
-I believe that it's important to think <a href="https://socratic-form-microscopy.com/2019/03/30/the-character-of-leaders-is-the-destiny-of-nations/">how the features of different governments encourage different people to rise to the top</a>. If a system of government requires any leader to first be a general, then it will be cursed with rigid leaders who expect all orders to be followed to the letter. If it instead rewards lying, then it'll be cursed with politicians who go back on every promise.
+I believe that it's important to think <a href="{{ site.baseurl }}/2019/03/30/the-character-of-leaders-is-the-destiny-of-nations/">how the features of different governments encourage different people to rise to the top</a>. If a system of government requires any leader to first be a general, then it will be cursed with rigid leaders who expect all orders to be followed to the letter. If it instead rewards lying, then it'll be cursed with politicians who go back on every promise.
 
 There's an important corollary to this: if you want a specific person to rule because of something specific about their character, you should not expect them to be able to turn it off.
 

@@ -14,7 +14,7 @@ tags:
   - predictions
 ---
 
-Let’s look at how accurately Zach <a href="https://socratic-form-microscopy.com/2019/01/06/2019-predictions/">predicted 2019</a>. As usual (<a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">2017 results</a>, <a href="https://socratic-form-microscopy.com/2019/01/01/grading-my-2018-predictions/">2018 results</a>), the predictions are broken down by region.
+Let’s look at how accurately Zach <a href="{{ site.baseurl }}/2019/01/06/2019-predictions/">predicted 2019</a>. As usual (<a href="{{ site.baseurl }}/2018/01/01/grading-my-2017-predictions/">2017 results</a>, <a href="{{ site.baseurl }}/2019/01/01/grading-my-2018-predictions/">2018 results</a>), the predictions are broken down by region.
 
 <h2><b>Canada</b></h2>
 <ol>
@@ -134,7 +134,7 @@ Let’s look at how accurately Zach <a href="https://socratic-form-microscopy.co
 </ol>
 <h2><b>Notes</b></h2>
 <ul>
- 	<li>Zach was confidently wrong that Canadian courts wouldn’t rule on assisted dying (<b>Canada #6</b>) and carbon taxes (<b>Canada #7</b>). This may have been an over-correction from their incorrect <a href="https://socratic-form-microscopy.com/2019/01/01/grading-my-2018-predictions/">2018</a> prediction that the courts <i>would</i> rule on assisted dying.</li>
+ 	<li>Zach was confidently wrong that Canadian courts wouldn’t rule on assisted dying (<b>Canada #6</b>) and carbon taxes (<b>Canada #7</b>). This may have been an over-correction from their incorrect <a href="{{ site.baseurl }}/2019/01/01/grading-my-2018-predictions/">2018</a> prediction that the courts <i>would</i> rule on assisted dying.</li>
  	<li><b>America #7 </b>is false with the provided definition of credible; most news outlets identified 13 major democratic candidates at the start of 2020, but Andrew Yang and Tom Steyer have never held elected office.</li>
  	<li>The <a href="https://techcrunch.com/2019/06/03/aptivs-self-driving-bmws-have-made-more-than-50000-rides-on-the-lyft-app-in-las-vegas/">Lyft/Aptive pilot</a> in Las Vegas, NV clearly counts as an “open, commercial self-driving car service” (<b>America #16</b>) but is a free-to-ride service funded by a subsidized city contract (the  <a href="http://www.theshorthorn.com/news/arlington-expands-drive-ai-autonomous-vehicle-transportation-program/article_be3333ba-5279-11e9-827c-87f271fafb00.html">Drive.ai pilot</a> in Arlington, TX) “commercial”? Is a service available only to pre-screened, though regular, users (the <a href="https://www.uber.com/us/en/atg/cities/">Uber pilot</a> in Pittsburgh, PA) “open”? I decided the the TX and PA services could round to a metro area.</li>
  	<li>I went back and forth on whether protests resulted in more than 100 fatalities in Venezuela (<b>South America #5</b>). <a href="https://en.wikipedia.org/wiki/2019_Venezuelan_protests">Wikipedia</a> says 107+, but its sources for that number are all from before <a href="https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=24788&amp;LangID=E">the OHCHR report</a> of 66 deaths from January to May. In July, Human Rights Watch <a href="https://www.hrw.org/world-report/2020/country-chapters/venezuela">reported</a> thousands of extrajudicial killings, but those don’t seem linked directly to protests, and I don’t know if they count as “official”. I decided that there were <i>probably </i>more than 100 fatalities.</li>

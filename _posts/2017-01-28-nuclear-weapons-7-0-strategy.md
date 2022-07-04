@@ -170,9 +170,9 @@ I also wish Trump was less of a loose cannon. I can't really make predictions ab
 <table style="width: 100%; border-width: 0px; background: transparent;">
 <tbody>
 <tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="/2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="/2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism">next &gt;</a></td>
+<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/">&lt; previous</a></td>
+<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
+<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism">next &gt;</a></td>
 </tr>
 </tbody>
 </table>

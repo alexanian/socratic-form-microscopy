@@ -20,11 +20,11 @@ tags:
 [4 minure read]
 </p>
 
-The nagging question that <a href="https://socratic-form-microscopy.com/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">both</a> <a href="https://socratic-form-microscopy.com/2017/07/16/book-review-utilitarianism-for-and-against-part-2/">halves</a> of <em>Utilitarianism for and against</em> left me with is: "can utilitarianism exist without veering off into total assessment?"
+The nagging question that <a href="{{ site.baseurl }}/2017/06/25/book-review-utilitarianism-for-and-against-part-1/">both</a> <a href="{{ site.baseurl }}/2017/07/16/book-review-utilitarianism-for-and-against-part-2/">halves</a> of <em>Utilitarianism for and against</em> left me with is: "can utilitarianism exist without veering off into total assessment?"
 
 Total assessment is the direct comparison of all the consequences of different actions. It is not so much a prediction that an individual can make as it is the providence of an omniscient god. If you cannot perfectly predict all of the future, you cannot perform a total assessment. It's conceptually useful – whenever a utilitarian is backed into a corner, they can fall on total assessment as their decision-making tool – but it's practically useless.
 
-Absent total assessment, utilitarians kind of have to make their best guess and go with it. Even my beloved <a href="https://socratic-form-microscopy.com/2016/10/16/precedent-utilitarianism-a-primer/">precedent utilitarianism</a> isn't much help here; precedent utilitarianism focuses on a class of consequences that traditional utilitarianism can miss. It does little to help an individual figure out all of the consequences of their actions.
+Absent total assessment, utilitarians kind of have to make their best guess and go with it. Even my beloved <a href="{{ site.baseurl }}/2016/10/16/precedent-utilitarianism-a-primer/">precedent utilitarianism</a> isn't much help here; precedent utilitarianism focuses on a class of consequences that traditional utilitarianism can miss. It does little to help an individual figure out all of the consequences of their actions.
 
 If it is hard to guess the effects of outcomes, or if this guessing will be prohibitive in terms of time, what is the utilitarian to do? One appealing option is a distinctly utilitarian virtue ethics. This virtue ethics would define a good life as one lived with the virtues that cause you to make optimific decisions.
 

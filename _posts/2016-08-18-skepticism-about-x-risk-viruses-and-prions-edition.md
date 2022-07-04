@@ -147,4 +147,4 @@ Here's what the response to a large scale bioengineered pandemic would look like
 If your next work of fiction involves a virus or prion killing all the world's population, I'm sorry. May I suggest writing about <a href="http://thebulletin.org/timeline">nukes</a> instead?
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Falsifiable</a></p>

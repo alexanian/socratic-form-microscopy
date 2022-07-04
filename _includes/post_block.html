@@ -4,7 +4,7 @@
   <p class="py-2 bold h4 mb-0">
     {{ post.date | date: "%b %-d, %Y" }}
     {% if post.categories.size > 0 %} in {% for category in post.categories %}
-        <a class="no-underline" href="/category/{{ category | slugify }}">{{ category }}</a>{% if
+        <a class="no-underline" href="{{ site.baseurl }}/category/{{ category | slugify }}">{{ category }}</a>{% if
         forloop.last %}{% else %},{% endif %} {% endfor %}
     {% endif %}
   </p>

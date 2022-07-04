@@ -17,11 +17,12 @@ tags:
   - ontario
   - political philosophy
 ---
+
 "Hi, I'm Zach! I'm out here knocking on doors for <a href="https://www.tenilleb.com/">Tenille Bonoguore</a>, who is running to represent you in Ward 7. Do you have any questions for her, or concerns that you'd like her to know about…" is now a sentence I have said more than possibly any other.
 
 Ontario had municipal elections on October 22<sup>nd</sup>. I looked at the bios of my local candidates, emailed all of them to find out more about their platforms, met with two of them, and ultimately decided that I wanted to help Tenille. Soon after that, I had been drafted to help manage canvassing efforts (although my colleague Tanya did more of that work than I did) and I was out knocking on doors again.
 
-I knocked on countless doors and talked to an incredible variety of people. I don't even know how many times I went out canvassing, but it was lots. More, I think, than the <a href="https://socratic-form-microscopy.com/2018/06/11/what-i-learned-knocking-on-thousands-of-doors-thoughts-on-canvassing/">last time</a> I did this.
+I knocked on countless doors and talked to an incredible variety of people. I don't even know how many times I went out canvassing, but it was lots. More, I think, than the <a href="{{ site.baseurl }}/2018/06/11/what-i-learned-knocking-on-thousands-of-doors-thoughts-on-canvassing/">last time</a> I did this.
 
 This blog post outlines the differences (I found) between municipal politics and provincial politics, as well as the difference between volunteering for a campaign and being part of the core campaign team. I hope it can be informative for other people looking to get involved in politics any level.
 
@@ -44,8 +45,9 @@ Still, if your main goal is to maximize your contribution towards the election o
 The ease in which you can find yourself in a position of responsibility in a municipal campaign comes with one drawback if you accept it – it can be stressful to be responsible. I don't want to discourage anyone from getting involved, but I did find even my limited leadership role a source of stress.
 
 From my point of view, three things make being part of a campaign team stressful:
+
 <ol>
- 	<li>It's a lot of work; the <a href="https://socratic-form-microscopy.com/2017/12/10/book-review-the-managed-heart/">emotion work</a> of listening to people's concerns can be emotionally draining and the walking physically taxing. This leads to you trying to do admin work when tired and worn-out.</li>
+ 	<li>It's a lot of work; the <a href="{{ site.baseurl }}/2017/12/10/book-review-the-managed-heart/">emotion work</a> of listening to people's concerns can be emotionally draining and the walking physically taxing. This leads to you trying to do admin work when tired and worn-out.</li>
  	<li>The outcome is uncertain. Many people like certainty and the combination of caring about a specific outcome a lot and being unsure if it will come about can wear you down.</li>
  	<li>The buck stops with you. When you're a simple canvasser, you just need to show up; everything else is taken care of. When people asked me to do things, they wouldn't get done <em>unless</em> I took care of them.</li>
 </ol>
@@ -75,7 +77,7 @@ Most of the people I met through the campaign are in a rather different stage of
 
 We had a potluck and reunion a month after the campaign was over and I found myself giddy afterwards; it wasn't just the stress of the campaign that made me like them. They're just cool people.
 
-The social scientist Jonathon Haidt wrote in <a href="https://socratic-form-microscopy.com/2018/02/25/book-review-the-righteous-mind/">The Righteous Mind</a> that many of the experiences people highlight as the most meaningful in their life happen in the context of some shared struggle. Whatever the depredations, working together for some important cause feels good. In my last post on canvassing, I also quoted Hannah Arendt, who talked about the "extreme pleasure" of working in a group. She was right. Haidt is right as well. Canvassing, volunteering, trying to get someone elected – these are all things that you will look back on and feel proud about.
+The social scientist Jonathon Haidt wrote in <a href="{{ site.baseurl }}/2018/02/25/book-review-the-righteous-mind/">The Righteous Mind</a> that many of the experiences people highlight as the most meaningful in their life happen in the context of some shared struggle. Whatever the depredations, working together for some important cause feels good. In my last post on canvassing, I also quoted Hannah Arendt, who talked about the "extreme pleasure" of working in a group. She was right. Haidt is right as well. Canvassing, volunteering, trying to get someone elected – these are all things that you will look back on and feel proud about.
 
 It's for these reasons – and because politics needs good, dedicated, decent people – that I recommend becoming involved at any and all levels of government. You don't have to run yourself. There are plenty of excellent candidates out there who need help, money, and time. If you're new to politics, consider volunteering to knock on doors. If you're an old hand, consider taking on a leadership role.
 

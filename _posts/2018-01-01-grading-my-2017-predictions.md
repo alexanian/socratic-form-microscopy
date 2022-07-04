@@ -14,7 +14,7 @@ tags:
   - predictions
 ---
 
-Now is the big reveal. Just how did I do in <a href="https://socratic-form-microscopy.com/2017/01/01/2017-predictions/">2017</a>?
+Now is the big reveal. Just how did I do in <a href="{{ site.baseurl }}/2017/01/01/2017-predictions/">2017</a>?
 
 <h2>Canada</h2>
 <ol>

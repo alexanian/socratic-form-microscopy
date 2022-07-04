@@ -50,7 +50,7 @@ That is to say: people are bad at reading the market signal that they shouldn't 
 
 It's a collective action problem because if everyone could credibly threaten to move, then they wouldn't have to; the threat would be enough to increase wages. Unfortunately, everyone knows that anyone who leaves the city will be quickly replaced. Everyone would be better off if they could coordinate and make all potential movers promise not to move in until wages increase, but there's no benefit to being the first person to leave or the first person to avoid moving[^1] and there currently seems to be no good way for everyone to coordinate in making a threat.
 
-When faced with the steady grinding down of young people, low wage workers, and everyone "<a href="https://socratic-form-microscopy.com/2018/02/04/against-job-lotteries/">just waiting for their big break</a>", we have two choices. We can do tut-tut at their inability to be "rational" (aka leave their friends, family, jobs, and aspirations to move somewhere else[^2]), or we can try to better their situation.
+When faced with the steady grinding down of young people, low wage workers, and everyone "<a href="{{ site.baseurl }}/2018/02/04/against-job-lotteries/">just waiting for their big break</a>", we have two choices. We can do tut-tut at their inability to be "rational" (aka leave their friends, family, jobs, and aspirations to move somewhere else[^2]), or we can try to better their situation.
 
 If everyone was acting "rationally", wages would be bid up. But we can accomplish the same thing by simple fiat. Governments can set a minimum wage or offer wage subsidies, after all.
 
@@ -58,7 +58,7 @@ I do genuinely worry that in some places, large increases in the minimum wage wi
 
 So, I think we should fix zoning, certainly. And I think we need to fix how Ontario's minimum wage functions in a recession so that it doesn't destroy our whole economy during the next one. But at the same time, I think we need to explore differential minimum wages for our largest cities and the rest of the province/country. I mean this even in a world where the current minimum $14/hour wage isn't rolled back. Would even $15/hour cut it in Toronto and Vancouver[^4]?
 
-If we can't make a minimum wage work without increased unemployment, then maybe we'll have to turn to <a href="https://socratic-form-microscopy.com/2017/08/27/why-dont-we-subsidize-higher-wages-or-public-policy-is-expensive/">wage subsidies</a>. This is actually the method that "conservative" economist Scott Sumner favours[^5].
+If we can't make a minimum wage work without increased unemployment, then maybe we'll have to turn to <a href="{{ site.baseurl }}/2017/08/27/why-dont-we-subsidize-higher-wages-or-public-policy-is-expensive/">wage subsidies</a>. This is actually the method that "conservative" economist Scott Sumner favours[^5].
 
 What's clear to me is that what we're currently doing isn't working.
 

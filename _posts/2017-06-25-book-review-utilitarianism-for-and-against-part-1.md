@@ -1,6 +1,6 @@
 ---
 id: 437
-title: 'Book Review: Utilitarianism for and against (Part 1)'
+title: "Book Review: Utilitarianism for and against (Part 1)"
 date: 2017-06-25T12:49:29-04:00
 author: Zach
 layout: post
@@ -19,9 +19,10 @@ tags:
   - reading
   - utilitarianism
 ---
+
 <em>Utilitarianism for and against</em> is an interesting little book. It's comprised of back-to-back ~70 page essays, one in favour of utilitarianism and one opposed. As an overview, it's hard to beat something like this. You don't have to rely on one scholar to give you her (ostensibly fair and balanced) opinion; you get two articulate philosophers arguing their side as best they can. Fair and balanced is by necessity left as an exercise to the reader (honestly, it always is; here at least it's explicit).
 
-I'm going to cover the "for" side first. The "against" side will be in later blog post. Both reviews are going to assume that you have some understanding of utilitarianism. If you don't, go read <a href="/2016/09/30/utilitarianism-an-overview/">my primer</a>. Or be prepared to Google. I should also mention that I have no aspirations of being balanced myself. I'm a utilitarian; I had much more to disagree with on the "against" side than on the "for" side.
+I'm going to cover the "for" side first. The "against" side will be in later blog post. Both reviews are going to assume that you have some understanding of utilitarianism. If you don't, go read <a href="{{ site.baseurl }}/2016/09/30/utilitarianism-an-overview/">my primer</a>. Or be prepared to Google. I should also mention that I have no aspirations of being balanced myself. I'm a utilitarian; I had much more to disagree with on the "against" side than on the "for" side.
 
 Professor J.J.C Smart makes the arguments in favour of utilitarianism. <a href="https://en.wikipedia.org/wiki/J._J._C._Smart">According to his Wikipedia entry</a>, he was known for "outsmarting" his opponents, that is to say, accepting the conclusions of their reductio ad absurdum arguments with nary a shrug. He was, I've gathered, not one for moral intuitions. His criticism of rule utilitarianism played a role in its decline and he was influential in raising the next crop of Australian utilitarians, among whom <a href="https://en.wikipedia.org/wiki/Peter_Singer">Peter Singer</a> is counted. As near as I can tell, he was one of the more notable defenders of utilitarianism when this volume was published in 1971 (although much of his essay dates back a decade earlier).
 
@@ -40,6 +41,7 @@ Smart claims that while these differences are philosophically large, they are pr
 Smart could have stood to examine at greater length just why ideal utilitarians value the things they do. I think there's a decent case to be made that societies figure out ways to value certain (likely fecund) pleasures all on their own, no philosophers required. It is not, I think, that ideal utilitarians have stumbled onto certain higher pleasures that they should coax their societies into valuing. Instead, their societies have inculcated them with a set of valued activities, which, due to cultural evolution, happen to line up well with fecund pleasures. This is why it feels difficult to argue with the list of pleasures ideal utilitarians proffer; it's not that they've stumbled onto deep philosophical truths via reason alone, it's that we have the same inculcations they do.
 
 Beyond simple fecundity though, there is the fact that the choice between Socrates dissatisfied and a fool satisfied <em>rarely comes up</em>. Smart has a great line about this:
+
 <blockquote>But even the most avid television addict probably enjoys solving practical problems connected with his car, his furniture, or his garden. However unintellectual he might be, he would certainly resist the suggestion the he should, if it were possible, change places with a contented sheep, or even a happy and lively dog.</blockquote>
 This boils down to: 'ideal utilitarians assume they're a lot better than everyone else, what with their "philosophical pursuits", but most people <em>don't want</em> purely mindless pleasures'. Combined, these ideas of fecundity and hidden depths, point to a vanishingly small gap between ideal and hedonistic utilitarians, especially compared to the gap between utilitarians and practitioners of other ethical systems.
 
@@ -114,6 +116,7 @@ Smart by turns seems to seek to rescue some commonly held moral truths when they
 Near the end of the book, when talking about a thought experiment introduced by one McCloskey, Smart admits that the only utilitarian action is to frame and execute an innocent man, thereby preventing a riot. McCloskey anticipated him, saying: "But as far as I know, only J.J.C. Smart among the contemporary utilitarians is happy to adopt this 'solution'".
 
 Smart responds:
+
 <blockquote>Here I must lodge a mild protest. McCloskey's use of the work 'happy' surely makes me look a most reprehensible person. Even in my most utilitarian moods, I am not happy about this consequence of utilitarianism… since any injustice causes misery and so can be justified only as the lesser of two evils, the fewer the situation in which the utilitarian is forced to choose the lesser of two evils, the better he will be pleased.</blockquote>
 This is also the man who said (much as I have) that "admittedly utilitarianism does have consequences which are incompatible with the common moral consciousness, but I tended to take the view 'so much the worse for the common moral consciousness'."
 

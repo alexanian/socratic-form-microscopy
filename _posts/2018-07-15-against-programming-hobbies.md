@@ -18,7 +18,7 @@ tags:
 [Epistemic Status: Written more harshly than my actual views for persuasive effect. I should also point out that all views expressed here are my own, not my employer's; when I'm hiring, my first commitment is complying with the relevant Federal, Provincial, and local legislation. My second commitment is to finding the best people. Ideology doesn't come into it. Serendipitously, I think everything I've argued for here helps me discharge both duties.]
 </p>
 
-In my capacity as a senior employee at <a href="https://alertlabs.com/">Alert Labs</a> (it's easy to be senior when the company is only three years old), I do a lot of hiring. Since I started, I've been involved in interviews for four full time hires and five interns. Throughout all of this, I've learned a lot about <a href="https://socratic-form-microscopy.com/2016/11/21/resume-tips-for-students/">what to look for in a resume</a>.
+In my capacity as a senior employee at <a href="https://alertlabs.com/">Alert Labs</a> (it's easy to be senior when the company is only three years old), I do a lot of hiring. Since I started, I've been involved in interviews for four full time hires and five interns. Throughout all of this, I've learned a lot about <a href="{{ site.baseurl }}/2016/11/21/resume-tips-for-students/">what to look for in a resume</a>.
 
 I've also gotten in the occasional disagreement about what we should look for in in people we're (potentially) hiring.
 
@@ -54,7 +54,7 @@ Third, I dislike what an overemphasis on programming projects can do to resumes.
 
 When students send in resumes, they all put the same four class projects on them, in the somewhat futile hope that we won't notice and we'll consider them adequately dedicated. I wish the fact that they were paying $8500 per term to learn about CS could be taken as proof enough of their dedication and I wouldn't have to read about pong sixty times a semester, but that is apparently not the world I live in.
 
-My final beef with an overemphasis on programming hobbies is that many important skills can't be learned in front of a computer. Not all hobbies teach you how to work together with a disparate team, respectfully navigate disagreements with other people, and effectively address co-worker concerns, but those that do are worth their weight in gold. Software is becoming ever more complex and is having ever more capital thrown at it. We've exhausted what we can do with single brilliant loners, which means that <a href="https://socratic-form-microscopy.com/2017/11/26/warriors-and-soldiers">we now need to turn to functional teams</a>.
+My final beef with an overemphasis on programming hobbies is that many important skills can't be learned in front of a computer. Not all hobbies teach you how to work together with a disparate team, respectfully navigate disagreements with other people, and effectively address co-worker concerns, but those that do are worth their weight in gold. Software is becoming ever more complex and is having ever more capital thrown at it. We've exhausted what we can do with single brilliant loners, which means that <a href="{{ site.baseurl }}/2017/11/26/warriors-and-soldiers">we now need to turn to functional teams</a>.
 
 This isn't meant to conjure up negative and insulting stereotypes about people who spend all their spare time programming. Many of these people are incredibly kind and very devoted to mentoring new members of our community.
 

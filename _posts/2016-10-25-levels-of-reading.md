@@ -74,4 +74,4 @@ On the other hand, I should look for indications that the book encourages reader
 A final note: this model can be applied to any work of fiction, not just books. For example, <em>Psycho Pass</em> is an anime that exists primarily on level 2, but uses level 3 to great effect. <em>Madoka Magica</em>, on the other hand, is primarily on level 3; it would not be nearly as strong of work without the context of other magical girl anime within which it exists. It may even be possible to extend this model to music or art, but here I must plead ignorance and leave that labour to another.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Model</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Model</a></p>

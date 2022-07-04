@@ -59,7 +59,7 @@ Abolishing the police will not abolish people's desire for protection. Leftists 
 <h4>17<sup>th</sup> Century Philosophy</h4>
 There is a very short list of political philosophers whose works have shaped and guided revolutions. To have written works that inspire such drastic change in society doesn't require or even suggest correctness. But it does suggest an understanding of the values that people hold closest to their hearts.
 
-The 17<sup>th</sup> century English philosopher John Locke is on that list. <a href="/justice/">I've written about Locke in the context of justice before</a>, but his ruminations on the state of nature are also applicable here.
+The 17<sup>th</sup> century English philosopher John Locke is on that list. <a href="{{ site.baseurl }}/justice/">I've written about Locke in the context of justice before</a>, but his ruminations on the state of nature are also applicable here.
 
 During Locke's life, there was open debate among philosophers as to the "state of nature" – the shape human existence would take without government or laws. The state of nature was an artificial construct. It shares more with the ideal zero energy state used in molecular dynamics simulations than it does with prehistorical societies; it's a baseline to compare political arrangements with, much as zero energy states are a baseline to compare molecular arrangements with.
 
@@ -104,6 +104,6 @@ As citizens of a free and democratic society, we should continue to pressure our
 We should fight for a society where the government holds only <a href="http://www.usip.org/guiding-principles-stabilization-and-reconstruction-the-web-version/6-safe-and-secure-environment/le">a legitimate monopoly</a> on the means of violence. Where violence is used only when truly necessary and not a moment sooner. Where security forces are truly subservient to civilian leaders. Where police shootings of unarmed civilians are an aberration, not a regular occurrence. We aren't there yet. But we could be.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Ethics</a></p>
 
 [^1]: Trade-offs between different rights are the proper territory of legislation and acknowledging this is separate from the harmful moral relativism that has infected leftist rhetoric on international relations. There is a distinct difference between trade-offs among competing rights and a fearful refusal to acknowledge universal and inalienable human rights.

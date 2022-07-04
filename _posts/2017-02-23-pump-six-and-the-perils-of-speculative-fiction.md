@@ -77,6 +77,6 @@ Another example: almost all science fiction before the late 00s drastically unde
 Writing is hard and the critic will always have an easier time than the author. I don't mean to be so hard on Bacigalupi, I really did enjoy Pump Six and it's caused me to do no end of thinking and discussing since I finished reading it. In this regard, it was an immensely successful book.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">The math is Falsifiable, the rest is a Model</a>.</p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">The math is Falsifiable, the rest is a Model</a>.</p>
 
 <hr class="post-end" />

@@ -20,7 +20,7 @@ tags:
 Content warning: reading this book left me in a low state of existential panic and unable to respond appropriately to other people's emotions for about a week. You have been warned.
 </p>
 
-If you've followed my blog for any amount of time, you probably know that I'm a big fan of the sociologist and feminist scholar Professor Arlie Russell Hochschild. Previously I have reviewed her books "<a href="https://socratic-form-microscopy.com/2017/05/20/book-review-sitol/">Strangers in Their Own Land</a>" and "<a href="https://socratic-form-microscopy.com/2017/09/17/book-review-the-second-shift/">The Second Shift</a>". I've also published <a href="https://socratic-form-microscopy.com/2017/10/29/housework/">a practical guide to sharing housework</a>, inspired by reading "The Second Shift". Today I'm going to review <a href="https://www.ucpress.edu/book.php?isbn=9780520272941">The Managed Heart</a> the book that first brought Professor Hochschild to mainstream attention.
+If you've followed my blog for any amount of time, you probably know that I'm a big fan of the sociologist and feminist scholar Professor Arlie Russell Hochschild. Previously I have reviewed her books "<a href="{{ site.baseurl }}/2017/05/20/book-review-sitol/">Strangers in Their Own Land</a>" and "<a href="{{ site.baseurl }}/2017/09/17/book-review-the-second-shift/">The Second Shift</a>". I've also published <a href="{{ site.baseurl }}/2017/10/29/housework/">a practical guide to sharing housework</a>, inspired by reading "The Second Shift". Today I'm going to review <a href="https://www.ucpress.edu/book.php?isbn=9780520272941">The Managed Heart</a> the book that first brought Professor Hochschild to mainstream attention.
 
 But before I begin the review, I'd like to talk about words.
 

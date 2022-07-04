@@ -47,11 +47,11 @@ Viewed through this lens, Prof. Caplan's suggestions are supremely harmful. They
 
 All this is to say I think the rant I had when I first saw this article was justified:
 
-<blockquote>The problem with checks and balances (<a href="/2017/01/30/trump-is-marius-not-caesar/#3">as I keep articulating</a>) is that they are fine in good times, but in bad times people need to be able to change stuff and you won't have a supermajority to agree on what things to change. So you get people going from Point A (where we currently are) to Point B (where they want to be) in a way that is supremely damaging to the norms that we need for stable growth in the remaining 95% of cases.
+<blockquote>The problem with checks and balances (<a href="{{ site.baseurl }}/2017/01/30/trump-is-marius-not-caesar/#3">as I keep articulating</a>) is that they are fine in good times, but in bad times people need to be able to change stuff and you won't have a supermajority to agree on what things to change. So you get people going from Point A (where we currently are) to Point B (where they want to be) in a way that is supremely damaging to the norms that we need for stable growth in the remaining 95% of cases.
 
 If 51% of the population want something, they will probably eventually get something in that general area. We can control, however, where in that area they land. Do we want to restrain them temporarily, then have them get it in the most extreme form? Or do we want them to work within the system, be able to easily get it in a watered down form, and then dissolve for want of a remaining common enemy?</blockquote>
 
 My overriding desire is for checks and balances that are reasonably effective over the lifetime of a nation. I support limited checks and balances because I truly believe that in the long run, this leads to governments being most constrained in their actions.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">Model</a></p>

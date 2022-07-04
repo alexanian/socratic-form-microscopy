@@ -22,7 +22,7 @@ tags:
 [Epistemic Status: I am not an economist, but…]
 </p>
 
-<em><strong>ETA (October 2018)</strong>: <a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Preliminary studies from Seattle</a> make me much more pessimistic about the effects of the Ontario minimum wage hike. I'd also like to highlight the <a href="https://socratic-form-microscopy.com/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">potential for problems</a> when linking a minimum wage to inflation.</em>
+<em><strong>ETA (October 2018)</strong>: <a href="https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/">Preliminary studies from Seattle</a> make me much more pessimistic about the effects of the Ontario minimum wage hike. I'd also like to highlight the <a href="{{ site.baseurl }}/2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/">potential for problems</a> when linking a minimum wage to inflation.</em>
 
 There's something missing from the discussion about the $15/hour minimum wage in Ontario, something basically every news organization has failed to pick up on. I'd have missed it too, except that a chance connection to a recent blog post I'd read sent me down the right rabbit hole. I've climbed out on the back of a mound of government statistics and I <em>really</em> want to share what I've found.
 

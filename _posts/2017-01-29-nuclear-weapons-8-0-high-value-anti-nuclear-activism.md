@@ -57,9 +57,9 @@ For what it's worth, I'm donating to the <a href="http://www.ploughshares.org/">
 <table style="width: 100%; border-width: 0px; background: transparent;">
 <tbody>
 <tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="/2017/01/28/nuclear-weapons-7-0-strategy/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-    <td style="border:0px solid;background:transparent;text-align:right;"><a href="/2017/01/22/nuclear-weapons-1-0-introduction#special">special topics &gt;</a></th>
+<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/28/nuclear-weapons-7-0-strategy/">&lt; previous</a></td>
+<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
+    <td style="border:0px solid;background:transparent;text-align:right;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction#special">special topics &gt;</a></th>
 </tr>
 </tbody>
 </table>

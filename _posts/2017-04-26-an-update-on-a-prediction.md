@@ -14,7 +14,8 @@ tags:
   - canada
   - trudeau
 ---
-Back in February, <a href="https://socratic-form-microscopy.com/2017/02/05/on-norms/">I predicted</a> that the slew of scandals Trudeau was facing wouldn't decrease his approval ratings. To put numbers on this, I gave my confidence intervals for Trudeau's approval ratings in April.
+
+Back in February, <a href="{{ site.baseurl }}/2017/02/05/on-norms/">I predicted</a> that the slew of scandals Trudeau was facing wouldn't decrease his approval ratings. To put numbers on this, I gave my confidence intervals for Trudeau's approval ratings in April.
 
 Thanks to the "<a href="http://www.cbc.ca/news2/interactives/leadermeter/index.html">Leader Meter</a>", it's easy for me to check up on how Trudeau is doing. As of right now, the most recent poll has him at 48% approval (this is conveniently the first poll since April 1st, making it useful for the purposes of checking my prediction), while Éric Grenier's model has him at 50.6% approval.
 

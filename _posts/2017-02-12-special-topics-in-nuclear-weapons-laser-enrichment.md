@@ -90,7 +90,7 @@ SILEX could further increase the energy return on investment, making nuclear pow
 <br>
 <table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
   <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="/2017/01/24/nuclear-weapons-3-0-proliferation/">main topic</a></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">index</a></th>
+    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/24/nuclear-weapons-3-0-proliferation/">main topic</a></th>
+    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">index</a></th>
   </tr>
 </table>

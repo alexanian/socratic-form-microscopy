@@ -54,7 +54,7 @@ History optimized for this sort of team or political effect turns many modern hi
 <h2>Unreliable Narrators</h2>
 Gaps in context, or modern readers missing the true significance of gestures, words, and acts steeped in a particular extinct culture, combined with the fact that it is often impossible to really know why someone in the past did something mean that some of history is always going to be filled in with our best guesses.
 
-Professor Mary Beard really drove this point home for me in her book <a href="https://socratic-form-microscopy.com/2017/01/22/book-review-spqr/">SPQR</a>. She showed me how history that I thought was solid was often made up of myths, exaggerations, and wishful thinking on the parts of modern authors. We <em>know</em> much less about Rome than many historians had made clear to me, probably because any nuance or alternative explanation would ruin their grand theories.
+Professor Mary Beard really drove this point home for me in her book <a href="{{ site.baseurl }}/2017/01/22/book-review-spqr/">SPQR</a>. She showed me how history that I thought was solid was often made up of myths, exaggerations, and wishful thinking on the parts of modern authors. We <em>know</em> much less about Rome than many historians had made clear to me, probably because any nuance or alternative explanation would ruin their grand theories.
 
 When it comes to so much of the past, we genuinely don't know why things happened.
 

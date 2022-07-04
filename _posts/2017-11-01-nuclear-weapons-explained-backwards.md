@@ -141,7 +141,7 @@ So to summarize:
 </ul>
 <img class="alignnone size-full wp-image-558" src="/wp-content/uploads/Slide15.png" alt="" width="720" height="405" />
 
-If you want to learn more, either about <a href="/2017/01/22/nuclear-weapons-1-0-introduction/">nuclear weapons in general</a> or <a href="/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korea's nuclear weapon program in particular</a>, you can go to my blog at socraticfm.com. Also Wikipedia exists.
+If you want to learn more, either about <a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">nuclear weapons in general</a> or <a href="{{ site.baseurl }}/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korea's nuclear weapon program in particular</a>, you can go to my blog at socraticfm.com. Also Wikipedia exists.
 
 <h3>Questions</h3>
 <ul>

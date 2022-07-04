@@ -17,7 +17,7 @@ tags:
   - my honour
 ---
 
-<a href="https://socratic-form-microscopy.com/2017/11/19/two-fallacies-from-weapons-of-math-destruction/">Recently</a>, I talked about what I didn't like in Dr. Cathy O'Neil's book, <em>Weapons of Math Destruction</em>. This time around, I'd like to mention two parts of it I really liked. I wish Dr. O'Neil put more effort into naming the concepts she covered; I don't have names for them from <em>WMD</em>, but in my head, I've been calling them <em>Hidden Value Encodings</em> and <em>Axiomatic Judgements</em>.
+<a href="{{ site.baseurl }}/2017/11/19/two-fallacies-from-weapons-of-math-destruction/">Recently</a>, I talked about what I didn't like in Dr. Cathy O'Neil's book, <em>Weapons of Math Destruction</em>. This time around, I'd like to mention two parts of it I really liked. I wish Dr. O'Neil put more effort into naming the concepts she covered; I don't have names for them from <em>WMD</em>, but in my head, I've been calling them <em>Hidden Value Encodings</em> and <em>Axiomatic Judgements</em>.
 
 <h1>Hidden Value Encodings</h1>
 Dr. O'Neil opens the book with a description of the model she uses to cook for her family. After going into a lot of detail about it, she makes this excellent observation:

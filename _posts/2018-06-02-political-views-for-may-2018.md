@@ -17,20 +17,20 @@ tags:
   - regulation
 ---
 
-I like to keep track of my life over time. I'm an obsessive journaler (and, as this blog can attest, a fairly regular blogger). At the end of every day, I track my mood, my sleep, my productivity, my social life, and how well I did in spaced repetition exercises. Last May, I decided to track one more thing about myself and start a tradition of publishing my <a href="https://socratic-form-microscopy.com/2017/05/31/political-views-for-may-2017/">Political Compass results</a> yearly.
+I like to keep track of my life over time. I'm an obsessive journaler (and, as this blog can attest, a fairly regular blogger). At the end of every day, I track my mood, my sleep, my productivity, my social life, and how well I did in spaced repetition exercises. Last May, I decided to track one more thing about myself and start a tradition of publishing my <a href="{{ site.baseurl }}/2017/05/31/political-views-for-may-2017/">Political Compass results</a> yearly.
 
 I'm a bit late this year (I kept the title because I started the post in May) because there's actual politics happening; I've been volunteering for <a href="https://www.catherinefife.com/">my local MPP's re-election campaign</a>. Of explanations for being late with a politics related blog post, that might be the best one I ever give.
 
 <h3>The Results</h3>
 Last year, I scored -3.25 on the economic axis and -6.56 on the authority axis.
 
-Canadian results come from <a href="https://www.politicalcompass.org/canada2015">The Political Compass's take on the 2015 Canadian election</a>. Blog commenter Thomas Sm suggests you should <a href="https://socratic-form-microscopy.com/2017/05/31/political-views-for-may-2017/#comment-3466">take the comparison with a grain of salt</a> and I'm somewhat inclined to believe him.
+Canadian results come from <a href="https://www.politicalcompass.org/canada2015">The Political Compass's take on the 2015 Canadian election</a>. Blog commenter Thomas Sm suggests you should <a href="{{ site.baseurl }}/2017/05/31/political-views-for-may-2017/#comment-3466">take the comparison with a grain of salt</a> and I'm somewhat inclined to believe him.
 
 This year I scored -2.0 on the economic axis and -6.46 on the authority axis, leaving me in the left libertarian camp, although continuing a seemingly inexorable trend towards economic centrism.
 
 While my position on authority has remained virtually unchanged (I'm sure the difference was random fluctuation in how I might answer borderline questions), I do think I have meaningfully (although not largely) different views on economics than I did a year ago and I think there were two key object level updates that drove this change.
 
-The first was the overview of rent-seeking in <a href="https://global.oup.com/academic/product/the-captured-economy-9780190627768?cc=us&amp;lang=en&amp;">The Captured Economy</a> (review forthcoming). I was <a href="https://socratic-form-microscopy.com/2017/07/26/meditations-on-regulation-or-the-case-of-the-10000-stairs/">already skeptical of regulation in 2017</a>. The Captured Economy turned this up to 11 when it showed how a lot of regulation actually results in redistribution of wealth from people who are struggling to people who are affluent.
+The first was the overview of rent-seeking in <a href="https://global.oup.com/academic/product/the-captured-economy-9780190627768?cc=us&amp;lang=en&amp;">The Captured Economy</a> (review forthcoming). I was <a href="{{ site.baseurl }}/2017/07/26/meditations-on-regulation-or-the-case-of-the-10000-stairs/">already skeptical of regulation in 2017</a>. The Captured Economy turned this up to 11 when it showed how a lot of regulation actually results in redistribution of wealth from people who are struggling to people who are affluent.
 
 To take just one example, let's talk about occupational licensing.
 
@@ -84,4 +84,4 @@ I hope these predictions are more properly calibrated than my last ones!
 
 [^1]: The common liberal take on this is different from pure Keynesian economics, because they don't restrict "times are tough" to recessions and depressions. For a lot of modern people who say they just "support Keynesian economics" (and I was one of them), it's always tough times for someone. <strong> </strong>
 [^2]: I basically never see monetary policy even mentioned on the left. My guess is this is because the left largely views this as simple bean counting that is nowhere near as interesting or important as making sure we have lots of spending on social programs. Reality seems to be different, especially when <a href="https://www.ft.com/content/d4c2f40e-5373-11e8-b3ee-41e0209208ec">you get it wrong</a>.
-[^3]: This is probably more evidence that I'm <a href="https://socratic-form-microscopy.com/2018/01/01/grading-my-2017-predictions/">under-confident</a>.
+[^3]: This is probably more evidence that I'm <a href="{{ site.baseurl }}/2018/01/01/grading-my-2017-predictions/">under-confident</a>.

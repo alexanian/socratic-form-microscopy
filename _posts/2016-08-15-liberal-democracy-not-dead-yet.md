@@ -47,4 +47,4 @@ This is just one theory. I have many equally plausible ones:
 In general, <a href="http://induecourse.ca/in-praise-of-status-quo-ism-or-10-theses-arising-from-the-brexit-fiasco/">I'm on board with the radical idea that radical ideas normally stink,</a> so I will suss to hoping that (3) is the correct explanation.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Falsifiable</a></p>

@@ -180,4 +180,4 @@ The rest comes from reading too many articles on Wikipedia and too many news thi
 As usual, this blog post should only be taken as an accurate account of my own views, not the views of anyone else.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">Model</a></p>

@@ -50,7 +50,7 @@ Even the immense force of the centrifuge really isn't enough to get an appreciab
 
 Actually, this laborious and energy intensive process is the "easy" way of enriching uranium. Prior to the invention of centrifuge enrichment, a process known as <a-href="https://en.wikipedia.org/wiki/Gaseous_diffusion">gaseous diffusion</a> was used. Compared to it, centrifuges require very little energy. This has been great for the energy return on investment of civilian nuclear plants, but less good for proliferation risk.
 
-This process may eventually become even easier, due to technological advances like <a href="/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a>. But for now, you have to put in this work if you want uranium for your bomb.
+This process may eventually become even easier, due to technological advances like <a href="{{ site.baseurl }}/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a>. But for now, you have to put in this work if you want uranium for your bomb.
 
 Again, all of this is necessary for uranium bombs because naturally occurring uranium is <em>depleted</em>. To make nuclear weapons, you need highly unstable uranium. But all the uranium on earth was created billions of years ago, in the hearts of now long-dead stars. Over time, more and more of the unstable uranium has broken down, leaving mostly the more-stable isotopes.
 
@@ -128,9 +128,9 @@ Additional Reading: <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Pro
 <table style="width: 100%; border-width: 0px; background: transparent;">
 <tbody>
 <tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="/2017/01/23/nuclear-weapons-2-0-basic-science/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="/2017/01/25/nuclear-weapons-4-0-weapon-design/">next &gt;</a></td>
+<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/23/nuclear-weapons-2-0-basic-science/">&lt; previous</a></td>
+<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
+<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/25/nuclear-weapons-4-0-weapon-design/">next &gt;</a></td>
 </tr>
 </tbody>
 </table>

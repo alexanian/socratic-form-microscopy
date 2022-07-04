@@ -87,4 +87,4 @@ If I was sent the survey, I would have answered no to her question. But I can't 
 These disagreements remind us that we cannot impose our will or morality by fiat on anyone else, but also that they are bound by the same prohibitions. This is a set of rules that I'm happy to play by. I hope that Dr. Leitch is too.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Falsifiable</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Falsifiable</a></p>

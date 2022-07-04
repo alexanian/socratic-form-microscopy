@@ -48,7 +48,7 @@ This isn't to say that I have a problem with no-fault divorces. If I didn't supp
 
 Faced with such a dearth of commitment options, what's an akratic to do? Fail? If you're religious, this is opening you up to the possibility of eternal damnation. That's clearly not an option. Fighting for regressive "family values" laws becomes a survival mechanism for anyone caught between their conservative morality and their own predilections.
 
-I know societal punishments aren't a perfect solution for akrasia. <a href="http://www.bbc.com/news/magazine-35599077">Many people desire not to shoplift, yet shoplift things they don't need anyway</a>, despite all the penalties. Beeminder isn't a perfect solution either. Some people lie. Some people give up. But it helps some people. <a href="/2017/06/18/six-steps-to-a-daily-writing-habit/">It helped me</a>.
+I know societal punishments aren't a perfect solution for akrasia. <a href="http://www.bbc.com/news/magazine-35599077">Many people desire not to shoplift, yet shoplift things they don't need anyway</a>, despite all the penalties. Beeminder isn't a perfect solution either. Some people lie. Some people give up. But it helps some people. <a href="{{ site.baseurl }}/2017/06/18/six-steps-to-a-daily-writing-habit/">It helped me</a>.
 
 For some people, societal punishments are the only thing that will work. In a push to liberalize everything about society, liberals really have backed some people into a corner. It wouldn't be that hard to let them out. Make cheating clauses in prenups enforceable and allow them to include punitive damages. Allow couples to set arduous conditions on their own divorce. Listen to what people want and see if there are ways that we can give it to them and only them.
 
@@ -59,4 +59,4 @@ There are some things that liberals and social conservatives will probably never
 It's the authoritarian who seeks to make their choices the choices of everyone. Too often that authoritarian is the social conservative. Allowing them to sanction themselves won't end that. Too many are motivated by self-righteousness or a belief that what works for them must necessarily work for everyone else. We can't fix that. But we sure as hell can be better than it.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model<a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">Model<a></p>

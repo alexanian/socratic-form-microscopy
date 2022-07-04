@@ -67,4 +67,4 @@ But it should also frighten Trump's supporters. One man rule is a terrible syste
 The final remaining question then is: will this resistance show up, or are the early rumours exaggerated. On this point, the world is watching and hoping that the ordinary civil servants of America display the requisite moral courage to passively resist Trump's most damaging requests.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Model</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Model</a></p>

@@ -84,7 +84,7 @@ I would suggest that if you're the type of person whose knee-jerk response to re
 Also, it probably seems true that some things are a touch over-regulated if $65,000 (or even $10,000) is an unsurprising estimate for a set of stairs.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">Model</a></p>
 
 [^1]: Of course, even unpaid overtime has a cost. After a lot of it, you might feel justified to a rather longer paid vacation than you might otherwise take. Not to mention that long hours with inadequate breaks can harm productivity in the long run.
 [^2]: It seems to rest on the belief that regulation makes things more expensive, therefore fewer people buy them, therefore fewer people are needed to produce them. What this simple analysis misses (and what's pointed out in the Pro Publica article I linked) is that regulatory compliance <em>is a job</em>. Jobs lost directly producing things are more or less offset by jobs dealing with regulations, such that increased regulation has an imperceptible effect on employment. This seems related to the <a href="https://en.wikipedia.org/wiki/Lump_of_labour_fallacy">lump of labour fallacy</a>, although I've yet to figure out how to clearly articulate the connection.

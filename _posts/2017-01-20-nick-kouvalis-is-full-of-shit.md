@@ -44,7 +44,7 @@ I suspect that Mr. Kouvalis bragged to Macleans with another agenda: stopping pe
 
 Even if my read is wrong, you have little to lose by joining the Conservative Party and trying to cast a vote against Dr. Leitch. If you haven't posted anything publically under your legal name, "Operation Flytrap" can't target you.
 
-If you're like me and have been <a href="/2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/">public in your criticism of Dr. Leitch</a>, your name may be submitted to the Conservative Party of Canada. But saying it so casually belies the effort involved in even reporting your name. The Leitch campaign can't report you until they spend the time it takes to prove your identity, format a complaint, and jump through whatever hoops that entails. This process will by necessity include a lot of wasted effort.
+If you're like me and have been <a href="{{ site.baseurl }}/2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/">public in your criticism of Dr. Leitch</a>, your name may be submitted to the Conservative Party of Canada. But saying it so casually belies the effort involved in even reporting your name. The Leitch campaign can't report you until they spend the time it takes to prove your identity, format a complaint, and jump through whatever hoops that entails. This process will by necessity include a lot of wasted effort.
 
 If 8,000 people badmouth Dr. Leitch on Twitter, that's 8,000 tweets that have to be documented as evidence, 8,000 names that have to be discovered through detective work, and up to 8,000 complaints to submit to the Conservative Party. All this for no guaranteed reward, because the Leitch campaign won't know if any of those people have even joined the party.
 
@@ -60,6 +60,6 @@ P.S. I'm older than 14, have paid my membership fee, and I agree with all 22 of 
 
 <hr class="post-end" />
 
-<p>Ad Supported References (as <a href="/2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/">per earlier</a>, please only visit with an adblocker so as to avoid incentivizing Kellie Leitch name recognition):</p>
+<p>Ad Supported References (as <a href="{{ site.baseurl }}/2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/">per earlier</a>, please only visit with an adblocker so as to avoid incentivizing Kellie Leitch name recognition):</p>
 
 [^1]: <a href="http://www.macleans.ca/news/canada/inside-nick-kouvaliss-fake-news-strategy/">http://www.macleans.ca/news/canada/inside-nick-kouvaliss-fake-news-strategy/</a>

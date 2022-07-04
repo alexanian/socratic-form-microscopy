@@ -96,4 +96,4 @@ This is just a survey of some of the possible value functions a utilitarian can 
 I'm going to be following this post up with a post on <a href="http://cnx.org/contents/ba77245b-c596-4485-8f30-94d9209117cf%401">precedent utilitarianism</a>, which solved this problem for me.
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me/">Ethics</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me/">Ethics</a></p>

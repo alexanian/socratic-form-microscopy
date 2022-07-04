@@ -30,7 +30,7 @@ I dearly don't want to add any more "petty" annoyances to healthcare.
 
 As soon as we allow doctors to mix public funding with direct payments from patients or insurance, we'll unleash a storm of lobbying. Everything from favourable tax treatment for clinics (we don't charge HST on provincial care, it's unfair to charge it on their added fees!) to tax breaks for insurance, to inflated fees for private clinics to handle some public cases will be on the table.
 
-If the lobbyists do their job well, the private system will perch like a mosquito on the public system, sucking tax dollars from the public purse and using them to subsidize private care. This offends me on a visceral level, sure. But it's also <em>bad policy</em>. <a href="/2017/06/03/whose-minimum-wage/">Healthcare costs are already outpacing general inflation</a>; we should not risk throwing fuel on that fire. We might end up with having the same sort of <a href="http://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/">cost disease</a> as <em>America</em>.
+If the lobbyists do their job well, the private system will perch like a mosquito on the public system, sucking tax dollars from the public purse and using them to subsidize private care. This offends me on a visceral level, sure. But it's also <em>bad policy</em>. <a href="{{ site.baseurl }}/2017/06/03/whose-minimum-wage/">Healthcare costs are already outpacing general inflation</a>; we should not risk throwing fuel on that fire. We might end up with having the same sort of <a href="http://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/">cost disease</a> as <em>America</em>.
 
 If we can keep healthcare relatively simple, we can keep it relatively cheap. One of the most pernicious things about cost disease is that it mainly affects things the government pays for. Because of this, the government has to collect more and more tax dollars just to provide the same level of service. As long as healthcare, education, and real estate are getting more expensive in real (inflation adjusted terms), we have to choose between raising taxes or making do with less service. When there are two systems, it's clear that the users of the private system (and their lobbyists) would prefer decreased public services to increased taxes.
 
@@ -71,7 +71,7 @@ A lottery isn't my preferred solutions. Wealthy people who put their name in and
 If you take just one thing from this post, I want it to be "it's really important to have good public systems, so that lobbying effort is focused on improving those systems". If you have room in your mind for another, it should be "having a public embryo selection and genetic engineering program in place is very important if we don't want to social stratification to become much more permanent".
 
 <hr class="post-end" />
-<p class="epistemic-status">Epistemic Status: <a href="/about-me">Model</a></p>
+<p class="epistemic-status">Epistemic Status: <a href="{{ site.baseurl }}/about-me">Model</a></p>
 
 [^1]: In this post, I'm talking about industries where there is either a clear need to serve the public good, a market failure, or both. In these cases, "use markets to lower prices and increase services" is an unappealing alternative.
 [^2]:

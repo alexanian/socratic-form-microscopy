@@ -82,9 +82,9 @@ Additional Reading: <a href="http://news.bbc.co.uk/2/hi/uk/7892294.stm">Nuclear 
 <table style="width: 100%; border-width: 0px; background: transparent;">
 <tbody>
 <tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="/2017/01/26/nuclear-weapons-5-0-effects/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="/2017/01/28/nuclear-weapons-7-0-strategy/">next &gt;</a></td>
+<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects/">&lt; previous</a></td>
+<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
+<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/28/nuclear-weapons-7-0-strategy/">next &gt;</a></td>
 </tr>
 </tbody>
 </table>

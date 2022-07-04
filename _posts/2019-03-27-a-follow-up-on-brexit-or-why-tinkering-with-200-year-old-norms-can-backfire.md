@@ -19,7 +19,7 @@ tags:
 
 Last week I said that I'd been avoiding writing about Brexit because it was neither my monkeys nor my circus. This week, I'll be eating those words.
 
-I'm a noted enthusiast of the Westminster system of government, yet this week (<a href="https://www.theguardian.com/politics/2019/mar/25/have-mps-gained-the-upper-hand-in-the-brexit-battle">with Teresa May's deal failing in parliament and parliament taking control of Brexit proceedings, to uncertain ends</a>) seems to fly in the face of everything good <a href="https://socratic-form-microscopy.com/2017/09/03/westminster-is-bestminster/">I've said about it</a>. That impression is false; the current impasse has been caused entirely by recent ill-conceived British tinkering, not any core problems with the system itself.
+I'm a noted enthusiast of the Westminster system of government, yet this week (<a href="https://www.theguardian.com/politics/2019/mar/25/have-mps-gained-the-upper-hand-in-the-brexit-battle">with Teresa May's deal failing in parliament and parliament taking control of Brexit proceedings, to uncertain ends</a>) seems to fly in the face of everything good <a href="{{ site.baseurl }}/2017/09/03/westminster-is-bestminster/">I've said about it</a>. That impression is false; the current impasse has been caused entirely by recent ill-conceived British tinkering, not any core problems with the system itself.
 
 As far as I can tell, the current shambles arise from three departures from the core of the Westminster system.
 

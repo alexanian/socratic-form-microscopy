@@ -14,7 +14,7 @@ tags:
   - predictions
 ---
 
-In what is becoming a New Year's tradition, let's look at how accurately I predicted the future <a href="https://socratic-form-microscopy.com/2018/01/03/2018-predictions/">a year ago</a>.
+In what is becoming a New Year's tradition, let's look at how accurately I predicted the future <a href="{{ site.baseurl }}/2018/01/03/2018-predictions/">a year ago</a>.
 
 <h2>Canada</h2>
 <ol>
