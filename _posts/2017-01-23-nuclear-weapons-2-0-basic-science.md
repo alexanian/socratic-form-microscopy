@@ -3,7 +3,7 @@ id: 124
 title: "Nuclear Weapons: 2.0 Basic Science"
 date: 2017-01-23T19:28:05-05:00
 author: Zach
-layout: post
+layout: post-nuclear
 guid: http://socratic-form-microscopy.com/?p=124
 permalink: /2017/01/23/nuclear-weapons-2-0-basic-science/
 categories:
@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 1.0 Introduction"
+    url: /2017/01/22/nuclear-weapons-1-0-introduction/
+  next:
+    title: "Nuclear Weapons: 3.0 Proliferation"
+    url: /2017/01/24/nuclear-weapons-3-0-proliferation/
 ---
 
 For this to all make sense, we should start with a brief review of atomic theory.
