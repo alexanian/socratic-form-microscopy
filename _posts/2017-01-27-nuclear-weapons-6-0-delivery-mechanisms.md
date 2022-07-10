@@ -18,8 +18,8 @@ nuclear-series:
     title: "Nuclear Weapons: 5.0 Effects"
     url: /2017/01/26/nuclear-weapons-5-0-effects/
   next:
-    title: "Nuclear Weapons: 6.0 Delivery Mechanisms"
-    url: /2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/
+    title: "Nuclear Weapons: 7.0 Strategy"
+    url: /2017/01/28/nuclear-weapons-7-0-strategy/
 ---
 
 All the nukes in the world are useless unless you have a way to get them to their targets. Aside from outlandish and potentially suicidal methods like suitcase nukes or nuclear artillery, there are three main ways of doing this: bombers, intercontinental ballistic missiles (ICBMs), and submarine launched ballistic missiles (SLBMs).

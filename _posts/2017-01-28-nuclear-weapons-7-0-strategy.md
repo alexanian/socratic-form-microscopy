@@ -18,8 +18,8 @@ nuclear-series:
     title: "Nuclear Weapons: 6.0 Delivery Mechanisms"
     url: /2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/
   next:
-    title: "Special Topics: Laser Enrichment"
-    url: /2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/
+    title: "Nuclear Weapons: 8.0 High Value Anti-Nuclear Activism"
+    url: /2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism/
 ---
 
 Having covered the practicalities of nuclear physics, nuclear weapon design, and nuclear weapon effects, we may now turn our attention to the strategies that have grown out of these physical realities.
