@@ -30,7 +30,7 @@ In the first, called <a href="http://econlog.econlib.org/archives/2017/12/miscon
 
 Under the second model, inequality in new worth or salary is all that matters. This is the classic model that gives us the <a href="https://en.wikipedia.org/wiki/Gini_coefficient">GINI coefficient</a> and "the 1%". Under this model, Warren Buffett is the very best off, with Larry Ellison close behind. I'm not even in contention.
 
-I've been thinking a lot about inequality because of the recent increase in the minimum wage in Ontario. The reasons behind the wage hike – and similar economic justice proposals (<a href="https://www.thenation.com/article/swiss-activists-lets-cap-ceo-pay/">like capping CEO pay at some double-digit multiple of worker pay</a>) – seem to show a concern for consumptive inequality.
+I've been thinking a lot about inequality because of the recent increase in the minimum wage in Ontario. The reasons behind the wage hike – and similar economic justice proposals (<a href="https://www.thenation.com/article/archive/swiss-activists-lets-cap-ceo-pay/">like capping CEO pay at some double-digit multiple of worker pay</a>) – seem to show a concern for consumptive inequality.
 
 That is to say, the prevailing narrative around inequality is that it is bad because:
 
