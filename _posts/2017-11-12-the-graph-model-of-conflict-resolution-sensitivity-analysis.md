@@ -29,6 +29,7 @@ tags:
  	<li>All out conventional warfare on the Korean Peninsula (s. 4)</li>
  	<li>All out nuclear warfare on the Korean Peninsula (s. 5)</li>
 </ul>
+
 But how much can we trust these results? How much to they depend on my subjective ranking of the belligerent's preferences? How much do they depend on the stability metrics I used?
 
 To get a sense of this, I'm going to add another stability metric into the mix, come up with three new preference vectors, and look at how the original results change when we consider a North Korean invasion to be irreversible. After these eight new stability calculations, we'll have nine slightly different ways of looking at the conflict; this should help us guess which equilibria are robust to my subjective choices and which might exist only because of how I framed the problem.
@@ -46,67 +47,27 @@ The states are:
 
 Or in plain English:
 
-<table>
-<tbody>
-<tr>
-<td width="46">State</td>
-<td width="422">Explanation</td>
-</tr>
-<tr>
-<td width="46">0</td>
-<td width="422">Status quo</td>
-</tr>
-<tr>
-<td width="46">1</td>
-<td width="422">Nuclear strike by the US, NK keeps nuclear weapons</td>
-</tr>
-<tr>
-<td width="46">2</td>
-<td width="422">Unilateral US troop withdrawal</td>
-</tr>
-<tr>
-<td width="46">4</td>
-<td width="422">North Korean invasion with only conventional US responses</td>
-</tr>
-<tr>
-<td width="46">5</td>
-<td width="422">North Korean invasion with US nuclear strike</td>
-</tr>
-<tr>
-<td width="46">6</td>
-<td width="422">US withdrawal and North Korean Invasion</td>
-</tr>
-<tr>
-<td width="46">8</td>
-<td width="422">Unilateral North Korean abandonment of nuclear weapons</td>
-</tr>
-<tr>
-<td width="46">9</td>
-<td width="422">US strike and North Korean abandonment of nuclear weapons</td>
-</tr>
-<tr>
-<td width="46">10</td>
-<td width="422">Coordinated US withdrawal and NK abandonment of nuclear weapons</td>
-</tr>
-<tr>
-<td width="46">12</td>
-<td width="422">NK invasion after abandoning nuclear weapons; conventional US response</td>
-</tr>
-<tr>
-<td width="46">13</td>
-<td width="422">NK invasion after abandoning nuclear weapons; US nuclear strike</td>
-</tr>
-<tr>
-<td width="46">14</td>
-<td width="422">US withdrawal paired with NK nuclear weapons abandonment and invasion</td>
-</tr>
-</tbody>
-</table>
+| State | Explantation |
+|-------|--------------|
+| 0     | Status quo   |
+| 1     | Nuclear strike by the US, NK keeps nuclear weapons   |
+| 2     | Unilateral US troop withdrawal   |
+| 4     | North Korean invasion with only conventional US responses   |
+| 5     | North Korean invasion with US nuclear strike   |
+| 6     | US withdrawal and North Korean Invasion   |
+| 8     | Unilateral North Korean abandonment of nuclear weapons   |
+| 9     | US strike and North Korean abandonment of nuclear weapons   |
+| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons   |
+| 12    | NK invasion after abandoning nuclear weapons; conventional US response   |
+| 13    | NK invasion after abandoning nuclear weapons; US nuclear strike   |
+| 14    | US withdrawal paired with NK nuclear weapons abandonment and invasion   |
+
 From these states, we saw the following equilibria and unilateral improvements:
 
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-578 size-medium_large" src="{{ site.baseurl }}/wp-content/uploads/overall_stability_v5-768x316.png" alt="Click for copyable version" width="768" height="316" /></a>
 
 When dealing with Symmetric Metarationality, I find it very helpful to modify the chart above so that it also includes unilateral <em>moves</em>. After we make this change and blank out our results, we get the following:
+
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT793VZ3BQqk2HOrWg9FQTav6P6KQV7Ho6xckRKptwhuYytlSAw685oT4KrV6llpCOObGkhKT-YOZuL/pubhtml"><img class="alignnone wp-image-594 size-full" src="{{ site.baseurl }}/wp-content/uploads/original_vector_expanded_blank.png" alt="Click for copyable version" width="567" height="334" /></a>
 
 From here, we use a simple algorithm. First, all states without unilateral improvements are Nash Stable. Next, we check each unilateral improvement in the remaining states against the opponent's unilateral actions, then against the original actors best unilateral action from each of the resulting states. If there are no results lower than the original actor started, the move is unstable. Otherwise it's stable by Symmetric Metarationality (and we'll mark it with "S"). Like Sequential Stability, you can't truly call this done until you check for states that are simultaneously sanctioned (this is often easy because simultaneous sanctioning is only a risk when both sides are unstable).
@@ -141,8 +102,8 @@ What if we've underestimated how much North Korea and the United States care abo
 
 This gives us the following preference vectors:
 
-<strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
-<strong>NK: </strong>6, 14, 4, 12, 5, 13, 2, 0, 10, 1, 9, 8
+* <strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
+* <strong>NK: </strong>6, 14, 4, 12, 5, 13, 2, 0, 10, 1, 9, 8
 
 Since we're modelling the actors as more belligerent, let's also assume for the purposes of these analyses that invasions are irreversible.
 
@@ -165,8 +126,8 @@ What if these preferences are substantially correct and both sides are more aggr
 <h3>Nuclear Deterrence</h3>
 If we're assuming that North Korea has broadly similar preferences to our last variation, but doesn't want to get attacked by nuclear weapons, we get the following preference vectors:
 
-<strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
-<strong>NK: </strong>6, 14, 4, 12, 0, 10, 5, 13, 2, 1, 9, 8
+* <strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
+* <strong>NK: </strong>6, 14, 4, 12, 0, 10, 5, 13, 2, 1, 9, 8
 
 Here are the annotated preferences vectors we'll use to assess stability with Sequential Stability and Symmetric Metarationality. Since we're leaving the belligerency of the United States the same, we'll continue to view invading as an irreversible action.
 
@@ -187,8 +148,8 @@ As we've seen throughout, Symmetric Metarationality tends to give very similar a
 <h3>Pacifistic People</h3>
 What instead of underestimating the bloodthirstiness of our belligerents, we've been overestimating it? It's entirely possible that both sides strongly disprefer all options that involve violence (and the more violence an option involves, the more they disprefer it) but talk up their position in hopes of receiving concessions. In this case, let's give our actors these preference vectors:
 
-<strong>US:</strong> 8, 0, 10, 2, 9, 12, 4, 5, 14, 13, 6, 1
-<strong>NK:</strong> 6, 14, 2, 10, 0, 8, 4, 12, 5, 1, 9, 13
+* <strong>US:</strong> 8, 0, 10, 2, 9, 12, 4, 5, 14, 13, 6, 1
+* <strong>NK:</strong> 6, 14, 2, 10, 0, 8, 4, 12, 5, 1, 9, 13
 
 (Note that I'm only extending "peacefulness" to these two actors; I'm assuming that North Korea would happily try and annex South Korea if there was no need to fight America to do so)
 
@@ -216,50 +177,17 @@ The cool thing about sensitivity analysis is that it shows you the equilibria a 
 
 Here's a full accounting of the states that showed up (counting our first model, there were nine possible simulations for each equilibrium to show up in):
 
-<table width="473">
-<tbody>
-<tr>
-<td width="46">State</td>
-<td width="394">Explanation</td>
-<td width="32">#</td>
-</tr>
-<tr>
-<td width="46">0</td>
-<td width="394">Status quo</td>
-<td width="32">7</td>
-</tr>
-<tr>
-<td width="46">2</td>
-<td width="394">Unilateral US troop withdrawal</td>
-<td width="32">1</td>
-</tr>
-<tr>
-<td width="46">4</td>
-<td width="394">North Korean invasion with only conventional US responses</td>
-<td width="32">4</td>
-</tr>
-<tr>
-<td width="46">5</td>
-<td width="394">North Korean invasion with US nuclear strike</td>
-<td width="32">9</td>
-</tr>
-<tr>
-<td width="46">8</td>
-<td width="394">Unilateral North Korean abandonment of nuclear weapons</td>
-<td width="32">1</td>
-</tr>
-<tr>
-<td width="46">10</td>
-<td width="394">Coordinated US withdrawal and NK abandonment of nuclear weapons</td>
-<td width="32">6</td>
-</tr>
-<tr>
-<td width="46">12</td>
-<td width="394">NK invasion after abandoning nuclear weapons; conventional US response</td>
-<td width="32">6</td>
-</tr>
-</tbody>
-</table>
+
+| State | Explantation | # |
+|-------|--------------|---|
+| 0     | Status quo   | 7 |
+| 2     | Unilateral US troop withdrawal   | 1 |
+| 4     | North Korean invasion with only conventional US responses   | 4 |
+| 5     | North Korean invasion with US nuclear strike   | 9 |
+| 8     | Unilateral North Korean abandonment of nuclear weapons   | 1 |
+| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons   | 6 |
+| 12    | NK invasion after abandoning nuclear weapons; conventional US response   | 6 |
+
 Of the five that showed up more than once, four showed up more than half the time. These then are the most robust equilibria; equilibria that half of the reasonable changes we attempted couldn't dislodge.
 
 Note "most robust" is not necessarily equivalent to "most likely". To get actual probabilities on outcomes, we'd have to put probabilities on the initial conditions. Even then, the Graph Model of Conflict Resolution as we've currently talked about it does little to explain how decision makers move between equilibria; because this scenario starts in equilibrium, it's hard to see how it makes it to any of the other equilibria.

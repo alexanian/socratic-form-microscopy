@@ -34,6 +34,7 @@ Let's express these two beliefs as separate propositions:
  	<li>It is very unlikely that AI and AGI will pose an existential risk to human society.</li>
  	<li>It is very likely that AI and AGI will result in widespread unemployment.</li>
 </ol>
+
 Can you spot the contradiction between these two statements? In the common imagination, it would require an AI that can approximate human capabilities to drive significant unemployment. Given that humans are the largest existential risk to other humans (think thermonuclear war and climate change), how could equally intelligent and capable beings, bound to subservience, not present a threat?
 
 People who've read a lot about AI or the labour market are probably shaking their head right now. This explanation for the contradiction, while evocative, is a strawman. I do believe that at most one (and possibly neither) of those propositions I listed above are true and the organizations peddling both cannot be trusted. But the reasoning is a bit more complicated than the standard line.
@@ -50,29 +51,12 @@ Ricardo did a lot of work in the early economics of trade, where he came up with
 
 The original example is rather older though, so it uses England and its close ally Portugal as the cast and wine and cloth as the goods. It goes like this: imagine that world economy is reduced to two countries (England and Portugal) and each produce two goods (wine and cloth). Portugal is uniformly more productive.
 
-<table>
-<tbody>
-<tr>
-<td width="60"></td>
-<td colspan="2" width="234"><strong>Hours of work to produce</strong></td>
-</tr>
-<tr>
-<td width="60"></td>
-<td width="117"><em>Cloth</em></td>
-<td width="117"><em>Wine</em></td>
-</tr>
-<tr>
-<td width="60"><strong>England</strong></td>
-<td width="117">100</td>
-<td width="117">120</td>
-</tr>
-<tr>
-<td width="60"><strong>Portugal</strong></td>
-<td width="117">90</td>
-<td width="117">80</td>
-</tr>
-</tbody>
-</table>
+|          | Hours of work to produce  |
+|----------|--------------|------------|
+|          | _Cloth_      | _Wine_     |
+| England  | 100          | 120        |
+| Portugal | 90           | 80         |
+
 Let's assume people want cloth and wine in equal amounts and everyone currently consumes one unit per month. This means that the people of Portugal need to work 170 hours each month to meet their consumption needs and the people of England need to work 220 hours per month to meet their consumption needs.
 
 (This example has the added benefit of showing another reason we shouldn't fear productivity. England requires more hours of work each month, but in this example, that doesn't mean less unemployment. It just means that the English need to spend more time at work than the Portuguese. The Portuguese have more time to cook and spend time with family and play soccer and do whatever else they want.)
@@ -101,31 +85,14 @@ Automation making some jobs vastly more efficient functions similarly. Jobs are 
 
 This points to what might be a trend: as automation makes many things cheaper and (for some people) easier, there will be many who long for a human touch (would you want the local funeral director's job to be automated, even if it was far cheaper?). Just because computers do many tasks cheaper or with fewer errors doesn't necessarily mean that all (or even most) people will <a href="https://putanumonit.com/2018/08/09/jobs-inside-the-api/">rather have those tasks performed by computers</a>.
 
-No matter how you manipulate the numbers I gave for England and Portugal, you'll still find a net decrease in total hours worked if both countries trade based on their comparative advantage. Let's demonstrate by comparing England to a hypothetical hyper-efficient country called "Automatia"
+No matter how you manipulate the numbers I gave for England and Portugal, you'll still find a net decrease in total hours worked if both countries trade based on their comparative advantage. Let's demonstrate by comparing England to a hypothetical hyper-efficient country called "Automatia":
 
-<table>
-<tbody>
-<tr>
-<td width="60"></td>
-<td colspan="2" width="234"><strong>Hours of work to produce</strong></td>
-</tr>
-<tr>
-<td width="60"></td>
-<td width="117"><em>Cloth</em></td>
-<td width="117"><em>Wine</em></td>
-</tr>
-<tr>
-<td width="60"><strong>England</strong></td>
-<td width="117">100</td>
-<td width="117">120</td>
-</tr>
-<tr>
-<td width="60"><strong>Automatia</strong></td>
-<td width="117">2</td>
-<td width="117">1</td>
-</tr>
-</tbody>
-</table>
+|           | Hours of work to produce  |
+|-----------|--------------|------------|
+|           | _Cloth_      | _Wine_     |
+| England   | 100          | 120        |
+| Automatia | 2            | 1          |
+
 Automatia is 50 times as efficient at England when it comes to producing cloth and 120 times as efficient when it comes to producing wine. Its citizens need to spend 3 hours tending the machines to get one unit of each, compared to the 220 hours the English need to toil.
 
 If they trade with each other, with England focusing on cloth and Automatia focusing on wine, then there will still be a drop of 21 hours of labour-time. England will save 20 hours by shifting production from wine to cloth, and Automatia will save one hour by switching production from cloth to wine.
