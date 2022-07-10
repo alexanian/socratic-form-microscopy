@@ -123,12 +123,14 @@ Like the hydroacoustic monitoring system, data is sent to the CTBTO in real time
 
 Ongoing research into wind noise reduction might eventually make the whole set of stations much more sensitive than it is now. Still, even the current iteration of infrasound monitoring should be enough to detect any nuclear tests in the lower atmosphere.
 
-<hr />
-
-The CTBTO <a href="https://www.ctbto.org/verification-regime/">has a truly great website</a> that really helped me put together this blog post. They provide a basic overview of the four international monitoring systems I described here (they don't cover space-based monitoring because it's outside of their remit), as well as pictures, a glossary, and a primer on the analysis they do. If you'd like to read more about how the international monitoring system works and how it came into being, I recommend visiting their website.
-
-This post, like many of the posts in my nuclear weapon series came about because someone asked me a question about nuclear weapons and I found I couldn't answer quite as authoritatively as I would have liked. Consequently, I'd like to thank <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> and <a href="http://tessa.fyi/">Tessa Alexanian</a> for giving me the impetus to write this.
-
-This post is part of a series on special topics in nuclear weapons. The index for all of my writing on nuclear weapons can be found <a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">here</a>. Previous special topics posts include <a href="{{ site.baseurl }}/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a> and the <a href="{{ site.baseurl }}/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korean nuclear program</a>.
-
 <hr class="post-end" />
+
+<p class="post-meta caption">
+The CTBTO <a href="https://www.ctbto.org/verification-regime/">has a truly great website</a> that really helped me put together this blog post. They provide a basic overview of the four international monitoring systems I described here (they don't cover space-based monitoring because it's outside of their remit), as well as pictures, a glossary, and a primer on the analysis they do. If you'd like to read more about how the international monitoring system works and how it came into being, I recommend visiting their website.
+</p>
+<p class="post-meta caption">
+This post, like many of the posts in my nuclear weapon series came about because someone asked me a question about nuclear weapons and I found I couldn't answer quite as authoritatively as I would have liked. Consequently, I'd like to thank <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> and <a href="http://tessa.fyi/">Tessa Alexanian</a> for giving me the impetus to write this.
+</p>
+<p class="post-meta caption">
+This post is part of a series on special topics in nuclear weapons. The index for all of my writing on nuclear weapons can be found <a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">here</a>. Previous special topics posts include <a href="{{ site.baseurl }}/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a> and the <a href="{{ site.baseurl }}/2017/10/16/north-korean-nuclear-weapons-program-faq/">North Korean nuclear program</a>.
+</p>

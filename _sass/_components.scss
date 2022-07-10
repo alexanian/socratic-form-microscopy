@@ -33,7 +33,13 @@ code {
 
     @media (min-width: $breakpoint-lg) {
       width: (10 / 12 * 100%); // matches col-10
+
+      ol, ul {
+        margin-top: 0.5rem;
+        width: 100%; // nested lists should not be less than 100%
+      }
     }
+
   }
 
   ul,
@@ -44,9 +50,8 @@ code {
   li {
     margin-bottom: 0.5em;
 
-    ul li,
-    ol li {
-      margin-bottom: 0;
+    ol {
+      list-style-type: lower-roman;
     }
   }
 

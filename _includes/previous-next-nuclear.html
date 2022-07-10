@@ -1,0 +1,32 @@
+<!-- Modified from /_includes/previous-next.html -->
+{% assign user_url = site.url | append: site.baseurl %}
+{% assign full_base_url = user_url | default: site.github.url %}
+<div class="col-2 sm-width-full left text-center mr-lg-4 mt-3">
+  <p class="h5 bold border-top-thin py-1 block link-primary">
+      <a
+        href="{{ full_base_url }}/2017/01/22/nuclear-weapons-1-0-introduction/"
+      >
+      The Nuclear Weapons Series
+    </a>
+  </p>
+</div>
+{% if page.nuclear-series.previous.url %}
+<div class="col-4 sm-width-full left mr-lg-4 mt-3">
+  <span class="h5 bold border-top-thin py-1 block">Previous</span>
+  <a
+    href="{{ page.nuclear-series.previous.url | prepend: full_base_url }}"
+  >
+    <p class="bold h3 link-primary mb-1">{{ page.nuclear-series.previous.title }}</p>
+  </a>
+</div>
+{% endif %}
+{% if page.nuclear-series.next.url %}
+<div class="col-4 sm-width-full right mt-3">
+  <span class="h5 bold border-top-thin py-1 block">Next</span>
+  <a
+    href="{{ page.nuclear-series.next.url | prepend: full_base_url }}"
+  >
+    <p class="bold h3 link-primary mb-1">{{ page.nuclear-series.next.title }}</p>
+  </a>
+</div>
+{% endif %}

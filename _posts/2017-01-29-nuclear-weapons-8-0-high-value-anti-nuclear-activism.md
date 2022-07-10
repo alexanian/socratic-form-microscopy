@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 6.0 Delivery Mechanisms"
+    url: /2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/
+  next:
+    title: "Special Topics: Laser Enrichment"
+    url: /2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/
 ---
 
 Nuclear weapons represent an existential risk. I'll let <a href="https://80000hours.org/problem-profiles/nuclear-security/">80,000 Hours</a> speak for me for a minute:
@@ -52,14 +59,3 @@ Neither piece offers firm suggestions for the most effective charity and I lack 
 For what it's worth, I'm donating to the <a href="http://www.ploughshares.org/">Ploughshares Fund</a>. They seem to have the correct focuses, from <a href="http://www.ploughshares.org/issues-analysis/early-warning/iran-deal-luxury-trump-can%E2%80%99t-afford-lose">preserving the Iran deal</a>, to <a href="http://www.ploughshares.org/issues-analysis/article/bring-home-us-tactical-nuclear-weapons-europe">removing tactical weapons from Europe</a>, to <a href="http://www.ploughshares.org/issues-analysis/article/press-pause-missile-defense-europe">opposing new ABM systems</a>. I don't think they have that much more room for funding, so I'd welcome a more thorough effectiveness evaluation that would allow people concerned with nuclear risk to confidently donate their money.
 
 <hr class="post-end" />
-
-<br>
-<table style="width: 100%; border-width: 0px; background: transparent;">
-<tbody>
-<tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/28/nuclear-weapons-7-0-strategy/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-    <td style="border:0px solid;background:transparent;text-align:right;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction#special">special topics &gt;</a></th>
-</tr>
-</tbody>
-</table>

@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 5.0 Effects"
+    url: /2017/01/26/nuclear-weapons-5-0-effects/
+  next:
+    title: "Nuclear Weapons: 7.0 Strategy"
+    url: /2017/01/28/nuclear-weapons-7-0-strategy/
 ---
 
 All the nukes in the world are useless unless you have a way to get them to their targets. Aside from outlandish and potentially suicidal methods like suitcase nukes or nuclear artillery, there are three main ways of doing this: bombers, intercontinental ballistic missiles (ICBMs), and submarine launched ballistic missiles (SLBMs).
@@ -34,7 +41,7 @@ Having pilots also makes bombers fairly accurate. The steep fall-off in weapon i
 
 Bombers are also the delivery method that's hardest to stop at the source. During periods of heightened alert, countries will always keep nuclear armed bombers in the air. Any sign of a nuclear attack and they'll be released for bombing runs on their prearranged targets. Unlike ICBs, there is no silo you can take out to stop them.
 
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit">B-2 Spirit</a>, <a href="https://en.wikipedia.org/wiki/Bomber#Cold_War">Nuclear Bomber</a>, <a href="https://en.wikipedia.org/wiki/Stealth_aircraft">Stealth Aircraft</a>
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Northrop_Grumman_B-2_Spirit">B-2 Spirit</a>, <a href="https://en.wikipedia.org/wiki/Bomber#Cold_War">Nuclear Bomber</a>, <a href="https://en.wikipedia.org/wiki/Stealth_aircraft">Stealth Aircraft</a>
 
 <h3 id="2">6.2 ICBMs</h3>
 Intercontinental ballistic missiles are missiles capable of delivering nuclear warheads at least 5,500km from their launch site. Intercontinental ballistic missiles are distinguished from cruise missiles by their use of rocket engines and their suborbital trajectories. They leave the atmosphere during their boost phase and come back down on top of their target, using a guidance system and fins for limited maneuvering and final targeting once back inside the Earth's atmosphere.
@@ -57,7 +64,7 @@ The Iron Dome suggests that &gt;90% missile interception might be technically po
 
 One disadvantage of ICBMS are their highly visible launches and re-entries. A successful stealth bombing provides no warning at all and a successful SLBM attack might provide only 2-10 minutes of warning. ICBMs take something like 30 minutes to cover intercontinental distances (say, Russia to the USA, or China to the USA). During this time targets can be evacuated and retaliatory strikes prepared.
 
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile">ICBM</a>, <a href="https://en.wikipedia.org/wiki/Multiple_independently_targetable_reentry_vehicle">MIRV</a>, <a href="https://en.wikipedia.org/wiki/LGM-30_Minuteman#Minuteman-III_.28LGM-30G.29">Minuteman III</a>, <a href="https://en.wikipedia.org/wiki/DF-5">Dongfen 5</a>, <a href="https://en.wikipedia.org/wiki/RS-26_Rubezh">RS-26</a>, <a href="https://en.wikipedia.org/wiki/United_States_national_missile_defense#Technical_criticism">United States National Missile Defense</a>
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile">ICBM</a>, <a href="https://en.wikipedia.org/wiki/Multiple_independently_targetable_reentry_vehicle">MIRV</a>, <a href="https://en.wikipedia.org/wiki/LGM-30_Minuteman#Minuteman-III_.28LGM-30G.29">Minuteman III</a>, <a href="https://en.wikipedia.org/wiki/DF-5">Dongfen 5</a>, <a href="https://en.wikipedia.org/wiki/RS-26_Rubezh">RS-26</a>, <a href="https://en.wikipedia.org/wiki/United_States_national_missile_defense#Technical_criticism">United States National Missile Defense</a>
 
 <h3 id="3"> 6.3 Submarine Launched Ballistic Missiles</h3>
 At one point, it made sense to have a firm distinction between SLBMs (which had fairly small ranges) and ICBMs. For modern weapon systems, the ranges are effectively the same. Gone are the days where submarines had to sneak right up to the coast to attack their targets. If you were to look at a globe centred on a modern US or Russian ballistic missile submarine, you'd see all the targets it can hit.
@@ -74,17 +81,6 @@ This highlights the one real disadvantage of SLMBs. They're expensive and techno
 
 You could reduce the technical complexity by using a more traditional diesel-electric submarine, but you'd sacrifice much of the submarine's endurance and ability to stay submerged. Batteries can only power a submarine for a few days (or hours, if it's moving as fast as it possibly can) and diesel engines will quickly suffocate the crew if run underwater. Add to this the limited amount of diesel any sub can carry and nuclear submarines become the only real way to do long duration submerged deterrence patrols.
 
+**Additional Reading**: <a href="http://news.bbc.co.uk/2/hi/uk/7892294.stm">Nuclear subs collide in Atlantic</a>, <a href="https://en.wikipedia.org/wiki/Submarine-launched_ballistic_missile">Submarine launched ballistic missile</a>, <a href="https://en.wikipedia.org/wiki/Ohio-class_submarine"> Ohio Class Submarine</a>, <a href="https://en.wikipedia.org/wiki/UGM-133_Trident_II">Trident II</a>, <a href="https://en.wikipedia.org/wiki/Borey-class_submarine">Borey Class Submarine</a>, <a href="https://en.wikipedia.org/wiki/List_of_sunken_nuclear_submarines#Russia">List of sunken nuclear submarines</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_submarine#Accidents">Nuclear submarine accidents</a>, and <a href="https://en.wikipedia.org/wiki/RSM-56_Bulava#Troubles">Bulava missile troubles</a>
+
 <hr class="post-end" />
-
-Additional Reading: <a href="http://news.bbc.co.uk/2/hi/uk/7892294.stm">Nuclear subs collide in Atlantic</a>, <a href="https://en.wikipedia.org/wiki/Submarine-launched_ballistic_missile">Submarine launched ballistic missile</a>,<a href="https://en.wikipedia.org/wiki/Ohio-class_submarine"> Ohio Class Submarine</a>, <a href="https://en.wikipedia.org/wiki/UGM-133_Trident_II">Trident II</a>, <a href="https://en.wikipedia.org/wiki/Borey-class_submarine">Borey Class Submarine</a>, <a href="https://en.wikipedia.org/wiki/List_of_sunken_nuclear_submarines#Russia">List of sunken nuclear submarines</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_submarine#Accidents">Nuclear submarine accidents</a>, <a href="https://en.wikipedia.org/wiki/RSM-56_Bulava#Troubles">Bulava missile troubles</a>
-<br>
-
-<table style="width: 100%; border-width: 0px; background: transparent;">
-<tbody>
-<tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/28/nuclear-weapons-7-0-strategy/">next &gt;</a></td>
-</tr>
-</tbody>
-</table>
