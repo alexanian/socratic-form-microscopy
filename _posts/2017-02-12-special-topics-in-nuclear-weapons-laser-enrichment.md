@@ -12,6 +12,10 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+previous:
+  title: "Main Topic: 3.0 Proliferation"
+  url: /2017/01/24/nuclear-weapons-3-0-proliferation/
 ---
 
 In an effort to make my nuclear weapons post series a one stop resource for anyone interested in getting up to speed on nuclear weapons, I've decided to add supplementary materials filling any gaps that are pointed out to me. This supplementary post is on laser enrichment.
@@ -87,10 +91,4 @@ Most nuclear technology is dual use. Uranium enrichment by centrifugation has ma
 
 SILEX could further increase the energy return on investment, making nuclear power plants even more economical. But SILEX also has the potential to make proliferation easier. It's still a new, experimental technology and it might not even pan out. Until we know for sure, it is certainly best for the world to proceed with caution.
 
-<br>
-<table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
-  <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/24/nuclear-weapons-3-0-proliferation/">main topic</a></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">index</a></th>
-  </tr>
-</table>
+<hr class="post-end" />

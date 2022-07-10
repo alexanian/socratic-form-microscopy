@@ -16,6 +16,10 @@ tags:
   - nuclear weapons
   - overview
   - x-risk
+nuclear-series:
+  previous:
+    title: "Main Topic: 7.0 Strategy"
+    url: /2017/01/28/nuclear-weapons-7-0-strategy/
 ---
 
 <em>"We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita... 'Now, I am become Death, the destroyer of worlds.'" – J Robert Oppenheimer, on the reaction to the successful test of the first atomic bomb.</em>

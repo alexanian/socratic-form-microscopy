@@ -62,13 +62,6 @@ Criticality can occur with smaller amounts of isotopes than the critical mass in
 
 There is one other type of nuclear weapon. <strong>Fusion</strong> weapons push atomic nuclei together to form new, heavier nuclei. Fission/fusion weapons aren't an either/or proposition though. Many nuclear weapon designs incorporate multiple stages. For example, some designs will use the energy from fission to start a fusion reaction and get most of their power from this. Other designs make use of a small amount of fusion to release extra neutrons, which allows more of their fuel to be consumed.
 
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>, <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>, <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>, <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>, and <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>
+
 <hr class="post-end" />
-
-Additional Reading on Wikipedia:
-
-- <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>
-- <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>
-- <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>
-- <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>
-- <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>,
-- <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>

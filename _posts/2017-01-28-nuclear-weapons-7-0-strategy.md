@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 6.0 Delivery Mechanisms"
+    url: /2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/
+  next:
+    title: "Special Topics: Laser Enrichment"
+    url: /2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/
 ---
 
 Having covered the practicalities of nuclear physics, nuclear weapon design, and nuclear weapon effects, we may now turn our attention to the strategies that have grown out of these physical realities.
@@ -165,14 +172,3 @@ No matter how you cut it, the risk of a nuclear exchange is – and always has b
 I also wish Trump was less of a loose cannon. I can't really make predictions about America's nuclear policy over the next few years because the information I have is too heavily weighted towards hyperbole and bluster.
 
 <hr class="post-end" />
-
-<br>
-<table style="width: 100%; border-width: 0px; background: transparent;">
-<tbody>
-<tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism">next &gt;</a></td>
-</tr>
-</tbody>
-</table>
