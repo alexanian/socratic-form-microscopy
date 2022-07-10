@@ -1,6 +1,6 @@
 ---
 id: 596
-title: "Two Fallacies From &#8216;Weapons of Math Destruction’"
+title: "Two Fallacies From ‘Weapons of Math Destruction’"
 date: 2017-11-19T11:26:09-05:00
 author: Zach
 layout: post
