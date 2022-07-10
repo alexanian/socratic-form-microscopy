@@ -3,7 +3,7 @@ id: 124
 title: "Nuclear Weapons: 2.0 Basic Science"
 date: 2017-01-23T19:28:05-05:00
 author: Zach
-layout: post-nuclear
+layout: post
 guid: http://socratic-form-microscopy.com/?p=124
 permalink: /2017/01/23/nuclear-weapons-2-0-basic-science/
 categories:
@@ -64,13 +64,11 @@ There is one other type of nuclear weapon. <strong>Fusion</strong> weapons push 
 
 <hr class="post-end" />
 
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>, <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>, <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>, <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>, and <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>
-<br>
+Additional Reading on Wikipedia:
 
-<table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
-  <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">&lt; previous</a></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></th>
-    <td style="border:0px solid;background:transparent;text-align:right;""><a href="{{ site.baseurl }}/2017/01/24/nuclear-weapons-3-0-proliferation/">next &gt;</a></th>
-  </tr>
-</table>
+- <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>
+- <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>
+- <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>
+- <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>
+- <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>,
+- <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>

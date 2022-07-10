@@ -36,5 +36,9 @@ layout: default
 </article>
 
 <div class="container mx-auto px-2 py-2 clearfix">
-  {% include previous-next.html %}
+  {% if page.nuclear-series %}
+    {% include previous-next-nuclear.html %}
+  {% else %}
+    {% include previous-next.html %}
+  {% endif %}
 </div>
