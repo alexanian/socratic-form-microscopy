@@ -86,6 +86,8 @@ One final caution: everything in this post series could be obsolete and we would
 - <a href="{{ site.baseurl }}/2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism">8.3 Anti-Ballistic Missiles</a>
 - <a href="{{ site.baseurl }}/2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism#4">8.4 Donations</a>
 
+---
+
 <h3 id="special">Special Topics</h3>
 #### <a href="{{ site.baseurl }}/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">Laser Enrichment</a>
   * <a href="{{ site.baseurl }}/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment#how">Laser Enrichment - How It Works</a>
@@ -99,8 +101,9 @@ One final caution: everything in this post series could be obsolete and we would
 
 #### <a href="{{ site.baseurl }}/2018/04/01/the-nuclear-international-monitoring-system/">The (Nuclear) International Monitoring System</a>
 
-<h3 id="intro">Introduction</h3>
-I've published an introductory presentation: <a href="{{ site.baseurl }}/2017/11/01/nuclear-weapons-explained-backwards/">Nuclear Weapons Explained Backwards</a>.
+#### <a href="{{ site.baseurl }}/2017/11/01/nuclear-weapons-explained-backwards/">Nuclear Weapons Explained Backwards</a> (Introductory Presentation)
+
+---
 
 <h3 id="changes"> Changelog </h3>
 As I receive feedback, I intend to update this post series. All major changes (e.g. not copy editing) will be posted here.

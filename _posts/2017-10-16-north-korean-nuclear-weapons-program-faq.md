@@ -28,40 +28,44 @@ nuclear-series:
 [30 minute read]
 </p>
 
-<h1>0. Table of Contents</h1>
-<a href="#1.0">1. Why?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1.1">1.1 Why are you writing this?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1.2">1.2 Okay, but why you in particular?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1.3">1.3 Why is does North Korea have a nuclear program anyway?</a>
-<a href="#"2.0>2. What?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.1">2.1 What should I know about nuclear weapons to understand this crisis?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.2">2.2 What do we even know?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.3">2.3 What are your best guesses for what we don't know?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.3.1">2.3.1 Is this weapon fusion or boosted fission?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.3.2">2.3.2 Is it miniaturized?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.3.3">2.3.3 Does the heat shield work?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2.3.4">2.3.4 Can THAAD and GCM defend America (and its allies)?</a>
-<a href="#3.0">3. How?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.1">3.1 How expensive has the program been?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.2">3.2 How can they get so much with so little?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.3">3.3 How did things get so bad?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.4">3.4 How many nuclear weapons does North Korea have?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.5">3.5 How bad would it be if North Korea used nuclear weapons?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.5.1">3.5.1 How much damage could North Korea do with an EMP?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">3.6 How do we get North Korea to give up its nuclear weapons program?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.6.1">3.6.1 How come China can't make North Korea stop?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.6.2">3.6.2 How did South Africa end its nuclear weapons program?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.6.3">3.6.3 How could we convince North Korea to give up its nuclear weapons?</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+## Table of Contents
+
+#### <a href="#1.0">1. Why?</a>
+
+- <a href="#1.1">1.1 Why are you writing this?</a>
+- <a href="#1.2">1.2 Okay, but why you in particular?</a>
+- <a href="#1.3">1.3 Why is does North Korea have a nuclear program anyway?</a>
+
+#### <a href="#2.0">2. What?</a>
+
+- <a href="#2.1">2.1 What should I know about nuclear weapons to understand this crisis?</a>
+- <a href="#2.2">2.2 What do we even know?</a>
+- <a href="#2.3">2.3 What are your best guesses for what we don't know?</a>
+- <a href="#2.3.1">2.3.1 Is this weapon fusion or boosted fission?</a>
+- <a href="#2.3.2">2.3.2 Is it miniaturized?</a>
+- <a href="#2.3.3">2.3.3 Does the heat shield work?</a>
+- <a href="#2.3.4">2.3.4 Can THAAD and GCM defend America (and its allies)?</a>
+
+#### <a href="#3.0">3. How?</a>
+
+- <a href="#3.1">3.1 How expensive has the program been?</a>
+- <a href="#3.2">3.2 How can they get so much with so little?</a>
+- <a href="#3.3">3.3 How did things get so bad?</a>
+- <a href="#3.4">3.4 How many nuclear weapons does North Korea have?</a>
+- <a href="#3.5">3.5 How bad would it be if North Korea used nuclear weapons?</a>
+  - <a href="#3.5.1">3.5.1 How much damage could North Korea do with an EMP?</a>
+- <a href="#">3.6 How do we get North Korea to give up its nuclear weapons program?</a>
+  - <a href="#3.6.1">3.6.1 How come China can't make North Korea stop?</a>
+  - <a href="#3.6.2">3.6.2 How did South Africa end its nuclear weapons program?</a>
+  - <a href="#3.6.3">3.6.3 How could we convince North Korea to give up its nuclear weapons?</a>
 
 ---
 
-<div class="footnotes" markdown="1">
-<a href="#4.0">4. Footnotes</a>
-
 <h1 id="1.0">1. Why?</h1>
+
 <h2 id="1.1">1.1 Why are you writing this?</h2>
 Because I keep talking about it piecemeal with various people and wanted to collect everything I've said in one place. Because some people are more scared then they need to be and some people are more blasé than they really should be. Because I care about elevating the level of the discourse (which is often really poor). Because I'm scared that people might actually <em>endorse</em> some of the really terrible proposed solutions to this crisis and I want them to understand why they won't work.
+
 <h2 id="1.2">1.2 Okay, but why you in particular?</h2>
 I researched nuclear weapons for two months and wrote a <a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">fifteen-thousand-word primer on the subject</a>. Nuclear weapons are a thing I know a lot about. <a href="{{ site.baseurl }}/2017/01/28/nuclear-weapons-7-0-strategy/#55">I covered North Korea briefly in that post</a>, which means I already knew some of the background information for this post.
 
@@ -70,9 +74,12 @@ The real experts are currently busy briefing politicians and making clipped stat
 <h2 id="1.3">1.3 Why is does North Korea have a nuclear program anyway?</h2>
 There are a lot of theories here. I'm going to walk you through my favourite. See these men?
 
-<img class="alignnone wp-image-507 size-medium" src="{{ site.baseurl }}/wp-content/uploads/Muammar_al-Gaddafi_at_the_AU_summit-1-200x300.jpg" alt="" width="200" height="300" />   <img class="alignnone wp-image-506 size-medium" src="{{ site.baseurl }}/wp-content/uploads/Saddam_Hussein_at_trial_July_2004-edit1-205x300.jpeg" alt="" width="205" height="300" />
-
-<em>Pictured: Muammar Gaddafi and Saddam Hussein. Images courtesy of Wikipedia Commons.</em>
+<figure class="image mb-2">
+    <img src="{{ site.baseurl }}{{ include.src }}" alt="{{ include.alt }}">
+	<img src="{{ site.baseurl }}/wp-content/uploads/Muammar_al-Gaddafi_at_the_AU_summit-1-200x300.jpg" alt="" width="200" height="300" />
+	<img src="{{ site.baseurl }}/wp-content/uploads/Saddam_Hussein_at_trial_July_2004-edit1-205x300.jpeg" alt="" width="205" height="300" />
+    <figcaption>Pictured: Muammar Gaddafi and Saddam Hussein. Images courtesy of Wikipedia Commons</figcaption>
+</figure>
 
 Both of those men once ran countries. Now they're deposed and dead. The common factor? America. Call it imperialism. Call it empire building. Call it promoting democracy or protecting freedom. Call it exacting justice on two terrible butchers. From one perspective or another, all of those are the truth. What matters to North Korea is that these men tangled with America, they didn't have nuclear weapons, and now they're dead.
 
@@ -324,6 +331,10 @@ That's the other reason I wrote this FAQ. Because I want people to have all of t
 If you've made it this far, I have a favour to ask of you. Check my work. Make sure what I've written is correct. If I'm wrong, help me to understand this crisis even better. And if it checks out, tell other people what we know. Spread it as far as you can. Tell your friends, your coworkers. Tell your parents, your children. Help people understand what we have to do.
 
 <hr class="post-end" />
+
+<p class="post-meta caption">
+This post is part of a series on special topics in nuclear weapons. The index for all of my writing on nuclear weapons can be found <a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">here</a>. The previous special topics post was on <a href="{{ site.baseurl }}/2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/">laser enrichment</a>.
+</p>
 
 [^1]: For <a href="https://nuclearsecrecy.com/nukemap/">illustrative purposes</a>, note that this means 175,000 to 380,000 fatalities if detonated above downtown LA or 270,000 to 760,000 fatalities if detonated above downtown Tokyo. For more on yield, see my post on <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects">nuclear weapon effects</a>.
 [^2]: If it is following the limits outlined in the <a href="https://en.wikipedia.org/wiki/New_START#Overview">New START</a> treaty with Russia.
