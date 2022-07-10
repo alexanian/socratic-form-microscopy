@@ -27,14 +27,6 @@ This post series is meant as a non-exhaustive primer on the (declassified) physi
 
 One final caution: everything in this post series could be obsolete and we would have no real way of knowing. Nations reserve their highest level of classification for their nuclear capabilities and plans. Some of these plans and capabilities can be inferred from what we know of the physics of nuclear weapons or by looking for equilibriums between decision makers, but a lot is hidden from public view.
 
-<table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
-  <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;"></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""></th>
-    <td style="border:0px solid;background:transparent;text-align:right;""><a href="{{ site.baseurl }}/2017/01/23/nuclear-weapons-2-0-basic-science/">next &gt;</a></th>
-  </tr>
-</table>
-
 ### Main Series
 
 #### 1.0 Introduction
@@ -60,9 +52,9 @@ One final caution: everything in this post series could be obsolete and we would
 
 - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#1">5.1 Scaling</a>
 - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#2">5.2 Direct Effects</a>
-- - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#21">5.2.1 Fireball</a>
-- - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#22">5.2.2 Shockwave</a>
-- - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#23">5.2.3 Direct Radiation</a>
+  - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#21">5.2.1 Fireball</a>
+  - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#22">5.2.2 Shockwave</a>
+  - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#23">5.2.3 Direct Radiation</a>
 - <a href="{{ site.baseurl }}/2017/01/26/nuclear-weapons-5-0-effects#3">5.3 Indirect Effects</a>
 
 #### <a href="{{ site.baseurl }}/2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/">6.0 Nuclear Delivery Mechanisms</a>
@@ -107,7 +99,8 @@ One final caution: everything in this post series could be obsolete and we would
 
 #### <a href="{{ site.baseurl }}/2018/04/01/the-nuclear-international-monitoring-system/">The (Nuclear) International Monitoring System</a>
 
-I've also published an introductory presentation: <a href="{{ site.baseurl }}/2017/11/01/nuclear-weapons-explained-backwards/">Nuclear Weapons Explained Backwards</a>.
+<h3 id="intro">Introduction</h3>
+I've published an introductory presentation: <a href="{{ site.baseurl }}/2017/11/01/nuclear-weapons-explained-backwards/">Nuclear Weapons Explained Backwards</a>.
 
 <h3 id="changes"> Changelog </h3>
 As I receive feedback, I intend to update this post series. All major changes (e.g. not copy editing) will be posted here.
@@ -138,3 +131,5 @@ As I receive feedback, I intend to update this post series. All major changes (e
 <ul>
 	<li>Added link to my post on the International Monitoring System</li>
 </ul>
+
+<hr class="post-end">
