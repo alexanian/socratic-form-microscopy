@@ -3,8 +3,9 @@
 <div class="slide-menu" id="slide-menu">
   <a href="{{ site.baseurl }}" class="site-logo-link" rel="home" itemprop="url">
     <img
-      width="300"
-      height="300"
+      id="sidebar-logo"
+      width="200"
+      height="200"
       src="{{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1.png"
       class="site-logo attachment-scrawl-site-logo orange-filter"
       alt="Owl logo"
@@ -16,7 +17,7 @@
         {{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1-200x200.png  200w,
         {{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1-150x150.png  150w
       "
-      sizes="(max-width: 300px) 100vw, 300px"
+      sizes="(max-width: 200px) 100vw, 200px"
     />
     <h1 class="site-title">Socratic Form Microscopy</h1>
   </a>
@@ -27,21 +28,35 @@
       href="/"
       >Home</a
     >
+    {% capture about_url %}{{ {{ site.baseurl }}/about-me{% endcapture %}
     <a
-      class="slide-menu-nav-item{% if page.url == '/about-me.html' %} active{% endif %}"
-      href="{{ site.baseurl }}/about-me"
+      class="slide-menu-nav-item{% if page.url == '{{ about_url }}' %} active{% endif %}"
+      href="{{ about_url }}"
       >About Zach</a
     >
+    {% capture all_url %}{{ site.baseurl }}/all{% endcapture %}
+    <a
+      class="slide-menu-nav-item{% if page.url == '{{ all_url }}' %} active{% endif %}"
+      href="{{ all_url }}"
+      >All Posts</a
+    >
+    <span class="slide-menu-nav-spacer">&nbsp;</span>
     <a
       class="slide-menu-nav-item{% if page.url == '/categories/' %} active{% endif %}"
       href="{{ site.baseurl }}/categories"
       >Categories</a
     >
-    <a
-      class="slide-menu-nav-item{% if page.url == '/all/' %} active{% endif %}"
-      href="{{ site.baseurl }}/all"
-      >All Posts</a
-    >
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <a
+      class="slide-menu-nav-item sub-item{% if page.url == '/categories/' %} active{% endif %}"
+        href="{{ site.baseurl }}/category/{{ category_name | slugify }}"
+        >
+        {{ category_name }}
+      </a>
+    {% endfor %}
+    <span class="slide-menu-nav-spacer">&nbsp;</span>
     <li class="inline-block right search-box">
       <form action="{{ site.baseurl }}/search" accept-charset="UTF-8" method="get">
         <input type="text" name="q" />
@@ -54,5 +69,6 @@
         </button>
       </form>
     </li>
+    <span class="slide-menu-nav-spacer">&nbsp;</span>
   </nav>
 </div>

@@ -274,7 +274,16 @@ footer {
   display: block;
   padding: 0.5rem 1rem;
   border-top: 1px solid $color-secondary;
+
+  &.sub-item {
+    padding-left: 2.5rem;
+  }
 }
+.slide-menu-nav-spacer {
+  display: block;
+  padding: 0.5rem 1rem;
+  border-top: none;
+} 
 .slide-menu-nav-item.active,
 a.slide-menu-nav-item:hover,
 a.slide-menu-nav-item:focus {
@@ -418,4 +427,9 @@ hr.post-end {
   margin-top: $spacer-4;
   margin-bottom: $spacer-2;
   border-color: $color-dot-accent;
+}
+
+img#sidebar-logo{
+  display: block;
+  margin: auto;
 }
