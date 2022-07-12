@@ -96,7 +96,6 @@ a.category-head {
 }
 
 .searchresults {
-  margin-top: -50px;
   table {
     margin-bottom: 0;
     tr {
@@ -122,6 +121,7 @@ a.category-head {
   .gs-result .gs-title * {
     color: $color-primary-link;
     text-decoration: underline dotted;
+    font-size: $prose-font-size;
     &:hover {
       text-decoration: underline;
     }
@@ -141,6 +141,10 @@ a.category-head {
   }
   .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
     color: $color-dot-accent;
+  }
+  .gsc-selected-option-container, .gsc-control-cse .gsc-option-menu {
+    background-color: white;
+    box-shadow: none;
   }
 }
 
