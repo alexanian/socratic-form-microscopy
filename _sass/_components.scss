@@ -5,7 +5,6 @@ pre {
   border-left: $spacer-1 solid $color-border;
   margin: $spacer-3 0;
   padding-left: 16px;
-  width: (9 / 12 * 100%); // matches col-9
   overflow-x: auto;
 }
 
@@ -32,8 +31,6 @@ code {
     width: 100%;
 
     @media (min-width: $breakpoint-lg) {
-      width: (10 / 12 * 100%); // matches col-10
-
       ol, ul {
         margin-top: 0.5rem;
         width: 100%; // nested lists should not be less than 100%
@@ -61,10 +58,6 @@ code {
   h5 {
     margin-top: 1.25em;
     margin-bottom: 0.5em;
-
-    @media (min-width: $breakpoint-lg) {
-      max-width: (10 / 12 * 100%); // matches col-10
-    }
   }
 
   h5 {

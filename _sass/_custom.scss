@@ -358,7 +358,7 @@ a.slide-menu-nav-item:focus {
 }
 
 #slide-menu-checkbox:checked ~ .sidebar-nav .slide-menu-toggle::before {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' stroke-width='2.5' stroke='%23CACBD2' fill='none' class='duration-300 transform transition-all' style='width: 48px; height: 48px;'%3E%3Cpath d='M8.06 8.06l47.35 47.88M55.94 8.06L8.59 55.94'%3E%3C/path%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' stroke-width='3' stroke='%23ffffff' fill='none' class='duration-300 transform transition-all' style='width: 48px; height: 48px;'%3E%3Cpath d='M8.06 8.06l47.35 47.88M55.94 8.06L8.59 55.94'%3E%3C/path%3E%3C/svg%3E");
 }
 
 @media (min-width: 30.1em) {
@@ -410,6 +410,80 @@ a.slide-menu-nav-item:focus {
   -webkit-transform: translateX(20rem);
   -ms-transform: translateX(20rem);
   transform: translateX(20rem);
+}
+
+#slide-menu-checkbox:checked ~ .wrap .container {
+  max-width: calc(52em - 20rem);
+}
+
+#slide-menu-checkbox:checked ~ .wrap {
+  width: calc(100% - 20rem);
+  left: 0;
+}
+
+#slide-menu-checkbox:checked ~ footer {
+  width: calc(100% - 20rem);
+  left: calc(20rem);
+}
+
+@media (max-width: 768px) {
+  footer {
+    width: 100%;
+    left: 0;
+  }
+  .sidebar-nav {
+    width: 48px;
+    height: 38px;
+    border-radius: 5px;
+    left: 4px;
+    top: 4px;
+  }
+  .slide-menu-toggle {
+    top: unset;
+    left: unset;
+    &::before {
+      position: relative;
+      left: -4px;
+    }
+  }
+  .wrap {
+    width: unset;
+    left: unset;
+  }
+  .nav-button {
+    display: block;
+    height: 44px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    z-index: 50;
+
+    .toggle {
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      border: 0;
+      outline: 0;
+
+      &:before {
+        background: $orange;
+        border-radius: 5px;
+        color: #fff;
+        content: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23fff' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E");
+        display: block;
+        font-size: 16px;
+        left: 0.5em;
+        line-height: 2.25em;
+        position: absolute;
+        text-align: center;
+        top: 0.25em;
+        width: 32px;
+        height: 32px;
+        padding: 4px 6px;
+      }
+    }
+  }
 }
 
 // Custom footnotes styling
