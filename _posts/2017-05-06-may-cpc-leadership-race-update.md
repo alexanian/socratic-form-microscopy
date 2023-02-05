@@ -35,7 +35,10 @@ The way I see it, you have:
  	<li>Pierre Lemieux and Brad Trost running as social conservatives</li>
  	<li>Deepak Obhrai running against xenophobia</li>
 </ul>
+
 It might be possible to collapse these categories a bit; unobjectionable compromise candidates and Harper clones don't have that much difference between them, for example. But I think I'm clustering based on salient differences in what the candidates are choosing to highlight, even when their policy positions or voting records are very similar.
+
+<!--more-->
 
 I've also been clustering based on ability to win the thing. Here I think there are two clear groups: the haves, and the have-nots. In no particular order, the haves are: Chong, Bernier, Leitch, Raitt, Scheer, and O'Toole. The have-nots are everyone else. I'd give 20:1 odds against any of the have-nots winning.
 

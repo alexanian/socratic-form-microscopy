@@ -30,6 +30,8 @@ All nuclear weapon design ultimately starts with this problem of assembling a cr
 
 The first atomic bombs used one of two methods: <em>gun assembly</em> or <em>implosion</em>. These methods are still used to this day in fission weapons or in the fission first stage of multiple stage weapons.
 
+<!--more-->
+
 <h3 id="gun">4.1 Gun Assembly Design</h3>
 
 {% capture caption %}

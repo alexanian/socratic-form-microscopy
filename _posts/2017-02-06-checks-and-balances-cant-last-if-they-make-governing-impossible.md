@@ -15,7 +15,11 @@ There is an interesting post by Professor Bryan Caplan spinning limited governme
 
 Professor Caplan makes his case using a thought experiment with an angel. This angel talks to you during Obama's inauguration and offers you a bargain. The terms are simple If you accept, neither Obama nor Trump will be able to get much done. You trade away Obamacare and in exchange you don't get Trump's immigration policies. Professor Caplan frames this as a form of political insurance, a guarantee of mediocracy instead of potentially wild swings.
 
-Professor Caplan points out that this insurance (which might be sounding pretty tempting to you right about now) is actually similar to the concept of limited government, something we already know how to achieve. From his post:
+Professor Caplan points out that this insurance (which might be sounding pretty tempting to you right about now) is actually similar to the concept of limited government, something we already know how to achieve.
+
+<!--more-->
+
+From his post:
 
 <blockquote>If you want the insurance of limited government, there are well-tested mechanisms to deliver it.  You all know them.  Supermajority rules require more than a majority to act.  Division of powers makes it hard for government bodies to accomplish anything on their own.  Judicial review allows judges to invalidate acts of government.  Federalism greatly reduces the cost of "voting with your feet."  If you think these institutions aren't working, the obvious solution is to strengthen them.  Impose more supermajority requirements.  Divide more powers.  Overturn legislation that fails to get support from six, seven, eight, or all nine Supreme Court Justices.  Make states pay for their own spending with their own taxes, not federal grants.</blockquote>
 

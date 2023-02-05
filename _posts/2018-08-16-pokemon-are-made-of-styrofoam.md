@@ -33,6 +33,8 @@ Onix, being tough. I don't own the copyright to this image, but I'm claiming fai
 
 Surely such a large and tough Pokémon should be very, very dense, right? Density is such an important tactile cue for us. Don't believe me? Pick up a large piece of solid medal. Its surprising weight will make you take it seriously.
 
+<!--more-->
+
 Let's check if Onix would be taken seriously, shall we? Density is equal to mass divided by volume. We use the symbol ρ to represent density, which gives us the following equation:
 
 <img class="size-full wp-image-834 aligncenter" src="{{ site.baseurl }}/wp-content/uploads/rho-m-over-v.png" alt="" width="104" height="70" />

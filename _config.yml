@@ -11,3 +11,5 @@ baseurl: "/socratic-form-microscopy" # the subpath of your site, e.g. /blog
 url: https://tessa.fyi
 
 remote_theme: broccolini/swiss
+
+excerpt_separator: <!--more-->

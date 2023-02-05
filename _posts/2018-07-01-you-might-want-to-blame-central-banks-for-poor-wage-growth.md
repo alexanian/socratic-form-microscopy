@@ -23,6 +23,8 @@ tags:
 
 But after reading <a href="http://www.themoneyillusion.com/">monetary policy</a> <a href="http://jpkoning.blogspot.com/">blogs</a>, the current lack of wage growth feels much less confusing to me. Based on this, I'd like to offer one explanation for why wages haven't been growing. While I may not be an economist, I'll be doing my best to pass along verbatim the views of serious economic thinkers.
 
+<!--more-->
+
 {% capture caption %}
 Image courtesy of the <a href="https://fred.stlouisfed.org/series/LES1252881600Q">St. Louis Federal Reserve Bank</a>. Units are 1982-1984 CPI-adjusted dollars. Isn't it rad how the US government doesn't copyright anything it produces?
 {% endcapture %}

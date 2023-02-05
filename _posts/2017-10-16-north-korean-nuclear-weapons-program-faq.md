@@ -28,6 +28,8 @@ nuclear-series:
 [30 minute read]
 </p>
 
+<!--more-->
+
 ## Table of Contents
 
 #### <a href="#1.0">1. Why?</a>

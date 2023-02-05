@@ -23,7 +23,11 @@ The other day, I posed a question to my friends on Facebook:
 I just crunched some numbers and I'll post them later. First I want to give people a chance to guess and test their calibration.</blockquote>
 I was doing research for a future blog post on libertarianism and wanted to check one of the fundamental assumptions that many libertarians make: in the absence of a government, private charity would provide many of the same social services that are currently provided by the government.
 
-I honestly wasn't sure what I'd find. But I was curious to see what people would suggest. Answer fell into four main camps:
+<!--more-->
+
+I honestly wasn't sure what I'd find. But I was curious to see what people would suggest.
+
+Answers fell into four main camps:
 
 <ol>
  	<li>Charitable giving and support for a welfare state might be caused by the same thing, so there will be a weak positive correlation.</li>

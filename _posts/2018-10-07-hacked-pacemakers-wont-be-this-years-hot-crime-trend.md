@@ -23,6 +23,8 @@ Electrical grid hackings provide a sobering example. Despite years of warning th
 
 Hacking, whether it's of the electricity grid or of pacemakers gets all the headlines. Meanwhile fatty foods and squirrels do all the real damage.
 
+<!--more-->
+
 (Last year, <a href="https://www.cdc.gov/heartdisease/facts.htm">610,000 Americans died of heart disease</a> and 0 died of hacked pacemakers.)
 
 For all the media attention that novel cyberpunk methods of murder get, they seem to be rather ineffective for actual murder, as demonstrated by the paucity of murder victims. I think this is rather generalizable. Simple ways of killing people are very effective but not very scary and so don't garner much attention. On the other hand, particularly novel or baroque methods of murder cause a lot of terror, even if almost no one who is scared of them will ever die of them.

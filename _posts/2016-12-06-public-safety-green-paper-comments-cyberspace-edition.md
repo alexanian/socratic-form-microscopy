@@ -1,6 +1,6 @@
 ---
 id: 80
-title: 'Public Safety Green Paper Comments &#8211; Cyberspace Edition'
+title: "Public Safety Green Paper Comments &#8211; Cyberspace Edition"
 date: 2016-12-06T18:10:44-05:00
 author: Zach
 layout: post
@@ -12,9 +12,13 @@ tags:
   - canada
   - public safety green papers
 ---
+
 This is a special edition of my public safety green paper consultation project. This time around, I'll be focusing on just the questions dealing with digital investigations, encryption, etc. <a href="https://www.publicsafety.gc.ca/cnt/cnslttns/ntnl-scrt/thm09-en.aspx">It's all one section on the consultation website</a>.
 
 In contrast to many of the other sections, where I felt that the questions were leading in a positive direction, I'm deeply worried with where the government wants to go with digital investigative powers. I feel like there's a fundamental disconnect between how the government thinks online security and encryption works and how they actually works. I hope that others who understand the value of encryption can join with me in voicing our fears to the government.
+
+<!--more-->
+
 <h3>Investigative Capabilities in a Digital World</h3>
 <h5>How can the Government address challenges to law enforcement and national security investigations posed by the evolving technological landscape in a manner that is consistent with Canadian values, including respect for privacy, provision of security and the protection of economic interests?</h5>
 As long as almost all crimes that cause actual harm to someone must be undertaken in the physical world, it makes sense to value the privacy of Canadians and their economic interests (especially as Canada tries to become a leader in digital technology) more highly than simple investigatory convenience.
@@ -22,6 +26,7 @@ As long as almost all crimes that cause actual harm to someone must be undertake
 It is impossible to make encryption with a back-door only the government can use. It's impossible to expect Canadian businesses to be competitive internationally if they're crippled by the costs of maintaining more data than they need to for their own business operations or maintain expensive intercept capabilities. And maintaining subscriber data puts Canadians at much higher risk of embarrassment, extortion, or identity theft in the event of a data breach.
 
 As things currently stand, privacy right and economic interests are too important to allow any significant compromises to them to be made.
+
 <h5>In the physical world, if the police obtain a search warrant from a judge to enter your home to conduct an investigation, they are authorized to access your home. Should investigative agencies operate any differently in the digital world?</h5>
 Not particularly. Requiring a judge to approve most requests - like subscriber information or intercept capability - is an equally useful norm in both the physical and digital worlds. With respect to encryption, encryption keys should fall under the general protection from self-incrimination that everyone enjoys under the charter.
 <h5>Currently, investigative agencies have tools in the digital world similar to those in the physical world. As this document shows, there is concern that these tools may not be as effective in the digital world as in the physical world. Should the Government update these tools to better support digital/online investigations?</h5>

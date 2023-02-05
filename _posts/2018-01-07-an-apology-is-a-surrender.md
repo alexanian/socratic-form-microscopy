@@ -30,7 +30,10 @@ This fits into the pattern we've seen in many of the recently named abusers. Whe
  	<li>"[It’s] not reflective of who I am." (<a href="https://www.thestar.com/opinion/contributors/2017/12/12/john-olivers-public-confrontation-of-dustin-hoffman-serves-as-an-act-of-genuine-solidarity.html">Dustin Hoffman</a>)</li>
  	<li>"I appreciate the way I've behaved with colleagues in the past has caused a lot of pain, and I sincerely apologize for it", followed by "Any allegations of non-consensual sex are unequivocally denied by Mr. Weinstein. Mr. Weinstein has further confirmed that there were never any acts of retaliation against any women for refusing his advances" via a spokesperson. (<a href="https://en.wikipedia.org/wiki/Harvey_Weinstein_sexual_abuse_allegations#Weinstein's_responses">Harvey Weinstein</a>)</li>
 </ul>
+
 Amazingly, and for the first time I can remember, (<a href="http://www.cbc.ca/news/entertainment/milano-driver-criticize-damon-for-comments-1.4452881">most</a>) people aren't buying it.
+
+<!--more-->
 
 Ignoring most of these apologies is almost certainly the correct response. In fact, I wouldn't even call them apologies. An apology is a surrender. These statements are rearguards.
 

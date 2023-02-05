@@ -15,6 +15,8 @@ tags:
 
 1. At this point, the cat is out of the bag on white identity politics. I suppose I should say that only time will tell if this is good or bad, but I'm just going to say it will be bad\*.
 
+<!--more-->
+
 2. One of the most important tenets of the American Civil Religion is now on life support. Trump explicitly (and possibly deliberately) inverted JFK's famous line. Instead of "ask what you can do for your country", it was "a nation exists to serve its citizens". Civic service as an ideal has been around since the classics obsessed founders (critically, this is why no one – not even members of his own party – trusted Aaron Burr; he wanted power for his own sake, not out of noblesse oblige). It's hard for me to express just how weird it is seeing service to America being specifically denigrated by a Republican president. And I can't see the left volunteering as the holders of this virtue. The left is much more interested in serving <em>people</em> than serving an idea or an ideal.
 
 3. Really, the whole speech is basically a repudiation of everything in <a href="https://www.jfklibrary.org/Research/Research-Aids/Ready-Reference/JFK-Quotations/Inaugural-Address.aspx">JFK's inaugural address</a>. Compare and contrast "America first" with "[for] half the globe struggling to break the bonds of mass misery, we pledge our best efforts to help them help themselves, for whatever period is required". JFK's speech is a call to stoicism and hope in the face of a long struggle. Trump's speech is a proclamation that all problems will now be over.
@@ -26,4 +28,4 @@ All credit to <a href="http://dsadevil.blogspot.ca/2016/12/needing-true-friend-i
 
 ---
 
-- I think identity politics <em>can</em> be fine in many circumstances, especially when it's explicitly positive sum. I think identity politics led by Trump are especially likely to be bad because he views the world in zero sum terms. This means that his identity politics will by necessity be us vs. them.
+\* I think identity politics <em>can</em> be fine in many circumstances, especially when it's explicitly positive sum. I think identity politics led by Trump are especially likely to be bad because he views the world in zero sum terms. This means that his identity politics will by necessity be us vs. them.
