@@ -24,10 +24,15 @@ $color-secondary: $grey !default;
   -moz-osx-font-smoothing: grayscale;
 }
 
-// hardcoded to match $orange above
+// hardcoded to convert black to match $orange above
 .orange-filter {
   filter: invert(72%) sepia(58%) saturate(5908%) hue-rotate(345deg)
     brightness(96%) contrast(92%);
+}
+
+// convert black to white
+.white-filter {
+  filter: invert(99%) hue-rotate(100deg) brightness(116%) contrast(100%);
 }
 
 // Import sass partials (used in all themes)

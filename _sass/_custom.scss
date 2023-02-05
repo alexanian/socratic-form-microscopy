@@ -43,6 +43,27 @@ a.site-logo-link:active {
   padding-top: 32px;
 }
 
+#home-content {
+  h3 {
+    a {
+      color: $color-body-text;
+    }
+    a:hover {
+      color: $color-text-accent;
+    }
+  }
+}
+
+div.post-header {
+  display: flex;
+  align-items: center;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
 a.category-head {
   text-decoration: none;
   color: $color-primary-link;
@@ -413,3 +434,4 @@ hr.post-end {
   margin-bottom: $spacer-2;
   border-color: $color-dot-accent;
 }
+
