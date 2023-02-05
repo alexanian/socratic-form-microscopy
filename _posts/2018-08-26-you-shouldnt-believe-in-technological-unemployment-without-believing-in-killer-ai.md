@@ -37,6 +37,8 @@ Let's express these two beliefs as separate propositions:
 
 Can you spot the contradiction between these two statements? In the common imagination, it would require an AI that can approximate human capabilities to drive significant unemployment. Given that humans are the largest existential risk to other humans (think thermonuclear war and climate change), how could equally intelligent and capable beings, bound to subservience, not present a threat?
 
+<!--more-->
+
 People who've read a lot about AI or the labour market are probably shaking their head right now. This explanation for the contradiction, while evocative, is a strawman. I do believe that at most one (and possibly neither) of those propositions I listed above are true and the organizations peddling both cannot be trusted. But the reasoning is a bit more complicated than the standard line.
 
 First, economics and history tell us that we shouldn't be very worried about technological unemployment. There is a fallacy called "the lump of labour", which describes the common belief that there is a fixed amount of labour in the world, with mechanical aide cutting down the amount of labour available to humans and leading to unemployment.
@@ -51,11 +53,11 @@ Ricardo did a lot of work in the early economics of trade, where he came up with
 
 The original example is rather older though, so it uses England and its close ally Portugal as the cast and wine and cloth as the goods. It goes like this: imagine that world economy is reduced to two countries (England and Portugal) and each produce two goods (wine and cloth). Portugal is uniformly more productive.
 
-|          | Hours of work to produce  |
-|----------|--------------|------------|
-|          | _Cloth_      | _Wine_     |
-| England  | 100          | 120        |
-| Portugal | 90           | 80         |
+|          | Hours of work to produce |
+| -------- | ------------------------ | ------ |
+|          | _Cloth_                  | _Wine_ |
+| England  | 100                      | 120    |
+| Portugal | 90                       | 80     |
 
 Let's assume people want cloth and wine in equal amounts and everyone currently consumes one unit per month. This means that the people of Portugal need to work 170 hours each month to meet their consumption needs and the people of England need to work 220 hours per month to meet their consumption needs.
 
@@ -87,11 +89,11 @@ This points to what might be a trend: as automation makes many things cheaper an
 
 No matter how you manipulate the numbers I gave for England and Portugal, you'll still find a net decrease in total hours worked if both countries trade based on their comparative advantage. Let's demonstrate by comparing England to a hypothetical hyper-efficient country called "Automatia":
 
-|           | Hours of work to produce  |
-|-----------|--------------|------------|
-|           | _Cloth_      | _Wine_     |
-| England   | 100          | 120        |
-| Automatia | 2            | 1          |
+|           | Hours of work to produce |
+| --------- | ------------------------ | ------ |
+|           | _Cloth_                  | _Wine_ |
+| England   | 100                      | 120    |
+| Automatia | 2                        | 1      |
 
 Automatia is 50 times as efficient at England when it comes to producing cloth and 120 times as efficient when it comes to producing wine. Its citizens need to spend 3 hours tending the machines to get one unit of each, compared to the 220 hours the English need to toil.
 

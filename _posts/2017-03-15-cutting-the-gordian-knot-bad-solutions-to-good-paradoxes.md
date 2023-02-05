@@ -31,6 +31,8 @@ Alternatively, the barber is a woman.
 
 It depends.
 
+<!--more-->
+
 In Christian theology, God is often considered <em>all-knowing</em>, <em>all-powerful</em>, and <em>all-loving</em>. Some theologians dispute each of these, but most agree he has at least some mix of those three attributes. It turns out the answer to this paradox depends on which theologians are right.
 
 This question is only interesting if god is all-powerful. If God isn't all powerful, then this question will be determined by which is greater: his power of creation, or his power to manipulate creation. That's a boring answer, so let's focus on the cases where God is all powerful.

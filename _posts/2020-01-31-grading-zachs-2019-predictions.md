@@ -31,6 +31,9 @@ Let’s look at how accurately Zach <a href="{{ site.baseurl }}/2019/01/06/2019-
  	<li>Canadian unemployment rate at or below 6% at the end of 2019 – 60%</li>
  	<li>Health Canada still doesn’t allow Soylent to enter the country by the end of 2019 – 70%</li>
 </ol>
+
+<!--more-->
+
 <h2><b>America</b></h2>
 <ol>
  	<li><del>Less than 100km of concrete wall (or steel slat wall) on the border with Mexico will be constructed – 80%</del></li>

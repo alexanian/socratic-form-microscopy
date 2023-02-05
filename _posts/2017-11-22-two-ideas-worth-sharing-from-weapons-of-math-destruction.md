@@ -19,6 +19,8 @@ tags:
 
 <a href="{{ site.baseurl }}/2017/11/19/two-fallacies-from-weapons-of-math-destruction/">Recently</a>, I talked about what I didn't like in Dr. Cathy O'Neil's book, <em>Weapons of Math Destruction</em>. This time around, I'd like to mention two parts of it I really liked. I wish Dr. O'Neil put more effort into naming the concepts she covered; I don't have names for them from <em>WMD</em>, but in my head, I've been calling them <em>Hidden Value Encodings</em> and <em>Axiomatic Judgements</em>.
 
+<!--more-->
+
 <h1>Hidden Value Encodings</h1>
 Dr. O'Neil opens the book with a description of the model she uses to cook for her family. After going into a lot of detail about it, she makes this excellent observation:
 <blockquote>Here we see that models, despite their reputation for impartiality, reflect goals and ideology. When I removed the possibility of eating Pop-Tarts at every meal, I was imposing my ideology on the meals model. It’s something we do without a second thought. Our own values and desires influence our choices, from the data we choose to collect to the questions we ask. Models are opinions embedded in mathematics.</blockquote>

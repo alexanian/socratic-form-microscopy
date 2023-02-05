@@ -33,7 +33,11 @@ Now is the big reveal. Just how did I do in <a href="{{ site.baseurl }}/2017/01/
  	<li>No terrorist attack that kills &gt;100 Canadians – 90%</li>
  	<li><span style="text-decoration: line-through;">At least one large technology company (valuation &gt;$10 billion and &gt;1,000 employees) will open a Waterloo office in 2017 – 80%</span></li>
 </ol>
+
+<!--more-->
+
 <span style="text-decoration: line-through;"> </span>
+
 <h2>America</h2>
 <ol start="15">
  	<li><span style="text-decoration: line-through;">Trump will veto at least 1 bill passed by the House and Senate – 70%</span></li>

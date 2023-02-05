@@ -33,6 +33,9 @@ In what is becoming a New Year's tradition, let's look at how accurately I predi
  	<li>Canada does not win a gold medal in men's hockey at the 2018 Olympics – 70%</li>
  	<li><span style="text-decoration: line-through;">Canada does win a gold medal in women's hockey at the 2018 Olympics – 51%</span></li>
 </ol>
+
+<!--more-->
+
 <h2>America</h2>
 <ol>
  	<li><span style="text-decoration: line-through;">Trump announces that the US is pulling out of NAFTA and begins the process of putting the US withdrawal into motion – 51%</span></li>

@@ -17,10 +17,12 @@
   </h2>
   <div class="prose">
     <p>
-      {% if post.preview_excerpt %}
-        {{ post.preview_excerpt }}
-      {% else %}
+      {% if post.excerpt_quote %}
+        {{ post.excerpt_quote }}
+      {% elsif post.excerpt.size > 3000 %}
         {{ post.content | truncatewords:150 }}
+      {% else %}
+        {{ post.excerpt }}
       {% endif %}
     </p>
     <p class="bold h4 mb-0 text-right">
