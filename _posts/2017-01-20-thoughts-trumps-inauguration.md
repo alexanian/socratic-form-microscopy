@@ -2,7 +2,8 @@
 id: 104
 title: "Thoughts on Trump’s Inauguration Speech"
 date: 2017-01-20T22:14:05-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=104
 permalink: /2017/01/20/thoughts-trumps-inauguration/

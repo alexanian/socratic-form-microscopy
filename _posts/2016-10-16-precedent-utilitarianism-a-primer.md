@@ -2,7 +2,8 @@
 id: 34
 title: "Precedent Utilitarianism: A Primer"
 date: 2016-10-16T20:50:06-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=34
 permalink: /2016/10/16/precedent-utilitarianism-a-primer/

@@ -2,7 +2,8 @@
 id: 667
 title: An Apology is a Surrender
 date: 2018-01-07T12:01:39-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=667
 permalink: /2018/01/07/an-apology-is-a-surrender/

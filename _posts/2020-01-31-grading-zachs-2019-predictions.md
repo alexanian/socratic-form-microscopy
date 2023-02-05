@@ -3,6 +3,7 @@ id: 1018
 title: "Grading Zach's 2019 Predictions"
 date: 2020-01-31T10:00:11-05:00
 author: Tessa Alexanian
+author_link: https://tessa.fyi/zachary-jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=1018
 permalink: /2020/01/31/grading-zachs-2019-predictions/

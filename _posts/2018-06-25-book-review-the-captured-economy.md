@@ -2,7 +2,8 @@
 id: 785
 title: "Book Review: The Captured Economy"
 date: 2018-06-25T08:34:16-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=785
 permalink: /2018/06/25/book-review-the-captured-economy/

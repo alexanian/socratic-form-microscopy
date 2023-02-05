@@ -2,7 +2,8 @@
 id: 675
 title: "You’re Doing Taxes Wrong: Consumptive vs. Wealth Inequality"
 date: 2018-01-22T19:37:52-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=675
 permalink: /2018/01/22/youre-doing-taxes-wrong-consumptive-vs-wealth-inequality/

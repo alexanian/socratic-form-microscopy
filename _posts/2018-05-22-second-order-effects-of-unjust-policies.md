@@ -2,7 +2,8 @@
 id: 756
 title: Second Order Effects of Unjust Policies
 date: 2018-05-22T08:39:16-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=756
 permalink: /2018/05/22/second-order-effects-of-unjust-policies/

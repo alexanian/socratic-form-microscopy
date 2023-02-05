@@ -2,7 +2,8 @@
 id: 80
 title: "Public Safety Green Paper Comments &#8211; Cyberspace Edition"
 date: 2016-12-06T18:10:44-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=80
 permalink: /2016/12/06/public-safety-green-paper-comments-cyberspace-edition/

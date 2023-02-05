@@ -2,7 +2,8 @@
 id: 116
 title: "Book Review: SPQR"
 date: 2017-01-22T11:56:49-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=116
 permalink: /2017/01/22/book-review-spqr/

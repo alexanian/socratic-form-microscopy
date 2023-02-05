@@ -2,7 +2,8 @@
 id: 473
 title: "They don’t hate your values; they just assign them no weight"
 date: 2017-08-06T10:30:54-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=473
 permalink: /2017/08/06/they-dont-hate-your-values-they-just-assign-them-no-weight/

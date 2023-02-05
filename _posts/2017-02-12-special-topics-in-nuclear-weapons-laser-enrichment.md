@@ -2,7 +2,8 @@
 id: 269
 title: "Special Topics in Nuclear Weapons: Laser Enrichment"
 date: 2017-02-12T14:15:49-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=269
 permalink: /2017/02/12/special-topics-in-nuclear-weapons-laser-enrichment/

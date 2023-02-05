@@ -2,7 +2,8 @@
 id: 143
 title: "Nuclear Weapons: 3.0 Proliferation"
 date: 2017-01-24T21:19:46-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=143
 permalink: /2017/01/24/nuclear-weapons-3-0-proliferation/

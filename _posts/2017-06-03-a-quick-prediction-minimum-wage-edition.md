@@ -2,7 +2,8 @@
 id: 406
 title: A Quick Prediction (Minimum Wage Edition)
 date: 2017-06-03T00:59:43-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=406
 permalink: /2017/06/03/a-quick-prediction-minimum-wage-edition/

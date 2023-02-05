@@ -2,7 +2,8 @@
 id: 543
 title: Nuclear Weapons Explained Backwards
 date: 2017-11-01T22:06:20-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=543
 permalink: /2017/11/01/nuclear-weapons-explained-backwards/

@@ -2,7 +2,8 @@
 id: 477
 title: Meditations on a broken arm
 date: 2017-08-13T13:52:37-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=477
 permalink: /2017/08/13/meditations-on-a-broken-arm/

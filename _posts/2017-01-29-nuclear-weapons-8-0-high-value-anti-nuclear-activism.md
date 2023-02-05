@@ -2,7 +2,8 @@
 id: 199
 title: "Nuclear Weapons: 8.0 High Value Anti-Nuclear Activism"
 date: 2017-01-29T12:02:08-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=199
 permalink: /2017/01/29/nuclear-weapons-8-0-high-value-anti-nuclear-activism/

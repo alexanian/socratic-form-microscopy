@@ -2,7 +2,8 @@
 id: 461
 title: Meditations on Regulation, or the Case of the $10,000 Staircase
 date: 2017-07-26T20:34:49-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=461
 permalink: /2017/07/26/meditations-on-regulation-or-the-case-of-the-10000-stairs/

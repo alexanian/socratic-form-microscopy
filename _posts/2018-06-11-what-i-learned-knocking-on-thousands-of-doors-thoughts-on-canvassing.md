@@ -2,7 +2,8 @@
 id: 779
 title: What I learned knocking on thousands of doors – thoughts on canvassing
 date: 2018-06-11T08:46:24-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=779
 permalink: /2018/06/11/what-i-learned-knocking-on-thousands-of-doors-thoughts-on-canvassing/
@@ -17,6 +18,7 @@ tags:
   - ontario
   - political philosophy
 ---
+
 "Hi I'm Zach. I'm out here canvasing for Catherine Fife, Andrea Horwath, and the NDP. I was wondering if Catherine could count on your support this election…" is now a sentence I've said hundreds of times.
 
 Ontario had a provincial election on <a href="https://en.wikipedia.org/wiki/Ontario_general_election,_2018">June 7<sup>th</sup></a>. I wasn't fond of the Progressive Conservative (PC) Party's leader, one <a href="https://www.macleans.ca/politics/doug-ford-chaos-candidate/">Doug Ford</a>, so I did what I could. I joined the PC party to vote for his much more qualified rival, Christine Elliot. When that failed, I volunteered for Waterloo's NDP Member of Provincial Parliament (MPP), <a href="https://www.catherinefife.com/">Catherine Fife</a>.

@@ -2,7 +2,8 @@
 id: 936
 title: Link Post – February 2019
 date: 2019-02-10T08:30:54-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=936
 permalink: /2019/02/10/link-post-february-2019/

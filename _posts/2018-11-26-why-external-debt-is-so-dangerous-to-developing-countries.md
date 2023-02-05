@@ -2,7 +2,8 @@
 id: 886
 title: Why External Debt is so Dangerous to Developing Countries
 date: 2018-11-26T08:25:52-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=886
 permalink: /2018/11/26/why-external-debt-is-so-dangerous-to-developing-countries/

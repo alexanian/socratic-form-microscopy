@@ -1,8 +1,9 @@
 ---
 id: 499
-title: 'Book Review: The Second Shift'
+title: "Book Review: The Second Shift"
 date: 2017-09-17T17:38:50-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=499
 permalink: /2017/09/17/book-review-the-second-shift/
@@ -15,6 +16,7 @@ tags:
   - feminism
   - reading
 ---
+
 Fittingly enough, <em>The Second Shift </em>is the second book I've read by the famed sociologist Professor Arlie Russel Hochschild. It's a book about the second working shift – the one that starts when people, especially parents, come home from work and find themselves confronted with a mound of chores.
 
 I really liked this book. It's one of the most interesting things I've read this year and I've regaled everyone who will listen with facts from it for the past few weeks. Now I'm taking that regaling online. I'm not going to do a full summary of it because I think a lot of its ideas have entered the cultural consciousness; it's well known that women continue to do the majority of work at home and have less time for leisure than men and <a href="https://english.emmaclit.com/2017/05/20/you-shouldve-asked/">this popular comic about mental load</a> summarizes that section of the book better than I ever could.
@@ -22,6 +24,7 @@ I really liked this book. It's one of the most interesting things I've read this
 But even still, there's lots of interesting anecdotes and figures to share.
 
 (A quick note: This book focused on heterosexual couples because gay couples are <em>much</em> better at sharing the second shift. I'm going to use gendered language for partners that assumes heterosexual relationships throughout this post because this book talked about a problem of heterosexual relationships; specifically, it talked about a problem with how <em>men</em> act in heterosexual relationships.)
+
 <h3>"Transitional" men are worse than traditional men</h3>
 Professor Hochschild identifies three types of men. There are the traditional men, who believe in traditional gender roles and separate spheres for the sexes. These are the men who'd prefer to earn the money while their wives keep the house. Then there are the egalitarian men – the men who believe that men and women are equal and try (with varying amounts of success) to transfer this political principle to their personal relationships.
 
@@ -32,6 +35,7 @@ Transitional men were the worst sharers of chores. Seventy percent of egalitaria
 This seems to be because transitional men expect women to deal with a lack of time by cutting back at work. The transitional men profiled in the book tended to be emotionally supportive of the women in their lives who were caught between work and home, but most refused to support their partners by actually helping out more.
 
 People talk about women wanting to "have it all", with a career and motherhood. But if anyone should be accused of wanting to "have it all", it's these men. They wanted the extra spending money their wife brought in with her job, but weren't prepared to support her in the chores at home. To these men, their wife being able to work was contingent on her first completing her "more important" duties in the home.
+
 <h3>Working more can be a way to escape chores</h3>
 Some couples try and have the same amount of leisure time, rather than do the same amount of chores. This allows them to balance things out if one partner works more. It also can set up bad incentives. Some of the men in this book used their long hours (and high salaries) as an excuse not to do chores at home.
 
@@ -42,6 +46,7 @@ The negative impacts of overtime work seem to <a href="http://www.andrewjensen.n
 Not everyone has the freedom to bring this up at work and not everyone enjoys their work. You might be stuck in a job you don't like, a job that demands a lot of overtime to prove that you're serious and this overtime might take a toll on you (like studies suggest it does). If you leaving that job isn't feasible, you don't like your job, and your partner works fewer hours or enjoys their job more, then it probably is fair for your partner to take on more of the housework. In all other cases, you probably shouldn't use working longer hours as an excuse to do less of the housework, at least not if equality is important in your partnership.
 
 This also applies to personal projects, even if they might increase your employability, bring in a bit of extra cash, or bring value to your community. If you're an aspiring author and spend an hour writing each night, this shouldn't entitle you to any lesser share of the chores. If you're studying a subject you enjoy, you shouldn't use night class as an excuse to shirk housework. And volunteering, while laudable, is an activity that <em>you</em> do. It shouldn't entitle you to a pass on chores.
+
 <h3>Family Myths</h3>
 The most distressing tale (to me) in the whole book was the story of Nancy and Evan Holt. Nancy was an ardent feminist and egalitarian, while Evan was a transitional. Evan was happy that Nancy liked her job, but thought that the home should be primarily her responsibility. Nancy wanted Evan to share the second shift.
 
@@ -56,6 +61,7 @@ Evan kept up his passive resistance for years and eventually Nancy cut back her 
 How? Well, they'd 'split the house in half'. Nancy took the upstairs (cooking, cleaning, the majority of childcare) and Evan took the downstairs (fixing the car, dealing with the yard, and maintaining the house). For all that this apparently represented an even split, it wasn't. Not only did Evan spend less time doing chores than Nancy, the chores he did gave him more freedom. It's much easier to put off mowing the yard or some bit of home maintenance than it is to put off picking up your kid from daycare or cooking a meal.
 
 The myth of the work being split in half allowed Nancy to feel like she hadn't capitulated on her feminist principles, even though she had. From a certain point of view, the family myth was a useful fiction – it probably saved Nancy and Evan's marriage. But it opened my eyes to the very real danger of allowing a convenient myth to become an unquestioned truth. It reminded me to be careful of any convenient myths and to favour data (e.g. directly comparing how much time my partner and I spend doing chores) over stories when deciding if things are fair.
+
 <h3>Passive avoidance and making do with less</h3>
 Another tactic favoured by men like Evan Holt who have little interest in helping with the second shift requires a combination of passive avoidance and making do with less. We saw the first half of this above. It was the strategy Evan used to get out of cooking. By forgetting the ingredients, he got out of the chore.
 
@@ -70,6 +76,7 @@ In <em>The Second Shift</em>, this was a highly gendered interaction. There were
 The thing I find particularly unfortunate about this tactic is that it sets up a race to the bottom. Having the chores go to whomever cares the most sets up a terrible system of competitive insouciance.
 
 While I acknowledge that it certainly is possible for partners to have very real differences in their desired level of cleanliness or in their desired calibre of meal preparation, I think it makes sense to have a strong habit of discounting those, so as to ensure a good incentive structure. As long as each partner has even one thing they care about more than the other, it should be possible for them to cultivate empathy and avoid the insidious temptation to put off chores by making do with less.
+
 <h3>Not all chores are created equal</h3>
 Even when men were splitting the chores evenly, this didn't always translate to less work for their partners. The illustrative example here was Greg and Carol Alston. Both spent about the same amount of time working on tasks around the house, but this was driven in part by Greg taking on a variety of home improvement tasks.
 
@@ -84,6 +91,7 @@ Greg somewhat redeemed this imbalance by being entirely <em>willing</em> to help
 What chores are daily necessities will probably vary from couple to couple. If you and your partner are habitually neat but bad at cooking, you might decide that it is important that the house is tidied up daily, but you won't mind if meals come from takeout.
 
 In discussions with your partner about the second shift, it seems especially worthwhile to determine which chores you and your partner consider absolutely mandatory and ensure that in addition to balancing chores in general, you are approximately balanced here. Otherwise, the chores you do might not be lightening the load on your partner at all.
+
 <h3>Gratitude</h3>
 Despite that fact that Greg's carpentry projects didn't really reduce the burden on her, Carol was happy that he was doing them. For one, Greg treated her as someone with important opinions. He may have planned the projects, but he actively sought out and valued her input. In addition, by doing this, Greg was helping make one of Carol's lifelong dreams a reality. Carol was <em>grateful</em> for the work that Greg was doing around the house.
 
@@ -94,6 +102,7 @@ This showed up in surprising places. When Nina Tanagawa started making more mone
 The worst situation was when one partner expected gratitude for something the other took for granted. When Jessica Stein cut back on work after the birth of her children, her husband Seth treated it like the natural order of the world. To Jessica, it stung. It wasn't how she'd seen her life going. She'd thought that their careers would be treated as equally important. She expected gratitude (and perhaps equal sacrifices from Seth) in response to her sacrifice.
 
 Seth's "sacrifice" was working long hours for a large salary. But this wasn't the sacrifice Jessica wanted of him. She wanted him to be present and helpful. Because of this mismatch, Jessica ended up withdrawing from her marriage and children. She spent the weekends in Seattle (she lived in the San Francisco bay area), with her old college friends. Professor Hochschild described the couple as "divorced in spirit".
+
 <h3>It's all in the culture</h3>
 So much of what drove gratitude was cultural. Nina felt grateful that her husband "tolerated" her higher salary because when she looked around at the other women she knew, she saw many of them married to men who <em>wouldn't</em> have "tolerated" their wife making more than them.
 

@@ -2,7 +2,8 @@
 id: 722
 title: When To Worry About Public Debt
 date: 2018-03-18T15:45:28-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=722
 permalink: /2018/03/18/when-to-worry-about-public-debt/

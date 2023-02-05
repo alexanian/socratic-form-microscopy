@@ -2,7 +2,8 @@
 id: 456
 title: "Book Review: Shattered"
 date: 2017-07-23T13:11:32-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=456
 permalink: /2017/07/23/book-review-shattered/

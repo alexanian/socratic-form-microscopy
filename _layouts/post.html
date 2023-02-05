@@ -44,6 +44,9 @@ layout: default
         itemprop="datePublished"
         >{{ page.date | date: "%b %-d, %Y" }}</time
       >
+      {% if page.author.size > 0 %} by 
+        {% if page.author_link.size > 0 %}<a href="{{ page.author_link }}">{{ page.author }} </a>{% else %}{{ page.author }} {% endif %}
+      {% endif %}
       {% if page.categories.size > 0 %} in {% for category in page.categories %}
       <a href="{{ site.baseurl }}/category/{{ category | slugify }}">{{ category }}</a>{% if
       forloop.last %}{% else %},{% endif %} {% endfor %} {% endif %}

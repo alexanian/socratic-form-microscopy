@@ -2,7 +2,8 @@
 id: 799
 title: Context Windows
 date: 2018-07-08T09:00:01-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=799
 permalink: /2018/07/08/context-windows/

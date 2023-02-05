@@ -2,7 +2,8 @@
 id: 842
 title: "You Shouldn’t Believe In Technological Unemployment Without Believing In Killer AI"
 date: 2018-08-26T08:45:50-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=842
 permalink: /2018/08/26/you-shouldnt-believe-in-technological-unemployment-without-believing-in-killer-ai/

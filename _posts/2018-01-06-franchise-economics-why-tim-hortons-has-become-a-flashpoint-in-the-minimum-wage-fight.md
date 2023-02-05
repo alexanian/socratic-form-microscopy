@@ -2,7 +2,8 @@
 id: 659
 title: "Franchise Economics: Why Tim Hortons Has Become A Flashpoint In The Minimum Wage Fight"
 date: 2018-01-06T15:06:51-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=659
 permalink: /2018/01/06/franchise-economics-why-tim-hortons-has-become-a-flashpoint-in-the-minimum-wage-fight/

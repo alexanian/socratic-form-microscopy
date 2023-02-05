@@ -2,7 +2,8 @@
 id: 890
 title: Link Post – December 2018
 date: 2018-12-02T08:30:38-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=890
 permalink: /2018/12/02/link-post-december-2018/

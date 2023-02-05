@@ -2,7 +2,8 @@
 id: 716
 title: The Awkward Dynamics of the Conservative Leadership Debates
 date: 2018-03-04T12:52:58-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=716
 permalink: /2018/03/04/the-awkward-dynamics-of-the-conservative-leadership-debates/
@@ -18,6 +19,7 @@ tags:
   - ontario
   - social conservatism
 ---
+
 Tanya Granic Allen is the most idealistic candidate I've ever seen take the stage in a Canadian political debate. This presents some awkward challenges for the candidates facing her, especially Mulroney and Elliot.
 
 First, there's the simple fact of her idealism. I think Granic Allen genuinely believes everything she says. For her, knowing what's right and what's wrong is simple. There isn't a whole lot of grey. She even (bless her) probably believes that this will be an advantage come election time. People overwhelming don't like the equivocation of politicians, so Granic Allen must assume her unequivocal moral stances will be a welcome change

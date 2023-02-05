@@ -2,7 +2,8 @@
 id: 970
 title: Post-modernism and Political Diversity
 date: 2019-04-03T08:30:29-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=970
 permalink: /2019/04/03/post-modernism-and-political-diversity/
@@ -16,6 +17,7 @@ tags:
   - no pomo
   - political philosophy
 ---
+
 I was reading <a href="http://www.zero-books.net/books/capitalist-realism">a post-modernist critique of capitalist realism</a> – the resignation to capitalism as the only practical way to organize a society, arising out of the failure of the Soviet Union – and I was struck by something interesting about post-modernism.
 
 Insofar as post-modernism stands for anything, it is a critique of ideology. Post-modernism holds that there is no privileged lens with which to view the world; that even empiricism is suspect, because it too has a tendency to reproduce and reify the power structures in which in exists.

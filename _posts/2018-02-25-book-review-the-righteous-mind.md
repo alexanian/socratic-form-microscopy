@@ -2,7 +2,8 @@
 id: 709
 title: "Book Review: The Righteous Mind"
 date: 2018-02-25T22:18:25-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=709
 permalink: /2018/02/25/book-review-the-righteous-mind/

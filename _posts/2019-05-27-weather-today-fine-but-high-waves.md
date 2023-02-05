@@ -2,7 +2,8 @@
 id: 945
 title: Weather today fine but high waves
 date: 2019-05-27T09:00:05-04:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=945
 permalink: /2019/05/27/weather-today-fine-but-high-waves/
@@ -15,6 +16,7 @@ tags:
   - forgotten history
   - zach really likes military history
 ---
+
 The Battle of the Tsushima Straits is the most underrated moment of historical importance in the 20<sup>th</sup> century.
 
 We've all heard lots of different explanations for the start of the First World War. The standard ones are as follows: Europe was a mess of alliances, imperial powers treated war like a game, and one unlucky arch-duke got offed by anarchists.

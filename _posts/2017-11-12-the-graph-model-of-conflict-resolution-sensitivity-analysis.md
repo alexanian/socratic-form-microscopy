@@ -2,7 +2,8 @@
 id: 582
 title: "The Graph Model of Conflict Resolution &#8211; Sensitivity Analysis"
 date: 2017-11-12T11:12:27-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=582
 permalink: /2017/11/12/the-graph-model-of-conflict-resolution-sensitivity-analysis/
@@ -47,20 +48,20 @@ The states are:
 
 Or in plain English:
 
-| State | Explantation |
-|-------|--------------|
-| 0     | Status quo   |
-| 1     | Nuclear strike by the US, NK keeps nuclear weapons   |
-| 2     | Unilateral US troop withdrawal   |
-| 4     | North Korean invasion with only conventional US responses   |
-| 5     | North Korean invasion with US nuclear strike   |
-| 6     | US withdrawal and North Korean Invasion   |
-| 8     | Unilateral North Korean abandonment of nuclear weapons   |
-| 9     | US strike and North Korean abandonment of nuclear weapons   |
-| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons   |
-| 12    | NK invasion after abandoning nuclear weapons; conventional US response   |
-| 13    | NK invasion after abandoning nuclear weapons; US nuclear strike   |
-| 14    | US withdrawal paired with NK nuclear weapons abandonment and invasion   |
+| State | Explantation                                                           |
+| ----- | ---------------------------------------------------------------------- |
+| 0     | Status quo                                                             |
+| 1     | Nuclear strike by the US, NK keeps nuclear weapons                     |
+| 2     | Unilateral US troop withdrawal                                         |
+| 4     | North Korean invasion with only conventional US responses              |
+| 5     | North Korean invasion with US nuclear strike                           |
+| 6     | US withdrawal and North Korean Invasion                                |
+| 8     | Unilateral North Korean abandonment of nuclear weapons                 |
+| 9     | US strike and North Korean abandonment of nuclear weapons              |
+| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons        |
+| 12    | NK invasion after abandoning nuclear weapons; conventional US response |
+| 13    | NK invasion after abandoning nuclear weapons; US nuclear strike        |
+| 14    | US withdrawal paired with NK nuclear weapons abandonment and invasion  |
 
 From these states, we saw the following equilibria and unilateral improvements:
 
@@ -102,8 +103,8 @@ What if we've underestimated how much North Korea and the United States care abo
 
 This gives us the following preference vectors:
 
-* <strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
-* <strong>NK: </strong>6, 14, 4, 12, 5, 13, 2, 0, 10, 1, 9, 8
+- <strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
+- <strong>NK: </strong>6, 14, 4, 12, 5, 13, 2, 0, 10, 1, 9, 8
 
 Since we're modelling the actors as more belligerent, let's also assume for the purposes of these analyses that invasions are irreversible.
 
@@ -126,8 +127,8 @@ What if these preferences are substantially correct and both sides are more aggr
 <h3>Nuclear Deterrence</h3>
 If we're assuming that North Korea has broadly similar preferences to our last variation, but doesn't want to get attacked by nuclear weapons, we get the following preference vectors:
 
-* <strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
-* <strong>NK: </strong>6, 14, 4, 12, 0, 10, 5, 13, 2, 1, 9, 8
+- <strong>US: </strong>8, 9, 0, 10, 13, 12, 5, 4, 1, 2, 14, 6
+- <strong>NK: </strong>6, 14, 4, 12, 0, 10, 5, 13, 2, 1, 9, 8
 
 Here are the annotated preferences vectors we'll use to assess stability with Sequential Stability and Symmetric Metarationality. Since we're leaving the belligerency of the United States the same, we'll continue to view invading as an irreversible action.
 
@@ -148,8 +149,8 @@ As we've seen throughout, Symmetric Metarationality tends to give very similar a
 <h3>Pacifistic People</h3>
 What instead of underestimating the bloodthirstiness of our belligerents, we've been overestimating it? It's entirely possible that both sides strongly disprefer all options that involve violence (and the more violence an option involves, the more they disprefer it) but talk up their position in hopes of receiving concessions. In this case, let's give our actors these preference vectors:
 
-* <strong>US:</strong> 8, 0, 10, 2, 9, 12, 4, 5, 14, 13, 6, 1
-* <strong>NK:</strong> 6, 14, 2, 10, 0, 8, 4, 12, 5, 1, 9, 13
+- <strong>US:</strong> 8, 0, 10, 2, 9, 12, 4, 5, 14, 13, 6, 1
+- <strong>NK:</strong> 6, 14, 2, 10, 0, 8, 4, 12, 5, 1, 9, 13
 
 (Note that I'm only extending "peacefulness" to these two actors; I'm assuming that North Korea would happily try and annex South Korea if there was no need to fight America to do so)
 
@@ -177,16 +178,15 @@ The cool thing about sensitivity analysis is that it shows you the equilibria a 
 
 Here's a full accounting of the states that showed up (counting our first model, there were nine possible simulations for each equilibrium to show up in):
 
-
-| State | Explantation | # |
-|-------|--------------|---|
-| 0     | Status quo   | 7 |
-| 2     | Unilateral US troop withdrawal   | 1 |
-| 4     | North Korean invasion with only conventional US responses   | 4 |
-| 5     | North Korean invasion with US nuclear strike   | 9 |
-| 8     | Unilateral North Korean abandonment of nuclear weapons   | 1 |
-| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons   | 6 |
-| 12    | NK invasion after abandoning nuclear weapons; conventional US response   | 6 |
+| State | Explantation                                                           | #   |
+| ----- | ---------------------------------------------------------------------- | --- |
+| 0     | Status quo                                                             | 7   |
+| 2     | Unilateral US troop withdrawal                                         | 1   |
+| 4     | North Korean invasion with only conventional US responses              | 4   |
+| 5     | North Korean invasion with US nuclear strike                           | 9   |
+| 8     | Unilateral North Korean abandonment of nuclear weapons                 | 1   |
+| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons        | 6   |
+| 12    | NK invasion after abandoning nuclear weapons; conventional US response | 6   |
 
 Of the five that showed up more than once, four showed up more than half the time. These then are the most robust equilibria; equilibria that half of the reasonable changes we attempted couldn't dislodge.
 

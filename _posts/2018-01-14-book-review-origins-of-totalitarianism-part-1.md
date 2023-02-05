@@ -2,7 +2,8 @@
 id: 671
 title: "Book Review: Origins of Totalitarianism Part 1"
 date: 2018-01-14T10:50:26-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=671
 permalink: /2018/01/14/book-review-origins-of-totalitarianism-part-1/

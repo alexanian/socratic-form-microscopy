@@ -1,6 +1,7 @@
 ---
 title: "Deus Ex Machina"
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 permalink: /deus-ex-machina/
 inline_featured_image:

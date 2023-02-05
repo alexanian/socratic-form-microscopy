@@ -1,8 +1,9 @@
 ---
 id: 873
-title: 'Link Post &#8211; November 2018'
+title: "Link Post &#8211; November 2018"
 date: 2018-11-04T16:07:13-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=873
 permalink: /2018/11/04/link-post-november-2018/
@@ -11,6 +12,7 @@ inline_featured_image:
 categories:
   - Link Post
 ---
+
 When a poet writes about his experience of becoming a lawyer after his release from jail, you know it's going to be <a href="https://www.nytimes.com/2018/10/16/magazine/felon-attorney-crime-yale-law.html">a punch in the gut</a>. One thing I noticed: he would have had a much easier time reintegrating to society, finding a job, etc. had he been tried as a juvenile, rather than an adult. Has there been any meaningful study on recidivism rates between these two groups? You could compare 17 year olds and 18 year olds charged with the same crime and look at outcomes fifteen years down the road.
 
 <a href="https://www.cnn.com/2018/10/30/tech/segway-history/index.html">Segway's patents are now at the core</a> of the new crop of ride-sharing scooters, which may finally bring about the original promise of the Segway. Perhaps one element of Segway's downfall (beyond how uncool they were) is how <em>proper</em> they were about everything. They worked hard to get laws passed that made it legal to ride Segways on the sidewalk, rather than "<a href="https://news.vice.com/en_us/article/d35m9a/people-in-san-francisco-are-really-pissed-over-these-electric-scooters">innovating on the regulatory side</a>" (read: ignoring the law) like the scooter companies do.

@@ -2,7 +2,8 @@
 id: 295
 title: Pump Six and the Perils of Speculative Fiction
 date: 2017-02-23T19:57:43-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=295
 permalink: /2017/02/23/pump-six-and-the-perils-of-speculative-fiction/

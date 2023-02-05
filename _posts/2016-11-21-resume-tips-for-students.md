@@ -2,7 +2,8 @@
 id: 59
 title: Resume Tips For Students
 date: 2016-11-21T18:16:38-05:00
-author: Zach
+author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=59
 permalink: /2016/11/21/resume-tips-for-students/
@@ -40,7 +41,7 @@ Don't be too married to r-selection though. If there's a job that you're really 
 <h5>K-Selection: Optimize your Resume</h5>
 When you're in your later terms, it can pay to be picky. Interviews are a huge time commitment and you don't want to have to do 20 of them (I know people who've been in this situation and they did not enjoy it). Look through job postings carefully. From the information you have, imagine yourself working there. Are you happy? Fulfilled? Excited to go to work? If no, then pass.
 
-In addition to optimizing your resume, you should write a unique cover letter for each job. How unique? My rule of thumb is that approximately half of the cover letter should be specific to the job. Be sure to mention whatever it was you imagined would make you happy at the job. Tell the hiring manager that you expect to be able to do your best job there because of ****\_****. Highlight a skill from your resume that the employer is looking for and tell them (in one paragraph) how you used it in a previous coop term or personal project. Tell them the benefits that that company got from you applying that skill there. You want to sell them the idea that their life will be better if you're working for them, doing that thing.
+In addition to optimizing your resume, you should write a unique cover letter for each job. How unique? My rule of thumb is that approximately half of the cover letter should be specific to the job. Be sure to mention whatever it was you imagined would make you happy at the job. Tell the hiring manager that you expect to be able to do your best job there because of \***\*\_\*\***. Highlight a skill from your resume that the employer is looking for and tell them (in one paragraph) how you used it in a previous coop term or personal project. Tell them the benefits that that company got from you applying that skill there. You want to sell them the idea that their life will be better if you're working for them, doing that thing.
 
 If you have any blemishes on your record (a failed coop term or low ranking), you can ignore it. This is easy mode and probably the safest bet. But if you're feeling adventurous or think your dream job has high standards <em>explain what happened</em>. A reasonable explanation can move a resume from the reject pile to the interview pile. Owning up to failures shows maturity. Introspecting and planning on how to do better shows even more maturity. Trust me when I say most employers are looking to work with mature adults.
 
