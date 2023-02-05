@@ -3,6 +3,7 @@ id: 749
 title: May The Fourth Be With You
 date: 2018-05-06T03:02:28-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=749
 permalink: /2018/05/06/may-the-fourth-be-with-you/

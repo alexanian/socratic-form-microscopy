@@ -3,6 +3,7 @@ id: 596
 title: "Two Fallacies From ‘Weapons of Math Destruction’"
 date: 2017-11-19T11:26:09-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=596
 permalink: /2017/11/19/two-fallacies-from-weapons-of-math-destruction/

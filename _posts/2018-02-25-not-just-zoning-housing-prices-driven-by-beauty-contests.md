@@ -3,6 +3,7 @@ id: 713
 title: "Not Just Zoning: Housing Prices Driven By Beauty Contests"
 date: 2018-02-25T23:10:09-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=713
 permalink: /2018/02/25/not-just-zoning-housing-prices-driven-by-beauty-contests/

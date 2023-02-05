@@ -3,6 +3,7 @@ id: 986
 title: "Ending Bailouts and Recessions: Why the Left should care about monetary economics"
 date: 2019-05-05T18:48:44-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=986
 permalink: /2019/05/05/ending-bailouts-and-recessions-why-the-left-should-care-about-monetary-economics/

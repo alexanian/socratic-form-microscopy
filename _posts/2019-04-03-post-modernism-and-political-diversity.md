@@ -3,6 +3,7 @@ id: 970
 title: Post-modernism and Political Diversity
 date: 2019-04-03T08:30:29-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=970
 permalink: /2019/04/03/post-modernism-and-political-diversity/

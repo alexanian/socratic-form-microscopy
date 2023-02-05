@@ -3,6 +3,7 @@ id: 1011
 title: Against Prison Violence As Punishment
 date: 2019-07-28T09:45:03-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=1011
 permalink: /2019/07/28/against-prison-violence-as-punishment/

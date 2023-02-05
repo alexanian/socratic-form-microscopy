@@ -3,6 +3,7 @@ id: 783
 title: "A Cross of Gold: The Best Speech You’ve Never Heard"
 date: 2018-06-17T21:37:53-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=783
 permalink: /2018/06/17/a-cross-of-gold-the-best-speech-youve-never-heard/

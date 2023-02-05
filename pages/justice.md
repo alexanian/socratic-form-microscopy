@@ -1,6 +1,7 @@
 ---
 title: "On Justice"
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 permalink: /justice/
 inline_featured_image:

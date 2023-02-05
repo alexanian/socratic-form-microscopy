@@ -3,6 +3,7 @@ id: 365
 title: Understanding Radiation via Antennas
 date: 2017-04-30T12:28:48-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=365
 permalink: /2017/04/30/understanding-radiation-via-antennas/

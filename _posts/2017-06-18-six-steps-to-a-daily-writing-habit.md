@@ -3,6 +3,7 @@ id: 424
 title: Six Steps to a Daily Writing Habit
 date: 2017-06-18T22:10:41-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=424
 permalink: /2017/06/18/six-steps-to-a-daily-writing-habit/

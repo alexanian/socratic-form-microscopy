@@ -3,6 +3,7 @@ id: 967
 title: The Nixon Problem
 date: 2019-04-06T08:30:42-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=967
 permalink: /2019/04/06/the-nixon-problem/

@@ -3,6 +3,7 @@ id: 468
 title: Socially Conservative Legislation as Akrasia Managment
 date: 2017-07-30T10:47:47-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=468
 permalink: /2017/07/30/socially-conservative-legislation-as-akrasia-managment/

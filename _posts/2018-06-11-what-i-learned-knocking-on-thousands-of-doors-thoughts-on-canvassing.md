@@ -3,6 +3,7 @@ id: 779
 title: What I learned knocking on thousands of doors – thoughts on canvassing
 date: 2018-06-11T08:46:24-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=779
 permalink: /2018/06/11/what-i-learned-knocking-on-thousands-of-doors-thoughts-on-canvassing/

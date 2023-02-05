@@ -3,6 +3,7 @@ id: 733
 title: The (Nuclear) International Monitoring System
 date: 2018-04-01T12:35:59-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=733
 permalink: /2018/04/01/the-nuclear-international-monitoring-system/

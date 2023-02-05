@@ -3,6 +3,7 @@ id: 419
 title: "Science Isn’t Your Cudgel"
 date: 2017-06-11T12:34:59-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=419
 permalink: /2017/06/11/science-isnt-your-cudgel/

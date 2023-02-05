@@ -3,6 +3,7 @@ id: 149
 title: "Nuclear Weapons: 4.0 Weapon Design"
 date: 2017-01-25T19:13:17-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=149
 permalink: /2017/01/25/nuclear-weapons-4-0-weapon-design/

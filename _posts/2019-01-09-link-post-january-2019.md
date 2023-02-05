@@ -3,6 +3,7 @@ id: 910
 title: "Link Post &#8211; January 2019"
 date: 2019-01-09T08:30:12-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=910
 permalink: /2019/01/09/link-post-january-2019/

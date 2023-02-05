@@ -3,6 +3,7 @@ id: 25
 title: Kellie Leitch and Liberal Democracy
 date: 2016-09-03T15:47:31-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=25
 permalink: /2016/09/03/kellie-leitch-and-liberal-democracy/

@@ -3,6 +3,7 @@ id: 981
 title: "Book Review: On Violence"
 date: 2019-04-27T08:30:32-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=981
 permalink: /2019/04/27/book-review-on-violence/

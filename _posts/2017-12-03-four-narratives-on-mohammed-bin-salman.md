@@ -3,6 +3,7 @@ id: 627
 title: Four Narratives on Mohammed Bin Salman
 date: 2017-12-03T11:04:50-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=627
 permalink: /2017/12/03/four-narratives-on-mohammed-bin-salman/

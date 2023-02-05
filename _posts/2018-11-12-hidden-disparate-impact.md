@@ -3,6 +3,7 @@ id: 875
 title: Hidden Disparate Impact
 date: 2018-11-12T08:30:50-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=875
 permalink: /2018/11/12/hidden-disparate-impact/

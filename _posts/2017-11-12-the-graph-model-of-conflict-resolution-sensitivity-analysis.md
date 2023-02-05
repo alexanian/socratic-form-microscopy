@@ -3,6 +3,7 @@ id: 582
 title: "The Graph Model of Conflict Resolution &#8211; Sensitivity Analysis"
 date: 2017-11-12T11:12:27-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=582
 permalink: /2017/11/12/the-graph-model-of-conflict-resolution-sensitivity-analysis/

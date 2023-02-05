@@ -3,6 +3,8 @@ id: 816
 title: "Sanderson’s Law Applies To Cultures Too"
 date: 2018-07-22T09:00:19-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=816
 permalink: /2018/07/22/sandersons-law-applies-to-cultures-too/

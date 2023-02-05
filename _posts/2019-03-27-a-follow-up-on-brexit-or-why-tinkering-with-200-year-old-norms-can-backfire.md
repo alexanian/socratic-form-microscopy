@@ -3,6 +3,7 @@ id: 962
 title: "A Follow-up on Brexit (or: why tinkering with 200 year old norms can backfire)"
 date: 2019-03-27T08:00:43-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=962
 permalink: /2019/03/27/a-follow-up-on-brexit-or-why-tinkering-with-200-year-old-norms-can-backfire/

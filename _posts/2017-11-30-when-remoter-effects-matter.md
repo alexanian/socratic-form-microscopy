@@ -3,6 +3,7 @@ id: 620
 title: When Remoter Effects Matter
 date: 2017-11-30T22:29:22-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=620
 permalink: /2017/11/30/when-remoter-effects-matter/

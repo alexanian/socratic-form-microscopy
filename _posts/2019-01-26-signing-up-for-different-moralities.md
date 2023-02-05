@@ -3,6 +3,7 @@ id: 915
 title: Signing Up For Different Moralities
 date: 2019-01-26T08:30:31-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 excerpt: Should lawyers be able to turn in their clients? When is society strengthened, rather than weakened, by having several different (and hardly compatible) moral systems in the mix?
 layout: post
 guid: https://socratic-form-microscopy.com/?p=915

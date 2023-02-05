@@ -3,6 +3,7 @@ id: 388
 title: Medicine, the Inside View, and Historical Context
 date: 2017-05-13T15:43:00-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=388
 permalink: /2017/05/13/medicine-inside-context/

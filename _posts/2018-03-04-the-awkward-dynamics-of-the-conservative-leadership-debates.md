@@ -3,6 +3,7 @@ id: 716
 title: The Awkward Dynamics of the Conservative Leadership Debates
 date: 2018-03-04T12:52:58-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=716
 permalink: /2018/03/04/the-awkward-dynamics-of-the-conservative-leadership-debates/

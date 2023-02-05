@@ -3,6 +3,7 @@ id: 118
 title: "Nuclear Weapons: 1.0 Introduction"
 date: 2017-01-22T21:44:28-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=118
 permalink: /2017/01/22/nuclear-weapons-1-0-introduction/

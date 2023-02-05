@@ -3,6 +3,7 @@ id: 263
 title: "Checks and balances can’t last if they make governing impossible"
 date: 2017-02-06T21:29:24-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=263
 permalink: /2017/02/06/checks-and-balances-cant-last-if-they-make-governing-impossible/

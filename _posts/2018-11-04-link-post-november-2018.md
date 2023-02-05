@@ -3,6 +3,7 @@ id: 873
 title: "Link Post &#8211; November 2018"
 date: 2018-11-04T16:07:13-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=873
 permalink: /2018/11/04/link-post-november-2018/

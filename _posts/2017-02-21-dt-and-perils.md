@@ -3,6 +3,7 @@ id: 289
 title: The Pitfalls of One-Man Rule
 date: 2017-02-21T19:10:12-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=289
 permalink: /2017/02/21/dt-and-perils/

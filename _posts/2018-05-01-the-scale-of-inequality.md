@@ -3,6 +3,7 @@ id: 746
 title: The Scale of Inequality
 date: 2018-05-01T01:17:17-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=746
 permalink: /2018/05/01/the-scale-of-inequality/

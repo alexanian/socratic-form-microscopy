@@ -3,6 +3,7 @@ id: 83
 title: "Public Safety Green Paper Comments &#8211; Secret Evidence Edition"
 date: 2016-12-07T23:13:04-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=83
 permalink: /2016/12/07/public-safety-green-paper-comments-secret-evidence-edition/

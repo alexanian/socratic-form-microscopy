@@ -3,6 +3,7 @@ id: 953
 title: The Character of Leaders is the Destiny of Nations
 date: 2019-03-30T08:30:57-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=953
 permalink: /2019/03/30/the-character-of-leaders-is-the-destiny-of-nations/

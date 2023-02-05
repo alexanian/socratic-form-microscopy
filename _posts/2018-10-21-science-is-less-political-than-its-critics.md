@@ -3,6 +3,7 @@ id: 862
 title: Science Is Less Political Than Its Critics
 date: 2018-10-21T08:45:42-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=862
 permalink: /2018/10/21/science-is-less-political-than-its-critics/

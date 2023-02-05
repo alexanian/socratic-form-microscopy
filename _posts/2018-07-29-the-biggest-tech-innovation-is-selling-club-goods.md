@@ -3,6 +3,7 @@ id: 821
 title: The Biggest Tech Innovation is Selling Club Goods
 date: 2018-07-29T09:00:56-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=821
 permalink: /2018/07/29/the-biggest-tech-innovation-is-selling-club-goods/

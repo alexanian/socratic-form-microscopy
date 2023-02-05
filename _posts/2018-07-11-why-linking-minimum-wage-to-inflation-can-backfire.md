@@ -3,6 +3,7 @@ id: 806
 title: Why Linking The Minimum Wage To Inflation Can Backfire
 date: 2018-07-11T08:33:15-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=806
 permalink: /2018/07/11/why-linking-minimum-wage-to-inflation-can-backfire/

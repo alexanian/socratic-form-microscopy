@@ -3,6 +3,7 @@ id: 124
 title: "Nuclear Weapons: 2.0 Basic Science"
 date: 2017-01-23T19:28:05-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=124
 permalink: /2017/01/23/nuclear-weapons-2-0-basic-science/

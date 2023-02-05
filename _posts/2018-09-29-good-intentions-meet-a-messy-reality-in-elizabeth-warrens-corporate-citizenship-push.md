@@ -3,6 +3,7 @@ id: 850
 title: "Good Intentions Meet A Messy Reality In Elizabeth Warren’s Corporate Citizenship Push"
 date: 2018-09-29T08:30:10-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=850
 permalink: /2018/09/29/good-intentions-meet-a-messy-reality-in-elizabeth-warrens-corporate-citizenship-push/

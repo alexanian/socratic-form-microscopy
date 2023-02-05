@@ -3,6 +3,7 @@ id: 940
 title: The Fifty Percent Problem
 date: 2019-03-23T09:00:30-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=940
 permalink: /2019/03/23/the-fifty-percent-problem/

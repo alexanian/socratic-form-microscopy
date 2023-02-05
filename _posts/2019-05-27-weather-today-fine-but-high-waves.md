@@ -3,6 +3,7 @@ id: 945
 title: Weather today fine but high waves
 date: 2019-05-27T09:00:05-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=945
 permalink: /2019/05/27/weather-today-fine-but-high-waves/

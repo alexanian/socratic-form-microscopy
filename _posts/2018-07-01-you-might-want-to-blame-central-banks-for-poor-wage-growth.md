@@ -3,6 +3,7 @@ id: 793
 title: You Might Want To Blame Central Banks For Poor Wage Growth
 date: 2018-07-01T14:50:54-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=793
 permalink: /2018/07/01/you-might-want-to-blame-central-banks-for-poor-wage-growth/

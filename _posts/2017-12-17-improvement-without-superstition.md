@@ -3,6 +3,7 @@ id: 642
 title: Improvement Without Superstition
 date: 2017-12-17T10:01:18-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=642
 permalink: /2017/12/17/improvement-without-superstition/

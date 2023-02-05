@@ -3,6 +3,7 @@ id: 858
 title: "Book Review: Bad Blood"
 date: 2018-10-14T08:45:47-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=858
 permalink: /2018/10/14/book-review-bad-blood/

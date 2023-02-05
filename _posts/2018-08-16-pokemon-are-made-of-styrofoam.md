@@ -3,6 +3,7 @@ id: 830
 title: Pokémon Are Made of Styrofoam
 date: 2018-08-16T08:30:42-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=830
 permalink: /2018/08/16/pokemon-are-made-of-styrofoam/

@@ -3,6 +3,7 @@ id: 605
 title: "Two Ideas Worth Sharing From ‘Weapons of Math Destruction’"
 date: 2017-11-22T20:29:34-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=605
 permalink: /2017/11/22/two-ideas-worth-sharing-from-weapons-of-math-destruction/

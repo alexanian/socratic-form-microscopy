@@ -3,6 +3,7 @@ id: 496
 title: "Book Review: The Singularity is Near"
 date: 2017-09-11T22:23:02-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=496
 permalink: /2017/09/11/book-review-the-singularity-is-near/

@@ -3,6 +3,7 @@ id: 541
 title: "The Graph Model of Conflict Resolution &#8211; Introduction"
 date: 2017-11-05T10:32:42-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=541
 permalink: /2017/11/05/gmcr-for-dummies/

@@ -3,6 +3,7 @@ id: 396
 title: Five Things I Learned from the Conservative Leadership Race (that all Canadians should take note of)
 date: 2017-05-28T13:35:00-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=396
 permalink: /2017/05/28/five-things-i-learned-from-the-conservative-leadership-race-that-all-canadians-should-take-note-of/

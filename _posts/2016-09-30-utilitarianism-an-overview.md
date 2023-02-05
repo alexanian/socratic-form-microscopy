@@ -3,6 +3,7 @@ id: 30
 title: "Utilitarianism: An Overview"
 date: 2016-09-30T19:47:24-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: http://socratic-form-microscopy.com/?p=30
 permalink: /2016/09/30/utilitarianism-an-overview/

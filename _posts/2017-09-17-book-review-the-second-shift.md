@@ -3,6 +3,7 @@ id: 499
 title: "Book Review: The Second Shift"
 date: 2017-09-17T17:38:50-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=499
 permalink: /2017/09/17/book-review-the-second-shift/

@@ -3,6 +3,7 @@ id: 484
 title: "Why Don’t we Subsidize Higher Wages? Or: Public Policy is Expensive"
 date: 2017-08-27T13:53:56-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=484
 permalink: /2017/08/27/why-dont-we-subsidize-higher-wages-or-public-policy-is-expensive/

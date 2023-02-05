@@ -3,6 +3,7 @@ id: 902
 title: Grading My 2018 Predictions
 date: 2019-01-01T13:53:31-05:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=902
 permalink: /2019/01/01/grading-my-2018-predictions/

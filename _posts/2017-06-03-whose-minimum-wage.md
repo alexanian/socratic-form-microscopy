@@ -3,6 +3,7 @@ id: 409
 title: Whose Minimum Wage?
 date: 2017-06-03T12:07:30-04:00
 author: Zach Jacobi
+author_link: https://socratic-form-microscopy.com/about-me
 layout: post
 guid: https://socratic-form-microscopy.com/?p=409
 permalink: /2017/06/03/whose-minimum-wage/
