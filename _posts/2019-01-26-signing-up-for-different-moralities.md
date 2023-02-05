@@ -36,7 +36,7 @@ tags:
 <p>The right to an open and fair trial is a hallmark of a democratic country even if sometimes a defendant who is in fact guilty gets acquitted.</p>
 </blockquote>
 
-<p>While I'm normally happy to see violent mobsters go to jail, here I must disagree with everyone who offered support for the lawyer. I think it was wrong of her to inform on her clients and correct for the high court to rebuke the police in the strongest possible terms. I certainly don't <em>want</em> any of those mobsters back on the street and I hope there's enough other evidence that none of them have to be released.
+While I'm normally happy to see violent mobsters go to jail, here I must disagree with everyone who offered support for the lawyer. I think it was wrong of her to inform on her clients and correct for the high court to rebuke the police in the strongest possible terms. I certainly don't <em>want</em> any of those mobsters back on the street and I hope there's enough other evidence that none of them have to be released.
 
 But even if some of them do end up winning their appeals, I believe we are better off in a society where lawyers cannot inform on their clients. This, I think, is one of the ethical cases where <a href="{{ site.baseurl }}/2016/10/16/precedent-utilitarianism-a-primer/">precedent utilitarianism</a> is particularly useful in analysis and one that demonstrates its strengths as a moral philosophy.
 
