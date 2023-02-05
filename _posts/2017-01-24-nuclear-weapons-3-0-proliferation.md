@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 2.0 Basic Science"
+    url: /2017/01/23/nuclear-weapons-2-0-basic-science/
+  next:
+    title: "Nuclear Weapons: 4.0 Weapon Design"
+    url: /2017/01/25/nuclear-weapons-4-0-weapon-design/
 ---
 
 There are currently nine countries with acknowledged or suspected nuclear arsenals. Five of them are signatories of the Non-Proliferation Treaty (NPT), the main international treaty aimed at minimizing the number of nuclear armed states. Ideally, no country or group would have nuclear weapons. Unfortunately, we don't live in an ideal world; the NPT is maybe the next best thing.
@@ -121,16 +128,6 @@ All of these represent significant threats to individuals. A small nuke or a lar
 
 Because of the difficulties inherent in proliferation, the <em>greatest</em> gains to be made in protecting humanity from nuclear weapons must necessarily come from convincing existing nuclear powers to decrease their stocks of weapons or delivery vehicles. This is especially true of Russia and the US, which <a href="http://www.businessinsider.com/nine-nations-have-nukes--heres-how-many-each-country-has-2014-6">together possess more than 93%</a> of the world's nuclear weapons. The challenge will be to do this while maintaining a credible deterrent against any rogue nation that wishes to develop a nuclear weapons program of its own.
 
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">NPT</a> (<a href="http://www.un.org/en/conf/npt/2005/npttreaty.html">Full Text</a>), <a href="https://en.wikipedia.org/wiki/Enriched_uranium">Enriched Uranium</a>, <a href="https://en.wikipedia.org/wiki/Weapons-grade">"Weapons Grade" Nuclear Material</a>, <a href="https://en.wikipedia.org/wiki/Plutonium-239">Plutonium-239</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_reprocessing">Nuclear Reprocessing</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_proliferation#Breakout_capability">Proliferation/Breakout Capability</a>, <a href="https://en.wikipedia.org/wiki/Dirty_bomb">Dirty Bomb</a>, and <a href="https://en.wikipedia.org/wiki/Nuclear_weapons_testing">Nuclear Weapons Testing</a>
+
 <hr class="post-end" />
-
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">NPT</a> (<a href="http://www.un.org/en/conf/npt/2005/npttreaty.html">Full Text</a>), <a href="https://en.wikipedia.org/wiki/Enriched_uranium">Enriched Uranium</a>, <a href="https://en.wikipedia.org/wiki/Weapons-grade">"Weapons Grade" Nuclear Material</a>, <a href="https://en.wikipedia.org/wiki/Plutonium-239">Plutonium-239</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_reprocessing">Nuclear Reprocessing</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_proliferation#Breakout_capability">Proliferation/Breakout Capability</a>, <a href="https://en.wikipedia.org/wiki/Dirty_bomb">Dirty Bomb</a>, and <a href="https://en.wikipedia.org/wiki/Nuclear_weapons_testing">Nuclear Weapons Testing</a>
-
-<table style="width: 100%; border-width: 0px; background: transparent;">
-<tbody>
-<tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/23/nuclear-weapons-2-0-basic-science/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/25/nuclear-weapons-4-0-weapon-design/">next &gt;</a></td>
-</tr>
-</tbody>
-</table>

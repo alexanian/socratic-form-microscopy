@@ -87,10 +87,8 @@ Most nuclear technology is dual use. Uranium enrichment by centrifugation has ma
 
 SILEX could further increase the energy return on investment, making nuclear power plants even more economical. But SILEX also has the potential to make proliferation easier. It's still a new, experimental technology and it might not even pan out. Until we know for sure, it is certainly best for the world to proceed with caution.
 
-<br>
-<table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
-  <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/24/nuclear-weapons-3-0-proliferation/">main topic</a></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">index</a></th>
-  </tr>
-</table>
+<hr class="post-end" />
+
+<p class="post-meta caption">
+This post is part of a series on special topics in nuclear weapons. The index for all of my writing on nuclear weapons can be found <a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">here</a>.
+</p>

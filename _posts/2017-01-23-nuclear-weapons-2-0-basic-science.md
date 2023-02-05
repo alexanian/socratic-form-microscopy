@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 1.0 Introduction"
+    url: /2017/01/22/nuclear-weapons-1-0-introduction/
+  next:
+    title: "Nuclear Weapons: 3.0 Proliferation"
+    url: /2017/01/24/nuclear-weapons-3-0-proliferation/
 ---
 
 For this to all make sense, we should start with a brief review of atomic theory.
@@ -55,15 +62,6 @@ Criticality can occur with smaller amounts of isotopes than the critical mass in
 
 There is one other type of nuclear weapon. <strong>Fusion</strong> weapons push atomic nuclei together to form new, heavier nuclei. Fission/fusion weapons aren't an either/or proposition though. Many nuclear weapon designs incorporate multiple stages. For example, some designs will use the energy from fission to start a fusion reaction and get most of their power from this. Other designs make use of a small amount of fusion to release extra neutrons, which allows more of their fuel to be consumed.
 
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>, <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>, <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>, <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>, and <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>
+
 <hr class="post-end" />
-
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Proton">Proton</a>, <a href="https://en.wikipedia.org/wiki/Neutron">Neutron</a>, <a href="https://en.wikipedia.org/wiki/Radioactive_decay">Radioactive Decay</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_chain_reaction">Nuclear Chain Reaction</a>, <a href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">Electromagnetic Radiation</a>, and <a href="https://en.wikipedia.org/wiki/Isotope">Isotope</a>
-<br>
-
-<table style="width:100%;border-width:0px 0px 0px 0px;background:transparent;">
-  <tr style="border:0px solid;background:transparent;">
-    <td style="border:0px solid;background:transparent;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">&lt; previous</a></th>
-    <td style="border:0px solid;background:transparent;text-align:center;""><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></th>
-    <td style="border:0px solid;background:transparent;text-align:right;""><a href="{{ site.baseurl }}/2017/01/24/nuclear-weapons-3-0-proliferation/">next &gt;</a></th>
-  </tr>
-</table>
