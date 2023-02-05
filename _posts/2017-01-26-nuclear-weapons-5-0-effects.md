@@ -13,6 +13,13 @@ categories:
 tags:
   - nuclear weapons
   - x-risk
+nuclear-series:
+  previous:
+    title: "Nuclear Weapons: 4.0 Weapon Design"
+    url: /2017/01/25/nuclear-weapons-4-0-weapon-design/
+  next:
+    title: "Nuclear Weapons: 6.0 Delivery Mechanisms"
+    url: /2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/
 ---
 
 To understand the effects of nuclear weapons, you first need to understand how those effects scale with weapon yield.
@@ -44,7 +51,7 @@ Blast radius and fireball size scale differently than radiation, but in all case
 
 Taking into account this scaling factor, the W88 is (by one measure) 10x less destructive than the Tsar Bomba, but 75x lighter – a trade-off that makes much more sense. Keep this relationship in mind whenever nuclear weapons are described in terms of "the power of the atomic bomb that destroyed Hiroshima". The policy implications of this relationship will also become clear later. For now, it's important that you simply understand that relative destructive power and yield don't correspond 1:1.
 
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Inverse-square_law#Light_and_other_electromagnetic_radiation">Inverse Square Law</a>
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Inverse-square_law#Light_and_other_electromagnetic_radiation">Inverse Square Law</a>
 
 <h3 id="2">5.2 Direct Effects</h3>
 Thus far, we've restricted our discussion of nuclear weapon detonation to the technical. There's a cascade of neutrons and a bunch of energy is released as a by-product – that much is clear. But what does all that energy do? How do we get from neutrons to levelled cities and mushroom clouds?
@@ -79,16 +86,19 @@ There isn't as much clear, well-curated information on this topic as I'd like, b
  	<li>This hot air begins to rise, pulling up debris from the ground (at this point, there will be plenty) into the vacuum its rising creates. The hot air also expands and the outside edges cool, which causes rotating internal air currents that help to draw in more air from below. This forms the characteristic mushroom cloud of a nuclear explosion.</li>
  	<li>Between the vacuum caused by the rising mushroom cloud and the vacuum caused by the initial shockwave, a steady wind will blow back towards ground zero until equilibrium is reached. This wind will further toss around debris and can help to fan the flames of any fires that have started.</li>
 </ol>
-<img class="alignnone size-medium wp-image-170" src="{{ site.baseurl }}/wp-content/uploads/mushroom-cloud-300x275.png" alt="" width="300" height="275" />
 
-[Image Credit:<a href="https://en.wikipedia.org/wiki/Mushroom_cloud#/media/File:Mushroom_cloud.svg"> Wikipedia/Mushroom Cloud</a>]
+{% capture caption %}
+Image Credit: <a href="https://en.wikipedia.org/wiki/Mushroom_cloud#/media/File:Mushroom_cloud.svg"> Wikipedia/Mushroom Cloud</a>
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/mushroom-cloud-300x275.png" caption=caption %}
 
 <h5 id="21"> 5.2.1 Fireball</h5>
 The nearby detonation of an atomic bomb is utterly devastating to infrastructure. Everything within the central fireball will be annihilated. The size of the fireball varies: 150m for a 10kt blast (slightly smaller than Hiroshima), 720m for the modern 475kt W-88 favoured by America, and 4.62km for the monstrous 50Mt Tsar Bomba. Ideally, fireball effects would scale as the square root of the yield. In actuality, they scale a bit worse than this, as the fifth root of the square of the radius (i.e. the 2.5<sup>th</sup> root). I'm not sure exactly what causes this, possibly some weird property of plasma, or just general fluid dynamics oddness.
 
-<img class="alignnone wp-image-169" style="height: 66%;" src="{{ site.baseurl }}/wp-content/uploads/Fireball-Radius.png" width="600" height="310" />
-
-[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] Trend line has equation <img class="alignnone size-full wp-image-168" src="{{ site.baseurl }}/wp-content/uploads/fireball-r-equation.png" alt="" width="103" height="19" />.
+{% capture caption %}
+Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>. Trend line has equation <img class="alignnone size-full wp-image-168" src="{{ site.baseurl }}/wp-content/uploads/fireball-r-equation.png" alt="" width="103" height="19" />.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Fireball-Radius.png" caption=caption %}
 
 <h5 id="22">5.2.2 Shockwave</h5>
 As deadly as the fireball is, most of the damage from a nuclear explosion comes from the shockwave. Weapon designers carefully model the shockwave and use these insights to come up with an optimal detonation height for various effects – like levelling reinforced buildings or destroying residential areas. Models take into account the "Mach stem", the angle at which some of the wave will be reflected off the ground and constructively interfere with the rest of it, leading to increased destruction.
@@ -99,9 +109,10 @@ Unlike radiation effects, blast pressure increases with cube root of the yield. 
 
 This means that for every 1000-fold increase in bomb power, you'll see a 10-fold increase in destructive radius. In terms of overpressure effects, the W88 is about 4.7 times less destructive than the Tsar Bomba, while being 75 times lighter. This trade-off comes up even better than for radiation.
 
-<img class="alignnone wp-image-167" style="height: 66%;" src="{{ site.baseurl }}/wp-content/uploads/Overpressure-Radius.png" width="600" height="369" />
-
-[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] 5 psi trend line has equation <img class="alignnone size-full wp-image-166" src="{{ site.baseurl }}/wp-content/uploads/5-psi-overpressure-eq.png" alt="" width="99" height="21" />, 20 psi trend line has equation <img src="{{ site.baseurl }}/wp-content/uploads/20psi-overpressure-eq.png" alt="" width="101" height="20" class="alignnone size-full wp-image-165" />.
+{% capture caption %}
+Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>. 5 psi trend line has equation <img class="alignnone size-full wp-image-166" src="{{ site.baseurl }}/wp-content/uploads/5-psi-overpressure-eq.png" alt="" width="99" height="21" />, 20 psi trend line has equation <img src="{{ site.baseurl }}/wp-content/uploads/20psi-overpressure-eq.png" alt="" width="101" height="20" class="alignnone size-full wp-image-165" />.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Overpressure-Radius.png" caption=caption %}
 
 <h5 id="23">5.2.3 Direct Radiation</h5>
 Nuclear weapons produce two types of damaging radiation (they're both photons, just at different energy levels): thermal and ionizing. Ionization radiation (mainly gamma rays) is responsible for causing acute radiation poisoning and later cancers. Thermal radiation (light, from IR to UV) is responsible for the horrendous burns nuclear weapons survivors often bear.
@@ -112,11 +123,12 @@ As blasts become larger, fewer and fewer people are affected by direct radiation
 
 IR, visible, and UV light are much less affected by the atmosphere. If the atmosphere absorbed light at the same rate it absorbs gamma rays, the sun would appear 717 billion billion times brighter on an airplane at cruising altitude as it does at sea level. This obviously isn't the case – the sun is approximately as bright in both cases. This difference in absorption means that the radius at which nuclear weapons cause burns scales with close to the square root of the yield (the small amount of energy absorbed by the air does mean that it scales slightly slower in atmosphere than in vacuum).
 
-<img class="alignnone wp-image-164" style="height: 66%;" src="{{ site.baseurl }}/wp-content/uploads/Radiation-Radius.png" width="600" height="340" />
+{% capture caption %}
+Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>. 50% Deaths trend line has equation <img class="alignnone size-full wp-image-175" src="{{ site.baseurl }}/wp-content/uploads/50-deaths-equation.png" alt="" width="124" height="19" />, 3<sup>rd</sup> Degree burns trend line has equation <img class="alignnone size-full wp-image-162" src="{{ site.baseurl }}/wp-content/uploads/3rd-degree-burn-eq.png" alt="" width="117" height="22" />.
+{% endcapture %}
+{% include image.html src="/wp-content/uploads/Radiation-Radius.png" caption=caption %}
 
-[Data Source: <a href="http://nuclearsecrecy.com/nukemap/">Nukemap 2.42</a>] 50% Deaths trend line has equation <img class="alignnone size-full wp-image-175" src="{{ site.baseurl }}/wp-content/uploads/50-deaths-equation.png" alt="" width="124" height="19" />, 3<sup>rd</sup> Degree burns trend line has equation <img class="alignnone size-full wp-image-162" src="{{ site.baseurl }}/wp-content/uploads/3rd-degree-burn-eq.png" alt="" width="117" height="22" />.
-
-Additional Reading: <a href="https://en.wikipedia.org/wiki/Effects_of_nuclear_explosions">Effects of Nuclear Explosions</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Fission">Nuclear Weapon Design: Fission</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Fusion">Nuclear Weapon Design: Fusion</a>, <a href="https://en.wikipedia.org/wiki/Mushroom_cloud">Mushroom Cloud</a>, <a href="http://nuclearsecrecy.com/nukemap/">Nukemap</a> and <a href="http://wordpress.mrreid.org/2015/04/18/the-nuclear-double-flash/">The Nuclear Double Flash</a>.
+**Additional Reading**: <a href="https://en.wikipedia.org/wiki/Effects_of_nuclear_explosions">Effects of Nuclear Explosions</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Fission">Nuclear Weapon Design: Fission</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_weapon_design#Fusion">Nuclear Weapon Design: Fusion</a>, <a href="https://en.wikipedia.org/wiki/Mushroom_cloud">Mushroom Cloud</a>, <a href="http://nuclearsecrecy.com/nukemap/">Nukemap</a> and <a href="http://wordpress.mrreid.org/2015/04/18/the-nuclear-double-flash/">The Nuclear Double Flash</a>.
 
 <h3 id="3">5.3 Indirect Effects</h3>
 Part of the horror of nuclear weapons comes from fallout, the lingering radiation left behind after a nuclear detonation. Fallout doesn't last forever (and remember, the more unstable and radioactive an element is, the quicker it breaks down into something stable), but while it is around it can sicken and kill. Fallout can also cause illness and death far from the site of the initial blast, increasing the human toll of any nuclear weapon detonation.
@@ -149,17 +161,7 @@ If you know or suspect that your area has been exposed to fallout, minimize your
 
 This is just the barest of outlines. There are many guides out there that will go into specifics. Unfortunately, many guides have an implicit agenda (either: "scare people into becoming anti-nuclear activists", or "keep our population from panicking about nukes"). If you know of a good, scientifically accurate guide, please link it in the comments. As additional reading, I've provided the official US Government planning guide, which seems to be accurate. In addition, I've linked to a more technical overview of fallout production and decay (Residual Nuclear Radiation and Fallout).
 
-<hr class="post-end" />
-
-Additional Reading: <a href="http://www.who.int/ionizing_radiation/pub_meet/Iodine_Prophylaxis_guide.pdf">Iodine Prophylaxis</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_fallout">Nuclear Fallout</a>, <a href="https://www.remm.nlm.gov/PlanningGuidanceNuclearDetonation.pdf">Planning Guidance for Response to a Nuclear Detonation</a>, <a href="https://www.fourmilab.ch/etexts/www/effects/eonw_9.pdf">Residual Nuclear Radiation and Fallout</a>
+**Additional Reading**: <a href="http://www.who.int/ionizing_radiation/pub_meet/Iodine_Prophylaxis_guide.pdf">Iodine Prophylaxis</a>, <a href="https://en.wikipedia.org/wiki/Nuclear_fallout">Nuclear Fallout</a>, <a href="https://www.remm.nlm.gov/PlanningGuidanceNuclearDetonation.pdf">Planning Guidance for Response to a Nuclear Detonation</a>, <a href="https://www.fourmilab.ch/etexts/www/effects/eonw_9.pdf">Residual Nuclear Radiation and Fallout</a>
 <br>
 
-<table style="width: 100%; border-width: 0px; background: transparent;">
-<tbody>
-<tr style="border: 0px solid; background: transparent;">
-<td style="border: 0px solid; background: transparent;"><a href="{{ site.baseurl }}/2017/01/25/nuclear-weapons-4-0-weapon-design/">&lt; previous</a></td>
-<td style="border: 0px solid; background: transparent; text-align: center;"><a href="{{ site.baseurl }}/2017/01/22/nuclear-weapons-1-0-introduction/">^ index</a></td>
-<td style="border: 0px solid; background: transparent; text-align: right;"><a href="{{ site.baseurl }}/2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/">next &gt;</a></td>
-</tr>
-</tbody>
-</table>
+<hr class="post-end" />

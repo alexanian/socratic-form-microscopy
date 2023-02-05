@@ -2,18 +2,42 @@
 layout: default
 ---
 
+<header class="header-background">
+  <div class="container mx-auto px-2 mb-2 clearfix header-text post-header">
+    <img
+      width="48"
+      height="48"
+      src="{{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1.png"
+      class="site-logo attachment-scrawl-site-logo white-filter"
+      alt="Owl logo"
+      itemprop="logo"
+      srcset="
+      {{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1-300x300.png  300w,
+      {{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1-200x200.png  200w,
+      {{ site.baseurl }}/wp-content/uploads/sfm-owl-black-1024-1-150x150.png  150w
+      "
+      sizes="(max-width: 100px) 100vw, 300px"
+    />
+    <h1 class="inline-block col-9 sm-width-full py-2 px-2 mt-2 header-title">
+      <a href="{{ site.baseurl }}">
+        Socratic Form Microscopy
+      </a>
+    </h1>
+  </div>
+</header>
+
 <article
   class="container px-2 mx-auto"
   itemscope
   itemtype="http://schema.org/BlogPosting"
 >
   <h1
-    class="h0 col-10 sm-width-full py-1 mt-3 inline-block post-title"
+    class="h0 col-9 sm-width-full py-1 mt-3 inline-block post-title"
     itemprop="name headline"
   >
     {{ page.title }}
   </h1>
-  <div class="col-10 sm-width-full mt-1 border-top-thin">
+  <div class="col-9 sm-width-full mt-1 border-top-thin">
     <p class="mb-3 py-2 bold h4">
       <time
         datetime="{{ page.date | date_to_xmlschema }}"
@@ -36,5 +60,9 @@ layout: default
 </article>
 
 <div class="container mx-auto px-2 py-2 clearfix">
-  {% include previous-next.html %}
+  {% if page.nuclear-series %}
+    {% include previous-next-nuclear.html %}
+  {% else %}
+    {% include previous-next.html %}
+  {% endif %}
 </div>

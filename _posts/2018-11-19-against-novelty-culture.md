@@ -77,8 +77,8 @@ Therefore, I suggest caution. We do not know how many true insights we should ex
 
 We might not be able to change novelty culture, but we can do our best to guard against it.
 
----
+<hr class="post-end">
 
-<p class="post-meta">
+<p class="post-meta caption">
 [Special thanks to <a href="https://medium.com/@cody.marie.wild">Cody Wild</a> for coming up with most of the lyrics to Bayesian Hallelujah.]
 </p>
