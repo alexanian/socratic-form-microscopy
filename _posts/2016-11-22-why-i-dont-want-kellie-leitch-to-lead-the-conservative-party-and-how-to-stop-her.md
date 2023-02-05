@@ -2,7 +2,7 @@
 id: 66
 title: "Why I Don’t Want Kellie Leitch to Lead the Conservative Party (and how to Stop her)"
 date: 2016-11-22T23:03:10-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=66
 permalink: /2016/11/22/why-i-dont-want-kellie-leitch-to-lead-the-conservative-party-and-how-to-stop-her/

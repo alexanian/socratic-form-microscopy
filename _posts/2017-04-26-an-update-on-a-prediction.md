@@ -2,7 +2,7 @@
 id: 363
 title: An Update on a Prediction
 date: 2017-04-26T19:51:59-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=363
 permalink: /2017/04/26/an-update-on-a-prediction/

@@ -2,7 +2,7 @@
 id: 313
 title: "Cutting the Gordian Knot: Bad Solutions to Good Paradoxes"
 date: 2017-03-15T21:39:41-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=313
 permalink: /2017/03/15/cutting-the-gordian-knot-bad-solutions-to-good-paradoxes/

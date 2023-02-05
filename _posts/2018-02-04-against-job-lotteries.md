@@ -2,7 +2,7 @@
 id: 693
 title: Against Job Lotteries
 date: 2018-02-04T13:31:33-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=693
 permalink: /2018/02/04/against-job-lotteries/

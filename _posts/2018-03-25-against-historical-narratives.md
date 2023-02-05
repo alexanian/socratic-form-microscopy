@@ -2,7 +2,7 @@
 id: 727
 title: Against Historical Narratives
 date: 2018-03-25T17:11:15-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=727
 permalink: /2018/03/25/against-historical-narratives/

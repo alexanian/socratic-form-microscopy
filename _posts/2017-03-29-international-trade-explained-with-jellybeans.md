@@ -2,7 +2,7 @@
 id: 324
 title: International Trade Explained with Jellybeans
 date: 2017-03-29T00:04:10-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=324
 permalink: /2017/03/29/international-trade-explained-with-jellybeans/

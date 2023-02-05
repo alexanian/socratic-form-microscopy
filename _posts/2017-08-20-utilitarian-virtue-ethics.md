@@ -2,7 +2,7 @@
 id: 481
 title: Utilitarian Virtue Ethics
 date: 2017-08-20T21:33:23-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=481
 permalink: /2017/08/20/utilitarian-virtue-ethics/

@@ -2,7 +2,7 @@
 id: 98
 title: What use a Monopoly on Violence?
 date: 2017-01-08T00:12:36-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=98
 permalink: /2017/01/08/what-use-a-monopoly-on-violence/

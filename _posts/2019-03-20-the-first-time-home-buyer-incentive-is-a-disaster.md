@@ -2,7 +2,7 @@
 id: 950
 title: The First-Time Home Buyer Incentive is a Disaster
 date: 2019-03-20T08:30:16-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=950
 permalink: /2019/03/20/the-first-time-home-buyer-incentive-is-a-disaster/

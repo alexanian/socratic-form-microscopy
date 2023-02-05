@@ -2,7 +2,7 @@
 id: 391
 title: "Book Review: Strangers in Their Own Land"
 date: 2017-05-20T10:29:38-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=391
 permalink: /2017/05/20/book-review-sitol/

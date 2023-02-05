@@ -2,7 +2,7 @@
 id: 760
 title: "Book Review: Enlightenment 2.0"
 date: 2018-05-29T22:59:43-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=760
 permalink: /2018/05/29/book-review-enlightenment-2-0/

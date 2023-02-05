@@ -2,7 +2,7 @@
 id: 880
 title: Against Novelty Culture
 date: 2018-11-19T08:30:48-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=880
 permalink: /2018/11/19/against-novelty-culture/

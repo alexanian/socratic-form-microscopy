@@ -2,7 +2,7 @@
 id: 51
 title: "Levels of Reading or: How I Learned to Stop Worrying and (Occasionally) Love Literary Fiction"
 date: 2016-10-25T23:07:02-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=51
 permalink: /2016/10/25/levels-of-reading/

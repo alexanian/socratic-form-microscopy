@@ -2,7 +2,7 @@
 id: 892
 title: "When QALYs Are Wrong &#8211; Thoughts on the Gates Foundation"
 date: 2018-12-05T08:30:13-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=892
 permalink: /2018/12/05/when-qalys-are-wrong-thoughts-on-the-gates-foundation/

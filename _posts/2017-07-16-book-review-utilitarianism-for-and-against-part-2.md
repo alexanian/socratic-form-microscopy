@@ -2,7 +2,7 @@
 id: 448
 title: "Book Review: Utilitarianism for and against (Part 2)"
 date: 2017-07-16T10:07:42-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=448
 permalink: /2017/07/16/book-review-utilitarianism-for-and-against-part-2/

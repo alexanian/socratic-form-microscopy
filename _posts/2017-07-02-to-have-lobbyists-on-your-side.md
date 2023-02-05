@@ -2,7 +2,7 @@
 id: 443
 title: To have lobbyists on your side
 date: 2017-07-02T21:34:13-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=443
 permalink: /2017/07/02/to-have-lobbyists-on-your-side/

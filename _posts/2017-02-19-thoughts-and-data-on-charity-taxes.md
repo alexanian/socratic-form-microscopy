@@ -2,7 +2,7 @@
 id: 285
 title: "Thoughts (and Data) on Charity &#038; Taxes"
 date: 2017-02-19T22:52:17-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=285
 permalink: /2017/02/19/thoughts-and-data-on-charity-taxes/

@@ -2,7 +2,7 @@
 id: 385
 title: May CPC Leadership Race Update
 date: 2017-05-06T21:43:26-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=385
 permalink: /2017/05/06/may-cpc-leadership-race-update/

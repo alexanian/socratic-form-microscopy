@@ -2,7 +2,7 @@
 id: 738
 title: Does Amateurish Writing Exist
 date: 2018-04-08T21:30:39-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=738
 permalink: /2018/04/08/does-amateurish-writing-exist/

@@ -2,7 +2,7 @@
 id: 978
 title: Against Degrowth
 date: 2019-04-20T08:30:14-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=978
 permalink: /2019/04/20/against-degrowth/

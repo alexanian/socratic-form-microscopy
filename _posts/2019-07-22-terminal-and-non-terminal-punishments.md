@@ -2,7 +2,7 @@
 id: 1006
 title: Terminal and Non-terminal Punishments
 date: 2019-07-22T08:30:12-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=1006
 permalink: /2019/07/22/terminal-and-non-terminal-punishments/

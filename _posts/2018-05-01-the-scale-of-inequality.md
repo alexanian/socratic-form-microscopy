@@ -2,7 +2,7 @@
 id: 746
 title: The Scale of Inequality
 date: 2018-05-01T01:17:17-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=746
 permalink: /2018/05/01/the-scale-of-inequality/
@@ -17,6 +17,7 @@ tags:
   - overview
   - zach does analysis
 ---
+
 When dealing with questions of inequality, I often get boggled by the sheer size of the numbers. People aren't very good at intuitively parsing the difference between a million and a billion. Our brains round both to "very large". I'm actually in a position where I get reminded of this fairly often, as the difference can become stark when programming. Running a program on a million points of data takes scant seconds. Running the same set of operations on a billion data points can take more than an hour. A million seconds is eleven and a half days. A billion seconds 31 years.
 
 Here I would like to try to give a sense of the relative scale of various concepts in inequality. Just how much wealth do the wealthiest people in the world possess compared to the rest? How much of the world's middle class is concentrated in just a few wealthy nations? How long might it take developing nations to catch up with developed nations? How long before there exists enough wealth in the world that everyone could be rich if we just distributed it more fairly?

@@ -2,7 +2,7 @@
 id: 398
 title: "Some thoughts on Canadian &#8220;family values&#8221; conservatives"
 date: 2017-05-29T20:02:12-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=398
 permalink: /2017/05/29/some-thoughts-on-canadian-family-values-conservatives/

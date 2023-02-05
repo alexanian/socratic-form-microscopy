@@ -2,7 +2,7 @@
 id: 76
 title: Public Safety Green Paper Comments (Part 2)
 date: 2016-12-04T10:33:39-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=76
 permalink: /2016/12/04/public-safety-green-paper-comments-part-2/

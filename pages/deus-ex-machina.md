@@ -1,6 +1,6 @@
 ---
 title: "Deus Ex Machina"
-author: Zach
+author: Zach Jacobi
 layout: post
 permalink: /deus-ex-machina/
 inline_featured_image:

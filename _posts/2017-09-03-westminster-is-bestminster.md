@@ -2,7 +2,7 @@
 id: 490
 title: Westminster is bestminster
 date: 2017-09-03T12:05:26-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=490
 permalink: /2017/09/03/westminster-is-bestminster/

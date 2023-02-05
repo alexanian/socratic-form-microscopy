@@ -2,7 +2,7 @@
 id: 8
 title: "Liberal Democracy: Not Dead Yet"
 date: 2016-08-15T23:23:03-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=8
 permalink: /2016/08/15/liberal-democracy-not-dead-yet/

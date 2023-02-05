@@ -2,7 +2,7 @@
 id: 541
 title: "The Graph Model of Conflict Resolution &#8211; Introduction"
 date: 2017-11-05T10:32:42-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=541
 permalink: /2017/11/05/gmcr-for-dummies/
@@ -45,6 +45,7 @@ The easiest way to understand this is to see it done.
 Let's look at the current nuclear stand-off on the Korean peninsula. I wrote this on Sunday, October 29<sup>th</sup>, 2017, so that's the point in time we'll use. To keep things from getting truly out of hand in our first example, let's just focus on the US and North Korea (I'll add in South Korea and China in a later post). What options does each side have?
 
 <strong>US</strong>:
+
 <ul>
  	<li>Nuclear strike on North Korea</li>
  	<li>Withdraw troops and normalize relations</li>
@@ -52,6 +53,7 @@ Let's look at the current nuclear stand-off on the Korean peninsula. I wrote thi
 </ul>
 
 <strong>North Korea</strong>:
+
 <ul>
  	<li>Invasion of South Korea</li>
  	<li>Abandon nuclear program and submit to inspections</li>
@@ -79,27 +81,27 @@ Here's the revised state-space, with the twelve remaining states:
 
 The next step is to figure out how each decision maker prioritizes the states. I've found it's helpful at this point to tag each state with a short plain language explanation.
 
-| State | Explantation |
-|-------|--------------|
-| 0     | Status quo   |
-| 1     | Nuclear strike by the US, NK keeps nuclear weapons   |
-| 2     | Unilateral US troop withdrawal   |
-| 4     | North Korean invasion with only conventional US responses   |
-| 5     | North Korean invasion with US nuclear strike   |
-| 6     | US withdrawal and North Korean Invasion   |
-| 8     | Unilateral North Korean abandonment of nuclear weapons   |
-| 9     | US strike and North Korean abandonment of nuclear weapons   |
-| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons   |
-| 12    | NK invasion after abandoning nuclear weapons; conventional US response   |
-| 13    | NK invasion after abandoning nuclear weapons; US nuclear strike   |
-| 14    | US withdrawal paired with NK nuclear weapons abandonment and invasion   |
+| State | Explantation                                                           |
+| ----- | ---------------------------------------------------------------------- |
+| 0     | Status quo                                                             |
+| 1     | Nuclear strike by the US, NK keeps nuclear weapons                     |
+| 2     | Unilateral US troop withdrawal                                         |
+| 4     | North Korean invasion with only conventional US responses              |
+| 5     | North Korean invasion with US nuclear strike                           |
+| 6     | US withdrawal and North Korean Invasion                                |
+| 8     | Unilateral North Korean abandonment of nuclear weapons                 |
+| 9     | US strike and North Korean abandonment of nuclear weapons              |
+| 10    | Coordinated US withdrawal and NK abandonment of nuclear weapons        |
+| 12    | NK invasion after abandoning nuclear weapons; conventional US response |
+| 13    | NK invasion after abandoning nuclear weapons; US nuclear strike        |
+| 14    | US withdrawal paired with NK nuclear weapons abandonment and invasion  |
 
 While describing these, I've tried to avoid talking about causality. I didn't describe s. 5 as "North Korean invasion in response to US nuclear strike" or "US nuclear strike in response to North Korean invasion". Both of these are valid and would depend on which states preceded s. 5.
 
 Looking at all of these states, here's how I think both decision makers would order them (in order of most preferred to least preferred):
 
-* <strong>US:</strong> 8, 0, 9, 10, 12, 5, 4, 13, 14, 1, 2, 6
-* <strong>NK:</strong> 6, 14, 2, 10, 0, 4, 12, 5, 1, 13, 8, 9
+- <strong>US:</strong> 8, 0, 9, 10, 12, 5, 4, 13, 14, 1, 2, 6
+- <strong>NK:</strong> 6, 14, 2, 10, 0, 4, 12, 5, 1, 13, 8, 9
 
 The US prefers North Korea give up its nuclear program and wants to keep protecting South Korea. Its secondary objective is to seem like a reasonable actor on the world stage – which means that it has some preference against using pre-emptive strikes or nuclear weapons on non-nuclear states.
 
@@ -160,7 +162,6 @@ Because we're currently in a stable state, it seems unlikely that we'll shift to
 In future posts, I plan to show how these can all be taken into account, using the GMCR framework for Third Party Intervention and Coalitional Analysis, Strength of Preferences, and Hypergame Analysis.
 
 Even without those additions, the GMCR is a powerful tool. I encourage you to try it out for other conflicts and see what the results are. I certainly found that the best way to really understand it was to run it a few times.
-
 
 <p class="caption">Note: I know it's hard to play around with the charts when they're embedded as images. You can see copyable versions of them <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjttRSZb7OBVQkBfnbIteauFNSJpppVXrJbkEwSJmoKXkrE7SuNKEVvBD17KLTwFgTbz6R44YYoWFF/pubhtml#">here</a>.</p>
 

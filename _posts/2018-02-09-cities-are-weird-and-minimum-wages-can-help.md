@@ -2,7 +2,7 @@
 id: 698
 title: Cities Are Weird And Minimum Wages Can Help
 date: 2018-02-09T19:23:40-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=698
 permalink: /2018/02/09/cities-are-weird-and-minimum-wages-can-help/

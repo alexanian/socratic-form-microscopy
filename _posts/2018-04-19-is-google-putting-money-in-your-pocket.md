@@ -2,7 +2,7 @@
 id: 741
 title: Is Google Putting Money In Your Pocket?
 date: 2018-04-19T00:32:33-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=741
 permalink: /2018/04/19/is-google-putting-money-in-your-pocket/

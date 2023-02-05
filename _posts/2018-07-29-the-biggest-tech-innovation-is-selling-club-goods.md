@@ -2,7 +2,7 @@
 id: 821
 title: The Biggest Tech Innovation is Selling Club Goods
 date: 2018-07-29T09:00:56-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=821
 permalink: /2018/07/29/the-biggest-tech-innovation-is-selling-club-goods/
@@ -16,7 +16,9 @@ tags:
   - someone else probably came up with this first
   - tech
 ---
+
 Economists normally splits goods <a href="https://en.wikipedia.org/wiki/Club_good#Definition_matrix">into four categories</a>:
+
 <ul>
  	<li>Public goods are non-excludable (so anyone can access them) and non-rival (I can use them as much as I want without limiting the amount you can use them). Broadcast television, national defense, and air are all public goods.</li>
  	<li>Common-pool resources are non-excludable but rival (if I use them, you will have to make do with less). Iron ore, fish stocks, and <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons">grazing land</a> are all common pool resources.</li>
@@ -30,6 +32,7 @@ Club goods offer cost savings over private goods, because you don't have to buy 
 I currently divide tech start-ups into three classes. There are the Googles of the world, who use network effects or big data to sell advertising more effectively. There are companies <a href="http://alertlabs.ca/">like the one I work for</a> that take advantage of modern technology to do things that were never possible before. And then there are those that are slowly and inexorably turning private goods into club goods.
 
 I think this last group of companies (which include Netflix, Spotify, Uber, Lyft, and Airbnb) may be the ones that ultimately have the biggest impact on how we order our lives and what we buy. To better understand how these companies are driving this transformation, let's go through them one by one, then talk about what it could all mean.
+
 <h1>Netflix</h1>
 When I was a child, my parents bought a video cassette player, then a DVD player, then a Blu-ray player. We owned a hundred or so video cassettes, mostly whatever movies my brother and I were obsessed with enough to want to own. Later, we found a video rental store we liked and mostly started renting movies. We never owned more than 30 DVDs and 20 Blu-rays.
 
@@ -42,10 +45,12 @@ Netflix represents the next evolution in this business model. As long as the Net
 Movie studios might not feel the effects of Netflix turning a large chunk of the market for movies into one focused on club goods; they'll still get paid by Netflix. But the switch to Netflix must have been incredibly damaging for the physical media and player manufacturers. When everyone went from cassettes to DVDs or DVDs to Blu-rays, there was still a market for their wares. Now, that market is <a href="http://fortune.com/2016/01/08/blu-ray-struggles-in-the-streaming-age/">slowly and inexorably disappearing</a>.
 
 This isn't just a consequence of technology. The club good business model offers such amazing cost savings that it drove a change in which technology was dominant. When you bought a movie, it would spend almost all of its life sitting on a shelf. Now Netflix acts as your agent, buying movies (or rather, their rights) and distributing such that they're always being played and almost never sitting on the shelf.
+
 <h1>Spotify</h1>
 Spotify is very similar to Netflix. Previously, people bought physical cassettes (I'm just old enough that I remember making mix tapes from the radio). Then they switched to CDs. Then it was MP3s bought online (or, almost more likely, pirated online). But even pirating music is <a href="https://www.plagiarismtoday.com/2017/06/01/the-long-slow-decline-of-bittorrent/">falling out of favour these days</a>. Apple, Google, Amazon, and Spotify are all competing to offer unlimited music streaming to customers.
 
 Music differs from movies in that it has a long tradition of being a public good – via broadcast radio. While that hasn't changed yet (<a href="https://qz.com/1094963/radio-survived-the-tape-cd-and-ipod-in-the-age-of-spotify-its-more-popular-than-ever/">radio is still going strong</a>), I do wonder how much longer the public option for music will exist, especially given the trend away from private cars that I think companies like Uber and Lyft are going to (pardon the pun) drive.
+
 <h1>Uber and Lyft</h1>
 I recently thought about buying a car. I was looking at the all-electric Kia Soul, which has a huge government rebate (<a href="https://globalnews.ca/news/4330322/ontario-pc-government-end-electric-vehicle-rebate-program/">for a little while yet</a>) and financing terms that equate to negative real interest. Despite all these advantages, it turns out that when you sit down and run the numbers, <a href="http://www.rideordrive.org/calculator">it would still be cheaper for me to use Uber and Lyft to get everywhere</a>.
 
@@ -62,6 +67,7 @@ There is a floor on how few cars we can get by on. To avoid congestion in a club
 Even "just" substantially decreasing the absolute number of cars out there will be incredibly disruptive to the automotive sector if they don't correctly predict the changing demand for their products.
 
 It's also true that increasing the average utilisation of cars could change how our cities look. Parking lots are necessary when cars are a private good, but are much less useful when they become club goods. It is my hope that malls built in the middle of giant parking moats look mighty silly in twenty years.
+
 <h1>Airbnb</h1>
 Airbnb is the most ambiguous example I have here. As originally conceived, it would have driven the exact same club good transformation as the other services listed. People who were on vacation or otherwise out of town would rent out their houses to strangers, increasing the utilisation of housing and reducing the need for dedicated hotels to be built.
 
@@ -70,6 +76,7 @@ Airbnb is sometimes used in this fashion. It's also used to rent out extra rooms
 But some amount of Airbnb usage is clearly taking place in houses or condos that otherwise would have been rental stock. When used in this way, it's taking advantage of a regulatory grey zone to undercut hotel pricing. Insofar as this might result in a longer-term change towards regulations that are generally cheaper to comply with, this will be good for consumers, but it won't really be transformational.
 
 The great promise of club goods is that they might lead us to use less physical stuff overall, because where previously each person would buy one of a thing, now only enough units must be purchased to satisfy peak demand. If Airbnb is just shifting around where people are temporary residents, then it won't be an example of the broader benefits of club goods (even if provides other benefits to its customers).
+
 <h1>When Club Goods Eat The Economy</h1>
 In every case (except potentially Airbnb) above, I've outlined how the switch from private goods to club goods is resulting in less consumption. For music and movies, it is unclear if this switch is what is providing the primary benefit. My intuition is that the club good model actually did change consumption patterns for physical copies of movies (because my impression is that few people ever did online video rentals via e.g. iTunes), whereas the MP3 revolution was what really shrunk the footprint of music media.
 

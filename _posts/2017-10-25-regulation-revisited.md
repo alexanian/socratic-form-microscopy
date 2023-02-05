@@ -2,7 +2,7 @@
 id: 531
 title: Regulation Revisited
 date: 2017-10-25T19:47:49-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=531
 permalink: /2017/10/25/regulation-revisited/

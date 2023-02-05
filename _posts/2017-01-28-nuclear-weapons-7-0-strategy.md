@@ -2,7 +2,7 @@
 id: 194
 title: "Nuclear Weapons: 7.0 Strategy"
 date: 2017-01-28T15:20:18-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=194
 permalink: /2017/01/28/nuclear-weapons-7-0-strategy/

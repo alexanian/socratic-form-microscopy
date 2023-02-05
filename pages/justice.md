@@ -1,6 +1,6 @@
 ---
 title: "On Justice"
-author: Zach
+author: Zach Jacobi
 layout: post
 permalink: /justice/
 inline_featured_image:

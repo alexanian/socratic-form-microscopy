@@ -2,7 +2,7 @@
 id: 617
 title: Warriors and Soldiers
 date: 2017-11-26T11:45:11-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=617
 permalink: /2017/11/26/warriors-and-soldiers/

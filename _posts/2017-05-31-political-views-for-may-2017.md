@@ -2,7 +2,7 @@
 id: 402
 title: Political Views for May 2017
 date: 2017-05-31T00:20:13-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=402
 permalink: /2017/05/31/political-views-for-may-2017/

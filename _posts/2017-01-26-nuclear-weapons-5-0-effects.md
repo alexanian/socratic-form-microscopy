@@ -2,7 +2,7 @@
 id: 159
 title: "Nuclear Weapons: 5.0 Effects"
 date: 2017-01-26T19:08:57-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=159
 permalink: /2017/01/26/nuclear-weapons-5-0-effects/

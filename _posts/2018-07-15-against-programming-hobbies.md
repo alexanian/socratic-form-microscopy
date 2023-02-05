@@ -2,7 +2,7 @@
 id: 811
 title: Against Programming Hobbies
 date: 2018-07-15T09:00:50-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=811
 permalink: /2018/07/15/against-programming-hobbies/

@@ -2,7 +2,7 @@
 id: 632
 title: "Book Review: The Managed Heart"
 date: 2017-12-10T10:14:04-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=632
 permalink: /2017/12/10/book-review-the-managed-heart/

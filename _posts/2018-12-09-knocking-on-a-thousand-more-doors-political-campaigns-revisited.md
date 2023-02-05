@@ -2,7 +2,7 @@
 id: 896
 title: Knocking on a thousand more doors – political campaigns revisited
 date: 2018-12-09T08:30:02-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=896
 permalink: /2018/12/09/knocking-on-a-thousand-more-doors-political-campaigns-revisited/

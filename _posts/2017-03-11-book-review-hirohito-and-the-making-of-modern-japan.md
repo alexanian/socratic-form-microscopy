@@ -2,7 +2,7 @@
 id: 299
 title: "Book Review: Hirohito and the Making of Modern Japan"
 date: 2017-03-11T20:45:32-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=299
 permalink: /2017/03/11/book-review-hirohito-and-the-making-of-modern-japan/

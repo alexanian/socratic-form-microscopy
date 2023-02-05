@@ -2,7 +2,7 @@
 id: 504
 title: North Korean Nuclear Weapons Program FAQ
 date: 2017-10-16T17:24:13-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=504
 permalink: /2017/10/16/north-korean-nuclear-weapons-program-faq/

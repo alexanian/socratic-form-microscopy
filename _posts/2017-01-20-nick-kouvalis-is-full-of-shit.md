@@ -2,7 +2,7 @@
 id: 107
 title: Nick Kouvalis is Full of Shit
 date: 2017-01-20T22:52:27-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=107
 permalink: /2017/01/20/nick-kouvalis-is-full-of-shit/

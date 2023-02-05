@@ -2,7 +2,7 @@
 id: 356
 title: On Low-Income Voters and Self-Interest
 date: 2017-04-05T23:51:19-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=356
 permalink: /2017/04/05/on-low-income-voters-and-self-interest/

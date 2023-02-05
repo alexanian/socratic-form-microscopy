@@ -2,7 +2,7 @@
 id: 237
 title: A Dialogue on Lateral Thinking
 date: 2017-02-02T20:44:02-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=237
 permalink: /2017/02/02/a-dialogue-on-lateral-thinking/

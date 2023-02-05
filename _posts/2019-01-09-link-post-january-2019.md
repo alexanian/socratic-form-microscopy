@@ -1,8 +1,8 @@
 ---
 id: 910
-title: 'Link Post &#8211; January 2019'
+title: "Link Post &#8211; January 2019"
 date: 2019-01-09T08:30:12-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=910
 permalink: /2019/01/09/link-post-january-2019/
@@ -11,6 +11,7 @@ inline_featured_image:
 categories:
   - Link Post
 ---
+
 Power generation and distribution is used in economics textbooks as the classic example of a natural monopoly. <a href="https://www.wired.com/story/beruit-electricity-brokers/">Lebanon proves this doesn't have to be the case</a>, with a mostly functional (and mostly illegal) parallel power distribution system that many people rely on to supplement the official system. I don't think this should be used more generally – having a bunch of small generators is definitely more polluting – but it's interesting to see that markets can work even in cases where people normally expect them to fail.
 
 On the advice of a high school teacher, I once read most of the epic fantasy series "The Malazan Book of the Fallen". One thing it made clear to me was just how dangerous and difficult it is to be an absolute ruler. Anyone who controls the information flow to you can essentially control you. By this token, it should be worrying that <a href="foreignpolicy">Xi Jinping is centralizing China around himself</a> – leaving the government vulnerable to serious missteps if he's given inaccurate information.

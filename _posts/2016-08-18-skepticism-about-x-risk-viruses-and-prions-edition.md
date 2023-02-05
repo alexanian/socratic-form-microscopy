@@ -2,7 +2,7 @@
 id: 18
 title: "Skepticism About X-Risk: Viruses and Prions Edition"
 date: 2016-08-18T03:37:12-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=18
 permalink: /2016/08/18/skepticism-about-x-risk-viruses-and-prions-edition/

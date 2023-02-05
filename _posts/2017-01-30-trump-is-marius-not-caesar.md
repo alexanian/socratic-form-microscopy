@@ -2,7 +2,7 @@
 id: 207
 title: Trump is Marius, not Caesar
 date: 2017-01-30T20:50:07-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=207
 permalink: /2017/01/30/trump-is-marius-not-caesar/

@@ -2,7 +2,7 @@
 id: 866
 title: "Scrip Stamp Currencies Aren’t A Miracle"
 date: 2018-10-30T08:30:29-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=866
 permalink: /2018/10/30/scrip-stamp-currencies-arent-a-miracle/

@@ -2,7 +2,7 @@
 id: 453
 title: Minimum Standards or Broad Access?
 date: 2017-07-19T16:39:11-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=453
 permalink: /2017/07/19/minimum-standards-or-broad-access/

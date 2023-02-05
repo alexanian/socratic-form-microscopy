@@ -2,7 +2,7 @@
 id: 187
 title: "Nuclear Weapons: 6.0 Delivery Mechanisms"
 date: 2017-01-27T17:57:14-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=187
 permalink: /2017/01/27/nuclear-weapons-6-0-delivery-mechanisms/

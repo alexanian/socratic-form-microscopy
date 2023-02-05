@@ -2,7 +2,7 @@
 id: 280
 title: "Don’t confuse constitutional rights with social norms"
 date: 2017-02-13T20:48:04-05:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: http://socratic-form-microscopy.com/?p=280
 permalink: /2017/02/13/dont-confuse-rights-and-norms/

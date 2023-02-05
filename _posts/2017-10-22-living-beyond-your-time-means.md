@@ -2,7 +2,7 @@
 id: 523
 title: Living Beyond Your Time Means
 date: 2017-10-22T10:04:33-04:00
-author: Zach
+author: Zach Jacobi
 layout: post
 guid: https://socratic-form-microscopy.com/?p=523
 permalink: /2017/10/22/living-beyond-your-time-means/
