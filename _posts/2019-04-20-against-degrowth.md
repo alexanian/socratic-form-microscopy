@@ -16,7 +16,8 @@ tags:
   - environmentalism
   - global warming
 ---
-Degrowth is the political platform that holds our current economic growth as unsustainable and advocates for a radical reduction in our resource consumption. Critically, it rejects that this reduction can occur at the same time as our GDP continues to grow. Degrowth, <a href="https://www.degrowth.info/en/what-is-degrowth/">per its backers</a>, requires an actual contraction of the economy.
+
+Degrowth is the political platform that holds our current economic growth as unsustainable and advocates for a radical reduction in our resource consumption. Critically, it rejects that this reduction can occur at the same time as our GDP continues to grow. Degrowth, <a href="https://degrowth.info/degrowth/">per its backers</a>, requires an actual contraction of the economy.
 
 The Canadian New Democratic Party came perilously close to being taken over by advocates of degrowth during its last leadership race, which goes to show just how much leftist support the movement has gained since its debut in 2008.
 

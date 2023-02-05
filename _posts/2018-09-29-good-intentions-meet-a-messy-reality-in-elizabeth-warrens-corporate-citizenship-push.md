@@ -25,7 +25,7 @@ Vox has <a href="https://www.vox.com/2018/8/15/17683022/elizabeth-warren-account
 
 This charter would make three far-reaching changes to how large companies do business. First, it would require businesses to consider customers, employees, and the community – instead of only its shareholders – when making decisions. Second, it would require that 40% of the seats on the board go to workers. Third, it would require 75% of shareholders and board members to authorize any corporate political activity.
 
-(There's also some minor corporate governance stuff around limiting the ability of CEOs to sell their stock which I think <a href="http://alexedmans.com/long-term-executive-incentives-improve-innovation-and-corporate-responsibility/">is an idea that everyone should be strongly behind</a>, although I'd bet many CEOs might beg to differ.)
+(There's also some minor corporate governance stuff around limiting the ability of CEOs to sell their stock which I think <a href="https://alexedmans.com/blog/executive-pay/long-term-executive-incentives-improve-innovation-and-corporate-responsibility/">is an idea that everyone should be strongly behind</a>, although I'd bet many CEOs might beg to differ.)
 
 Vox characterizes this as Warren's plan to "save capitalism". The idea is that it would force companies to do more to look out for their workers and less to cater to short term profit maximization for Wall Street[^1]. Vox suggests that it would also result in a loss of about 25% of the value of the American stock market, which they characterize as no problem for the "vast majority" of people who rely on work, rather than the stock market, for income (more on that later).
 
