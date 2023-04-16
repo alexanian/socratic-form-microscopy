@@ -1,3 +1,0 @@
-# Local override site settings
-# These are intended to help with running the sit locally
-baseurl: "" # the subpath of your site, e.g. /blog
